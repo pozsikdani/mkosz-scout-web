@@ -16,6 +16,7 @@
 
 	type PhaseFilter = 'all' | 'alapszakasz' | 'rajatszas';
 	let phaseFilter = $state<PhaseFilter>('all');
+	let expanded = $state(false);
 
 	const playedMatches = $derived(
 		allMatches.filter((m) => m.result !== null).sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''))
@@ -29,7 +30,7 @@
 				: playedMatches.filter((m) => m.phase !== 'alapszakasz')
 	);
 
-	const shownMatches = $derived(filteredMatches.slice(0, 10));
+	const shownMatches = $derived(expanded ? filteredMatches : filteredMatches.slice(0, 10));
 
 	const phaseCounts = $derived({
 		all: playedMatches.length,
@@ -248,10 +249,20 @@
 				{/each}
 			</ul>
 
-			{#if filteredMatches.length > shownMatches.length}
-				<p class="mt-3 text-center text-xs text-muted">
-					{shownMatches.length} / {filteredMatches.length} meccs (legfrissebb)
-				</p>
+			{#if filteredMatches.length > 10}
+				<div class="mt-3 text-center">
+					<button
+						type="button"
+						onclick={() => (expanded = !expanded)}
+						class="inline-flex items-center gap-2 rounded border border-border bg-card px-4 py-1.5 text-xs font-semibold text-muted transition hover:bg-card-hover hover:text-fg"
+					>
+						{#if expanded}
+							Kevesebb mutatása <span aria-hidden="true">▲</span>
+						{:else}
+							Összes megjelenítése ({filteredMatches.length}) <span aria-hidden="true">▼</span>
+						{/if}
+					</button>
+				</div>
 			{/if}
 		</section>
 	{/if}
