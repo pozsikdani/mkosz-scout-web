@@ -1,9 +1,11 @@
 <script lang="ts">
+	import type { MatchPhase, MatchRow } from '$lib/types';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 	const team = $derived(data.team);
 	const standings = $derived(data.standings);
+	const allMatches = $derived(data.matches?.matches ?? []);
 
 	const gp = $derived(team.gp || 0);
 	const diff = $derived(team.scored - team.allowed);
@@ -11,11 +13,53 @@
 	const oppg = $derived(gp > 0 ? team.allowed / gp : 0);
 	const margin = $derived(ppg - oppg);
 
+	type PhaseFilter = 'all' | 'alapszakasz' | 'rajatszas';
+	let phaseFilter = $state<PhaseFilter>('all');
+
+	const playedMatches = $derived(
+		allMatches.filter((m) => m.result !== null).sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''))
+	);
+
+	const filteredMatches = $derived(
+		phaseFilter === 'all'
+			? playedMatches
+			: phaseFilter === 'alapszakasz'
+				? playedMatches.filter((m) => m.phase === 'alapszakasz')
+				: playedMatches.filter((m) => m.phase !== 'alapszakasz')
+	);
+
+	const shownMatches = $derived(filteredMatches.slice(0, 10));
+
+	const phaseCounts = $derived({
+		all: playedMatches.length,
+		alapszakasz: playedMatches.filter((m) => m.phase === 'alapszakasz').length,
+		rajatszas: playedMatches.filter((m) => m.phase !== 'alapszakasz').length
+	});
+
 	function fmt(n: number, digits = 1): string {
 		return n.toLocaleString('hu-HU', {
 			minimumFractionDigits: digits,
 			maximumFractionDigits: digits
 		});
+	}
+
+	function fmtDate(iso: string | null): string {
+		if (!iso) return '—';
+		const [y, m, d] = iso.split('-');
+		if (!y || !m || !d) return iso;
+		return `${y}.${m}.${d}`;
+	}
+
+	function phaseLabel(phase: MatchRow['phase']): string {
+		if (phase === 'alapszakasz') return 'Alapszakasz';
+		if (phase === 'rajatszas_felso') return 'Felső házi';
+		if (phase === 'rajatszas_also') return 'Alsó házi';
+		return phase;
+	}
+
+	function phaseChipClass(phase: MatchRow['phase']): string {
+		if (phase === 'alapszakasz') return 'bg-border text-muted';
+		return 'bg-accent/20 text-accent';
 	}
 </script>
 
@@ -124,10 +168,98 @@
 		</div>
 	</section>
 
+	{#if playedMatches.length > 0}
+		<section class="mt-10">
+			<div class="mb-4 flex flex-wrap items-center justify-between gap-3">
+				<h2 class="text-xl font-bold tracking-tight">Utolsó meccsek</h2>
+				<div class="flex gap-1 rounded-lg border border-border bg-card p-1 text-xs font-semibold">
+					<button
+						type="button"
+						onclick={() => (phaseFilter = 'all')}
+						class="rounded px-3 py-1.5 transition"
+						class:bg-accent={phaseFilter === 'all'}
+						class:text-fg={phaseFilter === 'all'}
+						class:text-muted={phaseFilter !== 'all'}
+					>
+						Összes <span class="ml-1 opacity-60">{phaseCounts.all}</span>
+					</button>
+					<button
+						type="button"
+						onclick={() => (phaseFilter = 'alapszakasz')}
+						class="rounded px-3 py-1.5 transition"
+						class:bg-accent={phaseFilter === 'alapszakasz'}
+						class:text-fg={phaseFilter === 'alapszakasz'}
+						class:text-muted={phaseFilter !== 'alapszakasz'}
+					>
+						Alapszakasz <span class="ml-1 opacity-60">{phaseCounts.alapszakasz}</span>
+					</button>
+					<button
+						type="button"
+						onclick={() => (phaseFilter = 'rajatszas')}
+						class="rounded px-3 py-1.5 transition"
+						class:bg-accent={phaseFilter === 'rajatszas'}
+						class:text-fg={phaseFilter === 'rajatszas'}
+						class:text-muted={phaseFilter !== 'rajatszas'}
+						disabled={phaseCounts.rajatszas === 0}
+					>
+						Rájátszás <span class="ml-1 opacity-60">{phaseCounts.rajatszas}</span>
+					</button>
+				</div>
+			</div>
+
+			<ul class="divide-y divide-border overflow-hidden rounded-lg border border-border bg-card">
+				{#each shownMatches as match (match.gamecode)}
+					<li class="flex flex-wrap items-center gap-3 px-4 py-3 text-sm">
+						<span class="w-20 font-mono text-xs text-muted">{fmtDate(match.date)}</span>
+						<span
+							class="rounded px-2 py-0.5 text-xs font-semibold uppercase tracking-wider {phaseChipClass(match.phase)}"
+						>
+							{phaseLabel(match.phase)}
+						</span>
+						<span
+							class="w-6 text-center font-mono text-xs"
+							class:text-muted={match.home}
+							class:text-accent={!match.home}
+							title={match.home ? 'Hazai' : 'Idegen'}
+						>
+							{match.home ? 'H' : '@'}
+						</span>
+						<span class="flex-1 font-medium">{match.opponent}</span>
+						<span class="font-mono text-sm">
+							<span
+								class:text-positive={match.result === 'W'}
+								class:text-negative={match.result === 'L'}
+							>
+								{match.our_score}
+							</span>
+							<span class="text-muted">–</span>
+							<span class="text-muted">{match.their_score}</span>
+						</span>
+						<span
+							class="w-6 rounded px-1.5 py-0.5 text-center font-mono text-xs font-bold"
+							class:bg-positive={match.result === 'W'}
+							class:bg-negative={match.result === 'L'}
+							class:text-bg={match.result !== null}
+						>
+							{match.result ?? '—'}
+						</span>
+					</li>
+				{/each}
+			</ul>
+
+			{#if filteredMatches.length > shownMatches.length}
+				<p class="mt-3 text-center text-xs text-muted">
+					{shownMatches.length} / {filteredMatches.length} meccs (legfrissebb)
+				</p>
+			{/if}
+		</section>
+	{/if}
+
 	<p class="mt-8 text-xs text-muted">
-		Forrás:
+		Tabella forrása:
 		<a href={standings.source_url} class="underline hover:text-accent" target="_blank" rel="noopener">
 			mkosz.hu
-		</a>
+		</a>{#if playedMatches.length > 0}
+			· Meccsek forrása: mkosz-stats DB{/if}
 	</p>
 </main>

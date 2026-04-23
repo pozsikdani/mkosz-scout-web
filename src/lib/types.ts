@@ -21,3 +21,28 @@ export interface Standings {
 	source_url: string;
 	teams: TeamRow[];
 }
+
+export type MatchPhase = 'alapszakasz' | 'rajatszas_felso' | 'rajatszas_also';
+
+export interface MatchRow {
+	gamecode: string;
+	comp_code: string;
+	phase: MatchPhase | string;
+	round: string | null;
+	date: string | null;
+	time: string | null;
+	home: boolean;
+	opponent: string;
+	our_score: number | null;
+	their_score: number | null;
+	result: 'W' | 'L' | 'D' | null;
+	has_scoresheet: boolean;
+	has_pbp: boolean;
+}
+
+export interface TeamMatches {
+	team: string;
+	season: string;
+	count: number;
+	matches: MatchRow[];
+}
