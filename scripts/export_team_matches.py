@@ -38,10 +38,39 @@ TEAM_ALIASES: dict[str, list[str]] = {
 }
 
 
-def norm_key(name: str) -> str:
+def norm_full(name: str) -> str:
+    """Accent-stripped, lowercased, trimmed full name (no truncation)."""
     nfkd = unicodedata.normalize("NFKD", name)
     stripped = "".join(c for c in nfkd if not unicodedata.combining(c))
-    return stripped.lower().strip()[:12]
+    return stripped.lower().strip()
+
+
+def norm_key(name: str) -> str:
+    """Accent-stripped, lowercased, truncated to 12 chars (the canonical prefix)."""
+    return norm_full(name)[:12]
+
+
+def team_matches(canonical_name: str, db_name: str, aliases: list[str]) -> bool:
+    """Is `db_name` the same team as `canonical_name` (or one of its aliases)?
+
+    Bidirectional substring match handles:
+    - Case / accent differences (both sides NFKD-normalized)
+    - Truncated DB names (\"A… HÜBNER NYÍREGYHÁZA BS\" → contains \"hubner nyire\")
+    - DB names shorter than the canonical prefix (\"BKG PRIMA\" in \"bkg prima akademia\")
+    """
+    db_full = norm_full(db_name)
+    if len(db_full) < 5:
+        return False
+    for candidate in [canonical_name, *aliases]:
+        cand_full = norm_full(candidate)
+        cand_key = cand_full[:12]
+        # canonical 12-char prefix appears in DB full name → handles long variants
+        if cand_key in db_full:
+            return True
+        # DB full name (min 5 chars) is substring of canonical full → handles truncated DB names
+        if db_full in cand_full:
+            return True
+    return False
 
 
 def slugify(name: str) -> str:
@@ -60,10 +89,7 @@ def slugify(name: str) -> str:
 
 
 def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str) -> list[dict]:
-    keys = [norm_key(team_name)] + [norm_key(a) for a in TEAM_ALIASES.get(team_name, [])]
-
-    def match_team(team_key: str) -> bool:
-        return any(team_key.startswith(k) for k in keys)
+    aliases = TEAM_ALIASES.get(team_name, [])
 
     rows = conn.execute(
         """
@@ -84,12 +110,12 @@ def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str
          team_a, team_b, score_a, score_b, quarter_scores,
          has_ss, has_pbp, has_sc) = row
 
-        a_key = norm_key(team_a)
-        b_key = norm_key(team_b)
-        if not (match_team(a_key) or match_team(b_key)):
+        is_team_a = team_matches(team_name, team_a, aliases)
+        is_team_b = team_matches(team_name, team_b, aliases)
+        if not (is_team_a or is_team_b):
             continue
 
-        is_home = match_team(a_key)
+        is_home = is_team_a
         opp = team_b if is_home else team_a
         our_score = score_a if is_home else score_b
         their_score = score_b if is_home else score_a

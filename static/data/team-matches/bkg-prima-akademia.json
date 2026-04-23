@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2526",
-  "count": 28,
+  "count": 29,
   "matches": [
     {
       "gamecode": "hun2a_123451",
@@ -76,6 +76,21 @@
       "their_score": 77,
       "result": "L",
       "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_123523",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "6. forduló",
+      "date": "2025-11-02",
+      "time": "17:00",
+      "home": false,
+      "opponent": "Phoenix-MT FÓT",
+      "our_score": 69,
+      "their_score": 72,
+      "result": "L",
+      "has_scoresheet": false,
       "has_pbp": true
     },
     {
