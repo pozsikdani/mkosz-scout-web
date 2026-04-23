@@ -1,7 +1,7 @@
 import { error } from '@sveltejs/kit';
 import { base } from '$app/paths';
 import { teamToSlug } from '$lib/slug';
-import type { Standings, TeamMatches } from '$lib/types';
+import type { Standings, TeamMatches, TeamShots } from '$lib/types';
 import type { EntryGenerator, PageLoad } from './$types';
 
 async function loadStandings(fetchFn: typeof fetch): Promise<Standings> {
@@ -9,8 +9,8 @@ async function loadStandings(fetchFn: typeof fetch): Promise<Standings> {
 	return res.json();
 }
 
-async function loadMatches(fetchFn: typeof fetch, slug: string): Promise<TeamMatches | null> {
-	const res = await fetchFn(`${base}/data/team-matches/${slug}.json`);
+async function loadJson<T>(fetchFn: typeof fetch, path: string): Promise<T | null> {
+	const res = await fetchFn(path);
 	if (!res.ok) return null;
 	return res.json();
 }
@@ -21,8 +21,9 @@ export const load: PageLoad = async ({ params, fetch }) => {
 	if (!team) {
 		throw error(404, `Ismeretlen csapat: ${params.team}`);
 	}
-	const matches = await loadMatches(fetch, params.team);
-	return { team, standings, matches };
+	const matches = await loadJson<TeamMatches>(fetch, `${base}/data/team-matches/${params.team}.json`);
+	const shots = await loadJson<TeamShots>(fetch, `${base}/data/team-shots/${params.team}.json`);
+	return { team, standings, matches, shots };
 };
 
 export const entries: EntryGenerator = async () => {

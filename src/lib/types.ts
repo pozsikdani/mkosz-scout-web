@@ -46,3 +46,33 @@ export interface TeamMatches {
 	count: number;
 	matches: MatchRow[];
 }
+
+export interface Shot {
+	x: number;
+	y: number;
+	made: number;
+	period: number;
+	player: string | null;
+	zone: string | null;
+}
+
+export interface ShotMatch {
+	gamecode: string;
+	phase: string;
+	date: string | null;
+	opponent: string;
+	home: boolean;
+	our_score: number | null;
+	their_score: number | null;
+	result: 'W' | 'L' | 'D' | null;
+	shots: Shot[];
+}
+
+export interface TeamShots {
+	team: string;
+	team_id: number;
+	season: string;
+	total_shots: number;
+	total_made: number;
+	matches: ShotMatch[];
+}
