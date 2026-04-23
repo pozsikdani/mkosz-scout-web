@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { teamToSlug } from '$lib/slug';
 	import type { PageData } from './$types';
 
@@ -29,7 +30,7 @@
 			{@const diff = team.scored - team.allowed}
 			<li>
 				<a
-					href={`/hun2a/${slug}/`}
+					href={`${base}/hun2a/${slug}/`}
 					class="flex items-center gap-4 px-5 py-4 transition hover:bg-card-hover"
 				>
 					<span class="w-8 text-right font-mono text-lg font-bold text-muted">

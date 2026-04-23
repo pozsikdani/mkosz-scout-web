@@ -1,15 +1,16 @@
 import { error } from '@sveltejs/kit';
+import { base } from '$app/paths';
 import { teamToSlug } from '$lib/slug';
 import type { Standings, TeamMatches } from '$lib/types';
 import type { EntryGenerator, PageLoad } from './$types';
 
 async function loadStandings(fetchFn: typeof fetch): Promise<Standings> {
-	const res = await fetchFn('/data/standings/hun2a.json');
+	const res = await fetchFn(`${base}/data/standings/hun2a.json`);
 	return res.json();
 }
 
 async function loadMatches(fetchFn: typeof fetch, slug: string): Promise<TeamMatches | null> {
-	const res = await fetchFn(`/data/team-matches/${slug}.json`);
+	const res = await fetchFn(`${base}/data/team-matches/${slug}.json`);
 	if (!res.ok) return null;
 	return res.json();
 }

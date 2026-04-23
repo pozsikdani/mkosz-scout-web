@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import type { MatchPhase, MatchRow } from '$lib/types';
 	import type { PageData } from './$types';
 
@@ -70,7 +71,7 @@
 <main class="mx-auto max-w-5xl px-6 py-10">
 	<nav class="mb-8">
 		<a
-			href="/"
+			href={`${base}/`}
 			class="inline-flex items-center gap-2 text-sm text-muted transition hover:text-accent"
 		>
 			<span>←</span> Vissza a tabellához
