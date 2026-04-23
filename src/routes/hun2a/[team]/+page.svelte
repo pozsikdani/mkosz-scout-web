@@ -45,23 +45,59 @@
 		rajatszas: playedMatches.filter((m) => m.phase !== 'alapszakasz').length
 	});
 
-	// Shotchart state
-	let selectedGamecode = $state<string>('all');
+	// Shotchart state — multi-select set of gamecodes
 	const shotMatches = $derived(
 		(shotData?.matches ?? []).slice().sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''))
 	);
 	const hasShots = $derived(shotMatches.length > 0);
-	const selectedShots = $derived.by(() => {
-		if (!shotData) return [];
-		if (selectedGamecode === 'all') {
-			return shotMatches.flatMap((m) => m.shots);
+	const allGamecodes = $derived(shotMatches.map((m) => m.gamecode));
+
+	let selectedSet = $state<Set<string>>(new Set());
+	let selectorOpen = $state(false);
+	let initialized = $state(false);
+
+	// Initialize selection to "all" once on first data load (doesn't re-fire if user clears all)
+	$effect(() => {
+		if (hasShots && !initialized) {
+			selectedSet = new Set(allGamecodes);
+			initialized = true;
 		}
-		const match = shotMatches.find((m) => m.gamecode === selectedGamecode);
-		return match?.shots ?? [];
 	});
-	const selectedMatchMeta = $derived(
-		selectedGamecode === 'all' ? null : shotMatches.find((m) => m.gamecode === selectedGamecode)
-	);
+
+	const selectedMatches = $derived(shotMatches.filter((m) => selectedSet.has(m.gamecode)));
+	const selectedShots = $derived(selectedMatches.flatMap((m) => m.shots));
+	const selectedCount = $derived(selectedSet.size);
+	const isAllSelected = $derived(selectedCount === shotMatches.length);
+	const selectedMatchMeta = $derived(selectedCount === 1 ? selectedMatches[0] : null);
+
+	function toggleMatch(gamecode: string) {
+		const next = new Set(selectedSet);
+		if (next.has(gamecode)) next.delete(gamecode);
+		else next.add(gamecode);
+		selectedSet = next;
+	}
+
+	function selectAll() {
+		selectedSet = new Set(allGamecodes);
+	}
+
+	function selectNone() {
+		selectedSet = new Set();
+	}
+
+	function selectOnlyAlapszakasz() {
+		selectedSet = new Set(
+			shotMatches.filter((m) => m.phase === 'alapszakasz').map((m) => m.gamecode)
+		);
+	}
+
+	function selectOnlyRajatszas() {
+		selectedSet = new Set(
+			shotMatches.filter((m) => m.phase !== 'alapszakasz').map((m) => m.gamecode)
+		);
+	}
+
+	const hasPlayoffShots = $derived(shotMatches.some((m) => m.phase !== 'alapszakasz'));
 
 	function fmt(n: number, digits = 1): string {
 		return n.toLocaleString('hu-HU', {
@@ -89,12 +125,6 @@
 		return 'bg-accent/20 text-accent';
 	}
 
-	function matchSelectLabel(m: (typeof shotMatches)[number]): string {
-		const prefix = m.home ? 'vs' : '@';
-		const date = fmtDate(m.date);
-		const result = m.result ? ` (${m.result} ${m.our_score}-${m.their_score})` : '';
-		return `${date} · ${prefix} ${m.opponent}${result}`;
-	}
 </script>
 
 <svelte:head>
@@ -351,25 +381,114 @@
 					<div>
 						<h2 class="text-xl font-bold tracking-tight">Shotchart</h2>
 						<p class="text-xs text-muted mt-1">
-							{shotMatches.length} meccs · {shotData?.total_shots} lövés · FG%
+							{shotMatches.length} meccs összesen · {shotData?.total_shots} lövés · FG%
 							{(
 								(100 * (shotData?.total_made ?? 0)) / Math.max(1, shotData?.total_shots ?? 1)
 							).toFixed(1)}
 						</p>
 					</div>
-					<label class="flex flex-col gap-1 text-xs text-muted">
-						<span class="font-semibold tracking-wider uppercase">Meccs</span>
-						<select
-							bind:value={selectedGamecode}
-							class="rounded border border-border bg-card px-3 py-2 text-sm text-fg focus:outline-none focus:ring-1 focus:ring-accent"
-						>
-							<option value="all">Összes meccs együtt</option>
-							{#each shotMatches as m (m.gamecode)}
-								<option value={m.gamecode}>{matchSelectLabel(m)}</option>
-							{/each}
-						</select>
-					</label>
+					<button
+						type="button"
+						onclick={() => (selectorOpen = !selectorOpen)}
+						class="inline-flex items-center gap-2 rounded border border-border bg-card px-3 py-2 text-sm font-semibold transition hover:bg-card-hover"
+					>
+						<span>
+							{selectedCount}
+							<span class="text-muted">/ {shotMatches.length} meccs</span>
+						</span>
+						<span aria-hidden="true">{selectorOpen ? '▲' : '▼'}</span>
+					</button>
 				</div>
+
+				{#if selectorOpen}
+					<div class="mb-4 rounded-lg border border-border bg-card">
+						<div class="flex flex-wrap gap-2 border-b border-border p-3 text-xs">
+							<button
+								type="button"
+								onclick={selectAll}
+								class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+							>
+								Mind
+							</button>
+							<button
+								type="button"
+								onclick={selectNone}
+								class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+							>
+								Egyik sem
+							</button>
+							<span class="text-muted">|</span>
+							<button
+								type="button"
+								onclick={selectOnlyAlapszakasz}
+								class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+							>
+								Csak alapszakasz
+							</button>
+							{#if hasPlayoffShots}
+								<button
+									type="button"
+									onclick={selectOnlyRajatszas}
+									class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+								>
+									Csak rájátszás
+								</button>
+							{/if}
+						</div>
+						<ul class="max-h-96 divide-y divide-border overflow-y-auto">
+							{#each shotMatches as m (m.gamecode)}
+								{@const checked = selectedSet.has(m.gamecode)}
+								<li>
+									<label class="flex cursor-pointer flex-wrap items-center gap-3 px-4 py-2 text-sm hover:bg-card-hover">
+										<input
+											type="checkbox"
+											{checked}
+											onchange={() => toggleMatch(m.gamecode)}
+											class="h-4 w-4 accent-accent"
+										/>
+										<span class="w-20 font-mono text-xs text-muted">{fmtDate(m.date)}</span>
+										<span
+											class="rounded px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider {phaseChipClass(
+												m.phase
+											)}"
+										>
+											{phaseLabel(m.phase)}
+										</span>
+										<span
+											class="w-5 text-center font-mono text-xs"
+											class:text-muted={m.home}
+											class:text-accent={!m.home}
+										>
+											{m.home ? 'H' : '@'}
+										</span>
+										<span class="flex-1 truncate">{m.opponent}</span>
+										{#if m.result}
+											<span class="font-mono text-xs">
+												<span
+													class:text-positive={m.result === 'W'}
+													class:text-negative={m.result === 'L'}
+												>
+													{m.our_score}
+												</span>
+												<span class="text-muted">–</span>
+												<span class="text-muted">{m.their_score}</span>
+											</span>
+											<span
+												class="w-5 rounded px-1 py-0.5 text-center font-mono text-[10px] font-bold"
+												class:bg-positive={m.result === 'W'}
+												class:bg-negative={m.result === 'L'}
+												class:text-bg={m.result !== null}
+											>
+												{m.result}
+											</span>
+										{/if}
+										<span class="w-10 text-right font-mono text-xs text-muted">{m.shots.length}</span>
+									</label>
+								</li>
+							{/each}
+						</ul>
+					</div>
+				{/if}
 
 				{#if selectedMatchMeta}
 					<div class="mb-3 flex flex-wrap items-center gap-3 rounded-lg border border-border bg-card px-4 py-2 text-sm">
@@ -398,9 +517,19 @@
 							</span>
 						{/if}
 					</div>
+				{:else if selectedCount > 1 && !isAllSelected}
+					<p class="mb-3 text-xs text-muted">
+						{selectedCount} meccs kiválasztva — {selectedShots.length} lövés összesítve
+					</p>
 				{/if}
 
-				<Shotchart shots={selectedShots} />
+				{#if selectedCount === 0}
+					<div class="rounded-lg border border-border bg-card p-6 text-center text-sm text-muted">
+						Válassz meccs(ek)et a shotchart megjelenítéséhez.
+					</div>
+				{:else}
+					<Shotchart shots={selectedShots} />
+				{/if}
 
 				<p class="mt-6 text-xs text-muted">
 					Forrás: mkosz.hu shotchart API · csak mezőnyből dobott lövések (büntetők kihagyva)
