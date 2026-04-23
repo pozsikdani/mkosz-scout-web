@@ -30,6 +30,13 @@ PLAYOFF_BRACKETS = {
     "hun2a_plya": "rajatszas_also",
 }
 
+# Csapatok, amiknek szezon közben név/szponzor-váltás miatt több néven szerepelnek
+# a DB-ben. Kulcs = standings canonical név, érték = további név-variánsok amiket
+# a prefix-match mellett be kell venni.
+TEAM_ALIASES: dict[str, list[str]] = {
+    "EBH-Salgótarján": ["Salgótarjáni KSE"],
+}
+
 
 def norm_key(name: str) -> str:
     nfkd = unicodedata.normalize("NFKD", name)
@@ -53,7 +60,11 @@ def slugify(name: str) -> str:
 
 
 def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str) -> list[dict]:
-    key = norm_key(team_name)
+    keys = [norm_key(team_name)] + [norm_key(a) for a in TEAM_ALIASES.get(team_name, [])]
+
+    def match_team(team_key: str) -> bool:
+        return any(team_key.startswith(k) for k in keys)
+
     rows = conn.execute(
         """
         SELECT gamecode, comp_code, season, round_name, match_date, match_time,
@@ -75,10 +86,10 @@ def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str
 
         a_key = norm_key(team_a)
         b_key = norm_key(team_b)
-        if not (a_key.startswith(key) or b_key.startswith(key)):
+        if not (match_team(a_key) or match_team(b_key)):
             continue
 
-        is_home = a_key.startswith(key)
+        is_home = match_team(a_key)
         opp = team_b if is_home else team_a
         our_score = score_a if is_home else score_b
         their_score = score_b if is_home else score_a
