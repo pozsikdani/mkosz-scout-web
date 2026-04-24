@@ -75,11 +75,14 @@
 	function classifyZone(hx: number, hy: number): ZoneKey {
 		const ang = angleFromBasket(hx, hy);
 		const insideThree = ellipticalFrac(hx, hy, threeR, threeRy) <= 1;
-		const outside3 = !insideThree || (hy < cornerHy && (hx < 6 || hx > 94));
+		// Corner rectangle includes the boundaries (hx=6/94, hy=cornerHy) so shots
+		// recorded exactly on the corner line by mkosz don't leak into wing3.
+		const inCornerRect = hy <= cornerHy && (hx <= 6 || hx >= 94);
+		const outside3 = !insideThree || inCornerRect;
 
 		if (outside3) {
-			if (hy < cornerHy && hx < 6) return 'corner3_l';
-			if (hy < cornerHy && hx > 94) return 'corner3_r';
+			if (inCornerRect && hx <= 6) return 'corner3_l';
+			if (inCornerRect && hx >= 94) return 'corner3_r';
 			if (ang < -wingSplitAngle) return 'wing3_l';
 			if (ang > wingSplitAngle) return 'wing3_r';
 			return 'above_break_3';
@@ -88,8 +91,8 @@
 		// Inside 3pt
 		if (ellipticalFrac(hx, hy, raR, raRyHy) <= 1) return 'ra';
 		if (hx >= paintLeft && hx <= paintRight && hy <= paintH) return 'paint';
-		if (hy < cornerHy && hx >= 6 && hx < paintLeft) return 'short_corner_l';
-		if (hy < cornerHy && hx > paintRight && hx <= 94) return 'short_corner_r';
+		if (hy <= cornerHy && hx > 6 && hx < paintLeft) return 'short_corner_l';
+		if (hy <= cornerHy && hx > paintRight && hx < 94) return 'short_corner_r';
 		if (hx >= paintLeft && hx <= paintRight) return 'top_key';
 		if (hx < paintLeft) return 'mid_wing_l';
 		return 'mid_wing_r';
