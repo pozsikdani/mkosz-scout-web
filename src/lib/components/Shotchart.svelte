@@ -15,7 +15,9 @@
 	// mkosz hx,hy are 0-100% of full half-court: hx = 0 (left) → 100 (right),
 	// hy = 0 (baseline where basket is) → 100 (half-court line).
 	// Our SVG flips hy so the baseline (hy=0) is drawn at the BOTTOM.
-	const height = $derived(Math.round(width * 0.94));
+	// Square SVG so 1 court unit = 1 pixel on both axes — arcs are TRUE circles,
+	// basket-centered geometry matches ShotchartZones.svelte exactly.
+	const height = $derived(width);
 	const W = $derived(width);
 	const H = $derived(height);
 
@@ -38,19 +40,21 @@
 	const three = { cx: 50, cy: basketY, r: 44 }; // arc
 	const cornerHy = 12;
 
+	// TRUE arc endpoints on the basket-centered 3pt circle (center (50, basketY), radius 44)
+	// At hy=cornerHy the arc meets hx = 50 ± sqrt(44² − (12−3)²) = 50 ± ~43.07
+	const arcXLeft = 50 - Math.sqrt(three.r * three.r - (cornerHy - basketY) * (cornerHy - basketY));
+	const arcXRight = 100 - arcXLeft;
+
 	// Arc path: bottom half of the 3-point circle, from the corner-3 endpoints up and over
 	const arcPath = $derived.by(() => {
 		const r = three.r;
-		// Corner 3 endpoints: straight lines at hx=6 and hx=94, from baseline to hy=cornerHy
-		// Arc starts at (6, 12) and ends at (94, 12)
-		const x1 = toX(6);
+		const x1 = toX(arcXLeft);
 		const y1 = toY(cornerHy);
-		const x2 = toX(94);
+		const x2 = toX(arcXRight);
 		const y2 = toY(cornerHy);
-		// Arc goes through the top of the arc circle (approximately at hy ~44% above basket)
-		// Use SVG large-arc A command with sweep
+		// rx=ry (in W units) → true circle, matches ShotchartZones
 		const rx = (r / 100) * W;
-		const ry = (r / 100) * H;
+		const ry = (r / 100) * W;
 		return `M ${x1} ${y1} A ${rx} ${ry} 0 0 1 ${x2} ${y2}`;
 	});
 
