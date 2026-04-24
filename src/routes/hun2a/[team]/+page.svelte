@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { base } from '$app/paths';
 	import Shotchart from '$lib/components/Shotchart.svelte';
+	import ShotchartZones from '$lib/components/ShotchartZones.svelte';
 	import type { MatchRow } from '$lib/types';
 	import type { PageData } from './$types';
 
@@ -546,7 +547,20 @@
 						Válassz meccs(ek)et a shotchart megjelenítéséhez.
 					</div>
 				{:else}
-					<Shotchart shots={selectedShots} />
+					<div class="grid grid-cols-1 gap-6 lg:grid-cols-2">
+						<div>
+							<p class="mb-2 text-xs font-semibold tracking-wider text-muted uppercase">
+								Dobás-eloszlás
+							</p>
+							<Shotchart shots={selectedShots} />
+						</div>
+						<div>
+							<p class="mb-2 text-xs font-semibold tracking-wider text-muted uppercase">
+								Zónák szerint
+							</p>
+							<ShotchartZones shots={selectedShots} />
+						</div>
+					</div>
 				{/if}
 
 				<p class="mt-6 text-xs text-muted">
