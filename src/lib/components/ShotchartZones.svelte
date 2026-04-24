@@ -10,7 +10,8 @@
 		width = 520
 	}: { shots?: Shot[]; width?: number } = $props();
 
-	const height = $derived(Math.round(width * 0.94));
+	// Square SVG — so 1 court unit = 1 pixel in both axes, arcs are true circles
+	const height = $derived(width);
 	const W = $derived(width);
 	const H = $derived(height);
 
@@ -133,13 +134,18 @@
 		return 37; // mid-range / top key
 	}
 
-	// Arc sizes
+	// Arc sizes — rx=ry so arcs are true circles (SVG is square, H=W)
 	const rx = $derived((threeR / 100) * W);
-	const ry = $derived((threeR / 100) * H);
+	const ry = $derived((threeR / 100) * W);
 	const raRx = $derived((raR / 100) * W);
-	const raRy = $derived((raR / 100) * H);
+	const raRy = $derived((raR / 100) * W);
 	const ftRx = $derived((ftCircleR / 100) * W);
-	const ftRy = $derived((ftCircleR / 100) * H);
+	const ftRy = $derived((ftCircleR / 100) * W);
+
+	// TRUE arc endpoints on the 3pt circle (center basket @ (50, 3), radius 44)
+	// At hy=cornerHy the arc meets hx = 50 ± sqrt(44² − (12−3)²) = 50 ± 43.07
+	const arcXLeft = 50 - Math.sqrt(threeR * threeR - (cornerHy - basketHy) * (cornerHy - basketHy));
+	const arcXRight = 100 - arcXLeft;
 
 	function pointAtAngle(angleDeg: number, dist = threeR) {
 		const rad = (angleDeg * Math.PI) / 180;
@@ -190,8 +196,8 @@
 		const shortCL = `M ${toX(6)} ${toY(0)} L ${toX(paintLeft)} ${toY(0)} L ${toX(paintLeft)} ${toY(cornerHy)} L ${toX(6)} ${toY(cornerHy)} Z`;
 		const shortCR = `M ${toX(paintRight)} ${toY(0)} L ${toX(94)} ${toY(0)} L ${toX(94)} ${toY(cornerHy)} L ${toX(paintRight)} ${toY(cornerHy)} Z`;
 
-		const midWL = `M ${toX(6)} ${toY(cornerHy)} L ${toX(paintLeft)} ${toY(cornerHy)} L ${toX(paintLeft)} ${toY(arcY34)} A ${rx} ${ry} 0 0 0 ${toX(6)} ${toY(cornerHy)} Z`;
-		const midWR = `M ${toX(paintRight)} ${toY(cornerHy)} L ${toX(94)} ${toY(cornerHy)} A ${rx} ${ry} 0 0 0 ${toX(paintRight)} ${toY(arcY66)} Z`;
+		const midWL = `M ${toX(arcXLeft)} ${toY(cornerHy)} L ${toX(paintLeft)} ${toY(cornerHy)} L ${toX(paintLeft)} ${toY(arcY34)} A ${rx} ${ry} 0 0 0 ${toX(arcXLeft)} ${toY(cornerHy)} Z`;
+		const midWR = `M ${toX(paintRight)} ${toY(cornerHy)} L ${toX(arcXRight)} ${toY(cornerHy)} A ${rx} ${ry} 0 0 0 ${toX(paintRight)} ${toY(arcY66)} Z`;
 		const topKey = `M ${toX(paintLeft)} ${toY(paintH)} L ${toX(paintRight)} ${toY(paintH)} L ${toX(paintRight)} ${toY(arcY66)} A ${rx} ${ry} 0 0 0 ${toX(paintLeft)} ${toY(arcY34)} Z`;
 
 		// Outside zones: strict corner strips + wedges split at ±wingSplitAngle
@@ -208,13 +214,12 @@
 		const wing3L = [
 			`M ${toX(0)} ${toY(cornerHy)}`,
 			`L ${toX(0)} ${toY(wingSplitL_edge.y)}`,
-			// If edge point is on sideline (x=0), no extra corner; if on top edge, need to traverse
 			wingSplitL_edge.x > 0
 				? `L ${toX(wingSplitL_edge.x)} ${toY(wingSplitL_edge.y)}`
 				: '',
 			`L ${toX(wingSplitL_arc.x)} ${toY(wingSplitL_arc.y)}`,
-			// arc from wingSplitL_arc to (6, cornerHy): backward direction, sweep=0
-			`A ${rx} ${ry} 0 0 0 ${toX(6)} ${toY(cornerHy)}`,
+			// arc from wingSplitL_arc to (arcXLeft, cornerHy): backward direction, sweep=0
+			`A ${rx} ${ry} 0 0 0 ${toX(arcXLeft)} ${toY(cornerHy)}`,
 			`Z`
 		]
 			.filter(Boolean)
@@ -222,9 +227,7 @@
 
 		const wing3R = [
 			`M ${toX(100)} ${toY(cornerHy)}`,
-			`L ${toX(94)} ${toY(cornerHy)}`,
-			// arc from (94, cornerHy) to wingSplitR_arc: forward direction, sweep=1... actually backward?
-			// Shotchart forward: (6,12) → arc → (94,12). From (94,12) going backward to wingSplitR_arc (68.6, 42.9). That's backward → sweep=0.
+			`L ${toX(arcXRight)} ${toY(cornerHy)}`,
 			`A ${rx} ${ry} 0 0 0 ${toX(wingSplitR_arc.x)} ${toY(wingSplitR_arc.y)}`,
 			wingSplitR_edge.x < 100
 				? `L ${toX(wingSplitR_edge.x)} ${toY(wingSplitR_edge.y)}`
@@ -261,8 +264,8 @@
 		above3Parts.push(`Z`);
 		const above3 = above3Parts.join(' ');
 
-		// 3pt arc line
-		const threeLineArc = `M ${toX(6)} ${toY(cornerHy)} A ${rx} ${ry} 0 0 1 ${toX(94)} ${toY(cornerHy)}`;
+		// 3pt arc line — using TRUE arc endpoints on the basket-centered circle
+		const threeLineArc = `M ${toX(arcXLeft)} ${toY(cornerHy)} A ${rx} ${ry} 0 0 1 ${toX(arcXRight)} ${toY(cornerHy)}`;
 
 		return {
 			paint,
