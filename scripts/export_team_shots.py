@@ -131,9 +131,11 @@ def main() -> int:
         enriched: list[dict] = []
         total_shots = total_made = 0
         for m in matches_data["matches"]:
+            # Only include matches that have been played (result not None).
+            # Unplayed future matches are excluded entirely.
+            if m["result"] is None:
+                continue
             shots = fetch_shots(conn, m["gamecode"], team_id)
-            if not shots:
-                continue  # skip games with no shot data (playoff not backfilled yet)
             total_shots += len(shots)
             total_made += sum(s["made"] for s in shots)
             enriched.append({
@@ -145,6 +147,7 @@ def main() -> int:
                 "our_score": m["our_score"],
                 "their_score": m["their_score"],
                 "result": m["result"],
+                "has_shotchart": len(shots) > 0,
                 "shots": shots,
             })
 

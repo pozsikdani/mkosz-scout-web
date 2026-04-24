@@ -50,16 +50,18 @@
 		(shotData?.matches ?? []).slice().sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''))
 	);
 	const hasShots = $derived(shotMatches.length > 0);
-	const allGamecodes = $derived(shotMatches.map((m) => m.gamecode));
+	const selectableMatches = $derived(shotMatches.filter((m) => m.has_shotchart));
+	const selectableGamecodes = $derived(selectableMatches.map((m) => m.gamecode));
+	const missingCount = $derived(shotMatches.length - selectableMatches.length);
 
 	let selectedSet = $state<Set<string>>(new Set());
 	let selectorOpen = $state(false);
 	let initialized = $state(false);
 
-	// Initialize selection to "all" once on first data load (doesn't re-fire if user clears all)
+	// Initialize selection to "all SELECTABLE" once on first data load
 	$effect(() => {
 		if (hasShots && !initialized) {
-			selectedSet = new Set(allGamecodes);
+			selectedSet = new Set(selectableGamecodes);
 			initialized = true;
 		}
 	});
@@ -67,18 +69,19 @@
 	const selectedMatches = $derived(shotMatches.filter((m) => selectedSet.has(m.gamecode)));
 	const selectedShots = $derived(selectedMatches.flatMap((m) => m.shots));
 	const selectedCount = $derived(selectedSet.size);
-	const isAllSelected = $derived(selectedCount === shotMatches.length);
+	const isAllSelected = $derived(selectedCount === selectableMatches.length);
 	const selectedMatchMeta = $derived(selectedCount === 1 ? selectedMatches[0] : null);
 
-	function toggleMatch(gamecode: string) {
+	function toggleMatch(m: (typeof shotMatches)[number]) {
+		if (!m.has_shotchart) return;
 		const next = new Set(selectedSet);
-		if (next.has(gamecode)) next.delete(gamecode);
-		else next.add(gamecode);
+		if (next.has(m.gamecode)) next.delete(m.gamecode);
+		else next.add(m.gamecode);
 		selectedSet = next;
 	}
 
 	function selectAll() {
-		selectedSet = new Set(allGamecodes);
+		selectedSet = new Set(selectableGamecodes);
 	}
 
 	function selectNone() {
@@ -87,17 +90,17 @@
 
 	function selectOnlyAlapszakasz() {
 		selectedSet = new Set(
-			shotMatches.filter((m) => m.phase === 'alapszakasz').map((m) => m.gamecode)
+			selectableMatches.filter((m) => m.phase === 'alapszakasz').map((m) => m.gamecode)
 		);
 	}
 
 	function selectOnlyRajatszas() {
 		selectedSet = new Set(
-			shotMatches.filter((m) => m.phase !== 'alapszakasz').map((m) => m.gamecode)
+			selectableMatches.filter((m) => m.phase !== 'alapszakasz').map((m) => m.gamecode)
 		);
 	}
 
-	const hasPlayoffShots = $derived(shotMatches.some((m) => m.phase !== 'alapszakasz'));
+	const hasPlayoffShots = $derived(selectableMatches.some((m) => m.phase !== 'alapszakasz'));
 
 	function fmt(n: number, digits = 1): string {
 		return n.toLocaleString('hu-HU', {
@@ -381,7 +384,11 @@
 					<div>
 						<h2 class="text-xl font-bold tracking-tight">Shotchart</h2>
 						<p class="text-xs text-muted mt-1">
-							{shotMatches.length} meccs összesen · {shotData?.total_shots} lövés · FG%
+							{selectableMatches.length} meccs shotchart-tal
+							{#if missingCount > 0}<span class="text-negative">
+									· {missingCount} meccs adat nélkül</span
+								>{/if}
+							· {shotData?.total_shots} lövés · FG%
 							{(
 								(100 * (shotData?.total_made ?? 0)) / Math.max(1, shotData?.total_shots ?? 1)
 							).toFixed(1)}
@@ -394,7 +401,7 @@
 					>
 						<span>
 							{selectedCount}
-							<span class="text-muted">/ {shotMatches.length} meccs</span>
+							<span class="text-muted">/ {selectableMatches.length} meccs</span>
 						</span>
 						<span aria-hidden="true">{selectorOpen ? '▲' : '▼'}</span>
 					</button>
@@ -438,12 +445,21 @@
 						<ul class="max-h-96 divide-y divide-border overflow-y-auto">
 							{#each shotMatches as m (m.gamecode)}
 								{@const checked = selectedSet.has(m.gamecode)}
+								{@const disabled = !m.has_shotchart}
 								<li>
-									<label class="flex cursor-pointer flex-wrap items-center gap-3 px-4 py-2 text-sm hover:bg-card-hover">
+									<label
+										class="flex flex-wrap items-center gap-3 px-4 py-2 text-sm"
+										class:cursor-pointer={!disabled}
+										class:hover:bg-card-hover={!disabled}
+										class:opacity-40={disabled}
+										class:cursor-not-allowed={disabled}
+										title={disabled ? 'Nincs shotchart adat ehhez a meccshez' : ''}
+									>
 										<input
 											type="checkbox"
 											{checked}
-											onchange={() => toggleMatch(m.gamecode)}
+											{disabled}
+											onchange={() => toggleMatch(m)}
 											class="h-4 w-4 accent-accent"
 										/>
 										<span class="w-20 font-mono text-xs text-muted">{fmtDate(m.date)}</span>
@@ -482,7 +498,9 @@
 												{m.result}
 											</span>
 										{/if}
-										<span class="w-10 text-right font-mono text-xs text-muted">{m.shots.length}</span>
+										<span class="w-10 text-right font-mono text-xs text-muted">
+											{#if disabled}—{:else}{m.shots.length}{/if}
+										</span>
 									</label>
 								</li>
 							{/each}

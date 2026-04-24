@@ -65,6 +65,7 @@ export interface ShotMatch {
 	our_score: number | null;
 	their_score: number | null;
 	result: 'W' | 'L' | 'D' | null;
+	has_shotchart: boolean;
 	shots: Shot[];
 }
 
