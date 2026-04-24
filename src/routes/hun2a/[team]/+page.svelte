@@ -101,7 +101,37 @@
 		);
 	}
 
+	function selectOnlyHome() {
+		selectedSet = new Set(selectableMatches.filter((m) => m.home).map((m) => m.gamecode));
+	}
+
+	function selectOnlyAway() {
+		selectedSet = new Set(selectableMatches.filter((m) => !m.home).map((m) => m.gamecode));
+	}
+
+	function selectOnlyWon() {
+		selectedSet = new Set(
+			selectableMatches.filter((m) => m.result === 'W').map((m) => m.gamecode)
+		);
+	}
+
+	function selectOnlyLost() {
+		selectedSet = new Set(
+			selectableMatches.filter((m) => m.result === 'L').map((m) => m.gamecode)
+		);
+	}
+
 	const hasPlayoffShots = $derived(selectableMatches.some((m) => m.phase !== 'alapszakasz'));
+	const homeCount = $derived(selectableMatches.filter((m) => m.home).length);
+	const awayCount = $derived(selectableMatches.filter((m) => !m.home).length);
+	const wonCount = $derived(selectableMatches.filter((m) => m.result === 'W').length);
+	const lostCount = $derived(selectableMatches.filter((m) => m.result === 'L').length);
+	const shotAlapCount = $derived(
+		selectableMatches.filter((m) => m.phase === 'alapszakasz').length
+	);
+	const shotRajatszasCount = $derived(
+		selectableMatches.filter((m) => m.phase !== 'alapszakasz').length
+	);
 
 	function fmt(n: number, digits = 1): string {
 		return n.toLocaleString('hu-HU', {
@@ -431,7 +461,7 @@
 								onclick={selectOnlyAlapszakasz}
 								class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
 							>
-								Csak alapszakasz
+								Csak alapszakasz <span class="opacity-60">{shotAlapCount}</span>
 							</button>
 							{#if hasPlayoffShots}
 								<button
@@ -439,9 +469,43 @@
 									onclick={selectOnlyRajatszas}
 									class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
 								>
-									Csak rájátszás
+									Csak rájátszás <span class="opacity-60">{shotRajatszasCount}</span>
 								</button>
 							{/if}
+							<span class="text-muted">|</span>
+							<button
+								type="button"
+								onclick={selectOnlyHome}
+								class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+								disabled={homeCount === 0}
+							>
+								Csak hazai <span class="opacity-60">{homeCount}</span>
+							</button>
+							<button
+								type="button"
+								onclick={selectOnlyAway}
+								class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+								disabled={awayCount === 0}
+							>
+								Csak vendég <span class="opacity-60">{awayCount}</span>
+							</button>
+							<span class="text-muted">|</span>
+							<button
+								type="button"
+								onclick={selectOnlyWon}
+								class="rounded border border-border px-2.5 py-1 font-semibold text-positive hover:bg-card-hover"
+								disabled={wonCount === 0}
+							>
+								Csak nyert <span class="opacity-60">{wonCount}</span>
+							</button>
+							<button
+								type="button"
+								onclick={selectOnlyLost}
+								class="rounded border border-border px-2.5 py-1 font-semibold text-negative hover:bg-card-hover"
+								disabled={lostCount === 0}
+							>
+								Csak vesztett <span class="opacity-60">{lostCount}</span>
+							</button>
 						</div>
 						<ul class="max-h-96 divide-y divide-border overflow-y-auto">
 							{#each shotMatches as m (m.gamecode)}
