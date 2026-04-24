@@ -10,8 +10,11 @@
 		width = 520
 	}: { shots?: Shot[]; width?: number } = $props();
 
-	// Square SVG — so 1 court unit = 1 pixel in both axes, arcs are true circles
-	const height = $derived(width);
+	// mkosz (hx, hy) space is NON-ISOTROPIC — court rendered with H = 0.85·W.
+	// SVG circles (rx=ry in pixel units) render as ELLIPSES in (hx, hy) space,
+	// which matches the physical basketball court and the mkosz shot coordinates.
+	const Y_SCALE = 0.85;
+	const height = $derived(width * Y_SCALE);
 	const W = $derived(width);
 	const H = $derived(height);
 
@@ -22,17 +25,19 @@
 		return H - (hy / 100) * H;
 	}
 
-	// Court dimensions
+	// Court dimensions (hx = horizontal %, hy = vertical %)
 	const paintW = 32;
 	const paintH = 24;
 	const paintLeft = 50 - paintW / 2; // 34
 	const paintRight = 50 + paintW / 2; // 66
-	const ftCircleR = paintW / 2; // 16
-	const threeR = 44;
+	const ftCircleR = paintW / 2; // 16 (radius on hx-axis; y-radius = 16/Y_SCALE)
+	const threeR = 44; // 3pt radius on hx-axis
+	const threeRy = threeR / Y_SCALE; // 3pt radius on hy-axis (≈51.76)
 	const cornerHy = 12;
 	const basketHy = 3;
-	const raR = 9; // restricted area radius (≈1.35m on 15m court)
-	const wingSplitAngle = 25; // degrees — wing 3 vs above-the-break split
+	const raR = 9; // restricted area radius on hx-axis (≈1.35m)
+	const raRyHy = raR / Y_SCALE; // RA radius on hy-axis (≈10.59)
+	const wingSplitAngle = 25; // degrees — wing 3 vs above-the-break split (measured in pixel space)
 
 	type ZoneKey =
 		// Inside 3pt (7 zones)
@@ -50,22 +55,25 @@
 		| 'wing3_r'
 		| 'corner3_r';
 
+	// Angle measured in pixel space (where the ellipse becomes a true circle).
+	// Uses atan2(dx_px, dy_px_logical_upward) so 0° = straight out from basket, + = right.
 	function angleFromBasket(hx: number, hy: number): number {
-		const dx = hx - 50;
-		const dy = Math.max(hy - basketHy, 0.001);
-		return (Math.atan2(dx, dy) * 180) / Math.PI;
+		const dxPx = ((hx - 50) / 100) * W;
+		const dyPxLogical = Math.max(((hy - basketHy) / 100) * H, 0.001);
+		return (Math.atan2(dxPx, dyPxLogical) * 180) / Math.PI;
 	}
 
-	function distFromBasket(hx: number, hy: number): number {
-		const dx = hx - 50;
-		const dy = hy - basketHy;
-		return Math.sqrt(dx * dx + dy * dy);
+	// Elliptical distance squared — 1.0 means exactly on the 3pt arc
+	function ellipticalFrac(hx: number, hy: number, rhx: number, rhy: number): number {
+		const ex = (hx - 50) / rhx;
+		const ey = (hy - basketHy) / rhy;
+		return ex * ex + ey * ey;
 	}
 
 	function classifyZone(hx: number, hy: number): ZoneKey {
-		const dist = distFromBasket(hx, hy);
 		const ang = angleFromBasket(hx, hy);
-		const outside3 = dist > threeR || (hy < cornerHy && (hx < 6 || hx > 94));
+		const insideThree = ellipticalFrac(hx, hy, threeR, threeRy) <= 1;
+		const outside3 = !insideThree || (hy < cornerHy && (hx < 6 || hx > 94));
 
 		if (outside3) {
 			if (hy < cornerHy && hx < 6) return 'corner3_l';
@@ -76,7 +84,7 @@
 		}
 
 		// Inside 3pt
-		if (dist <= raR) return 'ra';
+		if (ellipticalFrac(hx, hy, raR, raRyHy) <= 1) return 'ra';
 		if (hx >= paintLeft && hx <= paintRight && hy <= paintH) return 'paint';
 		if (hy < cornerHy && hx >= 6 && hx < paintLeft) return 'short_corner_l';
 		if (hy < cornerHy && hx > paintRight && hx <= 94) return 'short_corner_r';
@@ -134,7 +142,9 @@
 		return 37; // mid-range / top key
 	}
 
-	// Arc sizes — rx=ry so arcs are true circles (SVG is square, H=W)
+	// SVG arc radii — TRUE PIXEL CIRCLES (rx=ry in pixel space).
+	// On H = 0.85·W canvas, a pixel circle of pixel-radius r becomes an ellipse in
+	// (hx, hy) space with hx-radius = r/W*100 and hy-radius = r/H*100 = hx-radius/Y_SCALE.
 	const rx = $derived((threeR / 100) * W);
 	const ry = $derived((threeR / 100) * W);
 	const raRx = $derived((raR / 100) * W);
@@ -142,43 +152,65 @@
 	const ftRx = $derived((ftCircleR / 100) * W);
 	const ftRy = $derived((ftCircleR / 100) * W);
 
-	// TRUE arc endpoints on the 3pt circle (center basket @ (50, 3), radius 44)
-	// At hy=cornerHy the arc meets hx = 50 ± sqrt(44² − (12−3)²) = 50 ± 43.07
-	const arcXLeft = 50 - Math.sqrt(threeR * threeR - (cornerHy - basketHy) * (cornerHy - basketHy));
+	// Arc endpoints where 3pt ellipse meets hy=cornerHy:
+	//   (hx-50)²/threeR² + (cornerHy-basketHy)²/threeRy² = 1
+	const arcXLeft =
+		50 - threeR * Math.sqrt(1 - ((cornerHy - basketHy) / threeRy) ** 2);
 	const arcXRight = 100 - arcXLeft;
 
-	function pointAtAngle(angleDeg: number, dist = threeR) {
+	// Convert pixel-space angle (from basket) into (hx, hy) point on the 3pt arc.
+	// distPx is the pixel radius from basket — defaults to the 3pt pixel radius.
+	function pointAtAngle(angleDeg: number, distPxOverride?: number) {
+		const distPx = distPxOverride ?? (threeR / 100) * W;
 		const rad = (angleDeg * Math.PI) / 180;
-		return { x: 50 + Math.sin(rad) * dist, y: basketHy + Math.cos(rad) * dist };
+		const dxPx = Math.sin(rad) * distPx;
+		const dyPxLogical = Math.cos(rad) * distPx; // upward in logical hy
+		return {
+			x: 50 + (dxPx / W) * 100,
+			y: basketHy + (dyPxLogical / H) * 100
+		};
 	}
 
+	// Ray from basket at pixel-space angleDeg until it hits a canvas edge.
+	// Works in pixel space, returns (hx, hy) of the edge hit.
 	function rayToEdge(angleDeg: number): { x: number; y: number } {
 		const rad = (angleDeg * Math.PI) / 180;
-		const dirX = Math.sin(rad);
-		const dirY = Math.cos(rad);
-		const candidates: { t: number; x: number; y: number }[] = [];
-		if (dirY > 0) {
-			const t = (100 - basketHy) / dirY;
-			candidates.push({ t, x: 50 + dirX * t, y: 100 });
+		const dirXPx = Math.sin(rad);
+		const dirYPxLogical = Math.cos(rad); // upward
+		const basketPxX = (50 / 100) * W;
+		const basketPxYLogical = (basketHy / 100) * H; // from baseline, upward
+		const candidates: { t: number; hx: number; hy: number }[] = [];
+		// Top edge: hy=100 → pixel-upward-distance = H (basket to top)
+		if (dirYPxLogical > 0) {
+			const t = (H - basketPxYLogical) / dirYPxLogical;
+			const xPx = basketPxX + dirXPx * t;
+			candidates.push({ t, hx: (xPx / W) * 100, hy: 100 });
 		}
-		if (dirX < 0) {
-			const t = -50 / dirX;
-			candidates.push({ t, x: 0, y: basketHy + dirY * t });
+		// Left edge hx=0
+		if (dirXPx < 0) {
+			const t = -basketPxX / dirXPx;
+			const yPxLogical = basketPxYLogical + dirYPxLogical * t;
+			candidates.push({ t, hx: 0, hy: (yPxLogical / H) * 100 });
 		}
-		if (dirX > 0) {
-			const t = 50 / dirX;
-			candidates.push({ t, x: 100, y: basketHy + dirY * t });
+		// Right edge hx=100
+		if (dirXPx > 0) {
+			const t = (W - basketPxX) / dirXPx;
+			const yPxLogical = basketPxYLogical + dirYPxLogical * t;
+			candidates.push({ t, hx: 100, hy: (yPxLogical / H) * 100 });
 		}
 		candidates.sort((a, b) => a.t - b.t);
-		const first = candidates.find((c) => c.x >= 0 && c.x <= 100 && c.y >= basketHy && c.y <= 100);
-		return first ? { x: first.x, y: first.y } : { x: 50, y: 100 };
+		const first = candidates.find(
+			(c) => c.hx >= 0 && c.hx <= 100 && c.hy >= basketHy && c.hy <= 100
+		);
+		return first ? { x: first.hx, y: first.hy } : { x: 50, y: 100 };
 	}
 
+	// Y value (hy) where the 3pt ellipse crosses vertical line hx=c.
 	function arcYAtX(c: number): number {
 		const dxv = c - 50;
-		const under = threeR * threeR - dxv * dxv;
+		const under = 1 - (dxv / threeR) ** 2;
 		if (under <= 0) return cornerHy;
-		return basketHy + Math.sqrt(under);
+		return basketHy + threeRy * Math.sqrt(under);
 	}
 
 	const arcY34 = $derived(arcYAtX(paintLeft));
@@ -188,9 +220,9 @@
 	const zonePaths = $derived.by(() => {
 		// Inside zones
 		const paint = `M ${toX(paintLeft)} ${toY(0)} L ${toX(paintRight)} ${toY(0)} L ${toX(paintRight)} ${toY(paintH)} L ${toX(paintLeft)} ${toY(paintH)} Z`;
-		// Restricted area: semicircle above basket, with flat base on baseline (hy=0).
-		// Base points on baseline: (50 ± xBase, 0) where xBase² + basketHy² = raR² → xBase = sqrt(raR² - basketHy²)
-		const xBase = Math.sqrt(Math.max(raR * raR - basketHy * basketHy, 0));
+		// Restricted area: ellipse (pixel-circle rendered) above basket, flat base on baseline.
+		// Base points: (50 ± xBase, 0) where (xBase/raR)² + (basketHy/raRyHy)² = 1
+		const xBase = raR * Math.sqrt(Math.max(1 - (basketHy / raRyHy) ** 2, 0));
 		const raPath = `M ${toX(50 - xBase)} ${toY(0)} A ${raRx} ${raRy} 0 0 0 ${toX(50 + xBase)} ${toY(0)} Z`;
 
 		const shortCL = `M ${toX(6)} ${toY(0)} L ${toX(paintLeft)} ${toY(0)} L ${toX(paintLeft)} ${toY(cornerHy)} L ${toX(6)} ${toY(cornerHy)} Z`;

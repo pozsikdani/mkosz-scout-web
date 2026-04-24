@@ -12,12 +12,16 @@
 	}: { shots?: Shot[]; width?: number; showLegend?: boolean } = $props();
 
 	// Half-court rendered with basket at BOTTOM center (traditional view).
-	// mkosz hx,hy are 0-100% of full half-court: hx = 0 (left) → 100 (right),
-	// hy = 0 (baseline where basket is) → 100 (half-court line).
+	// mkosz hx,hy are 0-100%: hx = 0 (left) → 100 (right); hy = 0 (baseline) → 100 (half-court).
 	// Our SVG flips hy so the baseline (hy=0) is drawn at the BOTTOM.
-	// Square SVG so 1 court unit = 1 pixel on both axes — arcs are TRUE circles,
-	// basket-centered geometry matches ShotchartZones.svelte exactly.
-	const height = $derived(width);
+	//
+	// IMPORTANT: mkosz's (hx, hy) space is NON-ISOTROPIC. The 3pt arc (and other
+	// circular court features) are ellipses in (hx, hy) units but TRUE pixel circles
+	// when rendered at aspect ratio H = 0.85 · W. This matches mockup_s1s2.py
+	// (`zc_h = zc_w * 0.85`) and causes shots from the mkosz API to land on the arc
+	// at their expected logical coordinates.
+	const Y_SCALE = 0.85;
+	const height = $derived(width * Y_SCALE);
 	const W = $derived(width);
 	const H = $derived(height);
 
@@ -37,25 +41,23 @@
 	const paintLeft = 50 - paintWidth / 2;
 	const paintRight = 50 + paintWidth / 2;
 	const ftCircleR = paintWidth / 2; // 16%
-	const three = { cx: 50, cy: basketY, r: 44 }; // arc
+	const three = { cx: 50, cy: basketY, r: 44 }; // x-radius in hx units
+	const threeRy = three.r / Y_SCALE; // y-radius in hy units (≈51.76) — arc is ellipse in (hx,hy)
 	const cornerHy = 12;
 
-	// TRUE arc endpoints on the basket-centered 3pt circle (center (50, basketY), radius 44)
-	// At hy=cornerHy the arc meets hx = 50 ± sqrt(44² − (12−3)²) = 50 ± ~43.07
-	const arcXLeft = 50 - Math.sqrt(three.r * three.r - (cornerHy - basketY) * (cornerHy - basketY));
+	// Arc endpoints on the ellipse: at hy=cornerHy, solve (hx-50)²/threeR² + (hy-bY)²/threeRy² = 1
+	const arcXLeft =
+		50 - three.r * Math.sqrt(1 - ((cornerHy - basketY) / threeRy) ** 2);
 	const arcXRight = 100 - arcXLeft;
 
-	// Arc path: bottom half of the 3-point circle, from the corner-3 endpoints up and over
+	// Arc path: pixel circle (rx=ry=0.44W) rendered on H=0.85W canvas → ellipse in (hx,hy) space
 	const arcPath = $derived.by(() => {
-		const r = three.r;
 		const x1 = toX(arcXLeft);
 		const y1 = toY(cornerHy);
 		const x2 = toX(arcXRight);
 		const y2 = toY(cornerHy);
-		// rx=ry (in W units) → true circle, matches ShotchartZones
-		const rx = (r / 100) * W;
-		const ry = (r / 100) * W;
-		return `M ${x1} ${y1} A ${rx} ${ry} 0 0 1 ${x2} ${y2}`;
+		const rPx = (three.r / 100) * W;
+		return `M ${x1} ${y1} A ${rPx} ${rPx} 0 0 1 ${x2} ${y2}`;
 	});
 
 	const made = $derived(shots.filter((s) => Number(s.made) === 1));
