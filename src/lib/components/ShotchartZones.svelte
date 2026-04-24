@@ -10,9 +10,9 @@
 		width = 520
 	}: { shots?: Shot[]; width?: number } = $props();
 
-	// mkosz (hx, hy) space is NON-ISOTROPIC — court rendered with H = 0.85·W.
-	// SVG circles (rx=ry in pixel units) render as ELLIPSES in (hx, hy) space,
-	// which matches the physical basketball court and the mkosz shot coordinates.
+	// mkosz / mockup_s1s2.py convention: basket at TOP, hy=0 at baseline, hy=100 at half-court.
+	// (hx, hy) space is NON-ISOTROPIC — court rendered with H = 0.85·W.
+	// SVG pixel circles (rx=ry in pixels) → ELLIPSES in (hx, hy) space; matches mkosz coords.
 	const Y_SCALE = 0.85;
 	const height = $derived(width * Y_SCALE);
 	const W = $derived(width);
@@ -21,8 +21,9 @@
 	function toX(hx: number) {
 		return (hx / 100) * W;
 	}
+	// hy=0 (baseline / basket side) at SVG top; hy=100 (half-court) at SVG bottom.
 	function toY(hy: number) {
-		return H - (hy / 100) * H;
+		return (hy / 100) * H;
 	}
 
 	// Court dimensions (hx = horizontal %, hy = vertical %)
@@ -223,14 +224,14 @@
 		// Restricted area: ellipse (pixel-circle rendered) above basket, flat base on baseline.
 		// Base points: (50 ± xBase, 0) where (xBase/raR)² + (basketHy/raRyHy)² = 1
 		const xBase = raR * Math.sqrt(Math.max(1 - (basketHy / raRyHy) ** 2, 0));
-		const raPath = `M ${toX(50 - xBase)} ${toY(0)} A ${raRx} ${raRy} 0 0 0 ${toX(50 + xBase)} ${toY(0)} Z`;
+		const raPath = `M ${toX(50 - xBase)} ${toY(0)} A ${raRx} ${raRy} 0 0 1 ${toX(50 + xBase)} ${toY(0)} Z`;
 
 		const shortCL = `M ${toX(6)} ${toY(0)} L ${toX(paintLeft)} ${toY(0)} L ${toX(paintLeft)} ${toY(cornerHy)} L ${toX(6)} ${toY(cornerHy)} Z`;
 		const shortCR = `M ${toX(paintRight)} ${toY(0)} L ${toX(94)} ${toY(0)} L ${toX(94)} ${toY(cornerHy)} L ${toX(paintRight)} ${toY(cornerHy)} Z`;
 
-		const midWL = `M ${toX(arcXLeft)} ${toY(cornerHy)} L ${toX(paintLeft)} ${toY(cornerHy)} L ${toX(paintLeft)} ${toY(arcY34)} A ${rx} ${ry} 0 0 0 ${toX(arcXLeft)} ${toY(cornerHy)} Z`;
-		const midWR = `M ${toX(paintRight)} ${toY(cornerHy)} L ${toX(arcXRight)} ${toY(cornerHy)} A ${rx} ${ry} 0 0 0 ${toX(paintRight)} ${toY(arcY66)} Z`;
-		const topKey = `M ${toX(paintLeft)} ${toY(paintH)} L ${toX(paintRight)} ${toY(paintH)} L ${toX(paintRight)} ${toY(arcY66)} A ${rx} ${ry} 0 0 0 ${toX(paintLeft)} ${toY(arcY34)} Z`;
+		const midWL = `M ${toX(arcXLeft)} ${toY(cornerHy)} L ${toX(paintLeft)} ${toY(cornerHy)} L ${toX(paintLeft)} ${toY(arcY34)} A ${rx} ${ry} 0 0 1 ${toX(arcXLeft)} ${toY(cornerHy)} Z`;
+		const midWR = `M ${toX(paintRight)} ${toY(cornerHy)} L ${toX(arcXRight)} ${toY(cornerHy)} A ${rx} ${ry} 0 0 1 ${toX(paintRight)} ${toY(arcY66)} Z`;
+		const topKey = `M ${toX(paintLeft)} ${toY(paintH)} L ${toX(paintRight)} ${toY(paintH)} L ${toX(paintRight)} ${toY(arcY66)} A ${rx} ${ry} 0 0 1 ${toX(paintLeft)} ${toY(arcY34)} Z`;
 
 		// Outside zones: strict corner strips + wedges split at ±wingSplitAngle
 		const corner3L = `M ${toX(0)} ${toY(0)} L ${toX(6)} ${toY(0)} L ${toX(6)} ${toY(cornerHy)} L ${toX(0)} ${toY(cornerHy)} Z`;
@@ -250,8 +251,8 @@
 				? `L ${toX(wingSplitL_edge.x)} ${toY(wingSplitL_edge.y)}`
 				: '',
 			`L ${toX(wingSplitL_arc.x)} ${toY(wingSplitL_arc.y)}`,
-			// arc from wingSplitL_arc to (arcXLeft, cornerHy): backward direction, sweep=0
-			`A ${rx} ${ry} 0 0 0 ${toX(arcXLeft)} ${toY(cornerHy)}`,
+			// arc from wingSplitL_arc to (arcXLeft, cornerHy) — basket at top → sweep=1
+			`A ${rx} ${ry} 0 0 1 ${toX(arcXLeft)} ${toY(cornerHy)}`,
 			`Z`
 		]
 			.filter(Boolean)
@@ -260,7 +261,7 @@
 		const wing3R = [
 			`M ${toX(100)} ${toY(cornerHy)}`,
 			`L ${toX(arcXRight)} ${toY(cornerHy)}`,
-			`A ${rx} ${ry} 0 0 0 ${toX(wingSplitR_arc.x)} ${toY(wingSplitR_arc.y)}`,
+			`A ${rx} ${ry} 0 0 1 ${toX(wingSplitR_arc.x)} ${toY(wingSplitR_arc.y)}`,
 			wingSplitR_edge.x < 100
 				? `L ${toX(wingSplitR_edge.x)} ${toY(wingSplitR_edge.y)}`
 				: '',
@@ -276,7 +277,8 @@
 		const above3Parts: string[] = [];
 		above3Parts.push(`M ${toX(wingSplitL_arc.x)} ${toY(wingSplitL_arc.y)}`);
 		above3Parts.push(
-			`A ${rx} ${ry} 0 0 1 ${toX(wingSplitR_arc.x)} ${toY(wingSplitR_arc.y)}`
+			// basket at top: arc dome dips toward bottom → sweep=0
+			`A ${rx} ${ry} 0 0 0 ${toX(wingSplitR_arc.x)} ${toY(wingSplitR_arc.y)}`
 		);
 		above3Parts.push(`L ${toX(wingSplitR_edge.x)} ${toY(wingSplitR_edge.y)}`);
 		// Traverse along top edge or corners as needed
@@ -296,8 +298,8 @@
 		above3Parts.push(`Z`);
 		const above3 = above3Parts.join(' ');
 
-		// 3pt arc line — using TRUE arc endpoints on the basket-centered circle
-		const threeLineArc = `M ${toX(arcXLeft)} ${toY(cornerHy)} A ${rx} ${ry} 0 0 1 ${toX(arcXRight)} ${toY(cornerHy)}`;
+		// 3pt arc line — basket at top, arc dome dips downward → sweep=0
+		const threeLineArc = `M ${toX(arcXLeft)} ${toY(cornerHy)} A ${rx} ${ry} 0 0 0 ${toX(arcXRight)} ${toY(cornerHy)}`;
 
 		return {
 			paint,

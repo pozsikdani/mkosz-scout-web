@@ -11,26 +11,24 @@
 		showLegend = true
 	}: { shots?: Shot[]; width?: number; showLegend?: boolean } = $props();
 
-	// Half-court rendered with basket at BOTTOM center (traditional view).
-	// mkosz hx,hy are 0-100%: hx = 0 (left) → 100 (right); hy = 0 (baseline) → 100 (half-court).
-	// Our SVG flips hy so the baseline (hy=0) is drawn at the BOTTOM.
+	// Half-court rendered with basket at TOP center (mkosz / mockup_s1s2.py convention).
+	// mkosz hx,hy are 0-100%: hx = 0 (left) → 100 (right); hy = 0 (baseline, basket side) → 100 (half-court).
+	// SVG y grows downward, so hy=0 maps to SVG y=0 (top) and hy=100 to SVG y=H (bottom).
 	//
 	// IMPORTANT: mkosz's (hx, hy) space is NON-ISOTROPIC. The 3pt arc (and other
 	// circular court features) are ellipses in (hx, hy) units but TRUE pixel circles
-	// when rendered at aspect ratio H = 0.85 · W. This matches mockup_s1s2.py
-	// (`zc_h = zc_w * 0.85`) and causes shots from the mkosz API to land on the arc
-	// at their expected logical coordinates.
+	// when rendered at aspect ratio H = 0.85 · W. Matches mockup_s1s2.py (`zc_h = zc_w * 0.85`).
 	const Y_SCALE = 0.85;
 	const height = $derived(width * Y_SCALE);
 	const W = $derived(width);
 	const H = $derived(height);
 
-	// Convert court hx,hy → SVG coords
+	// Convert court hx,hy → SVG coords. hy=0 (baseline) at TOP, hy=100 (half-court) at BOTTOM.
 	function toX(hx: number) {
 		return (hx / 100) * W;
 	}
 	function toY(hy: number) {
-		return H - (hy / 100) * H;
+		return (hy / 100) * H;
 	}
 
 	// Court element positions (in hx,hy 0-100 space), per mockup_s1s2.py
@@ -57,7 +55,8 @@
 		const x2 = toX(arcXRight);
 		const y2 = toY(cornerHy);
 		const rPx = (three.r / 100) * W;
-		return `M ${x1} ${y1} A ${rPx} ${rPx} 0 0 1 ${x2} ${y2}`;
+		// sweep=0: arc dips downward from the corners toward half-court (basket at top)
+		return `M ${x1} ${y1} A ${rPx} ${rPx} 0 0 0 ${x2} ${y2}`;
 	});
 
 	const made = $derived(shots.filter((s) => Number(s.made) === 1));
@@ -78,12 +77,12 @@
 		<!-- baseline + sidelines + half-court -->
 		<g fill="none" stroke="#3a3a42" stroke-width="1.5">
 			<rect x="1" y="1" width={W - 2} height={H - 2} />
-			<!-- paint (key) -->
+			<!-- paint (key) — extends from baseline (hy=0, top) down to hy=paintDepth -->
 			<rect
 				x={toX(paintLeft)}
-				y={toY(paintDepth)}
+				y={toY(0)}
 				width={toX(paintRight) - toX(paintLeft)}
-				height={toY(0) - toY(paintDepth)}
+				height={toY(paintDepth) - toY(0)}
 			/>
 			<!-- free throw circle (top half visible, bottom dashed inside paint) -->
 			<circle cx={toX(50)} cy={toY(paintDepth)} r={(ftCircleR / 100) * W} />
