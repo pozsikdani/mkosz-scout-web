@@ -11,9 +11,10 @@
 	}: { shots?: Shot[]; width?: number } = $props();
 
 	// mkosz / mockup_s1s2.py convention: basket at TOP, hy=0 at baseline, hy=100 at half-court.
-	// (hx, hy) space is NON-ISOTROPIC — court rendered with H = 0.85·W.
-	// SVG pixel circles (rx=ry in pixels) → ELLIPSES in (hx, hy) space; matches mkosz coords.
-	const Y_SCALE = 0.85;
+	// (hx, hy) space is NON-ISOTROPIC. Empirically the 3pt arc is an ellipse with
+	// rx ≈ 44 hx-units and ry ≈ 57 hy-units (derived from mid/three zone boundary
+	// in mkosz data) → aspect H/W = 44/57 ≈ 0.77.
+	const Y_SCALE = 0.77;
 	const height = $derived(width * Y_SCALE);
 	const W = $derived(width);
 	const H = $derived(height);

@@ -15,10 +15,12 @@
 	// mkosz hx,hy are 0-100%: hx = 0 (left) → 100 (right); hy = 0 (baseline, basket side) → 100 (half-court).
 	// SVG y grows downward, so hy=0 maps to SVG y=0 (top) and hy=100 to SVG y=H (bottom).
 	//
-	// IMPORTANT: mkosz's (hx, hy) space is NON-ISOTROPIC. The 3pt arc (and other
-	// circular court features) are ellipses in (hx, hy) units but TRUE pixel circles
-	// when rendered at aspect ratio H = 0.85 · W. Matches mockup_s1s2.py (`zc_h = zc_w * 0.85`).
-	const Y_SCALE = 0.85;
+	// IMPORTANT: mkosz's (hx, hy) space is NON-ISOTROPIC. Empirically (from the
+	// mid/three zone boundary in the data) the 3pt arc is an ellipse with
+	// rx ≈ 44 hx-units and ry ≈ 57 hy-units → aspect H/W = 44/57 ≈ 0.77.
+	// Rendering at this ratio makes SVG pixel-circles coincide with the actual
+	// mkosz 3pt boundary, so shots land on the drawn arc at their true positions.
+	const Y_SCALE = 0.77;
 	const height = $derived(width * Y_SCALE);
 	const W = $derived(width);
 	const H = $derived(height);
