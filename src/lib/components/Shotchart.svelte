@@ -64,6 +64,41 @@
 	const made = $derived(shots.filter((s) => Number(s.made) === 1));
 	const missed = $derived(shots.filter((s) => Number(s.made) === 0));
 	const fgPct = $derived(shots.length > 0 ? (100 * made.length) / shots.length : 0);
+
+	// Spread stacked dots (same coords) onto a small circle in pixel space so each
+	// shot is individually visible. Deterministic, no jitter randomness.
+	const dotRadiusPx = 3.5;
+	const spreadRadiusPx = 4.0; // how far to displace dots in a cluster
+	function laidOut(list: Shot[]): Array<{ x: number; y: number; s: Shot }> {
+		// Group by rounded (x, y) in court units (0.1 precision)
+		const groups = new Map<string, Shot[]>();
+		for (const s of list) {
+			const key = `${Math.round(s.x * 10)}|${Math.round(s.y * 10)}`;
+			const arr = groups.get(key);
+			if (arr) arr.push(s);
+			else groups.set(key, [s]);
+		}
+		const out: Array<{ x: number; y: number; s: Shot }> = [];
+		for (const arr of groups.values()) {
+			if (arr.length === 1) {
+				out.push({ x: toX(arr[0].x), y: toY(arr[0].y), s: arr[0] });
+				continue;
+			}
+			const cx = toX(arr[0].x);
+			const cy = toY(arr[0].y);
+			for (let i = 0; i < arr.length; i++) {
+				const ang = (2 * Math.PI * i) / arr.length;
+				out.push({
+					x: cx + Math.cos(ang) * spreadRadiusPx,
+					y: cy + Math.sin(ang) * spreadRadiusPx,
+					s: arr[i]
+				});
+			}
+		}
+		return out;
+	}
+	const missedLaid = $derived(laidOut(missed));
+	const madeLaid = $derived(laidOut(made));
 </script>
 
 <div class="flex flex-col items-center gap-3">
@@ -110,15 +145,15 @@
 
 		<!-- missed shots (render first so made draw on top) -->
 		<g>
-			{#each missed as s, i (i)}
-				<circle cx={toX(s.x)} cy={toY(s.y)} r="3.5" fill="#e17055" fill-opacity="0.55" stroke="#e17055" stroke-width="0.5" />
+			{#each missedLaid as d, i (i)}
+				<circle cx={d.x} cy={d.y} r={dotRadiusPx} fill="#e17055" fill-opacity="0.55" stroke="#e17055" stroke-width="0.5" />
 			{/each}
 		</g>
 
 		<!-- made shots -->
 		<g>
-			{#each made as s, i (i)}
-				<circle cx={toX(s.x)} cy={toY(s.y)} r="3.5" fill="#00b894" fill-opacity="0.75" stroke="#00b894" stroke-width="0.5" />
+			{#each madeLaid as d, i (i)}
+				<circle cx={d.x} cy={d.y} r={dotRadiusPx} fill="#00b894" fill-opacity="0.75" stroke="#00b894" stroke-width="0.5" />
 			{/each}
 		</g>
 	</svg>
