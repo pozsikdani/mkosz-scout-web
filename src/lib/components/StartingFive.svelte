@@ -169,7 +169,7 @@
 							</div>
 						{/if}
 						<div class="flex h-9 w-9 shrink-0 items-center justify-center rounded bg-accent font-mono text-base font-bold text-fg">
-							{starter.jersey ?? '—'}
+							{starter.jersey != null ? `#${starter.jersey}` : '—'}
 						</div>
 						<div class="ml-auto flex flex-col items-end gap-0.5">
 							{#if pc}
@@ -227,7 +227,7 @@
 										</div>
 									{/if}
 									<span class="flex h-5 w-5 shrink-0 items-center justify-center rounded bg-border font-mono text-[10px] font-bold text-muted">
-										{sub.jersey ?? '?'}
+										{sub.jersey != null ? `#${sub.jersey}` : '?'}
 									</span>
 									<span class="truncate flex-1" title={sub.name}>{sub.name}</span>
 									<span class="font-mono text-[10px] text-muted">{sub.minutes}p</span>

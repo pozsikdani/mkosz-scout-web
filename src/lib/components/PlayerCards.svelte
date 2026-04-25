@@ -171,7 +171,7 @@
 					class:bg-border={group !== 'starter'}
 					class:text-muted={group !== 'starter'}
 				>
-					{p.jersey ?? '—'}
+					{p.jersey != null ? `#${p.jersey}` : '—'}
 				</div>
 				<div class="min-w-0 flex-1">
 					<p class="truncate font-semibold leading-tight">{p.name}</p>
