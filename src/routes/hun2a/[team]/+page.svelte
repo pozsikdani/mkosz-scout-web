@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	import LeagueComparison from '$lib/components/LeagueComparison.svelte';
 	import LineupNRtg from '$lib/components/LineupNRtg.svelte';
 	import PlayerCards from '$lib/components/PlayerCards.svelte';
 	import PossessionBreakdown from '$lib/components/PossessionBreakdown.svelte';
@@ -21,6 +22,8 @@
 	const possessionsData = $derived(data.possessions);
 	const lineupNRtgData = $derived(data.lineupNRtg);
 	const hasLineupNRtg = $derived((lineupNRtgData?.matches?.length ?? 0) > 0);
+	const leagueCompData = $derived(data.leagueComparison);
+	const hasLeagueComp = $derived((leagueCompData?.teams?.length ?? 0) > 0);
 
 	const gp = $derived(team.gp || 0);
 	const diff = $derived(team.scored - team.allowed);
@@ -28,7 +31,7 @@
 	const oppg = $derived(gp > 0 ? team.allowed / gp : 0);
 	const margin = $derived(ppg - oppg);
 
-	type Tab = 'info' | 'lineups' | 'lineup-nrtg' | 'players' | 'shotchart';
+	type Tab = 'info' | 'lineups' | 'lineup-nrtg' | 'players' | 'shotchart' | 'league';
 	let activeTab = $state<Tab>('info');
 
 	type PhaseFilter = 'all' | 'alapszakasz' | 'rajatszas';
@@ -262,6 +265,18 @@
 		</button>
 		<button
 			type="button"
+			onclick={() => (activeTab = 'league')}
+			class="rounded px-4 py-2 transition"
+			class:bg-accent={activeTab === 'league'}
+			class:text-fg={activeTab === 'league'}
+			class:text-muted={activeTab !== 'league'}
+			disabled={!hasLeagueComp}
+		>
+			Liga összehasonlítás
+			{#if !hasLeagueComp}<span class="ml-1 text-xs opacity-60">(nincs adat)</span>{/if}
+		</button>
+		<button
+			type="button"
 			onclick={() => (activeTab = 'shotchart')}
 			class="rounded px-4 py-2 transition"
 			class:bg-accent={activeTab === 'shotchart'}
@@ -479,6 +494,16 @@
 				</div>
 			{:else}
 				<PlayerCards data={playersData} />
+			{/if}
+		</section>
+	{:else if activeTab === 'league'}
+		<section>
+			{#if !leagueCompData || leagueCompData.teams.length === 0}
+				<div class="rounded-lg border border-border bg-card p-6 text-sm text-muted">
+					Liga összehasonlítás adat nem elérhető.
+				</div>
+			{:else}
+				<LeagueComparison data={leagueCompData} ourTeam={team.team} />
 			{/if}
 		</section>
 	{:else if activeTab === 'shotchart'}

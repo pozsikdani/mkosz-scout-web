@@ -230,6 +230,32 @@ export interface TeamLineupNRtg {
 	matches: LineupNRtgMatch[];
 }
 
+export interface LeagueComparisonTeam {
+	team: string;
+	gp: number;
+	ppg: number;
+	oppg: number;
+	nrtg: number;
+	pace: number;
+	fg_pct: number;
+	tp_pct: number;
+	ft_pct: number;
+	rpg: number;
+	oreb_pg: number;
+	dreb_pg: number;
+	apg: number;
+	topg: number;
+	spg: number;
+	bpg: number;
+}
+
+export interface LeagueComparison {
+	comp: string;
+	season: string;
+	team_count: number;
+	teams: LeagueComparisonTeam[];
+}
+
 export interface TeamPlayers {
 	team: string;
 	season: string;

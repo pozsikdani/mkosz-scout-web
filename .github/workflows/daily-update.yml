@@ -45,6 +45,7 @@ jobs:
           python3 scripts/export_team_possessions.py --db "$DB_PATH"
           python3 scripts/export_team_lineups.py     --db "$DB_PATH"
           python3 scripts/export_team_lineup_nrtg.py --db "$DB_PATH"
+          python3 scripts/export_league_comparison.py --db "$DB_PATH"
 
       - name: Commit és push ha változott
         run: |

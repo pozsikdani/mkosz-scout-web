@@ -3,6 +3,7 @@ import { base } from '$app/paths';
 import { teamToSlug } from '$lib/slug';
 import type {
 	Standings,
+	LeagueComparison,
 	TeamLineupNRtg,
 	TeamLineups,
 	TeamMatches,
@@ -41,7 +42,21 @@ export const load: PageLoad = async ({ params, fetch }) => {
 		fetch,
 		`${base}/data/team-lineup-nrtg/${params.team}.json`
 	);
-	return { team, standings, matches, shots, players, lineups, possessions, lineupNRtg };
+	const leagueComparison = await loadJson<LeagueComparison>(
+		fetch,
+		`${base}/data/league-comparison/hun2a.json`
+	);
+	return {
+		team,
+		standings,
+		matches,
+		shots,
+		players,
+		lineups,
+		possessions,
+		lineupNRtg,
+		leagueComparison
+	};
 };
 
 export const entries: EntryGenerator = async () => {
