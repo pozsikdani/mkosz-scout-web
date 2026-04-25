@@ -790,7 +790,20 @@
       "our_score": 77,
       "their_score": 73,
       "result": "W",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 21
+        },
+        {
+          "our": 11,
+          "their": 20
+        },
+        {
+          "our": 21,
+          "their": 21
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
@@ -806,7 +819,24 @@
       "our_score": 68,
       "their_score": 78,
       "result": "L",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 24
+        },
+        {
+          "our": 10,
+          "their": 17
+        },
+        {
+          "our": 15,
+          "their": 14
+        },
+        {
+          "our": 19,
+          "their": 23
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -822,7 +852,24 @@
       "our_score": 86,
       "their_score": 77,
       "result": "W",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 29,
+          "their": 19
+        },
+        {
+          "our": 19,
+          "their": 12
+        },
+        {
+          "our": 23,
+          "their": 24
+        },
+        {
+          "our": 15,
+          "their": 22
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
@@ -838,7 +885,7 @@
       "our_score": null,
       "their_score": null,
       "result": null,
-      "quarter_scores": [],
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -854,7 +901,7 @@
       "our_score": null,
       "their_score": null,
       "result": null,
-      "quarter_scores": [],
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -870,7 +917,7 @@
       "our_score": null,
       "their_score": null,
       "result": null,
-      "quarter_scores": [],
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     }

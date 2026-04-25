@@ -782,7 +782,24 @@
       "our_score": 71,
       "their_score": 98,
       "result": "L",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 16,
+          "their": 24
+        },
+        {
+          "our": 17,
+          "their": 25
+        },
+        {
+          "our": 19,
+          "their": 27
+        },
+        {
+          "our": 19,
+          "their": 22
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
@@ -798,7 +815,24 @@
       "our_score": 99,
       "their_score": 88,
       "result": "W",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 21,
+          "their": 21
+        },
+        {
+          "our": 29,
+          "their": 18
+        },
+        {
+          "our": 25,
+          "their": 28
+        },
+        {
+          "our": 24,
+          "their": 21
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -814,7 +848,24 @@
       "our_score": 55,
       "their_score": 61,
       "result": "L",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 19,
+          "their": 14
+        },
+        {
+          "our": 18,
+          "their": 16
+        },
+        {
+          "our": 9,
+          "their": 16
+        },
+        {
+          "our": 9,
+          "their": 15
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     }

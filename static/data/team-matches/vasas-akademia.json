@@ -790,7 +790,24 @@
       "our_score": 80,
       "their_score": 82,
       "result": "L",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 16,
+          "their": 21
+        },
+        {
+          "our": 20,
+          "their": 19
+        },
+        {
+          "our": 18,
+          "their": 21
+        },
+        {
+          "our": 19,
+          "their": 16
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
@@ -806,7 +823,24 @@
       "our_score": 69,
       "their_score": 96,
       "result": "L",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 16,
+          "their": 27
+        },
+        {
+          "our": 12,
+          "their": 23
+        },
+        {
+          "our": 16,
+          "their": 21
+        },
+        {
+          "our": 25,
+          "their": 25
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
@@ -822,7 +856,24 @@
       "our_score": 61,
       "their_score": 55,
       "result": "W",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 14,
+          "their": 19
+        },
+        {
+          "our": 16,
+          "their": 18
+        },
+        {
+          "our": 16,
+          "their": 9
+        },
+        {
+          "our": 15,
+          "their": 9
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -904,7 +955,7 @@
       "our_score": null,
       "their_score": null,
       "result": null,
-      "quarter_scores": [],
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -920,7 +971,7 @@
       "our_score": null,
       "their_score": null,
       "result": null,
-      "quarter_scores": [],
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -936,7 +987,7 @@
       "our_score": null,
       "their_score": null,
       "result": null,
-      "quarter_scores": [],
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     }

@@ -88,6 +88,37 @@ def slugify(name: str) -> str:
     return "".join(out).rstrip("-")
 
 
+def derive_quarters_from_pbp(conn: sqlite3.Connection, gamecode: str) -> list[list[int]] | None:
+    """Fallback: derive [[A1,B1],...] from pbp_events.score_a/score_b.
+
+    Used when matches.quarter_scores is missing/empty. Picks the last event
+    per quarter (max event_seq) to get end-of-quarter cumulative score, then
+    diffs to per-quarter points.
+    """
+    rows = conn.execute(
+        """
+        SELECT quarter, score_a, score_b
+        FROM pbp_events
+        WHERE gamecode = ?
+          AND event_seq IN (
+            SELECT MAX(event_seq) FROM pbp_events
+            WHERE gamecode = ? AND score_a IS NOT NULL AND score_b IS NOT NULL
+            GROUP BY quarter
+          )
+        ORDER BY quarter
+        """,
+        (gamecode, gamecode),
+    ).fetchall()
+    if not rows:
+        return None
+    out = []
+    prev_a = prev_b = 0
+    for q, sa, sb in rows:
+        out.append([sa - prev_a, sb - prev_b])
+        prev_a, prev_b = sa, sb
+    return out
+
+
 def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str) -> list[dict]:
     aliases = TEAM_ALIASES.get(team_name, [])
 
@@ -126,18 +157,26 @@ def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str
             result = "W" if our_score > their_score else ("L" if our_score < their_score else "D")
 
         # Parse quarter_scores: "[[A1,B1],[A2,B2],...]" → per-team [{our, their}, ...]
-        # OT-meccseken több mint 4 negyed lehet.
-        our_quarters: list[dict] | None = None
+        # OT-meccseken több mint 4 negyed lehet. Fallback: PBP-ből kumulatív
+        # score-ok diff-elve (egyes scoresheet PDF-ek nem hordozzák a negyed-bontást)
+        qs_raw: list | None = None
         if quarter_scores:
             try:
-                qs = json.loads(quarter_scores)
-                our_quarters = [
-                    {"our": q[0] if is_home else q[1], "their": q[1] if is_home else q[0]}
-                    for q in qs
-                    if isinstance(q, list) and len(q) >= 2
-                ]
-            except (json.JSONDecodeError, TypeError, IndexError):
-                our_quarters = None
+                parsed = json.loads(quarter_scores)
+                if isinstance(parsed, list) and parsed:
+                    qs_raw = parsed
+            except (json.JSONDecodeError, TypeError):
+                qs_raw = None
+        if qs_raw is None and has_pbp and has_result:
+            qs_raw = derive_quarters_from_pbp(conn, gamecode)
+
+        our_quarters: list[dict] | None = None
+        if qs_raw:
+            our_quarters = [
+                {"our": q[0] if is_home else q[1], "their": q[1] if is_home else q[0]}
+                for q in qs_raw
+                if isinstance(q, list) and len(q) >= 2
+            ]
 
         matches.append({
             "gamecode": gamecode,

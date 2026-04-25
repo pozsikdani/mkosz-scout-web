@@ -774,7 +774,16 @@
       "our_score": 73,
       "their_score": 102,
       "result": "L",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 21,
+          "their": 31
+        },
+        {
+          "our": 6,
+          "their": 9
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
@@ -790,7 +799,24 @@
       "our_score": 88,
       "their_score": 99,
       "result": "L",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 21,
+          "their": 21
+        },
+        {
+          "our": 18,
+          "their": 29
+        },
+        {
+          "our": 28,
+          "their": 25
+        },
+        {
+          "our": 21,
+          "their": 24
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -806,7 +832,24 @@
       "our_score": 77,
       "their_score": 86,
       "result": "L",
-      "quarter_scores": [],
+      "quarter_scores": [
+        {
+          "our": 19,
+          "their": 29
+        },
+        {
+          "our": 12,
+          "their": 19
+        },
+        {
+          "our": 24,
+          "their": 23
+        },
+        {
+          "our": 22,
+          "their": 15
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
@@ -925,7 +968,7 @@
       "our_score": null,
       "their_score": null,
       "result": null,
-      "quarter_scores": [],
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -941,7 +984,7 @@
       "our_score": null,
       "their_score": null,
       "result": null,
-      "quarter_scores": [],
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     }
