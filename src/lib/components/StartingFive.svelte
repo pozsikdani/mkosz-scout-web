@@ -146,7 +146,7 @@
 			<div class="flex flex-col rounded-lg border border-border bg-card overflow-hidden">
 				<!-- Name on top, photo + jersey below -->
 				<div class="border-b border-border bg-card-hover px-3 py-2">
-					<p class="mb-1.5 text-sm font-semibold leading-snug break-words" title={starter.name}>
+					<p class="mb-1.5 truncate text-sm font-semibold leading-snug" title={starter.name}>
 						{starter.name}
 					</p>
 					<div class="flex items-center gap-2">
