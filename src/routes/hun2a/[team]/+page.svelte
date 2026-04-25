@@ -210,7 +210,7 @@
 				<span class="text-positive text-xl font-bold">{team.w}</span>
 				<span class="text-muted">–</span>
 				<span class="text-negative text-xl font-bold">{team.l}</span>
-				<span class="text-muted">({team.gp} meccs)</span>
+				<span class="text-muted">({team.gp} meccs alapszakasz)</span>
 			</span>
 			{#if team.streak}
 				<span class="text-muted">
@@ -318,7 +318,7 @@
 				<p class="mt-2 text-3xl font-bold">#{team.rank}</p>
 			</div>
 			<div class="rounded-lg border border-border bg-card p-4">
-				<p class="text-xs font-semibold tracking-wider text-muted uppercase">Mérleg</p>
+				<p class="text-xs font-semibold tracking-wider text-muted uppercase">Alapszakasz mérleg</p>
 				<p class="mt-2 font-mono text-3xl font-bold">
 					<span class="text-positive">{team.w}</span>
 					<span class="text-muted">–</span>
