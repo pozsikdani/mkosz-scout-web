@@ -77,3 +77,138 @@ export interface TeamShots {
 	total_made: number;
 	matches: ShotMatch[];
 }
+
+export type PercentileStat =
+	| 'ppg'
+	| 'rpg'
+	| 'oreb_pg'
+	| 'dreb_pg'
+	| 'apg'
+	| 'spg'
+	| 'bpg'
+	| 'fdpg'
+	| 'mpg'
+	| 'tpg'
+	| 'fpg'
+	| 'fg_pct'
+	| 'three_pct'
+	| 'ft_pct';
+
+export interface PlayerSeason {
+	name: string;
+	jersey: number | null;
+	gp: number;
+	starts: number;
+	gs_rate: number;
+	mpg: number;
+	ppg: number;
+	rpg: number;
+	oreb_pg: number;
+	dreb_pg: number;
+	apg: number;
+	tpg: number;
+	spg: number;
+	bpg: number;
+	fpg: number;
+	fdpg: number;
+	ato: number | null;
+	fg_made: number;
+	fg_att: number;
+	fg_pct: number | null;
+	three_made: number;
+	three_att: number;
+	three_pct: number | null;
+	ft_made: number;
+	ft_att: number;
+	ft_pct: number | null;
+	percentiles: Partial<Record<PercentileStat, number>>;
+}
+
+export interface SubInfo {
+	name: string;
+	jersey: number | null;
+	minutes: number;
+	count: number;
+}
+
+export interface GameStarter {
+	name: string;
+	jersey: number | null;
+	minutes: number;
+	points: number;
+	reb: number;
+	ast: number;
+	subs: SubInfo[];
+}
+
+export interface LineupMatch {
+	gamecode: string;
+	comp_code: string;
+	phase: string;
+	date: string | null;
+	opponent: string;
+	home: boolean;
+	result: 'W' | 'L' | 'D';
+	our_score: number;
+	their_score: number;
+	has_subs: boolean;
+	starters: GameStarter[];
+}
+
+export interface PossessionCounts {
+	close_m: number;
+	mid_m: number;
+	three_m: number;
+	dunk_m: number;
+	ft: number;
+	close_x: number;
+	mid_x: number;
+	three_x: number;
+	dunk_x: number;
+	tov: number;
+	fga: number;
+	fta: number;
+	oreb: number;
+	tov_total: number;
+}
+
+export interface PossessionMatch {
+	gamecode: string;
+	comp_code: string;
+	phase: string;
+	date: string | null;
+	opponent: string;
+	home: boolean;
+	result: 'W' | 'L' | 'D';
+	our_score: number;
+	their_score: number;
+	has_pbp: boolean;
+	counts: PossessionCounts | null;
+}
+
+export interface TeamPossessions {
+	team: string;
+	season: string;
+	match_count: number;
+	matches: PossessionMatch[];
+}
+
+export interface TeamLineups {
+	team: string;
+	season: string;
+	match_count: number;
+	matches: LineupMatch[];
+}
+
+export interface TeamPlayers {
+	team: string;
+	season: string;
+	team_max_gp: number;
+	thresholds: {
+		min_gp_for_percentile: number;
+		min_fga: number;
+		min_3pa: number;
+		min_fta: number;
+	};
+	players: PlayerSeason[];
+}

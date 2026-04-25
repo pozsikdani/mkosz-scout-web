@@ -1,0 +1,174 @@
+<script lang="ts">
+	import type { LineupMatch, TeamLineups } from '$lib/types';
+
+	type Props = {
+		data: TeamLineups;
+	};
+	let { data }: Props = $props();
+
+	const matches = $derived(data.matches);
+
+	let selectedIdx = $state(0); // 0 = most recent
+	const selected = $derived<LineupMatch | undefined>(matches[selectedIdx]);
+
+	function fmtDate(iso: string | null): string {
+		if (!iso) return '—';
+		const [y, m, d] = iso.split('-');
+		return `${y}.${m}.${d}`;
+	}
+
+	function shortDate(iso: string | null): string {
+		if (!iso) return '?';
+		const [, m, d] = iso.split('-');
+		return `${m}.${d}`;
+	}
+
+	function phaseLabel(phase: string): string {
+		if (phase === 'alapszakasz') return 'Alap';
+		if (phase === 'rajatszas_felso') return 'Rj-F';
+		if (phase === 'rajatszas_also') return 'Rj-A';
+		return phase;
+	}
+</script>
+
+<div class="mb-4">
+	<h2 class="text-xl font-bold tracking-tight">Kezdőötös és rotáció</h2>
+	<p class="mt-1 text-xs text-muted">
+		Per-meccs kezdőötös scoresheet alapján · csere-lánc PBP-ből · {data.match_count} meccs
+	</p>
+</div>
+
+<!-- Match scrubber -->
+<div class="mb-4 overflow-x-auto rounded-lg border border-border bg-card p-2">
+	<div class="flex flex-row-reverse gap-1 min-w-max justify-end">
+		{#each matches as m, i (m.gamecode)}
+			{@const isSel = i === selectedIdx}
+			<button
+				type="button"
+				onclick={() => (selectedIdx = i)}
+				class="flex w-14 flex-col items-center rounded px-1 py-1.5 text-[10px] font-mono leading-tight transition shrink-0"
+				class:bg-accent={isSel}
+				class:text-fg={isSel}
+				class:hover:bg-card-hover={!isSel}
+				title={`${fmtDate(m.date)} ${m.home ? 'vs' : '@'} ${m.opponent} ${m.our_score}-${m.their_score}`}
+			>
+				<span class="text-[9px] opacity-70">{shortDate(m.date)}</span>
+				<span class="truncate w-full text-center text-[10px]">
+					{m.home ? '' : '@'}{m.opponent.split(' ')[0].slice(0, 6)}
+				</span>
+				<span class="font-bold">
+					<span
+						class:text-positive={m.result === 'W' && !isSel}
+						class:text-negative={m.result === 'L' && !isSel}
+					>
+						{m.result}
+					</span>
+					{m.our_score}-{m.their_score}
+				</span>
+				{#if m.phase !== 'alapszakasz'}
+					<span class="text-[8px] opacity-60">{phaseLabel(m.phase)}</span>
+				{/if}
+			</button>
+		{/each}
+	</div>
+</div>
+
+{#if selected}
+	<!-- Selected match header -->
+	<div class="mb-4 flex flex-wrap items-center gap-3 rounded-lg border border-border bg-card px-4 py-3">
+		<span class="font-mono text-sm text-muted">{fmtDate(selected.date)}</span>
+		{#if selected.phase !== 'alapszakasz'}
+			<span class="rounded bg-accent/20 px-2 py-0.5 text-xs font-semibold uppercase tracking-wider text-accent">
+				{selected.phase === 'rajatszas_felso' ? 'Felső házi' : 'Alsó házi'}
+			</span>
+		{/if}
+		<span class="flex-1 font-medium">
+			{selected.home ? 'vs' : '@'}
+			{selected.opponent}
+		</span>
+		<span class="font-mono text-lg">
+			<span
+				class:text-positive={selected.result === 'W'}
+				class:text-negative={selected.result === 'L'}
+			>
+				{selected.our_score}
+			</span>
+			<span class="text-muted">–</span>
+			<span class="text-muted">{selected.their_score}</span>
+			<span
+				class="ml-2 rounded px-2 py-0.5 text-sm font-bold"
+				class:bg-positive={selected.result === 'W'}
+				class:bg-negative={selected.result === 'L'}
+				class:text-bg={true}
+			>
+				{selected.result}
+			</span>
+		</span>
+	</div>
+
+	<!-- Starting 5 cards -->
+	<div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-5">
+		{#each selected.starters as starter (starter.name)}
+			<div class="flex flex-col rounded-lg border border-border bg-card overflow-hidden">
+				<!-- Jersey + name -->
+				<div class="flex items-center gap-2 border-b border-border bg-card-hover px-3 py-2">
+					<div class="flex h-9 w-9 shrink-0 items-center justify-center rounded bg-accent font-mono text-base font-bold text-fg">
+						{starter.jersey ?? '—'}
+					</div>
+					<div class="min-w-0 flex-1">
+						<p class="truncate text-sm font-semibold leading-tight" title={starter.name}>
+							{starter.name}
+						</p>
+						<p class="font-mono text-[10px] text-muted">{starter.minutes} perc</p>
+					</div>
+				</div>
+
+				<!-- Mini box: PTS / REB / AST -->
+				<div class="grid grid-cols-3 gap-px bg-border text-center">
+					<div class="bg-card px-2 py-2">
+						<p class="text-[9px] font-semibold uppercase tracking-wider text-muted">PTS</p>
+						<p class="font-mono text-base font-bold leading-tight">{starter.points}</p>
+					</div>
+					<div class="bg-card px-2 py-2">
+						<p class="text-[9px] font-semibold uppercase tracking-wider text-muted">REB</p>
+						<p class="font-mono text-base font-bold leading-tight">{starter.reb}</p>
+					</div>
+					<div class="bg-card px-2 py-2">
+						<p class="text-[9px] font-semibold uppercase tracking-wider text-muted">AST</p>
+						<p class="font-mono text-base font-bold leading-tight">{starter.ast}</p>
+					</div>
+				</div>
+
+				<!-- Sub chain -->
+				<div class="flex-1 px-3 py-2.5">
+					<p class="mb-1.5 text-[9px] font-semibold uppercase tracking-wider text-muted">
+						Cserék
+					</p>
+					{#if !selected.has_subs}
+						<p class="text-xs text-muted italic">PBP nem elérhető</p>
+					{:else if starter.subs.length === 0}
+						<p class="text-xs text-muted">Nem cserélték le</p>
+					{:else}
+						<ul class="space-y-1">
+							{#each starter.subs as sub (sub.name)}
+								<li class="flex items-center gap-2 text-xs">
+									<span class="flex h-5 w-5 shrink-0 items-center justify-center rounded bg-border font-mono text-[10px] font-bold text-muted">
+										{sub.jersey ?? '?'}
+									</span>
+									<span class="truncate flex-1" title={sub.name}>{sub.name}</span>
+									<span class="font-mono text-[10px] text-muted">{sub.minutes}p</span>
+									<span class="font-mono text-muted">{sub.count}×</span>
+								</li>
+							{/each}
+						</ul>
+					{/if}
+				</div>
+			</div>
+		{/each}
+	</div>
+{/if}
+
+<p class="mt-4 text-xs text-muted">
+	Forrás: scoresheet (kezdőötös, box stat) + PBP (cserék) · csere-lánc = a kezdő helyére beálló játékosok
+	az adott meccsen
+</p>

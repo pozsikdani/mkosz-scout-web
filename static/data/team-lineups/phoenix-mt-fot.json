@@ -1,0 +1,3678 @@
+{
+  "team": "Phoenix-MT Fót",
+  "season": "x2526",
+  "match_count": 28,
+  "matches": [
+    {
+      "gamecode": "hun2a_ply_134081",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-22",
+      "opponent": "Óbudai Kaszások",
+      "home": true,
+      "result": "W",
+      "our_score": 96,
+      "their_score": 71,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 18,
+          "points": 10,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-magó Áron István",
+              "jersey": null,
+              "minutes": 14,
+              "count": 2
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 31,
+          "points": 12,
+          "reb": 1,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 23,
+          "points": 19,
+          "reb": 7,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 6,
+              "count": 3
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 9,
+              "count": 1
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 23,
+          "points": 16,
+          "reb": 0,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1
+            },
+            {
+              "name": "Gerencsér Botond",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 9,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 24,
+          "points": 9,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 17,
+              "count": 4
+            },
+            {
+              "name": "Gerencsér Botond",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_ply_134079",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-19",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": false,
+      "result": "W",
+      "our_score": 105,
+      "their_score": 93,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 25,
+          "points": 15,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": 1,
+              "minutes": 17,
+              "count": 5
+            },
+            {
+              "name": "Boka-magó Áron István",
+              "jersey": 99,
+              "minutes": 4,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 32,
+          "points": 26,
+          "reb": 4,
+          "ast": 9,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 15,
+              "count": 3
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 32,
+              "count": 3
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 31,
+          "points": 14,
+          "reb": 10,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 4,
+              "count": 2
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 2,
+          "minutes": 31,
+          "points": 11,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 9,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "minutes": 32,
+          "points": 23,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 15,
+              "count": 3
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 32,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_ply_134077",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-15",
+      "opponent": "Óbudai Kaszások",
+      "home": true,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 19,
+          "points": 13,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 14,
+              "count": 2
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1
+            },
+            {
+              "name": "Boka-magó Áron István",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 33,
+          "points": 21,
+          "reb": 5,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1
+            },
+            {
+              "name": "Boka-magó Áron István",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 30,
+          "points": 8,
+          "reb": 13,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 10,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 23,
+          "points": 12,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 14,
+              "count": 1
+            },
+            {
+              "name": "Gerencsér Botond",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 31,
+          "points": 15,
+          "reb": 4,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 33,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 10,
+              "count": 2
+            },
+            {
+              "name": "Gerencsér Botond",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123805",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-04-05",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "W",
+      "our_score": 91,
+      "their_score": 84,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 0,
+          "points": 18,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 37,
+              "count": 2
+            },
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": 2,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 0,
+          "points": 14,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 0,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 2,
+          "minutes": 0,
+          "points": 18,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 37,
+              "count": 1
+            },
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Kis Attila Raul",
+          "jersey": 1,
+          "minutes": 0,
+          "points": 10,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef",
+          "jersey": 4,
+          "minutes": 0,
+          "points": 21,
+          "reb": 0,
+          "ast": 0,
+          "subs": []
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123773",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-22",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 143,
+      "their_score": 99,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 0,
+          "points": 13,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 0,
+              "count": 1
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 0,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 8,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 0,
+          "points": 19,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": 2,
+              "minutes": 0,
+              "count": 1
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": 21,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 0,
+          "points": 25,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": 1,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 0,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 2,
+          "minutes": 0,
+          "points": 10,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 0,
+              "count": 1
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "minutes": 0,
+          "points": 17,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 0,
+              "count": 1
+            },
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": 2,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123757",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-14",
+      "opponent": "Újbuda MAFC",
+      "home": true,
+      "result": "W",
+      "our_score": 136,
+      "their_score": 91,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 15,
+          "points": 14,
+          "reb": 7,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 25,
+          "points": 23,
+          "reb": 5,
+          "ast": 11,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 26,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 19,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 23,
+          "points": 25,
+          "reb": 10,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 13,
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 23,
+          "points": 5,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Gerencsér Botond",
+              "jersey": null,
+              "minutes": 5,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 26,
+              "count": 2
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 26,
+          "points": 19,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": null,
+              "minutes": 23,
+              "count": 3
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123741",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-08",
+      "opponent": "Tiszaújvárosi Termálfürd? Phoenix K",
+      "home": true,
+      "result": "W",
+      "our_score": 109,
+      "their_score": 75,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 19,
+          "points": 12,
+          "reb": 5,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 17,
+              "count": 3
+            },
+            {
+              "name": "Gerencsér Botond",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 28,
+          "points": 21,
+          "reb": 1,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 12,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 30,
+              "count": 1
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 14,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 27,
+          "points": 22,
+          "reb": 10,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 13,
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 18,
+          "points": 11,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Gerencsér Botond",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 30,
+          "points": 15,
+          "reb": 5,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 14,
+              "count": 3
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123729",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-19",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 87,
+      "their_score": 73,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 20,
+          "points": 4,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": 1,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 4,
+              "count": 1
+            },
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 14,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 34,
+          "points": 23,
+          "reb": 3,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 32,
+              "count": 3
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 8,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 25,
+          "points": 22,
+          "reb": 13,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 12,
+              "count": 5
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 20,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 2,
+          "minutes": 24,
+          "points": 6,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Gerencsér Botond",
+              "jersey": 24,
+              "minutes": 16,
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "minutes": 32,
+          "points": 21,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 14,
+              "count": 3
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123717",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-15",
+      "opponent": "Peka Bau-MEAFC Wolves",
+      "home": true,
+      "result": "W",
+      "our_score": 104,
+      "their_score": 95,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 19,
+          "points": 9,
+          "reb": 4,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 17,
+              "count": 3
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 35,
+          "points": 34,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 28,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 16,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gerencsér Botond",
+          "jersey": null,
+          "minutes": 13,
+          "points": 4,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": null,
+              "minutes": 25,
+              "count": 3
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 33,
+          "points": 28,
+          "reb": 18,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 6,
+              "count": 4
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": null,
+              "minutes": 19,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 28,
+          "points": 11,
+          "reb": 4,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 16,
+              "count": 4
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 35,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123705",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-08",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 90,
+      "their_score": 77,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 21,
+          "points": 0,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": 1,
+              "minutes": 16,
+              "count": 3
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 7,
+              "count": 1
+            },
+            {
+              "name": "Forgács Gábor",
+              "jersey": 76,
+              "minutes": 9,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 30,
+          "points": 10,
+          "reb": 1,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 13,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 33,
+              "count": 1
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 7,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 32,
+          "points": 27,
+          "reb": 15,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 8,
+              "count": 3
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 21,
+              "count": 1
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 2,
+          "minutes": 25,
+          "points": 8,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Forgács Gábor",
+              "jersey": 76,
+              "minutes": 9,
+              "count": 3
+            },
+            {
+              "name": "Gerencsér Botond",
+              "jersey": 24,
+              "minutes": 6,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "minutes": 33,
+          "points": 25,
+          "reb": 8,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 13,
+              "count": 2
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 30,
+              "count": 1
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": 1,
+              "minutes": 16,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123693",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-01",
+      "opponent": "HÜBNER Nyíregyháza BS",
+      "home": true,
+      "result": "W",
+      "our_score": 126,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 21,
+          "points": 10,
+          "reb": 2,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 18,
+              "count": 2
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 27,
+          "points": 26,
+          "reb": 1,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 13,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 23,
+          "points": 16,
+          "reb": 9,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 11,
+              "count": 4
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 23,
+          "points": 15,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 9,
+              "count": 3
+            },
+            {
+              "name": "Forgács Gábor",
+              "jersey": null,
+              "minutes": 8,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 27,
+          "points": 27,
+          "reb": 4,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123681",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-25",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "W",
+      "our_score": 108,
+      "their_score": 96,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 31,
+          "points": 20,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 8,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 30,
+          "points": 12,
+          "reb": 2,
+          "ast": 8,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 17,
+              "count": 3
+            },
+            {
+              "name": "Shereef Rashadd Mitchell",
+              "jersey": null,
+              "minutes": 34,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 30,
+          "points": 18,
+          "reb": 9,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 10,
+              "count": 5
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 31,
+              "count": 1
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 30,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 2,
+          "minutes": 29,
+          "points": 6,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 7,
+              "count": 3
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 30,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "minutes": 0,
+          "points": 33,
+          "reb": 0,
+          "ast": 0,
+          "subs": []
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123669",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-18",
+      "opponent": "EBH-Salgótarján",
+      "home": true,
+      "result": "W",
+      "our_score": 105,
+      "their_score": 94,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 22,
+          "points": 15,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 20,
+              "count": 3
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": null,
+              "minutes": 30,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 30,
+          "points": 11,
+          "reb": 4,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 21,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 29,
+              "count": 2
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": null,
+              "minutes": 8,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 30,
+          "points": 12,
+          "reb": 12,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 8,
+              "count": 4
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 20,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 26,
+          "points": 8,
+          "reb": 0,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Forgács Gábor",
+              "jersey": null,
+              "minutes": 6,
+              "count": 2
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": null,
+              "minutes": 8,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 29,
+          "points": 22,
+          "reb": 1,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 30,
+              "count": 1
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 20,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123655",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-10",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 99,
+      "their_score": 97,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 47,
+          "points": 14,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 17,
+              "count": 2
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": null,
+              "minutes": 54,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 53,
+          "points": 26,
+          "reb": 3,
+          "ast": 7,
+          "subs": [
+            {
+              "name": "Shereef Rashadd Mitchell",
+              "jersey": null,
+              "minutes": 58,
+              "count": 2
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 54,
+          "points": 34,
+          "reb": 22,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 11,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 50,
+          "points": 2,
+          "reb": 5,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Forgács Gábor",
+              "jersey": null,
+              "minutes": 7,
+              "count": 2
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 3,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Shereef Rashadd Mitchell",
+          "jersey": null,
+          "minutes": 58,
+          "points": 17,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Juhos Levente",
+              "jersey": null,
+              "minutes": 54,
+              "count": 1
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123639",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-04",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 85,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 26,
+          "points": 16,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Garamvölgyi Ákos Tibor",
+              "jersey": null,
+              "minutes": 26,
+              "count": 2
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": null,
+              "minutes": 25,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Boka-Magó Áron István",
+          "jersey": null,
+          "minutes": 11,
+          "points": 2,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 32,
+              "count": 2
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": null,
+              "minutes": 26,
+              "count": 1
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 38,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 38,
+          "points": 27,
+          "reb": 3,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 32,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Garamvölgyi Ákos Tibor",
+          "jersey": null,
+          "minutes": 26,
+          "points": 3,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Juhos Levente",
+              "jersey": null,
+              "minutes": 25,
+              "count": 4
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": null,
+              "minutes": 26,
+              "count": 2
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 2,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 32,
+          "points": 12,
+          "reb": 2,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 8,
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123623",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-18",
+      "opponent": "Insedo Veszprém Kosárlabda Klub",
+      "home": true,
+      "result": "W",
+      "our_score": 93,
+      "their_score": 79,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 26,
+          "points": 10,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Garamvölgyi Ákos Tibor",
+              "jersey": null,
+              "minutes": 13,
+              "count": 2
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 16,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 33,
+          "points": 19,
+          "reb": 7,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 35,
+              "count": 2
+            },
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": null,
+              "minutes": 29,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 34,
+          "points": 20,
+          "reb": 12,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 35,
+              "count": 1
+            },
+            {
+              "name": "Garamvölgyi Ákos Tibor",
+              "jersey": null,
+              "minutes": 13,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 29,
+          "points": 19,
+          "reb": 1,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 9,
+              "count": 4
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": null,
+              "minutes": 2,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 35,
+          "points": 15,
+          "reb": 5,
+          "ast": 7,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 16,
+              "count": 3
+            },
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": null,
+              "minutes": 29,
+              "count": 1
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 9,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123607",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-13",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": false,
+      "result": "W",
+      "our_score": 101,
+      "their_score": 71,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 25,
+          "points": 17,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 31,
+              "count": 2
+            },
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 8,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 37,
+          "points": 17,
+          "reb": 9,
+          "ast": 8,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 6,
+              "count": 1
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 25,
+          "points": 18,
+          "reb": 14,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Garamvölgyi Ákos Tibor",
+              "jersey": 20,
+              "minutes": 18,
+              "count": 4
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 6,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "minutes": 31,
+          "points": 16,
+          "reb": 6,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 18,
+              "count": 2
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 37,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 8,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Richter Dániel",
+          "jersey": 45,
+          "minutes": 14,
+          "points": 0,
+          "reb": 2,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 18,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 8,
+              "minutes": 25,
+              "count": 1
+            },
+            {
+              "name": "Forgács Gábor",
+              "jersey": 76,
+              "minutes": 5,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123591",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-07",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 100,
+      "their_score": 67,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 18,
+          "points": 10,
+          "reb": 0,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 14,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 8,
+              "minutes": 25,
+              "count": 1
+            },
+            {
+              "name": "Garamvölgyi Ákos",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 27,
+          "points": 13,
+          "reb": 3,
+          "ast": 9,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 26,
+              "count": 3
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": 21,
+              "minutes": 13,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 25,
+          "points": 23,
+          "reb": 8,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Garamvölgyi Ákos",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1
+            },
+            {
+              "name": "Forgács Gábor",
+              "jersey": 76,
+              "minutes": 9,
+              "count": 1
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 18,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "minutes": 26,
+          "points": 15,
+          "reb": 3,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 19,
+              "count": 3
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 14,
+              "count": 1
+            },
+            {
+              "name": "Forgács Gábor",
+              "jersey": 76,
+              "minutes": 9,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Richter Dániel",
+          "jersey": 45,
+          "minutes": 20,
+          "points": 4,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Molnár Dániel",
+              "jersey": 21,
+              "minutes": 13,
+              "count": 2
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 6,
+              "count": 1
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 26,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123575",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-29",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "W",
+      "our_score": 114,
+      "their_score": 78,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 21,
+          "points": 8,
+          "reb": 2,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 14,
+              "count": 2
+            },
+            {
+              "name": "Garamvölgyi Ákos",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 8,
+              "minutes": 24,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 31,
+          "points": 31,
+          "reb": 9,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 21,
+              "count": 2
+            },
+            {
+              "name": "Garamvölgyi Ákos",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 8,
+          "minutes": 24,
+          "points": 23,
+          "reb": 10,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Garamvölgyi Ákos",
+              "jersey": null,
+              "minutes": 12,
+              "count": 2
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 9,
+              "count": 2
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 10,
+              "minutes": 21,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik",
+          "jersey": null,
+          "minutes": 17,
+          "points": 0,
+          "reb": 3,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 17,
+              "count": 3
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": 21,
+              "minutes": 8,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 2,
+          "minutes": 17,
+          "points": 0,
+          "reb": 3,
+          "ast": 3,
+          "subs": []
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123559",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-21",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "W",
+      "our_score": 87,
+      "their_score": 75,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 10,
+          "minutes": 23,
+          "points": 3,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 99,
+              "minutes": 17,
+              "count": 5
+            },
+            {
+              "name": "Garamvölgyi Ákos",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 33,
+          "points": 20,
+          "reb": 4,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Shereef Rashadd Mitchell",
+              "jersey": null,
+              "minutes": 34,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 13,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 2,
+          "minutes": 27,
+          "points": 5,
+          "reb": 1,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 13,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 13,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef",
+          "jersey": 4,
+          "minutes": 0,
+          "points": 38,
+          "reb": 0,
+          "ast": 0,
+          "subs": []
+        },
+        {
+          "name": "Shereef Rashadd Mitchell",
+          "jersey": null,
+          "minutes": 34,
+          "points": 38,
+          "reb": 5,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 33,
+              "minutes": 13,
+              "count": 2
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 13,
+              "count": 1
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123547",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-17",
+      "opponent": "Vasas Akadémia",
+      "home": true,
+      "result": "L",
+      "our_score": 76,
+      "their_score": 87,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Boka-Magó Áron István",
+          "jersey": null,
+          "minutes": 18,
+          "points": 3,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": null,
+              "minutes": 23,
+              "count": 3
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 34,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 34,
+          "points": 30,
+          "reb": 8,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 38,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 9,
+              "count": 1
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 33,
+          "points": 5,
+          "reb": 1,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 4,
+              "count": 1
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": null,
+              "minutes": 3,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 38,
+          "points": 16,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 9,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Tóth Patrik Kristóf",
+          "jersey": null,
+          "minutes": 7,
+          "points": 3,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Garamvölgyi Ákos Tibor",
+              "jersey": null,
+              "minutes": 31,
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123535",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-08",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "W",
+      "our_score": 100,
+      "their_score": 94,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 15,
+          "minutes": 30,
+          "points": 5,
+          "reb": 5,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 8,
+              "minutes": 10,
+              "count": 2
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 6,
+              "minutes": 6,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 34,
+          "points": 22,
+          "reb": 1,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 15,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 5,
+          "minutes": 34,
+          "points": 22,
+          "reb": 4,
+          "ast": 7,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 8,
+              "minutes": 10,
+              "count": 1
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 6,
+              "minutes": 6,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef",
+          "jersey": 4,
+          "minutes": 31,
+          "points": 35,
+          "reb": 5,
+          "ast": 3,
+          "subs": []
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 31,
+          "points": 35,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 15,
+              "count": 2
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123523",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-02",
+      "opponent": "BKG PRIMA",
+      "home": true,
+      "result": "W",
+      "our_score": 72,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 31,
+          "points": 9,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 10,
+              "count": 3
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 36,
+          "points": 17,
+          "reb": 3,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": null,
+              "minutes": 12,
+              "count": 2
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 37,
+          "points": 11,
+          "reb": 12,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 3,
+              "count": 3
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 29,
+          "points": 2,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Békési Benedek",
+              "jersey": null,
+              "minutes": 2,
+              "count": 1
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 5,
+              "count": 1
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": null,
+              "minutes": 4,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Németh András",
+          "jersey": null,
+          "minutes": 12,
+          "points": 1,
+          "reb": 2,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 31,
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123511",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-25",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": false,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 15,
+          "minutes": 23,
+          "points": 16,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 8,
+              "minutes": 22,
+              "count": 3
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 29,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Boka-Magó Áron István",
+          "jersey": 8,
+          "minutes": 22,
+          "points": 11,
+          "reb": 5,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 15,
+              "minutes": 23,
+              "count": 2
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 29,
+              "count": 1
+            },
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": 5,
+              "minutes": 27,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 29,
+          "points": 10,
+          "reb": 4,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 16,
+              "count": 3
+            },
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 29,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 12,
+          "minutes": 32,
+          "points": 17,
+          "reb": 14,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 8,
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 5,
+          "minutes": 27,
+          "points": 12,
+          "reb": 6,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 6,
+              "minutes": 8,
+              "count": 2
+            },
+            {
+              "name": "Békési Benedek",
+              "jersey": 13,
+              "minutes": 4,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123499",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-19",
+      "opponent": "PVSK-Veolia",
+      "home": true,
+      "result": "W",
+      "our_score": 106,
+      "their_score": 91,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": null,
+          "minutes": 30,
+          "points": 12,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 17,
+              "count": 2
+            },
+            {
+              "name": "Shereef Rashadd Mitchell",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": null,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": null,
+          "minutes": 34,
+          "points": 33,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Shereef Rashadd Mitchell",
+              "jersey": null,
+              "minutes": 27,
+              "count": 2
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": null,
+              "minutes": 30,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": null,
+          "minutes": 34,
+          "points": 9,
+          "reb": 8,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": null,
+              "minutes": 6,
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": null,
+          "minutes": 29,
+          "points": 11,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": null,
+              "minutes": 8,
+              "count": 3
+            },
+            {
+              "name": "Békési Benedek",
+              "jersey": null,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Németh András",
+          "jersey": null,
+          "minutes": 12,
+          "points": 3,
+          "reb": 0,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            },
+            {
+              "name": "Shereef Rashadd Mitchell",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": null,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123487",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-10",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 83,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Boka-Magó Áron István",
+          "jersey": 8,
+          "minutes": 22,
+          "points": 2,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 23,
+              "count": 2
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 34,
+              "count": 1
+            },
+            {
+              "name": "Winn Iii Terry L",
+              "jersey": 11,
+              "minutes": 32,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 34,
+          "points": 22,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 8,
+              "minutes": 22,
+              "count": 2
+            },
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 23,
+              "count": 1
+            },
+            {
+              "name": "Forgács Gábor",
+              "jersey": 13,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 12,
+          "minutes": 22,
+          "points": 8,
+          "reb": 9,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 3
+            },
+            {
+              "name": "Winn Iii Terry L",
+              "jersey": 11,
+              "minutes": 32,
+              "count": 1
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 5,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 5,
+          "minutes": 32,
+          "points": 15,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Békési Benedek",
+              "jersey": 4,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 6,
+              "minutes": 4,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Winn Iii Terry L",
+          "jersey": 11,
+          "minutes": 32,
+          "points": 21,
+          "reb": 13,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 5,
+              "count": 3
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 12,
+              "minutes": 22,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123473",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-05",
+      "opponent": "JÁSZBERÉNYI KSE",
+      "home": true,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 89,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 15,
+          "minutes": 31,
+          "points": 16,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Winn Iii Terry L",
+              "jersey": 11,
+              "minutes": 36,
+              "count": 2
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 13,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Boka-Magó Áron István",
+          "jersey": 5,
+          "minutes": 20,
+          "points": 7,
+          "reb": 5,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 23,
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 37,
+          "points": 11,
+          "reb": 1,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 5,
+              "minutes": 20,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 8,
+          "minutes": 30,
+          "points": 11,
+          "reb": 3,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 6,
+              "minutes": 3,
+              "count": 2
+            },
+            {
+              "name": "Békési Benedek",
+              "jersey": 4,
+              "minutes": 7,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Winn Iii Terry L",
+          "jersey": 11,
+          "minutes": 36,
+          "points": 18,
+          "reb": 14,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 13,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123457",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-09-28",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 102,
+      "their_score": 62,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Boka-Magó Áron István",
+          "jersey": 5,
+          "minutes": 25,
+          "points": 2,
+          "reb": 8,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 16,
+              "count": 2
+            },
+            {
+              "name": "Winn Iii Terry L",
+              "jersey": 11,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 32,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 32,
+          "points": 21,
+          "reb": 7,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 5,
+              "minutes": 25,
+              "count": 1
+            },
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 16,
+              "count": 1
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 12,
+          "minutes": 21,
+          "points": 14,
+          "reb": 8,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 2
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 14,
+              "count": 1
+            },
+            {
+              "name": "Winn Iii Terry L",
+              "jersey": 11,
+              "minutes": 28,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 8,
+          "minutes": 27,
+          "points": 5,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Békési Benedek",
+              "jersey": 4,
+              "minutes": 2,
+              "count": 2
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 6,
+              "minutes": 8,
+              "count": 1
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": 7,
+              "minutes": 3,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Winn Iii Terry L",
+          "jersey": 11,
+          "minutes": 28,
+          "points": 22,
+          "reb": 8,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 14,
+              "count": 1
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 12,
+              "minutes": 21,
+              "count": 1
+            },
+            {
+              "name": "Kékesi Kristóf",
+              "jersey": 13,
+              "minutes": 4,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

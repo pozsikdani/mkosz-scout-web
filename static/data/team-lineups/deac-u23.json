@@ -1,0 +1,3511 @@
+{
+  "team": "DEAC U23",
+  "season": "x2526",
+  "match_count": 26,
+  "matches": [
+    {
+      "gamecode": "hun2a_123809",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-04-05",
+      "opponent": "Vasas Akadémia",
+      "home": true,
+      "result": "L",
+      "our_score": 55,
+      "their_score": 61,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bankó Zoltán Martin",
+          "jersey": null,
+          "minutes": 27,
+          "points": 10,
+          "reb": 9,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 18,
+              "count": 2
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 29,
+              "count": 1
+            },
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 34,
+          "points": 11,
+          "reb": 11,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 17,
+              "count": 1
+            },
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            },
+            {
+              "name": "Szafkó Márk",
+              "jersey": null,
+              "minutes": 4,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 29,
+          "points": 17,
+          "reb": 4,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 17,
+          "points": 4,
+          "reb": 4,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 29,
+              "count": 4
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 31,
+          "points": 5,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Szafkó Márk",
+              "jersey": null,
+              "minutes": 4,
+              "count": 1
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1
+            },
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123795",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-29",
+      "opponent": "Peka Bau-MEAFC Wolves",
+      "home": true,
+      "result": "W",
+      "our_score": 99,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bankó Zoltán Martin",
+          "jersey": null,
+          "minutes": 24,
+          "points": 14,
+          "reb": 10,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 31,
+              "count": 2
+            },
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 25,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 31,
+          "points": 14,
+          "reb": 17,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 25,
+              "count": 2
+            },
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 26,
+          "points": 12,
+          "reb": 2,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 29,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 21,
+          "points": 8,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 29,
+              "count": 4
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 26,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 29,
+          "points": 24,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szafkó Márk",
+              "jersey": null,
+              "minutes": 9,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1
+            },
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123779",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-22",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 71,
+      "their_score": 98,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bankó Zoltán Martin",
+          "jersey": 19,
+          "minutes": 0,
+          "points": 19,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": 2,
+              "minutes": 0,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 0,
+          "points": 11,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": 19,
+              "minutes": 0,
+              "count": 3
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 0,
+          "points": 4,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 0,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 0,
+          "points": 7,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 0,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 0,
+              "count": 1
+            },
+            {
+              "name": "Kedvek László",
+              "jersey": 99,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 15,
+          "reb": 0,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 0,
+              "count": 2
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": 2,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123763",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-14",
+      "opponent": "HÜBNER Nyíregyháza BS",
+      "home": true,
+      "result": "L",
+      "our_score": 71,
+      "their_score": 75,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bankó Zoltán Martin",
+          "jersey": null,
+          "minutes": 14,
+          "points": 11,
+          "reb": 5,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 25,
+              "count": 3
+            },
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 32,
+              "count": 1
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 32,
+          "points": 17,
+          "reb": 10,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": null,
+              "minutes": 14,
+              "count": 2
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 9,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hõgye Patrik",
+          "jersey": null,
+          "minutes": 28,
+          "points": 12,
+          "reb": 9,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Szafkó Márk",
+              "jersey": null,
+              "minutes": 13,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 34,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 9,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Sándor",
+          "jersey": null,
+          "minutes": 34,
+          "points": 4,
+          "reb": 5,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Hõgye Patrik",
+              "jersey": null,
+              "minutes": 28,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 34,
+          "points": 14,
+          "reb": 7,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": null,
+              "minutes": 14,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123747",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-08",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 89,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bankó Zoltán Martin",
+          "jersey": 19,
+          "minutes": 28,
+          "points": 10,
+          "reb": 1,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 22,
+              "count": 3
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 24,
+          "points": 13,
+          "reb": 5,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Szafkó Márk",
+              "jersey": 3,
+              "minutes": 7,
+              "count": 2
+            },
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": 19,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 29,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szentkuti Ákos",
+          "jersey": 4,
+          "minutes": 33,
+          "points": 12,
+          "reb": 2,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 22,
+              "count": 1
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Szafkó Márk",
+              "jersey": 3,
+              "minutes": 7,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 24,
+          "minutes": 28,
+          "points": 10,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 22,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 7,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 29,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 29,
+          "points": 6,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szafkó Márk",
+              "jersey": 3,
+              "minutes": 7,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 22,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 22,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123731",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-01",
+      "opponent": "EBH-Salgótarján",
+      "home": true,
+      "result": "W",
+      "our_score": 93,
+      "their_score": 86,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 41,
+          "points": 24,
+          "reb": 11,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 43,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 41,
+          "points": 8,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 22,
+              "count": 2
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 38,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Kovács Ákos Bence",
+          "jersey": null,
+          "minutes": 43,
+          "points": 16,
+          "reb": 7,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": null,
+              "minutes": 31,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Varga Sándor",
+          "jersey": null,
+          "minutes": 38,
+          "points": 31,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 19,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 22,
+          "points": 1,
+          "reb": 2,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 11,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 3,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123715",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-13",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 84,
+      "their_score": 95,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 36,
+          "points": 21,
+          "reb": 6,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 34,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 35,
+          "points": 13,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 18,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": null,
+          "minutes": 34,
+          "points": 17,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 10,
+              "count": 2
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 32,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 18,
+          "points": 9,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 32,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 23,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 2,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 23,
+          "points": 3,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 18,
+              "count": 2
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1
+            },
+            {
+              "name": "Szafkó Márk",
+              "jersey": null,
+              "minutes": 8,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123699",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-06",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 32,
+          "points": 25,
+          "reb": 6,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 33,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 23,
+              "count": 2
+            },
+            {
+              "name": "Fekete Balázs",
+              "jersey": 30,
+              "minutes": 10,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Orbán Imre",
+          "jersey": 27,
+          "minutes": 19,
+          "points": 2,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 24,
+              "count": 2
+            },
+            {
+              "name": "Kedvek László",
+              "jersey": 99,
+              "minutes": 5,
+              "count": 2
+            },
+            {
+              "name": "Szafkó Márk",
+              "jersey": 11,
+              "minutes": 12,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szentkuti Ákos",
+          "jersey": 4,
+          "minutes": 33,
+          "points": 19,
+          "reb": 8,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 23,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 12,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 30,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 24,
+          "minutes": 24,
+          "points": 14,
+          "reb": 5,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Gál Csongor",
+              "jersey": 2,
+              "minutes": 32,
+              "count": 2
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 30,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 30,
+          "points": 20,
+          "reb": 9,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 23,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 12,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123687",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-01",
+      "opponent": "Insedo Veszprém Kosárlabda Klub",
+      "home": true,
+      "result": "W",
+      "our_score": 72,
+      "their_score": 71,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 31,
+          "points": 14,
+          "reb": 12,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 29,
+              "count": 2
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 20,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 24,
+          "points": 13,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 23,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Kovács Ákos Bence",
+          "jersey": null,
+          "minutes": 29,
+          "points": 14,
+          "reb": 8,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 20,
+              "count": 3
+            },
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 25,
+          "points": 4,
+          "reb": 2,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 23,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 33,
+          "points": 15,
+          "reb": 5,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Szafkó Márk",
+              "jersey": null,
+              "minutes": 11,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123675",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-25",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": false,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 78,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 38,
+          "points": 12,
+          "reb": 13,
+          "ast": 7,
+          "subs": [
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 7,
+              "count": 1
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Orbán Imre",
+          "jersey": 83,
+          "minutes": 28,
+          "points": 13,
+          "reb": 7,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Szafkó Márk",
+              "jersey": 0,
+              "minutes": 11,
+              "count": 3
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 33,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 7,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szentkuti Ákos",
+          "jersey": 4,
+          "minutes": 33,
+          "points": 11,
+          "reb": 2,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 83,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Fekete Balázs",
+              "jersey": 30,
+              "minutes": 15,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 31,
+          "points": 15,
+          "reb": 8,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Fekete Balázs",
+              "jersey": 30,
+              "minutes": 15,
+              "count": 2
+            },
+            {
+              "name": "Szafkó Márk",
+              "jersey": 0,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 83,
+              "minutes": 28,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 37,
+          "points": 12,
+          "reb": 8,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 31,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 83,
+              "minutes": 28,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123663",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-17",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 99,
+      "their_score": 73,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 30,
+          "points": 12,
+          "reb": 12,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Fekete Balázs",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 25,
+          "points": 13,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Fekete Balázs",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szentkuti Ákos",
+          "jersey": null,
+          "minutes": 21,
+          "points": 17,
+          "reb": 4,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 27,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": null,
+          "minutes": 28,
+          "points": 17,
+          "reb": 6,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 30,
+              "count": 1
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 33,
+          "points": 22,
+          "reb": 11,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123581",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-14",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": false,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 112,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Orbán Imre",
+          "jersey": 27,
+          "minutes": 32,
+          "points": 6,
+          "reb": 6,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Csécsei Gergõ",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1
+            },
+            {
+              "name": "Szûcs Gellért",
+              "jersey": null,
+              "minutes": 4,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 11,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 24,
+          "minutes": 29,
+          "points": 29,
+          "reb": 2,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 32,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 27,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 25,
+          "points": 11,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Székely Bence",
+              "jersey": 39,
+              "minutes": 13,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Csécsei Gergõ",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Sándor",
+          "jersey": 69,
+          "minutes": 31,
+          "points": 18,
+          "reb": 10,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 25,
+              "count": 1
+            },
+            {
+              "name": "Székely Bence",
+              "jersey": 39,
+              "minutes": 13,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 27,
+          "points": 13,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Fekete Balázs",
+              "jersey": 30,
+              "minutes": 18,
+              "count": 2
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 11,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123651",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-11",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 96,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 40,
+          "points": 13,
+          "reb": 9,
+          "ast": 4,
+          "subs": []
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 35,
+          "points": 18,
+          "reb": 8,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 34,
+              "count": 1
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 13,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 5,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szentkuti Ákos",
+          "jersey": 4,
+          "minutes": 34,
+          "points": 22,
+          "reb": 7,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 11,
+              "count": 2
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 13,
+              "count": 1
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 5,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 24,
+          "minutes": 27,
+          "points": 5,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 9,
+              "count": 3
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 13,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 26,
+          "points": 8,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 13,
+              "count": 1
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123639",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-04",
+      "opponent": "Phoenix-MT Fót",
+      "home": true,
+      "result": "L",
+      "our_score": 85,
+      "their_score": 89,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 38,
+          "points": 14,
+          "reb": 16,
+          "ast": 10,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 8,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 27,
+          "points": 21,
+          "reb": 5,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 22,
+              "count": 3
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Orbán Imre",
+          "jersey": null,
+          "minutes": 8,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 29,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 23,
+          "points": 15,
+          "reb": 1,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Vadai Balázs",
+              "jersey": null,
+              "minutes": 11,
+              "count": 2
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 22,
+              "count": 1
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 31,
+          "points": 10,
+          "reb": 1,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 23,
+              "count": 2
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 29,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123627",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-19",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 91,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 36,
+          "points": 13,
+          "reb": 9,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 30,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 36,
+          "points": 18,
+          "reb": 6,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 22,
+              "count": 1
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 30,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 24,
+          "minutes": 30,
+          "points": 21,
+          "reb": 5,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 14,
+              "count": 3
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 29,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 22,
+          "points": 10,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Gál Csongor",
+              "jersey": 2,
+              "minutes": 36,
+              "count": 2
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 29,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 31,
+          "points": 9,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 22,
+              "count": 3
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 2,
+              "count": 2
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 29,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123613",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-14",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "L",
+      "our_score": 87,
+      "their_score": 105,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 33,
+          "points": 19,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 24,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 10,
+              "count": 1
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": 69,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 30,
+          "points": 22,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Szafkó Márk",
+              "jersey": 77,
+              "minutes": 7,
+              "count": 2
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 10,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 24,
+          "minutes": 24,
+          "points": 3,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 10,
+              "count": 1
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 19,
+          "points": 6,
+          "reb": 3,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 19,
+              "count": 1
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 24,
+              "count": 1
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": 69,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 28,
+          "points": 7,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": 69,
+              "minutes": 25,
+              "count": 2
+            },
+            {
+              "name": "Flasár Botond",
+              "jersey": 33,
+              "minutes": 33,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123597",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-07",
+      "opponent": "BKG PRIMA Akadémia",
+      "home": true,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 76,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 33,
+          "points": 13,
+          "reb": 9,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 9,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Kovács Ákos Bence",
+          "jersey": null,
+          "minutes": 38,
+          "points": 18,
+          "reb": 11,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 18,
+          "points": 6,
+          "reb": 1,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 26,
+              "count": 3
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 16,
+              "count": 1
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 34,
+          "points": 7,
+          "reb": 6,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 16,
+              "count": 1
+            },
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 38,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123565",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-22",
+      "opponent": "PVSK-Veolia",
+      "home": true,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 87,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 33,
+          "points": 15,
+          "reb": 5,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 11,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Hõgye Patrik",
+          "jersey": null,
+          "minutes": 26,
+          "points": 18,
+          "reb": 3,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 24,
+              "count": 3
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Kovács Ákos Bence",
+          "jersey": null,
+          "minutes": 36,
+          "points": 10,
+          "reb": 6,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 33,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 12,
+          "points": 3,
+          "reb": 1,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 30,
+              "count": 3
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 28,
+          "points": 21,
+          "reb": 1,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 30,
+              "count": 1
+            },
+            {
+              "name": "Hõgye Patrik",
+              "jersey": null,
+              "minutes": 26,
+              "count": 1
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123481",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-19",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 108,
+      "their_score": 72,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 27,
+          "points": 12,
+          "reb": 8,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": 57,
+              "minutes": 20,
+              "count": 2
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 14,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "H?gye Patrik",
+          "jersey": null,
+          "minutes": 19,
+          "points": 12,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 20,
+              "count": 1
+            },
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": 57,
+              "minutes": 20,
+              "count": 1
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 17,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hőgye Patrik",
+          "jersey": 88,
+          "minutes": 19,
+          "points": 12,
+          "reb": 3,
+          "ast": 1,
+          "subs": []
+        },
+        {
+          "name": "Kovács Ákos Bence",
+          "jersey": 57,
+          "minutes": 20,
+          "points": 13,
+          "reb": 4,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 17,
+              "count": 1
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 22,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 14,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 20,
+          "points": 11,
+          "reb": 6,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": 69,
+              "minutes": 22,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 25,
+              "count": 2
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 22,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123549",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-14",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 99,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Balázsi Ákos Milán",
+          "jersey": null,
+          "minutes": 25,
+          "points": 0,
+          "reb": 8,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 7,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 0,
+              "minutes": 30,
+              "count": 1
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Flasár Botond",
+          "jersey": 3,
+          "minutes": 30,
+          "points": 0,
+          "reb": 12,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 0,
+              "minutes": 30,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 4,
+          "minutes": 27,
+          "points": 0,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 27,
+              "count": 2
+            },
+            {
+              "name": "Szafkó Márk",
+              "jersey": null,
+              "minutes": 5,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 7,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 0,
+          "minutes": 30,
+          "points": 18,
+          "reb": 1,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Csécsei Gerg?",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 7,
+              "minutes": 19,
+              "count": 1
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 25,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 23,
+          "points": 13,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 4,
+              "minutes": 27,
+              "count": 2
+            },
+            {
+              "name": "Csécsei Gerg?",
+              "jersey": null,
+              "minutes": 7,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123533",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-09",
+      "opponent": "Jászberényi KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 80,
+      "their_score": 77,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 33,
+          "points": 9,
+          "reb": 6,
+          "ast": 7,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 21,
+              "count": 2
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 16,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 27,
+          "points": 16,
+          "reb": 6,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 25,
+              "count": 2
+            },
+            {
+              "name": "Hõgye Patrik",
+              "jersey": null,
+              "minutes": 27,
+              "count": 2
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 11,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hõgye Patrik",
+          "jersey": null,
+          "minutes": 27,
+          "points": 15,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 27,
+              "count": 3
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 16,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": null,
+          "minutes": 21,
+          "points": 0,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 33,
+              "count": 2
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 16,
+              "count": 1
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 19,
+          "points": 8,
+          "reb": 2,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 21,
+              "count": 4
+            },
+            {
+              "name": "Hõgye Patrik",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123517",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-02",
+      "opponent": "Tiszaújvárosi Termálfürdõ Phoenix K",
+      "home": true,
+      "result": "W",
+      "our_score": 102,
+      "their_score": 97,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": null,
+          "minutes": 34,
+          "points": 15,
+          "reb": 5,
+          "ast": 9,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 25,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 34,
+          "points": 32,
+          "reb": 4,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 28,
+              "count": 2
+            },
+            {
+              "name": "Turán Simon",
+              "jersey": null,
+              "minutes": 3,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Orbán Imre",
+          "jersey": null,
+          "minutes": 25,
+          "points": 6,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Flasár Botond",
+              "jersey": null,
+              "minutes": 34,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 19,
+              "count": 2
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 28,
+          "points": 12,
+          "reb": 2,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 28,
+              "count": 3
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": null,
+          "minutes": 19,
+          "points": 14,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": null,
+              "minutes": 16,
+              "count": 2
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 34,
+              "count": 1
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123505",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-26",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "L",
+      "our_score": 87,
+      "their_score": 93,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 45,
+          "points": 22,
+          "reb": 12,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 18,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 35,
+          "points": 14,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 20,
+              "count": 2
+            },
+            {
+              "name": "H?gye Patrik",
+              "jersey": null,
+              "minutes": 31,
+              "count": 1
+            },
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 10,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "H?gye Patrik",
+          "jersey": null,
+          "minutes": 31,
+          "points": 11,
+          "reb": 1,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 10,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 34,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hőgye Patrik",
+          "jersey": 88,
+          "minutes": 31,
+          "points": 11,
+          "reb": 1,
+          "ast": 4,
+          "subs": []
+        },
+        {
+          "name": "Orbán Imre",
+          "jersey": 27,
+          "minutes": 18,
+          "points": 0,
+          "reb": 2,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": 57,
+              "minutes": 37,
+              "count": 4
+            },
+            {
+              "name": "Csécsei Gerg?",
+              "jersey": null,
+              "minutes": 0,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123493",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-19",
+      "opponent": "Óbudai Kaszások",
+      "home": true,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 78,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 31,
+          "points": 14,
+          "reb": 5,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Csécsei Gergõ",
+              "jersey": null,
+              "minutes": 14,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hõgye Patrik",
+          "jersey": null,
+          "minutes": 32,
+          "points": 25,
+          "reb": 2,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Kovács Ákos Bence",
+          "jersey": null,
+          "minutes": 33,
+          "points": 8,
+          "reb": 5,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 11,
+              "count": 2
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Orbán Imre",
+          "jersey": null,
+          "minutes": 11,
+          "points": 3,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 33,
+              "count": 3
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": null,
+          "minutes": 28,
+          "points": 17,
+          "reb": 4,
+          "ast": 9,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": null,
+              "minutes": 23,
+              "count": 3
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": null,
+              "minutes": 31,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123469",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-05",
+      "opponent": "Újbuda MAFC",
+      "home": true,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gál Csongor",
+          "jersey": null,
+          "minutes": 27,
+          "points": 19,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": null,
+              "minutes": 28,
+              "count": 2
+            },
+            {
+              "name": "Turán Simon",
+              "jersey": null,
+              "minutes": 9,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 20,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hõgye Patrik",
+          "jersey": null,
+          "minutes": 33,
+          "points": 29,
+          "reb": 7,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 20,
+              "count": 2
+            },
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Kovács Ákos Bence",
+          "jersey": null,
+          "minutes": 36,
+          "points": 20,
+          "reb": 10,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": null,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Hõgye Patrik",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Orbán Imre",
+          "jersey": null,
+          "minutes": 28,
+          "points": 0,
+          "reb": 4,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Várszegi Ádám",
+              "jersey": null,
+              "minutes": 19,
+              "count": 3
+            },
+            {
+              "name": "Kovács Ákos Bence",
+              "jersey": null,
+              "minutes": 36,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Szentkuti Ákos",
+          "jersey": null,
+          "minutes": 28,
+          "points": 7,
+          "reb": 4,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Hõgye Patrik",
+              "jersey": null,
+              "minutes": 33,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": null,
+              "minutes": 20,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123457",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-09-28",
+      "opponent": "PHOENIX-MT FÓT",
+      "home": false,
+      "result": "L",
+      "our_score": 62,
+      "their_score": 102,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 20,
+          "points": 13,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 16,
+              "count": 1
+            },
+            {
+              "name": "H?gye Patrik",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1
+            },
+            {
+              "name": "Fekete Balázs",
+              "jersey": 30,
+              "minutes": 12,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "H?gye Patrik",
+          "jersey": null,
+          "minutes": 19,
+          "points": 11,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Gál Csongor",
+              "jersey": 2,
+              "minutes": 20,
+              "count": 2
+            },
+            {
+              "name": "Turán Simon",
+              "jersey": 82,
+              "minutes": 20,
+              "count": 1
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 16,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hőgye Patrik",
+          "jersey": 88,
+          "minutes": 19,
+          "points": 11,
+          "reb": 1,
+          "ast": 0,
+          "subs": []
+        },
+        {
+          "name": "Orbán Imre",
+          "jersey": 27,
+          "minutes": 18,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Csécsei Gerg?",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 13,
+              "count": 1
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 30,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 13,
+          "points": 5,
+          "reb": 1,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Varga Sándor",
+              "jersey": 69,
+              "minutes": 31,
+              "count": 4
+            },
+            {
+              "name": "H?gye Patrik",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

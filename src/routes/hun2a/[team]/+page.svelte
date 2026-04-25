@@ -1,7 +1,10 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	import PlayerCards from '$lib/components/PlayerCards.svelte';
+	import PossessionBreakdown from '$lib/components/PossessionBreakdown.svelte';
 	import Shotchart from '$lib/components/Shotchart.svelte';
 	import ShotchartZones from '$lib/components/ShotchartZones.svelte';
+	import StartingFive from '$lib/components/StartingFive.svelte';
 	import type { MatchRow } from '$lib/types';
 	import type { PageData } from './$types';
 
@@ -10,6 +13,11 @@
 	const standings = $derived(data.standings);
 	const allMatches = $derived(data.matches?.matches ?? []);
 	const shotData = $derived(data.shots);
+	const playersData = $derived(data.players);
+	const hasPlayers = $derived((playersData?.players?.length ?? 0) > 0);
+	const lineupsData = $derived(data.lineups);
+	const hasLineups = $derived((lineupsData?.matches?.length ?? 0) > 0);
+	const possessionsData = $derived(data.possessions);
 
 	const gp = $derived(team.gp || 0);
 	const diff = $derived(team.scored - team.allowed);
@@ -17,7 +25,7 @@
 	const oppg = $derived(gp > 0 ? team.allowed / gp : 0);
 	const margin = $derived(ppg - oppg);
 
-	type Tab = 'info' | 'shotchart';
+	type Tab = 'info' | 'lineups' | 'players' | 'shotchart';
 	let activeTab = $state<Tab>('info');
 
 	type PhaseFilter = 'all' | 'alapszakasz' | 'rajatszas';
@@ -215,6 +223,30 @@
 		</button>
 		<button
 			type="button"
+			onclick={() => (activeTab = 'lineups')}
+			class="rounded px-4 py-2 transition"
+			class:bg-accent={activeTab === 'lineups'}
+			class:text-fg={activeTab === 'lineups'}
+			class:text-muted={activeTab !== 'lineups'}
+			disabled={!hasLineups}
+		>
+			Kezdőötös
+			{#if !hasLineups}<span class="ml-1 text-xs opacity-60">(nincs adat)</span>{/if}
+		</button>
+		<button
+			type="button"
+			onclick={() => (activeTab = 'players')}
+			class="rounded px-4 py-2 transition"
+			class:bg-accent={activeTab === 'players'}
+			class:text-fg={activeTab === 'players'}
+			class:text-muted={activeTab !== 'players'}
+			disabled={!hasPlayers}
+		>
+			Játékosok
+			{#if !hasPlayers}<span class="ml-1 text-xs opacity-60">(nincs adat)</span>{/if}
+		</button>
+		<button
+			type="button"
 			onclick={() => (activeTab = 'shotchart')}
 			class="rounded px-4 py-2 transition"
 			class:bg-accent={activeTab === 'shotchart'}
@@ -404,6 +436,26 @@
 			>{#if playedMatches.length > 0}
 				· Meccsek forrása: mkosz-stats DB{/if}
 		</p>
+	{:else if activeTab === 'lineups'}
+		<section>
+			{#if !lineupsData || lineupsData.matches.length === 0}
+				<div class="rounded-lg border border-border bg-card p-6 text-sm text-muted">
+					Ehhez a csapathoz még nincs kezdőötös adat.
+				</div>
+			{:else}
+				<StartingFive data={lineupsData} />
+			{/if}
+		</section>
+	{:else if activeTab === 'players'}
+		<section>
+			{#if !playersData || playersData.players.length === 0}
+				<div class="rounded-lg border border-border bg-card p-6 text-sm text-muted">
+					Ehhez a csapathoz még nincs játékos-statisztika az adatbázisban.
+				</div>
+			{:else}
+				<PlayerCards data={playersData} />
+			{/if}
+		</section>
 	{:else if activeTab === 'shotchart'}
 		<section>
 			{#if !hasShots}
@@ -630,6 +682,16 @@
 				<p class="mt-6 text-xs text-muted">
 					Forrás: mkosz.hu shotchart API · csak mezőnyből dobott lövések (büntetők kihagyva)
 				</p>
+
+				{#if possessionsData}
+					<div class="mt-8">
+						<PossessionBreakdown
+							data={possessionsData}
+							selectedGamecodes={selectedSet}
+							teamLabel={team.team}
+						/>
+					</div>
+				{/if}
 			{/if}
 		</section>
 	{/if}

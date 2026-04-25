@@ -1,7 +1,14 @@
 import { error } from '@sveltejs/kit';
 import { base } from '$app/paths';
 import { teamToSlug } from '$lib/slug';
-import type { Standings, TeamMatches, TeamShots } from '$lib/types';
+import type {
+	Standings,
+	TeamLineups,
+	TeamMatches,
+	TeamPlayers,
+	TeamPossessions,
+	TeamShots
+} from '$lib/types';
 import type { EntryGenerator, PageLoad } from './$types';
 
 async function loadStandings(fetchFn: typeof fetch): Promise<Standings> {
@@ -23,7 +30,13 @@ export const load: PageLoad = async ({ params, fetch }) => {
 	}
 	const matches = await loadJson<TeamMatches>(fetch, `${base}/data/team-matches/${params.team}.json`);
 	const shots = await loadJson<TeamShots>(fetch, `${base}/data/team-shots/${params.team}.json`);
-	return { team, standings, matches, shots };
+	const players = await loadJson<TeamPlayers>(fetch, `${base}/data/team-players/${params.team}.json`);
+	const lineups = await loadJson<TeamLineups>(fetch, `${base}/data/team-lineups/${params.team}.json`);
+	const possessions = await loadJson<TeamPossessions>(
+		fetch,
+		`${base}/data/team-possessions/${params.team}.json`
+	);
+	return { team, standings, matches, shots, players, lineups, possessions };
 };
 
 export const entries: EntryGenerator = async () => {
