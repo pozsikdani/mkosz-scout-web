@@ -144,40 +144,40 @@
 		{#each selected.starters as starter (starter.name)}
 			{@const pc = posCategory(starter.position)}
 			<div class="flex flex-col rounded-lg border border-border bg-card overflow-hidden">
-				<!-- Photo + jersey + name -->
-				<div class="flex items-center gap-2 border-b border-border bg-card-hover px-3 py-2">
-					{#if starter.photo_filename}
-						<img
-							src={`${base}/players/${starter.photo_filename}`}
-							alt={starter.name}
-							loading="lazy"
-							class="h-12 w-12 shrink-0 rounded-lg object-cover"
-						/>
-					{:else}
-						<div
-							class="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-card text-muted"
-							title="Nincs fotó"
-							aria-label="Nincs fotó"
-						>
-							<svg viewBox="0 0 24 24" class="h-6 w-6" fill="currentColor" aria-hidden="true">
-								<path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0 2c-4.42 0-8 2.69-8 6v2h16v-2c0-3.31-3.58-6-8-6Z" />
-							</svg>
+				<!-- Photo + jersey on top row, name spans below -->
+				<div class="border-b border-border bg-card-hover px-3 py-2">
+					<div class="flex items-center gap-2">
+						{#if starter.photo_filename}
+							<img
+								src={`${base}/players/${starter.photo_filename}`}
+								alt={starter.name}
+								loading="lazy"
+								class="h-12 w-12 shrink-0 rounded-lg object-cover"
+							/>
+						{:else}
+							<div
+								class="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-card text-muted"
+								title="Nincs fotó"
+								aria-label="Nincs fotó"
+							>
+								<svg viewBox="0 0 24 24" class="h-6 w-6" fill="currentColor" aria-hidden="true">
+									<path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0 2c-4.42 0-8 2.69-8 6v2h16v-2c0-3.31-3.58-6-8-6Z" />
+								</svg>
+							</div>
+						{/if}
+						<div class="flex h-9 w-9 shrink-0 items-center justify-center rounded bg-accent font-mono text-base font-bold text-fg">
+							{starter.jersey ?? '—'}
 						</div>
-					{/if}
-					<div class="flex h-9 w-9 shrink-0 items-center justify-center rounded bg-accent font-mono text-base font-bold text-fg">
-						{starter.jersey ?? '—'}
-					</div>
-					<div class="min-w-0 flex-1">
-						<p class="truncate text-sm font-semibold leading-tight" title={starter.name}>
-							{starter.name}
-						</p>
-						<p class="mt-0.5 flex flex-wrap items-center gap-1.5 font-mono text-[10px] text-muted">
+						<div class="ml-auto flex flex-col items-end gap-0.5">
 							{#if pc}
-								<span class="rounded px-1 py-px text-[9px] font-bold {POS_CLS[pc]}">{pc}</span>
+								<span class="rounded px-1 py-px font-mono text-[9px] font-bold {POS_CLS[pc]}">{pc}</span>
 							{/if}
-							<span>{starter.minutes} perc</span>
-						</p>
+							<span class="font-mono text-[10px] text-muted">{starter.minutes} perc</span>
+						</div>
 					</div>
+					<p class="mt-1.5 text-sm font-semibold leading-snug break-words" title={starter.name}>
+						{starter.name}
+					</p>
 				</div>
 
 				<!-- Mini box: PTS / REB / AST -->
