@@ -22,18 +22,22 @@
           "points": 4,
           "reb": 2,
           "ast": 4,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 10,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         },
@@ -44,12 +48,15 @@
           "points": 21,
           "reb": 10,
           "ast": 1,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 8,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
@@ -60,24 +67,29 @@
           "points": 15,
           "reb": 9,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": null
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 31,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             }
           ]
         },
@@ -88,18 +100,22 @@
           "points": 7,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 31,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         },
@@ -110,24 +126,29 @@
           "points": 2,
           "reb": 0,
           "ast": 4,
+          "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 11,
-              "count": 2
+              "count": 2,
+              "photo_filename": null
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         }
@@ -152,34 +173,40 @@
           "points": 13,
           "reb": 6,
           "ast": 2,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 13,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 37,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
         {
           "name": "Halasy Örs",
-          "jersey": 23,
+          "jersey": 0,
           "minutes": 7,
           "points": 4,
           "reb": 0,
           "ast": 0,
+          "position": "2-3",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 33,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             }
           ]
         },
@@ -190,12 +217,15 @@
           "points": 5,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 22,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
@@ -206,18 +236,22 @@
           "points": 11,
           "reb": 7,
           "ast": 3,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 10,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 9,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             }
           ]
         },
@@ -228,18 +262,22 @@
           "points": 14,
           "reb": 1,
           "ast": 7,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 9,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         }
@@ -259,105 +297,123 @@
       "starters": [
         {
           "name": "Andrássy Géza",
-          "jersey": null,
+          "jersey": 15,
           "minutes": 20,
           "points": 8,
           "reb": 6,
           "ast": 0,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Olasz Ádám Zsolt",
-              "jersey": null,
+              "jersey": 34,
               "minutes": 18,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
         {
           "name": "Farkas Attila",
-          "jersey": null,
+          "jersey": 9,
           "minutes": 25,
           "points": 0,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Karosi Gergely",
-              "jersey": null,
+              "jersey": 25,
               "minutes": 19,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             }
           ]
         },
         {
           "name": "Halasy Örs",
-          "jersey": null,
+          "jersey": 0,
           "minutes": 22,
           "points": 6,
           "reb": 1,
           "ast": 1,
+          "position": "2-3",
           "subs": [
             {
               "name": "Zöldi Péter András",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 21,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Takács Dániel",
-              "jersey": null,
+              "jersey": 11,
               "minutes": 34,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
         {
           "name": "Krasovec Ádám",
-          "jersey": null,
+          "jersey": 14,
           "minutes": 18,
           "points": 6,
           "reb": 6,
           "ast": 2,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Pleesz Ádám",
-              "jersey": null,
+              "jersey": 20,
               "minutes": 21,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Zöldi Péter András",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             }
           ]
         },
         {
           "name": "Takács Dániel",
-          "jersey": null,
+          "jersey": 11,
           "minutes": 34,
           "points": 14,
           "reb": 7,
           "ast": 1,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Pleesz Ádám",
-              "jersey": null,
+              "jersey": 20,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
-              "name": "Erdõs Artúr",
-              "jersey": null,
+              "name": "Erdős Artúr",
+              "jersey": 19,
               "minutes": 2,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-erdos-artur.jpg"
             },
             {
               "name": "Andrássy Géza",
-              "jersey": null,
+              "jersey": 15,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             }
           ]
         }
@@ -382,18 +438,22 @@
           "points": 7,
           "reb": 4,
           "ast": 1,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 5,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
-              "name": "Erdõs Artúr",
+              "name": "Erdős Artúr",
               "jersey": 19,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-erdos-artur.jpg"
             }
           ]
         },
@@ -404,24 +464,29 @@
           "points": 8,
           "reb": 1,
           "ast": 3,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -432,46 +497,54 @@
           "points": 2,
           "reb": 3,
           "ast": 3,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
         {
           "name": "Halasy Örs",
-          "jersey": 23,
+          "jersey": 0,
           "minutes": 22,
           "points": 8,
           "reb": 6,
           "ast": 2,
+          "position": "2-3",
           "subs": [
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 23,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 26,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             }
           ]
         },
@@ -482,24 +555,29 @@
           "points": 6,
           "reb": 1,
           "ast": 3,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 32,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             }
           ]
         }
@@ -524,18 +602,22 @@
           "points": 6,
           "reb": 4,
           "ast": 1,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 22,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 2,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
@@ -546,18 +628,22 @@
           "points": 3,
           "reb": 2,
           "ast": 1,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 20,
-              "count": 2
+              "count": 2,
+              "photo_filename": null
             },
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             }
           ]
         },
@@ -568,24 +654,29 @@
           "points": 27,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 25,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 16,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
@@ -596,24 +687,29 @@
           "points": 4,
           "reb": 5,
           "ast": 0,
+          "photo_filename": "vasas-akademia-karosi-gergely.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -624,24 +720,29 @@
           "points": 8,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             },
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": null
             }
           ]
         }
@@ -666,24 +767,29 @@
           "points": 4,
           "reb": 5,
           "ast": 1,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 11,
-              "count": 2
+              "count": 2,
+              "photo_filename": null
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
@@ -694,24 +800,29 @@
           "points": 23,
           "reb": 3,
           "ast": 7,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             },
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": null
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
@@ -722,24 +833,29 @@
           "points": 12,
           "reb": 7,
           "ast": 5,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 31,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -750,18 +866,22 @@
           "points": 9,
           "reb": 5,
           "ast": 0,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 14,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 33,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -772,24 +892,29 @@
           "points": 12,
           "reb": 7,
           "ast": 4,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 31,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         }
@@ -814,24 +939,29 @@
           "points": 12,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 11,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": null
             }
           ]
         },
@@ -842,24 +972,29 @@
           "points": 9,
           "reb": 2,
           "ast": 4,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 10,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 28,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 32,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         },
@@ -870,24 +1005,29 @@
           "points": 12,
           "reb": 7,
           "ast": 3,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         },
@@ -898,18 +1038,22 @@
           "points": 11,
           "reb": 6,
           "ast": 4,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 13,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
@@ -920,18 +1064,22 @@
           "points": 11,
           "reb": 5,
           "ast": 5,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 27,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Karosi Gergely",
               "jersey": 25,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
             }
           ]
         }
@@ -956,18 +1104,22 @@
           "points": 7,
           "reb": 3,
           "ast": 1,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 8,
-              "count": 3
+              "count": 3,
+              "photo_filename": null
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
@@ -978,24 +1130,29 @@
           "points": 6,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 31,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 31,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -1006,12 +1163,15 @@
           "points": 12,
           "reb": 4,
           "ast": 2,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 31,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -1022,18 +1182,22 @@
           "points": 14,
           "reb": 7,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 31,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -1044,24 +1208,29 @@
           "points": 10,
           "reb": 5,
           "ast": 5,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 12,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         }
@@ -1086,24 +1255,29 @@
           "points": 10,
           "reb": 7,
           "ast": 1,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         },
@@ -1114,24 +1288,29 @@
           "points": 6,
           "reb": 6,
           "ast": 4,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 37,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 29,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         },
@@ -1142,12 +1321,15 @@
           "points": 6,
           "reb": 8,
           "ast": 4,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 26,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -1158,18 +1340,22 @@
           "points": 9,
           "reb": 6,
           "ast": 3,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 13,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         },
@@ -1180,24 +1366,29 @@
           "points": 17,
           "reb": 5,
           "ast": 8,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         }
@@ -1222,18 +1413,22 @@
           "points": 17,
           "reb": 9,
           "ast": 1,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 19,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 31,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -1244,12 +1439,15 @@
           "points": 5,
           "reb": 2,
           "ast": 3,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 17,
-              "count": 5
+              "count": 5,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             }
           ]
         },
@@ -1260,24 +1458,29 @@
           "points": 8,
           "reb": 2,
           "ast": 3,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 31,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             }
           ]
         },
@@ -1288,12 +1491,15 @@
           "points": 4,
           "reb": 2,
           "ast": 0,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 25,
-              "count": 5
+              "count": 5,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         },
@@ -1304,24 +1510,29 @@
           "points": 4,
           "reb": 3,
           "ast": 4,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 10,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         }
@@ -1346,24 +1557,29 @@
           "points": 12,
           "reb": 2,
           "ast": 4,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 33,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         },
@@ -1374,52 +1590,62 @@
           "points": 25,
           "reb": 8,
           "ast": 1,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 12,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 10,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
+          "name": "Pleesz Gergő",
           "jersey": 6,
           "minutes": 18,
           "points": 1,
           "reb": 1,
           "ast": 0,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         },
@@ -1430,24 +1656,29 @@
           "points": 5,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 20,
-              "count": 4
+              "count": 4,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -1458,18 +1689,22 @@
           "points": 11,
           "reb": 3,
           "ast": 11,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         }
@@ -1494,18 +1729,22 @@
           "points": 11,
           "reb": 7,
           "ast": 4,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 39,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
@@ -1516,46 +1755,55 @@
           "points": 14,
           "reb": 9,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 8,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 6,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
+          "name": "Pleesz Gergő",
           "jersey": 6,
           "minutes": 14,
           "points": 3,
           "reb": 5,
           "ast": 0,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 28,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -1566,18 +1814,22 @@
           "points": 6,
           "reb": 5,
           "ast": 0,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 29,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 32,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         },
@@ -1588,24 +1840,29 @@
           "points": 9,
           "reb": 2,
           "ast": 5,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 32,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         }
@@ -1630,12 +1887,15 @@
           "points": 4,
           "reb": 7,
           "ast": 3,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Erdős Artúr",
               "jersey": 19,
               "minutes": 0,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-erdos-artur.jpg"
             }
           ]
         },
@@ -1646,18 +1906,22 @@
           "points": 10,
           "reb": 3,
           "ast": 6,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 14,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
@@ -1668,18 +1932,22 @@
           "points": 23,
           "reb": 9,
           "ast": 6,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 32,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -1690,18 +1958,22 @@
           "points": 13,
           "reb": 5,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 17,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
@@ -1712,18 +1984,22 @@
           "points": 7,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 23,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             }
           ]
         }
@@ -1748,24 +2024,29 @@
           "points": 0,
           "reb": 2,
           "ast": 1,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
@@ -1776,12 +2057,15 @@
           "points": 14,
           "reb": 8,
           "ast": 1,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 22,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -1792,24 +2076,29 @@
           "points": 6,
           "reb": 2,
           "ast": 1,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Halasy Örs",
-              "jersey": 23,
+              "jersey": 0,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": null
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
@@ -1820,18 +2109,22 @@
           "points": 10,
           "reb": 1,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 25,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
@@ -1842,24 +2135,29 @@
           "points": 6,
           "reb": 5,
           "ast": 0,
+          "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 32,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         }
@@ -1884,18 +2182,22 @@
           "points": 14,
           "reb": 8,
           "ast": 4,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 35,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 31,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         },
@@ -1906,40 +2208,48 @@
           "points": 7,
           "reb": 6,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
+          "name": "Pleesz Gergő",
           "jersey": 6,
           "minutes": 31,
           "points": 4,
           "reb": 0,
           "ast": 0,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 39,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 41,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
@@ -1950,24 +2260,29 @@
           "points": 6,
           "reb": 3,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 25,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 41,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -1978,24 +2293,29 @@
           "points": 7,
           "reb": 2,
           "ast": 4,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 39,
-              "count": 5
+              "count": 5,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 41,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 33,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         }
@@ -2020,18 +2340,22 @@
           "points": 22,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 21,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
@@ -2042,18 +2366,22 @@
           "points": 8,
           "reb": 4,
           "ast": 3,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         },
@@ -2064,52 +2392,62 @@
           "points": 0,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 31,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
+          "name": "Pleesz Gergő",
           "jersey": 6,
           "minutes": 14,
           "points": 5,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -2120,18 +2458,22 @@
           "points": 8,
           "reb": 5,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 22,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 5,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         }
@@ -2156,12 +2498,15 @@
           "points": 2,
           "reb": 1,
           "ast": 0,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 22,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
@@ -2172,24 +2517,29 @@
           "points": 11,
           "reb": 5,
           "ast": 2,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
@@ -2200,24 +2550,29 @@
           "points": 8,
           "reb": 3,
           "ast": 3,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 20,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -2228,24 +2583,29 @@
           "points": 0,
           "reb": 0,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 11,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -2256,24 +2616,29 @@
           "points": 8,
           "reb": 7,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         }
@@ -2298,24 +2663,29 @@
           "points": 11,
           "reb": 3,
           "ast": 0,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         },
@@ -2326,18 +2696,22 @@
           "points": 8,
           "reb": 9,
           "ast": 5,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         },
@@ -2348,24 +2722,29 @@
           "points": 4,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 9,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
@@ -2376,52 +2755,62 @@
           "points": 21,
           "reb": 5,
           "ast": 0,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
+          "name": "Pleesz Gergő",
           "jersey": 6,
           "minutes": 23,
           "points": 5,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 9,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 30,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         }
@@ -2446,18 +2835,22 @@
           "points": 4,
           "reb": 5,
           "ast": 6,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 8,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
@@ -2468,24 +2861,29 @@
           "points": 16,
           "reb": 8,
           "ast": 2,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 21,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 40,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -2496,24 +2894,29 @@
           "points": 19,
           "reb": 5,
           "ast": 4,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         },
@@ -2524,24 +2927,29 @@
           "points": 5,
           "reb": 1,
           "ast": 0,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 32,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         },
@@ -2552,24 +2960,29 @@
           "points": 13,
           "reb": 5,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 21,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 23,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 8,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         }
@@ -2594,18 +3007,22 @@
           "points": 11,
           "reb": 7,
           "ast": 0,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
@@ -2616,24 +3033,29 @@
           "points": 11,
           "reb": 4,
           "ast": 5,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -2644,46 +3066,55 @@
           "points": 12,
           "reb": 6,
           "ast": 3,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
+          "name": "Pleesz Gergő",
           "jersey": 6,
           "minutes": 22,
           "points": 6,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 28,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         },
@@ -2694,12 +3125,15 @@
           "points": 5,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 17,
-              "count": 4
+              "count": 4,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         }
@@ -2719,141 +3153,166 @@
       "starters": [
         {
           "name": "Andrássy Géza",
-          "jersey": null,
+          "jersey": 15,
           "minutes": 23,
           "points": 19,
           "reb": 11,
           "ast": 2,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Krasovec Ádám",
-              "jersey": null,
+              "jersey": 14,
               "minutes": 9,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
-              "jersey": null,
+              "jersey": 34,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Pleesz Ádám",
-              "jersey": null,
+              "jersey": 20,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
         {
           "name": "Bérces Dániel",
-          "jersey": null,
+          "jersey": 12,
           "minutes": 27,
           "points": 6,
           "reb": 4,
           "ast": 2,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Zöldi Péter András",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 20,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Pleesz Ádám",
-              "jersey": null,
+              "jersey": 20,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
         {
           "name": "Fekete Viktor Norbert",
-          "jersey": null,
+          "jersey": 7,
           "minutes": 26,
           "points": 19,
           "reb": 5,
           "ast": 4,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Halasy Örs",
-              "jersey": null,
+              "jersey": 0,
               "minutes": 6,
-              "count": 2
+              "count": 2,
+              "photo_filename": null
             },
             {
               "name": "Bérces Dániel",
-              "jersey": null,
+              "jersey": 12,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Pleesz Ádám",
-              "jersey": null,
+              "jersey": 20,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
         {
           "name": "Makkos Dávid",
-          "jersey": null,
+          "jersey": 3,
           "minutes": 24,
           "points": 3,
           "reb": 2,
           "ast": 3,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 20,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Pleesz Ádám",
-              "jersey": null,
+              "jersey": 20,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Farkas Attila",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
         {
           "name": "Pleesz Ádám",
-          "jersey": null,
+          "jersey": 20,
           "minutes": 29,
           "points": 17,
           "reb": 5,
           "ast": 3,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Halasy Örs",
-              "jersey": null,
+              "jersey": 0,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": null
             },
             {
               "name": "Olasz Ádám Zsolt",
-              "jersey": null,
+              "jersey": 34,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Andrássy Géza",
-              "jersey": null,
+              "jersey": 15,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             }
           ]
         }
@@ -2878,24 +3337,29 @@
           "points": 10,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         },
@@ -2906,18 +3370,22 @@
           "points": 14,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 24,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -2928,46 +3396,55 @@
           "points": 3,
           "reb": 6,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
+          "name": "Pleesz Gergő",
           "jersey": 6,
           "minutes": 20,
           "points": 6,
           "reb": 3,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             }
           ]
         },
@@ -2978,12 +3455,15 @@
           "points": 6,
           "reb": 7,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 23,
-              "count": 4
+              "count": 4,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         }
@@ -3008,24 +3488,29 @@
           "points": 28,
           "reb": 5,
           "ast": 8,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         },
@@ -3036,52 +3521,62 @@
           "points": 15,
           "reb": 7,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 11,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 8,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
+          "name": "Pleesz Gergő",
           "jersey": 6,
           "minutes": 16,
           "points": 0,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 27,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         },
@@ -3092,18 +3587,22 @@
           "points": 4,
           "reb": 6,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 21,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         },
@@ -3114,18 +3613,22 @@
           "points": 2,
           "reb": 0,
           "ast": 1,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 35,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         }
@@ -3150,18 +3653,22 @@
           "points": 12,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 24,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -3172,18 +3679,22 @@
           "points": 14,
           "reb": 7,
           "ast": 3,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 13,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
@@ -3194,24 +3705,29 @@
           "points": 10,
           "reb": 4,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 24,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         },
@@ -3222,18 +3738,22 @@
           "points": 5,
           "reb": 4,
           "ast": 2,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 19,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -3244,24 +3764,29 @@
           "points": 4,
           "reb": 1,
           "ast": 6,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 14,
-              "count": 4
+              "count": 4,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             }
           ]
         }
@@ -3286,18 +3811,22 @@
           "points": 8,
           "reb": 2,
           "ast": 3,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 8,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
@@ -3308,24 +3837,29 @@
           "points": 8,
           "reb": 5,
           "ast": 2,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
@@ -3336,24 +3870,29 @@
           "points": 20,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 23,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 8,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             }
           ]
         },
@@ -3364,24 +3903,29 @@
           "points": 5,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
               "jersey": 2,
               "minutes": 4,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             },
             {
               "name": "Bérces Dániel",
               "jersey": 12,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             }
           ]
         },
@@ -3392,24 +3936,29 @@
           "points": 2,
           "reb": 4,
           "ast": 6,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Farkas Attila",
               "jersey": 9,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         }
@@ -3429,117 +3978,138 @@
       "starters": [
         {
           "name": "Andrássy Géza",
-          "jersey": null,
+          "jersey": 15,
           "minutes": 14,
           "points": 4,
           "reb": 3,
           "ast": 1,
+          "photo_filename": "vasas-akademia-andrassy-geza.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Olasz Ádám Zsolt",
-              "jersey": null,
+              "jersey": 34,
               "minutes": 26,
-              "count": 4
+              "count": 4,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Krasovec Ádám",
-              "jersey": null,
+              "jersey": 14,
               "minutes": 33,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
         {
           "name": "Fekete Viktor Norbert",
-          "jersey": null,
+          "jersey": 7,
           "minutes": 28,
           "points": 9,
           "reb": 4,
           "ast": 5,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Farkas Attila",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 11,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
             },
             {
               "name": "Andrássy Géza",
-              "jersey": null,
+              "jersey": 15,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             }
           ]
         },
         {
           "name": "Krasovec Ádám",
-          "jersey": null,
+          "jersey": 14,
           "minutes": 33,
           "points": 14,
           "reb": 8,
           "ast": 1,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Pleesz Ádám",
-              "jersey": null,
+              "jersey": 20,
               "minutes": 7,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Andrássy Géza",
-              "jersey": null,
+              "jersey": 15,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
-              "jersey": null,
+              "jersey": 34,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
-          "jersey": null,
+          "name": "Pleesz Gergő",
+          "jersey": 6,
           "minutes": 26,
           "points": 10,
           "reb": 5,
           "ast": 1,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 5,
-              "count": 4
+              "count": 4,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Bérces Dániel",
-              "jersey": null,
+              "jersey": 12,
               "minutes": 9,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-berces-daniel.jpg"
             },
             {
               "name": "Krasovec Ádám",
-              "jersey": null,
+              "jersey": 14,
               "minutes": 33,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         },
         {
           "name": "Takács Dániel",
-          "jersey": null,
+          "jersey": 11,
           "minutes": 31,
           "points": 18,
           "reb": 6,
           "ast": 2,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Makkos Dávid",
-              "jersey": null,
+              "jersey": 3,
               "minutes": 10,
-              "count": 4
+              "count": 4,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         }
@@ -3564,24 +4134,29 @@
           "points": 10,
           "reb": 4,
           "ast": 2,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 17,
-              "count": 5
+              "count": 5,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 36,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         },
@@ -3592,24 +4167,29 @@
           "points": 17,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg",
+          "position": "2-3",
           "subs": [
             {
               "name": "Takács Dániel",
               "jersey": 11,
               "minutes": 32,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
-              "name": "Pleesz Gergõ",
+              "name": "Pleesz Gergő",
               "jersey": 6,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         },
@@ -3620,24 +4200,29 @@
           "points": 21,
           "reb": 9,
           "ast": 3,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Pleesz Ádám",
               "jersey": 20,
               "minutes": 13,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             },
             {
               "name": "Olasz Ádám Zsolt",
               "jersey": 34,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
             },
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         },
@@ -3648,18 +4233,22 @@
           "points": 8,
           "reb": 4,
           "ast": 2,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Krasovec Ádám",
               "jersey": 14,
               "minutes": 40,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Andrássy Géza",
               "jersey": 15,
               "minutes": 32,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             }
           ]
         },
@@ -3670,18 +4259,22 @@
           "points": 13,
           "reb": 7,
           "ast": 3,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Makkos Dávid",
               "jersey": 3,
               "minutes": 29,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Fekete Viktor Norbert",
               "jersey": 7,
               "minutes": 36,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
             }
           ]
         }
@@ -3701,129 +4294,152 @@
       "starters": [
         {
           "name": "Bérces Dániel",
-          "jersey": null,
+          "jersey": 12,
           "minutes": 34,
           "points": 17,
           "reb": 6,
           "ast": 0,
+          "photo_filename": "vasas-akademia-berces-daniel.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Takács Dániel",
-              "jersey": null,
+              "jersey": 11,
               "minutes": 35,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             },
             {
               "name": "Pleesz Ádám",
-              "jersey": null,
+              "jersey": 20,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
             }
           ]
         },
         {
           "name": "Olasz Ádám Zsolt",
-          "jersey": null,
+          "jersey": 34,
           "minutes": 23,
           "points": 10,
           "reb": 3,
           "ast": 3,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Krasovec Ádám",
-              "jersey": null,
+              "jersey": 14,
               "minutes": 21,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             },
             {
               "name": "Zöldi Péter András",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Makkos Dávid",
-              "jersey": null,
+              "jersey": 3,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             }
           ]
         },
         {
-          "name": "Pleesz Gergõ",
-          "jersey": null,
+          "name": "Pleesz Gergő",
+          "jersey": 6,
           "minutes": 27,
           "points": 13,
           "reb": 4,
           "ast": 3,
+          "photo_filename": "vasas-akademia-pleesz-gergo.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Zöldi Péter András",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 11,
-              "count": 3
+              "count": 3,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
             },
             {
               "name": "Makkos Dávid",
-              "jersey": null,
+              "jersey": 3,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
               "name": "Takács Dániel",
-              "jersey": null,
+              "jersey": 11,
               "minutes": 35,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
         {
           "name": "Pleesz Ádám",
-          "jersey": null,
+          "jersey": 20,
           "minutes": 11,
           "points": 0,
           "reb": 2,
           "ast": 0,
+          "photo_filename": "vasas-akademia-pleesz-adam.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Andrássy Géza",
-              "jersey": null,
+              "jersey": 15,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
             },
             {
               "name": "Takács Dániel",
-              "jersey": null,
+              "jersey": 11,
               "minutes": 35,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
             }
           ]
         },
         {
           "name": "Takács Dániel",
-          "jersey": null,
+          "jersey": 11,
           "minutes": 35,
           "points": 16,
           "reb": 3,
           "ast": 4,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Makkos Dávid",
-              "jersey": null,
+              "jersey": 3,
               "minutes": 12,
-              "count": 4
+              "count": 4,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
             },
             {
-              "name": "Pleesz Gergõ",
-              "jersey": null,
+              "name": "Pleesz Gergő",
+              "jersey": 6,
               "minutes": 27,
-              "count": 2
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-gergo.jpg"
             },
             {
               "name": "Krasovec Ádám",
-              "jersey": null,
+              "jersey": 14,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "vasas-akademia-krasovec-adam.jpg"
             }
           ]
         }

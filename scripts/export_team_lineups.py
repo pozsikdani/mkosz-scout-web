@@ -54,6 +54,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DB = REPO_ROOT.parent / "mkosz-stats" / "mkosz_stats.sqlite"
 DEFAULT_STANDINGS = REPO_ROOT / "static" / "data" / "standings" / "hun2a.json"
 DEFAULT_OUT_DIR = REPO_ROOT / "static" / "data" / "team-lineups"
+DEFAULT_ROSTERS = REPO_ROOT / "static" / "data" / "rosters" / "hun2a.json"
 
 COMPS = ("hun2a", "hun2a_ply", "hun2a_plya")
 PHASE_MAP = {
@@ -96,6 +97,30 @@ def slugify(name: str) -> str:
             out.append("-")
             prev_dash = True
     return "".join(out).rstrip("-")
+
+
+def load_roster_lookup(rosters_path: Path) -> dict[tuple[str, str], dict]:
+    """{(team_slug, name_match_key): {photo_filename, position, jersey, name}}."""
+    if not rosters_path.exists():
+        return {}
+    rosters = json.loads(rosters_path.read_text(encoding="utf-8"))
+    out: dict[tuple[str, str], dict] = {}
+    for team_slug, team in rosters.get("teams", {}).items():
+        for pl in team.get("players", []):
+            n = norm_full(pl["name"]).replace("?", "o")
+            parts = n.split()
+            mk = " ".join(parts[:2]) if len(parts) >= 2 else (parts[0] if parts else "")
+            key = (team_slug, mk)
+            if key in out:
+                continue
+            out[key] = {
+                "photo_filename": pl.get("photo_filename"),
+                "position": pl.get("position"),
+                "jersey": pl.get("jersey"),
+                "name": pl.get("name"),
+                "height_cm": pl.get("height_cm"),
+            }
+    return out
 
 
 def name_key(name: str) -> str:
@@ -275,6 +300,7 @@ def main() -> int:
     p.add_argument("--db", default=str(DEFAULT_DB))
     p.add_argument("--standings", default=str(DEFAULT_STANDINGS))
     p.add_argument("--out-dir", default=str(DEFAULT_OUT_DIR))
+    p.add_argument("--rosters", default=str(DEFAULT_ROSTERS))
     p.add_argument("--season", default="x2526")
     args = p.parse_args()
 
@@ -284,6 +310,7 @@ def main() -> int:
         return 1
     standings = json.loads(standings_path.read_text(encoding="utf-8"))
     teams = [t["team"] for t in standings["teams"]]
+    roster_lookup = load_roster_lookup(Path(args.rosters))
 
     out_dir = Path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -291,6 +318,8 @@ def main() -> int:
     conn = sqlite3.connect(args.db)
     written = 0
     for team in teams:
+        team_slug = slugify(team)
+        team_roster = {mk: meta for (ts, mk), meta in roster_lookup.items() if ts == team_slug}
         aliases = TEAM_ALIASES.get(team, [])
         match_rows = conn.execute(
             f"""
@@ -329,18 +358,35 @@ def main() -> int:
             player_lookup = build_player_lookup(conn, gc, team_side)
             for s in starters:
                 k = s.pop("_key")
+                # Roster cross-ref: photo + position + canonical jersey
+                rmeta = team_roster.get(k)
+                if rmeta:
+                    if rmeta.get("photo_filename"):
+                        s["photo_filename"] = rmeta["photo_filename"]
+                    if rmeta.get("position"):
+                        s["position"] = rmeta["position"]
+                    if rmeta.get("jersey") is not None:
+                        s["jersey"] = rmeta["jersey"]
+                    if rmeta.get("name"):
+                        s["name"] = rmeta["name"]
                 subs = sub_chains.get(k, [])
                 enriched = []
                 for sub_name, count in subs[:3]:
                     info = player_lookup.get(name_key(sub_name), {})
-                    # Prefer canonical display name from player_lookup (scoresheet)
-                    # over raw PBP form (which may contain `?` for failed Ő encoding)
-                    display_name = info.get("name") or sub_name
+                    sub_k = name_key(sub_name)
+                    sub_rmeta = team_roster.get(sub_k)
+                    # Prefer canonical display name: roster > player_lookup > raw PBP
+                    display_name = (
+                        (sub_rmeta or {}).get("name")
+                        or info.get("name")
+                        or sub_name
+                    )
                     enriched.append({
                         "name": display_name,
-                        "jersey": info.get("jersey"),
+                        "jersey": (sub_rmeta or {}).get("jersey") if sub_rmeta and sub_rmeta.get("jersey") is not None else info.get("jersey"),
                         "minutes": info.get("minutes", 0),
                         "count": count,
+                        "photo_filename": (sub_rmeta or {}).get("photo_filename"),
                     })
                 s["subs"] = enriched
 

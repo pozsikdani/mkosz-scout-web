@@ -1,5 +1,31 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import type { PercentileStat, PlayerSeason, TeamPlayers } from '$lib/types';
+
+	type PosCat = 'PG' | 'SG' | 'SF' | 'PF' | 'C';
+
+	function posCategory(pos: string | undefined): PosCat | null {
+		if (!pos) return null;
+		const p = pos.replace(/\s/g, '');
+		if (p === '1' || p === '1-2') return 'PG';
+		if (p === '2' || p === '2-3') return 'SG';
+		if (p === '3' || p === '3-4') return 'SF';
+		if (p === '4' || p === '4-5') return 'PF';
+		if (p === '5') return 'C';
+		// Highest digit fallback
+		const digits = (p.match(/\d/g) ?? []).map(Number);
+		if (!digits.length) return null;
+		const hi = Math.max(...digits);
+		return (['PG', 'SG', 'SF', 'PF', 'C'][hi - 1] ?? null) as PosCat | null;
+	}
+
+	const POS_CLS: Record<PosCat, string> = {
+		PG: 'bg-blue-500/25 text-blue-300',
+		SG: 'bg-emerald-500/25 text-emerald-300',
+		SF: 'bg-orange-500/25 text-orange-300',
+		PF: 'bg-red-500/25 text-red-300',
+		C: 'bg-purple-500/25 text-purple-300'
+	};
 
 	type Props = {
 		data: TeamPlayers;
@@ -117,8 +143,16 @@
 			class="overflow-hidden rounded-lg border border-border bg-card"
 			class:opacity-90={group === 'bench'}
 		>
-			<!-- Header: jersey, name, GP/GS, group chip -->
+			<!-- Header: photo, jersey, name, GP/GS, group chip -->
 			<div class="flex items-center gap-3 border-b border-border px-4 py-3">
+				{#if p.photo_filename}
+					<img
+						src={`${base}/players/${p.photo_filename}`}
+						alt={p.name}
+						loading="lazy"
+						class="h-14 w-14 shrink-0 rounded-lg object-cover"
+					/>
+				{/if}
 				<div
 					class="flex h-10 w-10 shrink-0 items-center justify-center rounded font-mono text-base font-bold"
 					class:bg-accent={group === 'starter'}
@@ -130,11 +164,17 @@
 				</div>
 				<div class="min-w-0 flex-1">
 					<p class="truncate font-semibold leading-tight">{p.name}</p>
-					<p class="font-mono text-xs text-muted">
-						GP {p.gp} · GS {p.starts}
-						{#if p.gs_rate > 0}
-							<span class="opacity-70">({Math.round(p.gs_rate * 100)}%)</span>
+					<p class="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5 font-mono text-xs text-muted">
+						{#if posCategory(p.position)}
+							{@const pc = posCategory(p.position)!}
+							<span class="rounded px-1.5 py-0.5 text-[10px] font-bold {POS_CLS[pc]}">
+								{pc}
+							</span>
 						{/if}
+						{#if p.height_cm}
+							<span>{p.height_cm}cm</span>
+						{/if}
+						<span>GP {p.gp} · GS {p.starts}{p.gs_rate > 0 ? ` (${Math.round(p.gs_rate * 100)}%)` : ''}</span>
 					</p>
 				</div>
 				<span

@@ -48,6 +48,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DB = REPO_ROOT.parent / "mkosz-stats" / "mkosz_stats.sqlite"
 DEFAULT_STANDINGS = REPO_ROOT / "static" / "data" / "standings" / "hun2a.json"
 DEFAULT_OUT_DIR = REPO_ROOT / "static" / "data" / "team-players"
+DEFAULT_ROSTERS = REPO_ROOT / "static" / "data" / "rosters" / "hun2a.json"
 
 COMPS = ("hun2a", "hun2a_ply", "hun2a_plya")
 
@@ -97,6 +98,48 @@ def slugify(name: str) -> str:
 def player_dedup_key(name: str) -> str:
     """Lower-cased, accent-stripped key — collapses 'Foo Bar' / 'FOO BAR'."""
     return norm_full(name)
+
+
+def roster_match_key(name: str) -> str:
+    """Fuzzy name key for matching scoresheet/PBP names with roster names.
+
+    Handles `?` encoding glitch (failed Ő → 'o') and accent strip; uses first
+    2 words to handle name truncation (e.g. INALEGWU MARCELL vs INALEGWU
+    MARCELL SÁMUEL).
+    """
+    n = norm_full(name).replace("?", "o")
+    parts = n.split()
+    if len(parts) >= 2:
+        return " ".join(parts[:2])
+    return parts[0] if parts else ""
+
+
+def load_roster_lookup(rosters_path: Path) -> dict[tuple[str, str], dict]:
+    """Build {(team_slug, name_match_key): {photo_filename, height_cm, position,
+    birth_year, jersey, name}} from the rosters JSON.
+
+    On match-key collision (siblings sharing first 2 words of name) the first
+    wins — extremely rare, can revisit if observed.
+    """
+    if not rosters_path.exists():
+        return {}
+    rosters = json.loads(rosters_path.read_text(encoding="utf-8"))
+    out: dict[tuple[str, str], dict] = {}
+    for team_slug, team in rosters.get("teams", {}).items():
+        for pl in team.get("players", []):
+            mk = roster_match_key(pl["name"])
+            key = (team_slug, mk)
+            if key in out:
+                continue
+            out[key] = {
+                "photo_filename": pl.get("photo_filename"),
+                "height_cm": pl.get("height_cm"),
+                "position": pl.get("position"),
+                "birth_year": pl.get("birth_year"),
+                "jersey": pl.get("jersey"),
+                "name": pl.get("name"),
+            }
+    return out
 
 
 def aggregate_team_players(conn: sqlite3.Connection, team_name: str, season: str) -> dict:
@@ -234,6 +277,7 @@ def main() -> int:
     p.add_argument("--db", default=str(DEFAULT_DB))
     p.add_argument("--standings", default=str(DEFAULT_STANDINGS))
     p.add_argument("--out-dir", default=str(DEFAULT_OUT_DIR))
+    p.add_argument("--rosters", default=str(DEFAULT_ROSTERS))
     p.add_argument("--season", default="x2526")
     args = p.parse_args()
 
@@ -243,6 +287,7 @@ def main() -> int:
         return 1
     standings = json.loads(standings_path.read_text(encoding="utf-8"))
     teams = [t["team"] for t in standings["teams"]]
+    roster_lookup = load_roster_lookup(Path(args.rosters))
 
     conn = sqlite3.connect(args.db)
 
@@ -275,10 +320,28 @@ def main() -> int:
 
     written = 0
     for team, agg in per_team_aggs.items():
+        team_slug = slugify(team)
         team_max_gp = max((a["gp"] for a in agg.values()), default=0)
         players: list[dict] = []
         for key, a in agg.items():
             f = finalize_player(a)
+            # Cross-reference rosters JSON for photo + position + height + birth_year.
+            # Roster jersey is authoritative — override scoresheet jersey if present.
+            meta = roster_lookup.get((team_slug, roster_match_key(f["name"])))
+            if meta:
+                if meta.get("photo_filename"):
+                    f["photo_filename"] = meta["photo_filename"]
+                if meta.get("height_cm"):
+                    f["height_cm"] = meta["height_cm"]
+                if meta.get("position"):
+                    f["position"] = meta["position"]
+                if meta.get("birth_year"):
+                    f["birth_year"] = meta["birth_year"]
+                if meta.get("jersey") is not None:
+                    f["jersey"] = meta["jersey"]
+                # Prefer the roster canonical (handles `?` / case variants)
+                if meta.get("name"):
+                    f["name"] = meta["name"]
             # Percentiles only for players who meet volume threshold
             pct = {}
             if a["gp"] >= MIN_GP_FOR_PERCENTILE:

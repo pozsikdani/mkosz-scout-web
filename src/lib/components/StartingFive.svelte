@@ -1,5 +1,28 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import type { LineupMatch, TeamLineups } from '$lib/types';
+
+	type PosCat = 'PG' | 'SG' | 'SF' | 'PF' | 'C';
+	function posCategory(pos: string | undefined): PosCat | null {
+		if (!pos) return null;
+		const p = pos.replace(/\s/g, '');
+		if (p === '1' || p === '1-2') return 'PG';
+		if (p === '2' || p === '2-3') return 'SG';
+		if (p === '3' || p === '3-4') return 'SF';
+		if (p === '4' || p === '4-5') return 'PF';
+		if (p === '5') return 'C';
+		const digits = (p.match(/\d/g) ?? []).map(Number);
+		if (!digits.length) return null;
+		const hi = Math.max(...digits);
+		return (['PG', 'SG', 'SF', 'PF', 'C'][hi - 1] ?? null) as PosCat | null;
+	}
+	const POS_CLS: Record<PosCat, string> = {
+		PG: 'bg-blue-500/25 text-blue-300',
+		SG: 'bg-emerald-500/25 text-emerald-300',
+		SF: 'bg-orange-500/25 text-orange-300',
+		PF: 'bg-red-500/25 text-red-300',
+		C: 'bg-purple-500/25 text-purple-300'
+	};
 
 	type Props = {
 		data: TeamLineups;
@@ -120,8 +143,16 @@
 	<div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-5">
 		{#each selected.starters as starter (starter.name)}
 			<div class="flex flex-col rounded-lg border border-border bg-card overflow-hidden">
-				<!-- Jersey + name -->
+				<!-- Photo + jersey + name -->
 				<div class="flex items-center gap-2 border-b border-border bg-card-hover px-3 py-2">
+					{#if starter.photo_filename}
+						<img
+							src={`${base}/players/${starter.photo_filename}`}
+							alt={starter.name}
+							loading="lazy"
+							class="h-12 w-12 shrink-0 rounded-lg object-cover"
+						/>
+					{/if}
 					<div class="flex h-9 w-9 shrink-0 items-center justify-center rounded bg-accent font-mono text-base font-bold text-fg">
 						{starter.jersey ?? '—'}
 					</div>
@@ -129,7 +160,13 @@
 						<p class="truncate text-sm font-semibold leading-tight" title={starter.name}>
 							{starter.name}
 						</p>
-						<p class="font-mono text-[10px] text-muted">{starter.minutes} perc</p>
+						<p class="mt-0.5 flex flex-wrap items-center gap-1.5 font-mono text-[10px] text-muted">
+							{#if posCategory(starter.position)}
+								{@const pc = posCategory(starter.position)!}
+								<span class="rounded px-1 py-px text-[9px] font-bold {POS_CLS[pc]}">{pc}</span>
+							{/if}
+							<span>{starter.minutes} perc</span>
+						</p>
 					</div>
 				</div>
 
@@ -161,7 +198,15 @@
 					{:else}
 						<ul class="space-y-1">
 							{#each starter.subs as sub (sub.name)}
-								<li class="flex items-center gap-2 text-xs">
+								<li class="flex items-center gap-1.5 text-xs">
+									{#if sub.photo_filename}
+										<img
+											src={`${base}/players/${sub.photo_filename}`}
+											alt={sub.name}
+											loading="lazy"
+											class="h-6 w-6 shrink-0 rounded object-cover"
+										/>
+									{/if}
 									<span class="flex h-5 w-5 shrink-0 items-center justify-center rounded bg-border font-mono text-[10px] font-bold text-muted">
 										{sub.jersey ?? '?'}
 									</span>

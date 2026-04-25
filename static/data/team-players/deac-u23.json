@@ -11,7 +11,7 @@
   "players": [
     {
       "name": "Flasár Botond",
-      "jersey": null,
+      "jersey": 33,
       "gp": 20,
       "starts": 20,
       "gs_rate": 1.0,
@@ -36,6 +36,10 @@
       "ft_made": 40,
       "ft_att": 96,
       "ft_pct": 41.7,
+      "photo_filename": "deac-u23-flasar-botond.jpg",
+      "height_cm": 202,
+      "position": "4-5",
+      "birth_year": 2005,
       "percentiles": {
         "ppg": 86,
         "rpg": 99,
@@ -54,8 +58,8 @@
       }
     },
     {
-      "name": "H?gye Patrik",
-      "jersey": null,
+      "name": "Hőgye Patrik",
+      "jersey": 88,
       "gp": 3,
       "starts": 3,
       "gs_rate": 1.0,
@@ -80,6 +84,10 @@
       "ft_made": 4,
       "ft_att": 4,
       "ft_pct": 100.0,
+      "photo_filename": "deac-u23-hogye-patrik.jpg",
+      "height_cm": 193,
+      "position": "1",
+      "birth_year": 2005,
       "percentiles": {}
     },
     {
@@ -109,6 +117,10 @@
       "ft_made": 69,
       "ft_att": 99,
       "ft_pct": 69.7,
+      "photo_filename": "deac-u23-gal-csongor.jpg",
+      "height_cm": 193,
+      "position": "2",
+      "birth_year": 2007,
       "percentiles": {
         "ppg": 88,
         "rpg": 74,
@@ -127,7 +139,7 @@
       }
     },
     {
-      "name": "Hõgye Patrik",
+      "name": "Hőgye Patrik",
       "jersey": 88,
       "gp": 9,
       "starts": 8,
@@ -153,6 +165,10 @@
       "ft_made": 18,
       "ft_att": 25,
       "ft_pct": 72.0,
+      "photo_filename": "deac-u23-hogye-patrik.jpg",
+      "height_cm": 193,
+      "position": "1",
+      "birth_year": 2005,
       "percentiles": {
         "ppg": 87,
         "rpg": 65,
@@ -172,7 +188,7 @@
     },
     {
       "name": "Várszegi Ádám",
-      "jersey": null,
+      "jersey": 13,
       "gp": 26,
       "starts": 22,
       "gs_rate": 0.846,
@@ -197,6 +213,10 @@
       "ft_made": 38,
       "ft_att": 46,
       "ft_pct": 82.6,
+      "photo_filename": "deac-u23-varszegi-adam.jpg",
+      "height_cm": 195,
+      "position": "1-2",
+      "birth_year": 2004,
       "percentiles": {
         "ppg": 79,
         "rpg": 80,
@@ -216,7 +236,7 @@
     },
     {
       "name": "Bankó Zoltán Martin",
-      "jersey": null,
+      "jersey": 19,
       "gp": 6,
       "starts": 5,
       "gs_rate": 0.833,
@@ -241,6 +261,10 @@
       "ft_made": 6,
       "ft_att": 10,
       "ft_pct": 60.0,
+      "photo_filename": "deac-u23-banko-zoltan-martin.jpg",
+      "height_cm": 205,
+      "position": "4-5",
+      "birth_year": 2004,
       "percentiles": {
         "ppg": 75,
         "rpg": 91,
@@ -260,7 +284,7 @@
     },
     {
       "name": "Varga Ferenc",
-      "jersey": null,
+      "jersey": 10,
       "gp": 25,
       "starts": 19,
       "gs_rate": 0.76,
@@ -285,6 +309,10 @@
       "ft_made": 53,
       "ft_att": 100,
       "ft_pct": 53.0,
+      "photo_filename": "deac-u23-varga-ferenc.jpg",
+      "height_cm": 192,
+      "position": "1",
+      "birth_year": 2006,
       "percentiles": {
         "ppg": 70,
         "rpg": 57,
@@ -304,7 +332,7 @@
     },
     {
       "name": "Kovács Ákos Bence",
-      "jersey": null,
+      "jersey": 57,
       "gp": 10,
       "starts": 7,
       "gs_rate": 0.7,
@@ -329,6 +357,10 @@
       "ft_made": 30,
       "ft_att": 55,
       "ft_pct": 54.5,
+      "photo_filename": "deac-u23-kovacs-akos-bence.jpg",
+      "height_cm": 205,
+      "position": "4",
+      "birth_year": 2003,
       "percentiles": {
         "ppg": 86,
         "rpg": 93,
@@ -348,7 +380,7 @@
     },
     {
       "name": "Szász-Veres Márk",
-      "jersey": null,
+      "jersey": 24,
       "gp": 16,
       "starts": 10,
       "gs_rate": 0.625,
@@ -373,6 +405,10 @@
       "ft_made": 24,
       "ft_att": 42,
       "ft_pct": 57.1,
+      "photo_filename": "deac-u23-szasz-veres-mark.jpg",
+      "height_cm": 199,
+      "position": "3",
+      "birth_year": 2007,
       "percentiles": {
         "ppg": 72,
         "rpg": 73,
@@ -392,7 +428,7 @@
     },
     {
       "name": "Szentkuti Ákos",
-      "jersey": null,
+      "jersey": 4,
       "gp": 15,
       "starts": 6,
       "gs_rate": 0.4,
@@ -417,6 +453,10 @@
       "ft_made": 36,
       "ft_att": 47,
       "ft_pct": 76.6,
+      "photo_filename": "deac-u23-szentkuti-akos.jpg",
+      "height_cm": 189,
+      "position": "1-2",
+      "birth_year": 2006,
       "percentiles": {
         "ppg": 82,
         "rpg": 60,
@@ -436,7 +476,7 @@
     },
     {
       "name": "Orbán Imre",
-      "jersey": null,
+      "jersey": 27,
       "gp": 24,
       "starts": 9,
       "gs_rate": 0.375,
@@ -461,6 +501,10 @@
       "ft_made": 10,
       "ft_att": 13,
       "ft_pct": 76.9,
+      "photo_filename": "deac-u23-orban-imre.jpg",
+      "height_cm": 198,
+      "position": "4",
+      "birth_year": 2006,
       "percentiles": {
         "ppg": 35,
         "rpg": 59,
@@ -480,7 +524,7 @@
     },
     {
       "name": "Varga Sándor",
-      "jersey": null,
+      "jersey": 69,
       "gp": 11,
       "starts": 3,
       "gs_rate": 0.273,
@@ -505,6 +549,10 @@
       "ft_made": 18,
       "ft_att": 25,
       "ft_pct": 72.0,
+      "photo_filename": "deac-u23-varga-sandor.jpg",
+      "height_cm": 188,
+      "position": "1",
+      "birth_year": 2003,
       "percentiles": {
         "ppg": 77,
         "rpg": 77,
@@ -662,6 +710,10 @@
       "ft_made": 2,
       "ft_att": 2,
       "ft_pct": 100.0,
+      "photo_filename": "deac-u23-fekete-balazs.jpg",
+      "height_cm": 181,
+      "position": "1-2",
+      "birth_year": 2006,
       "percentiles": {
         "ppg": 26,
         "rpg": 28,
@@ -678,7 +730,7 @@
     },
     {
       "name": "Szafkó Márk",
-      "jersey": null,
+      "jersey": 8,
       "gp": 10,
       "starts": 0,
       "gs_rate": 0.0,
@@ -703,6 +755,10 @@
       "ft_made": 1,
       "ft_att": 2,
       "ft_pct": 50.0,
+      "photo_filename": "deac-u23-szafko-mark.jpg",
+      "height_cm": 191,
+      "position": "1-2-3",
+      "birth_year": 2009,
       "percentiles": {
         "ppg": 30,
         "rpg": 26,
@@ -749,7 +805,7 @@
     },
     {
       "name": "Vadai Balázs",
-      "jersey": null,
+      "jersey": 97,
       "gp": 16,
       "starts": 0,
       "gs_rate": 0.0,
@@ -774,6 +830,10 @@
       "ft_made": 3,
       "ft_att": 4,
       "ft_pct": 75.0,
+      "photo_filename": "deac-u23-vadai-balazs.jpg",
+      "height_cm": 185,
+      "position": "1",
+      "birth_year": 2008,
       "percentiles": {
         "ppg": 21,
         "rpg": 22,
@@ -790,7 +850,7 @@
     },
     {
       "name": "Orvos Ádám",
-      "jersey": null,
+      "jersey": 98,
       "gp": 1,
       "starts": 0,
       "gs_rate": 0.0,
@@ -815,11 +875,15 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "photo_filename": "deac-u23-orvos-adam.jpg",
+      "height_cm": 176,
+      "position": "2",
+      "birth_year": 2009,
       "percentiles": {}
     },
     {
       "name": "Kedvek László",
-      "jersey": null,
+      "jersey": 99,
       "gp": 2,
       "starts": 0,
       "gs_rate": 0.0,
@@ -844,6 +908,10 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "photo_filename": "deac-u23-kedvek-laszlo.jpg",
+      "height_cm": 197,
+      "position": "5",
+      "birth_year": 2009,
       "percentiles": {}
     },
     {
@@ -873,6 +941,10 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "photo_filename": "deac-u23-szekely-bence.jpg",
+      "height_cm": 184,
+      "position": "2",
+      "birth_year": 2009,
       "percentiles": {}
     },
     {
@@ -931,6 +1003,10 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "photo_filename": "deac-u23-szucs-gellert.jpg",
+      "height_cm": 188,
+      "position": "1-2",
+      "birth_year": 2007,
       "percentiles": {}
     },
     {
@@ -960,6 +1036,10 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "photo_filename": "deac-u23-forian-zsombor-zsolt.jpg",
+      "height_cm": 187,
+      "position": "3",
+      "birth_year": 2009,
       "percentiles": {}
     }
   ]

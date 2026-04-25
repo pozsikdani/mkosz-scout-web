@@ -17,123 +17,145 @@
       "starters": [
         {
           "name": "Balázsi Ákos Milán",
-          "jersey": null,
+          "jersey": 10,
           "minutes": 31,
           "points": 12,
           "reb": 7,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 9,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Kiss Koppány Agád",
-              "jersey": null,
+              "jersey": 32,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-kiss-koppany-agad.jpg"
             }
           ]
         },
         {
           "name": "Boros Márk",
-          "jersey": null,
+          "jersey": 13,
           "minutes": 26,
           "points": 10,
           "reb": 6,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
-              "jersey": null,
+              "jersey": 8,
               "minutes": 13,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Kiss Koppány Agád",
-              "jersey": null,
+              "jersey": 32,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-kiss-koppany-agad.jpg"
             }
           ]
         },
         {
           "name": "Homoki Donát László",
-          "jersey": null,
+          "jersey": 14,
           "minutes": 18,
           "points": 7,
           "reb": 6,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Swanson Kevin Wade",
-              "jersey": null,
+              "jersey": 33,
               "minutes": 30,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 9,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
         {
           "name": "Horváth Botond",
-          "jersey": null,
+          "jersey": 3,
           "minutes": 17,
           "points": 9,
           "reb": 0,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Varsányi Áron",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 7,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Lakosa Ákos",
-              "jersey": null,
+              "jersey": 17,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
-              "jersey": null,
+              "jersey": 6,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             }
           ]
         },
         {
           "name": "Swanson Kevin Wade",
-          "jersey": null,
+          "jersey": 33,
           "minutes": 30,
           "points": 22,
           "reb": 9,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Homoki Donát László",
-              "jersey": null,
+              "jersey": 14,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
-              "jersey": null,
+              "jersey": 6,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             }
           ]
         }
@@ -158,24 +180,29 @@
           "points": 29,
           "reb": 4,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
           "subs": [
             {
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 2,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             }
           ]
         },
@@ -186,18 +213,22 @@
           "points": 9,
           "reb": 4,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 14,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         },
@@ -208,18 +239,22 @@
           "points": 16,
           "reb": 0,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             }
           ]
         },
@@ -230,18 +265,22 @@
           "points": 0,
           "reb": 0,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 27,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             }
           ]
         },
@@ -252,24 +291,29 @@
           "points": 23,
           "reb": 9,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 10,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Balázsi Ákos Milán",
               "jersey": 10,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg"
             }
           ]
         }
@@ -289,135 +333,159 @@
       "starters": [
         {
           "name": "Balázsi Ákos Milán",
-          "jersey": null,
+          "jersey": 10,
           "minutes": 25,
           "points": 9,
           "reb": 4,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
           "subs": [
             {
               "name": "Hajdu Gergely",
-              "jersey": null,
+              "jersey": 19,
               "minutes": 4,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
         {
           "name": "Boros Márk",
-          "jersey": null,
+          "jersey": 13,
           "minutes": 25,
           "points": 5,
           "reb": 5,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
-              "jersey": null,
+              "jersey": 8,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Lakosa Ákos",
-              "jersey": null,
+              "jersey": 17,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
         {
           "name": "Homoki Donát László",
-          "jersey": null,
+          "jersey": 14,
           "minutes": 27,
           "points": 22,
           "reb": 10,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Lakosa Ákos",
-              "jersey": null,
+              "jersey": 17,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
         {
           "name": "Horváth Botond",
-          "jersey": null,
+          "jersey": 3,
           "minutes": 21,
           "points": 4,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
-              "jersey": null,
+              "jersey": 8,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Balázsi Ákos Milán",
-              "jersey": null,
+              "jersey": 10,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
         {
           "name": "Swanson Kevin Wade",
-          "jersey": null,
+          "jersey": 33,
           "minutes": 30,
           "points": 11,
           "reb": 5,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
-              "jersey": null,
+              "jersey": 6,
               "minutes": 6,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         }
@@ -442,18 +510,22 @@
           "points": 9,
           "reb": 5,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -464,12 +536,15 @@
           "points": 11,
           "reb": 3,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 14,
-              "count": 4
+              "count": 4,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -480,24 +555,29 @@
           "points": 22,
           "reb": 8,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 26,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             }
           ]
         },
@@ -508,24 +588,29 @@
           "points": 5,
           "reb": 1,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -536,24 +621,29 @@
           "points": 27,
           "reb": 8,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 19,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         }
@@ -578,18 +668,22 @@
           "points": 12,
           "reb": 4,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -600,18 +694,22 @@
           "points": 13,
           "reb": 7,
           "ast": 8,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             }
           ]
         },
@@ -622,24 +720,29 @@
           "points": 14,
           "reb": 10,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 19,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -650,24 +753,29 @@
           "points": 9,
           "reb": 1,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         },
@@ -678,24 +786,29 @@
           "points": 16,
           "reb": 8,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         }
@@ -720,18 +833,22 @@
           "points": 18,
           "reb": 9,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
           "subs": [
             {
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 4,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 2,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             }
           ]
         },
@@ -742,18 +859,22 @@
           "points": 16,
           "reb": 1,
           "ast": 8,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 14,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -764,24 +885,29 @@
           "points": 14,
           "reb": 10,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 4,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             }
           ]
         },
@@ -792,24 +918,29 @@
           "points": 9,
           "reb": 0,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 2,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -820,24 +951,29 @@
           "points": 19,
           "reb": 13,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         }
@@ -862,18 +998,22 @@
           "points": 3,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -884,24 +1024,29 @@
           "points": 11,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -912,18 +1057,22 @@
           "points": 0,
           "reb": 5,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -934,18 +1083,22 @@
           "points": 0,
           "reb": 0,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 19,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Balázsi Ákos Milán",
               "jersey": 10,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg"
             }
           ]
         },
@@ -956,12 +1109,15 @@
           "points": 8,
           "reb": 3,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 16,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         }
@@ -986,12 +1142,15 @@
           "points": 3,
           "reb": 2,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 31,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             }
           ]
         },
@@ -1002,18 +1161,22 @@
           "points": 15,
           "reb": 8,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             }
           ]
         },
@@ -1024,12 +1187,15 @@
           "points": 10,
           "reb": 0,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 23,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -1040,18 +1206,22 @@
           "points": 4,
           "reb": 5,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-lakosa-akos.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 25,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             }
           ]
         },
@@ -1062,18 +1232,22 @@
           "points": 24,
           "reb": 9,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 18,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         }
@@ -1098,24 +1272,29 @@
           "points": 5,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -1126,12 +1305,15 @@
           "points": 0,
           "reb": 0,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Balázsi Ákos Milán",
               "jersey": 10,
               "minutes": 31,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg"
             }
           ]
         },
@@ -1142,18 +1324,22 @@
           "points": 13,
           "reb": 12,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -1164,24 +1350,29 @@
           "points": 3,
           "reb": 0,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -1192,12 +1383,15 @@
           "points": 25,
           "reb": 8,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 32,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         }
@@ -1222,24 +1416,29 @@
           "points": 9,
           "reb": 2,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 9,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 35,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Balázsi Ákos Milán",
               "jersey": 10,
               "minutes": 41,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg"
             }
           ]
         },
@@ -1250,24 +1449,29 @@
           "points": 6,
           "reb": 2,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Balázsi Ákos Milán",
               "jersey": 10,
               "minutes": 41,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 35,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 42,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         },
@@ -1278,24 +1482,29 @@
           "points": 26,
           "reb": 18,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 2,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 1,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             }
           ]
         },
@@ -1306,24 +1515,29 @@
           "points": 8,
           "reb": 0,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 12,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Balázsi Ákos Milán",
               "jersey": 10,
               "minutes": 41,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg"
             }
           ]
         },
@@ -1334,12 +1548,15 @@
           "points": 19,
           "reb": 14,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             }
           ]
         }
@@ -1359,111 +1576,131 @@
       "starters": [
         {
           "name": "Boros Márk",
-          "jersey": null,
+          "jersey": 13,
           "minutes": 28,
           "points": 16,
           "reb": 3,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Horváth Botond",
-              "jersey": null,
+              "jersey": 3,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 9,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Szántó Dániel",
-              "jersey": null,
+              "jersey": 8,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
         {
           "name": "Hajdu Gergely",
-          "jersey": null,
+          "jersey": 19,
           "minutes": 17,
           "points": 4,
           "reb": 3,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Balázsi Ákos Milán",
-              "jersey": null,
+              "jersey": 10,
               "minutes": 23,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg"
             }
           ]
         },
         {
           "name": "Homoki Donát László",
-          "jersey": null,
+          "jersey": 14,
           "minutes": 33,
           "points": 14,
           "reb": 16,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 4,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
         {
           "name": "Horváth Botond",
-          "jersey": null,
+          "jersey": 3,
           "minutes": 20,
           "points": 2,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Lakosa Ákos",
-              "jersey": null,
+              "jersey": 17,
               "minutes": 7,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Szántó Dániel",
-              "jersey": null,
+              "jersey": 8,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 9,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
         {
           "name": "Swanson Kevin Wade",
-          "jersey": null,
+          "jersey": 33,
           "minutes": 33,
           "points": 24,
           "reb": 6,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Varsányi Áron",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 9,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         }
@@ -1488,12 +1725,15 @@
           "points": 2,
           "reb": 3,
           "ast": 10,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 12,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -1504,24 +1744,29 @@
           "points": 3,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -1532,24 +1777,29 @@
           "points": 16,
           "reb": 12,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 34,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -1560,24 +1810,29 @@
           "points": 19,
           "reb": 5,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 2,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -1588,18 +1843,22 @@
           "points": 27,
           "reb": 8,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 32,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         }
@@ -1624,24 +1883,29 @@
           "points": 0,
           "reb": 1,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             }
           ]
         },
@@ -1652,18 +1916,22 @@
           "points": 13,
           "reb": 2,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 19,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 23,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             }
           ]
         },
@@ -1674,18 +1942,22 @@
           "points": 0,
           "reb": 5,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 23,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             }
           ]
         },
@@ -1696,18 +1968,22 @@
           "points": 14,
           "reb": 10,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -1718,12 +1994,15 @@
           "points": 17,
           "reb": 5,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         }
@@ -1748,24 +2027,29 @@
           "points": 2,
           "reb": 2,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 2,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             }
           ]
         },
@@ -1776,12 +2060,15 @@
           "points": 7,
           "reb": 3,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 16,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -1792,18 +2079,22 @@
           "points": 16,
           "reb": 10,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 4,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             }
           ]
         },
@@ -1817,15 +2108,17 @@
           "subs": [
             {
               "name": "Patai Dániel András",
-              "jersey": 11,
+              "jersey": 0,
               "minutes": 16,
-              "count": 4
+              "count": 4,
+              "photo_filename": "obudai-kaszasok-patai-daniel-andras.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 4,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             }
           ]
         },
@@ -1836,18 +2129,22 @@
           "points": 26,
           "reb": 4,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 4,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             }
           ]
         }
@@ -1872,18 +2169,22 @@
           "points": 5,
           "reb": 3,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -1894,18 +2195,22 @@
           "points": 22,
           "reb": 5,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 16,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -1916,24 +2221,29 @@
           "points": 1,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -1944,24 +2254,29 @@
           "points": 22,
           "reb": 6,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 28,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -1972,24 +2287,29 @@
           "points": 20,
           "reb": 8,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 4,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             }
           ]
         }
@@ -2014,18 +2334,22 @@
           "points": 15,
           "reb": 4,
           "ast": 7,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 14,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 0,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             }
           ]
         },
@@ -2036,12 +2360,15 @@
           "points": 21,
           "reb": 15,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -2057,13 +2384,15 @@
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 14,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -2074,18 +2403,22 @@
           "points": 10,
           "reb": 1,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 16,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 34,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         },
@@ -2096,18 +2429,22 @@
           "points": 29,
           "reb": 13,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 5,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         }
@@ -2132,24 +2469,29 @@
           "points": 3,
           "reb": 3,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -2160,24 +2502,29 @@
           "points": 13,
           "reb": 13,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -2193,19 +2540,22 @@
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 20,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Lehoczki Attila",
               "jersey": 26,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lehoczki-attila.jpg"
             }
           ]
         },
@@ -2216,24 +2566,29 @@
           "points": 14,
           "reb": 9,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 13,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             }
           ]
         },
@@ -2244,18 +2599,22 @@
           "points": 6,
           "reb": 2,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-szanto-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 13,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 20,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             }
           ]
         }
@@ -2280,46 +2639,55 @@
           "points": 0,
           "reb": 3,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Boros Márk",
-              "jersey": 2,
+              "jersey": 13,
               "minutes": 27,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
         {
           "name": "Boros Márk",
-          "jersey": 2,
+          "jersey": 13,
           "minutes": 27,
           "points": 6,
           "reb": 3,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 26,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 27,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -2330,24 +2698,29 @@
           "points": 11,
           "reb": 5,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 24,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Patai Dániel András",
-              "jersey": 11,
+              "jersey": 0,
               "minutes": 1,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-patai-daniel-andras.jpg"
             }
           ]
         },
@@ -2363,19 +2736,22 @@
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 27,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -2386,18 +2762,22 @@
           "points": 28,
           "reb": 7,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 2,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         }
@@ -2422,24 +2802,29 @@
           "points": 2,
           "reb": 2,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         },
@@ -2450,24 +2835,29 @@
           "points": 9,
           "reb": 3,
           "ast": 3,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 19,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 27,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -2478,12 +2868,15 @@
           "points": 4,
           "reb": 4,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg",
+          "position": "5",
           "subs": [
             {
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 26,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             }
           ]
         },
@@ -2494,24 +2887,29 @@
           "points": 22,
           "reb": 7,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 36,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 8,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             }
           ]
         },
@@ -2522,18 +2920,22 @@
           "points": 20,
           "reb": 8,
           "ast": 3,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 8,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             }
           ]
         }
@@ -2558,24 +2960,29 @@
           "points": 0,
           "reb": 1,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 26,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -2586,24 +2993,29 @@
           "points": 22,
           "reb": 5,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 22,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             }
           ]
         },
@@ -2614,12 +3026,15 @@
           "points": 8,
           "reb": 13,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg",
+          "position": "5",
           "subs": [
             {
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 8,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             }
           ]
         },
@@ -2630,18 +3045,22 @@
           "points": 14,
           "reb": 7,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 27,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 32,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -2652,24 +3071,29 @@
           "points": 2,
           "reb": 4,
           "ast": 6,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             }
           ]
         }
@@ -2694,24 +3118,29 @@
           "points": 0,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 21,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -2722,18 +3151,22 @@
           "points": 7,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 22,
-              "count": 4
+              "count": 4,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             }
           ]
         },
@@ -2744,12 +3177,15 @@
           "points": 0,
           "reb": 7,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 17,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -2760,24 +3196,29 @@
           "points": 14,
           "reb": 7,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 8,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 0,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 19,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -2788,18 +3229,22 @@
           "points": 24,
           "reb": 8,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         }
@@ -2824,24 +3269,29 @@
           "points": 2,
           "reb": 4,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 28,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -2852,18 +3302,22 @@
           "points": 14,
           "reb": 1,
           "ast": 9,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             }
           ]
         },
@@ -2874,18 +3328,22 @@
           "points": 8,
           "reb": 2,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 15,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         },
@@ -2896,24 +3354,29 @@
           "points": 16,
           "reb": 4,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 7,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 33,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             }
           ]
         },
@@ -2924,24 +3387,29 @@
           "points": 14,
           "reb": 7,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             }
           ]
         }
@@ -2966,24 +3434,29 @@
           "points": 3,
           "reb": 2,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 22,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Horváth Botond",
               "jersey": 3,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -2994,12 +3467,15 @@
           "points": 6,
           "reb": 2,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 18,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
@@ -3010,18 +3486,22 @@
           "points": 23,
           "reb": 9,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 34,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             }
           ]
         },
@@ -3032,18 +3512,22 @@
           "points": 27,
           "reb": 7,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 24,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -3054,18 +3538,22 @@
           "points": 2,
           "reb": 6,
           "ast": 8,
+          "photo_filename": "obudai-kaszasok-szanto-daniel.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 24,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         }
@@ -3090,18 +3578,22 @@
           "points": 3,
           "reb": 5,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 17,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 33,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         },
@@ -3112,12 +3604,15 @@
           "points": 0,
           "reb": 1,
           "ast": 5,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 25,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -3128,24 +3623,29 @@
           "points": 5,
           "reb": 3,
           "ast": 3,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Horvat Olivér Márk",
               "jersey": 25,
               "minutes": 8,
-              "count": 2
+              "count": 2,
+              "photo_filename": null
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -3156,24 +3656,29 @@
           "points": 25,
           "reb": 20,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 32,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -3184,24 +3689,29 @@
           "points": 20,
           "reb": 4,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 33,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         }
@@ -3221,129 +3731,152 @@
       "starters": [
         {
           "name": "Balázsi Bence Soma",
-          "jersey": null,
+          "jersey": 9,
           "minutes": 18,
           "points": 2,
           "reb": 6,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
-              "jersey": null,
+              "jersey": 17,
               "minutes": 22,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Szántó Dániel",
-              "jersey": null,
+              "jersey": 8,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
         {
           "name": "Boros Márk",
-          "jersey": null,
+          "jersey": 13,
           "minutes": 32,
           "points": 22,
           "reb": 7,
           "ast": 11,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
-              "jersey": null,
+              "jersey": 8,
               "minutes": 14,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
-              "jersey": null,
+              "jersey": 9,
               "minutes": 18,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Szabó Dániel",
-              "jersey": null,
+              "jersey": 21,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             }
           ]
         },
         {
           "name": "Hajdu Gergely",
-          "jersey": null,
+          "jersey": 19,
           "minutes": 23,
           "points": 2,
           "reb": 0,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Varsányi Áron",
-              "jersey": null,
+              "jersey": 2,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Patai Dániel András",
-              "jersey": null,
+              "jersey": 0,
               "minutes": 0,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-patai-daniel-andras.jpg"
             },
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             }
           ]
         },
         {
           "name": "Homoki Donát László",
-          "jersey": null,
+          "jersey": 14,
           "minutes": 24,
           "points": 20,
           "reb": 13,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": null,
+              "jersey": 22,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Swanson Kevin Wade",
-              "jersey": null,
+              "jersey": 33,
               "minutes": 34,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Boros Márk",
-              "jersey": null,
+              "jersey": 13,
               "minutes": 32,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             }
           ]
         },
         {
           "name": "Swanson Kevin Wade",
-          "jersey": null,
+          "jersey": 33,
           "minutes": 34,
           "points": 18,
           "reb": 11,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Szabó Dániel",
-              "jersey": null,
+              "jersey": 21,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Lakosa Ákos",
-              "jersey": null,
+              "jersey": 17,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             }
           ]
         }
@@ -3368,24 +3901,29 @@
           "points": 3,
           "reb": 1,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 19,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             }
           ]
         },
@@ -3396,12 +3934,15 @@
           "points": 24,
           "reb": 6,
           "ast": 10,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 18,
-              "count": 5
+              "count": 5,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -3412,18 +3953,22 @@
           "points": 17,
           "reb": 10,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 5,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 29,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             }
           ]
         },
@@ -3439,13 +3984,15 @@
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 18,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Patai Dániel András",
-              "jersey": 11,
+              "jersey": 0,
               "minutes": 0,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-patai-daniel-andras.jpg"
             }
           ]
         },
@@ -3456,18 +4003,22 @@
           "points": 22,
           "reb": 12,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         }
@@ -3492,24 +4043,29 @@
           "points": 4,
           "reb": 5,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 12,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             }
           ]
         },
@@ -3520,24 +4076,29 @@
           "points": 15,
           "reb": 3,
           "ast": 6,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 21,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Lakosa Ákos",
               "jersey": 17,
               "minutes": 12,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             }
           ]
         },
@@ -3548,24 +4109,29 @@
           "points": 0,
           "reb": 3,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Varsányi Áron",
               "jersey": 2,
               "minutes": 10,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             },
             {
               "name": "Horvat Olivér Márk",
               "jersey": 25,
               "minutes": 5,
-              "count": 1
+              "count": 1,
+              "photo_filename": null
             }
           ]
         },
@@ -3576,24 +4142,29 @@
           "points": 35,
           "reb": 15,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
               "jersey": 22,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Szabó Dániel",
               "jersey": 21,
               "minutes": 4,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Nshimba Kalau Joel",
               "jersey": 6,
               "minutes": 7,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             }
           ]
         },
@@ -3604,18 +4175,22 @@
           "points": 18,
           "reb": 9,
           "ast": 2,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 31,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 15,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         }
@@ -3640,18 +4215,22 @@
           "points": 6,
           "reb": 4,
           "ast": 4,
+          "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg",
+          "position": "3-4",
           "subs": [
             {
               "name": "Lakosa Ákos",
-              "jersey": 4,
+              "jersey": 17,
               "minutes": 15,
-              "count": 4
+              "count": 4,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
             },
             {
               "name": "Varsányi Áron",
-              "jersey": 6,
+              "jersey": 2,
               "minutes": 6,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
             }
           ]
         },
@@ -3662,24 +4241,29 @@
           "points": 16,
           "reb": 3,
           "ast": 7,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 16,
-              "count": 3
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             },
             {
               "name": "Hajdu Gergely",
               "jersey": 19,
               "minutes": 22,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
             },
             {
               "name": "Balázsi Bence Soma",
               "jersey": 9,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
             }
           ]
         },
@@ -3690,24 +4274,29 @@
           "points": 4,
           "reb": 4,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg",
+          "position": "1-3",
           "subs": [
             {
               "name": "Gazdag Áron Bendegúz",
-              "jersey": 34,
+              "jersey": 22,
               "minutes": 16,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
             },
             {
               "name": "Boros Márk",
               "jersey": 13,
               "minutes": 25,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-boros-mark.jpg"
             },
             {
               "name": "Horvat Olivér Márk",
               "jersey": 25,
               "minutes": 3,
-              "count": 1
+              "count": 1,
+              "photo_filename": null
             }
           ]
         },
@@ -3718,24 +4307,29 @@
           "points": 18,
           "reb": 6,
           "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Szabó Dániel",
-              "jersey": 35,
+              "jersey": 21,
               "minutes": 11,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Swanson Kevin Wade",
               "jersey": 33,
               "minutes": 26,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg"
             },
             {
               "name": "Szántó Dániel",
               "jersey": 8,
               "minutes": 16,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szanto-daniel.jpg"
             }
           ]
         },
@@ -3746,24 +4340,29 @@
           "points": 25,
           "reb": 7,
           "ast": 1,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Nshimba Kalau Joel",
-              "jersey": 5,
+              "jersey": 6,
               "minutes": 5,
-              "count": 2
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
             },
             {
               "name": "Szabó Dániel",
-              "jersey": 35,
+              "jersey": 21,
               "minutes": 11,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
             },
             {
               "name": "Homoki Donát László",
               "jersey": 14,
               "minutes": 30,
-              "count": 1
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
             }
           ]
         }

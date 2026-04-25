@@ -27,13 +27,19 @@ jobs:
           python-version: '3.12'
 
       - name: Python csomagok telepítése
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 pillow
 
       - name: Stats DB letöltése (frissített mkosz-stats)
         run: git clone --depth 1 https://github.com/pozsikdani/mkosz-stats.git /tmp/mkosz-stats
 
       - name: Tabella scrape (mkosz.hu)
         run: python3 scripts/scrape_standings.py
+
+      - name: Roster scrape (mkosz.hu csapat oldalak)
+        run: python3 scripts/scrape_rosters.py
+
+      - name: Játékos-fotók letöltése (idempotens, cache-elt)
+        run: python3 scripts/download_player_photos.py
 
       - name: Per-csapat exportok (DB-ből)
         env:
@@ -51,7 +57,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add static/data/
+          git add static/data/ static/players/
           git diff --staged --quiet || (
             git commit -m "Napi adat-frissítés (auto): $(date +%Y-%m-%d)" &&
             git push

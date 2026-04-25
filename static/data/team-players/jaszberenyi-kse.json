@@ -11,7 +11,7 @@
   "players": [
     {
       "name": "Kinney Jr. James Edwin",
-      "jersey": null,
+      "jersey": 0,
       "gp": 26,
       "starts": 25,
       "gs_rate": 0.962,
@@ -36,6 +36,10 @@
       "ft_made": 56,
       "ft_att": 78,
       "ft_pct": 71.8,
+      "photo_filename": "jaszberenyi-kse-kinney-jr-james-edwin.jpg",
+      "height_cm": 188,
+      "position": "1",
+      "birth_year": 1990,
       "percentiles": {
         "ppg": 98,
         "rpg": 85,
@@ -55,7 +59,7 @@
     },
     {
       "name": "Geröly Márton András",
-      "jersey": null,
+      "jersey": 22,
       "gp": 25,
       "starts": 23,
       "gs_rate": 0.92,
@@ -80,6 +84,10 @@
       "ft_made": 26,
       "ft_att": 36,
       "ft_pct": 72.2,
+      "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
+      "height_cm": 201,
+      "position": "4",
+      "birth_year": 2004,
       "percentiles": {
         "ppg": 65,
         "rpg": 80,
@@ -124,6 +132,10 @@
       "ft_made": 17,
       "ft_att": 26,
       "ft_pct": 65.4,
+      "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
+      "height_cm": 194,
+      "position": "3",
+      "birth_year": 2008,
       "percentiles": {
         "ppg": 39,
         "rpg": 40,
@@ -143,7 +155,7 @@
     },
     {
       "name": "Csaba György",
-      "jersey": null,
+      "jersey": 3,
       "gp": 26,
       "starts": 19,
       "gs_rate": 0.731,
@@ -168,6 +180,10 @@
       "ft_made": 61,
       "ft_att": 98,
       "ft_pct": 62.2,
+      "photo_filename": "jaszberenyi-kse-csaba-gyorgy.jpg",
+      "height_cm": 194,
+      "position": "3",
+      "birth_year": 1991,
       "percentiles": {
         "ppg": 88,
         "rpg": 89,
@@ -187,7 +203,7 @@
     },
     {
       "name": "Abraham Arabo",
-      "jersey": 88,
+      "jersey": 0,
       "gp": 10,
       "starts": 7,
       "gs_rate": 0.7,
@@ -212,6 +228,10 @@
       "ft_made": 7,
       "ft_att": 16,
       "ft_pct": 43.8,
+      "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg",
+      "height_cm": 204,
+      "position": "5",
+      "birth_year": 2003,
       "percentiles": {
         "ppg": 62,
         "rpg": 86,
@@ -229,7 +249,7 @@
     },
     {
       "name": "Zsók Áron",
-      "jersey": null,
+      "jersey": 12,
       "gp": 26,
       "starts": 14,
       "gs_rate": 0.538,
@@ -254,6 +274,10 @@
       "ft_made": 21,
       "ft_att": 29,
       "ft_pct": 72.4,
+      "photo_filename": "jaszberenyi-kse-zsok-aron.jpg",
+      "height_cm": 201,
+      "position": "4",
+      "birth_year": 2003,
       "percentiles": {
         "ppg": 49,
         "rpg": 82,
@@ -302,7 +326,7 @@
     },
     {
       "name": "Cvijin Patrik",
-      "jersey": null,
+      "jersey": 10,
       "gp": 26,
       "starts": 9,
       "gs_rate": 0.346,
@@ -327,6 +351,10 @@
       "ft_made": 23,
       "ft_att": 41,
       "ft_pct": 56.1,
+      "photo_filename": "jaszberenyi-kse-cvijin-patrik.jpg",
+      "height_cm": 193,
+      "position": "3",
+      "birth_year": 1999,
       "percentiles": {
         "ppg": 64,
         "rpg": 59,
@@ -346,7 +374,7 @@
     },
     {
       "name": "Kámán Bálint",
-      "jersey": null,
+      "jersey": 13,
       "gp": 26,
       "starts": 7,
       "gs_rate": 0.269,
@@ -371,6 +399,10 @@
       "ft_made": 87,
       "ft_att": 103,
       "ft_pct": 84.5,
+      "photo_filename": "jaszberenyi-kse-kaman-balint.jpg",
+      "height_cm": 185,
+      "position": "1",
+      "birth_year": 1997,
       "percentiles": {
         "ppg": 65,
         "rpg": 43,
@@ -415,6 +447,10 @@
       "ft_made": 1,
       "ft_att": 2,
       "ft_pct": 50.0,
+      "photo_filename": "jaszberenyi-kse-hogye-attila.jpg",
+      "height_cm": 202,
+      "position": "5",
+      "birth_year": 2005,
       "percentiles": {
         "ppg": 13,
         "rpg": 31,
@@ -431,7 +467,7 @@
     },
     {
       "name": "Pucz Zalán",
-      "jersey": null,
+      "jersey": 9,
       "gp": 25,
       "starts": 4,
       "gs_rate": 0.16,
@@ -456,6 +492,10 @@
       "ft_made": 17,
       "ft_att": 25,
       "ft_pct": 68.0,
+      "photo_filename": "jaszberenyi-kse-pucz-zalan.jpg",
+      "height_cm": 190,
+      "position": "2",
+      "birth_year": 2006,
       "percentiles": {
         "ppg": 53,
         "rpg": 38,
@@ -474,8 +514,8 @@
       }
     },
     {
-      "name": "H?gye Attila",
-      "jersey": null,
+      "name": "Hőgye Attila",
+      "jersey": 24,
       "gp": 7,
       "starts": 1,
       "gs_rate": 0.143,
@@ -500,6 +540,10 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "photo_filename": "jaszberenyi-kse-hogye-attila.jpg",
+      "height_cm": 202,
+      "position": "5",
+      "birth_year": 2005,
       "percentiles": {
         "ppg": 17,
         "rpg": 34,
@@ -541,6 +585,10 @@
       "ft_made": 5,
       "ft_att": 6,
       "ft_pct": 83.3,
+      "photo_filename": "jaszberenyi-kse-nemet-akos.jpg",
+      "height_cm": 178,
+      "position": "1",
+      "birth_year": 2006,
       "percentiles": {
         "ppg": 17,
         "rpg": 22,
@@ -582,6 +630,10 @@
       "ft_made": 1,
       "ft_att": 3,
       "ft_pct": 33.3,
+      "photo_filename": "jaszberenyi-kse-sarkozy-zsombor.jpg",
+      "height_cm": 194,
+      "position": "4",
+      "birth_year": 2007,
       "percentiles": {
         "ppg": 13,
         "rpg": 5,
@@ -623,6 +675,10 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "photo_filename": "jaszberenyi-kse-turjanyi-mark.jpg",
+      "height_cm": 192,
+      "position": "3",
+      "birth_year": 2007,
       "percentiles": {
         "ppg": 4,
         "rpg": 5,
@@ -664,6 +720,10 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "photo_filename": "jaszberenyi-kse-hamar-barnabas.jpg",
+      "height_cm": 188,
+      "position": "2",
+      "birth_year": 2008,
       "percentiles": {
         "ppg": 9,
         "rpg": 5,

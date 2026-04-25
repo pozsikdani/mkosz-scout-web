@@ -103,6 +103,10 @@ export type PercentileStat =
 export interface PlayerSeason {
 	name: string;
 	jersey: number | null;
+	photo_filename?: string;
+	height_cm?: number;
+	position?: string;
+	birth_year?: number;
 	gp: number;
 	starts: number;
 	gs_rate: number;
@@ -135,6 +139,7 @@ export interface SubInfo {
 	jersey: number | null;
 	minutes: number;
 	count: number;
+	photo_filename?: string;
 }
 
 export interface GameStarter {
@@ -145,6 +150,8 @@ export interface GameStarter {
 	reb: number;
 	ast: number;
 	subs: SubInfo[];
+	photo_filename?: string;
+	position?: string;
 }
 
 export interface LineupMatch {
