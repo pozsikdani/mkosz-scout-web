@@ -316,14 +316,14 @@
 					{@const nrtg = lu.min > 0 ? (net / lu.min) * 40 : 0}
 					<tr style:background-color={nrtgColor(nrtg)} class:font-bold={lu.is_starter}>
 						<td class="px-3 py-2">
-							{#if lu.is_starter}
-								<span class="mr-1 rounded bg-fg/10 px-1.5 py-0.5 font-mono text-[10px] font-bold uppercase"
-									>S5</span
-								>
-							{/if}
 							<span class:font-bold={lu.is_starter} class="text-xs">
 								{lu.players.map(lastName).join(', ')}
 							</span>
+							{#if lu.is_starter}
+								<span class="ml-2 rounded bg-fg/10 px-1.5 py-0.5 font-mono text-[10px] font-bold uppercase"
+									>S5</span
+								>
+							{/if}
 						</td>
 						<td class="px-2 py-2 text-right font-mono">{lu.min.toFixed(0)}</td>
 						<td class="px-2 py-2 text-right font-mono">{lu.gp}</td>
