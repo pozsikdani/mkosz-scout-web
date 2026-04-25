@@ -230,21 +230,43 @@ def fetch_subs_for_game(
 
 
 def build_player_lookup(conn: sqlite3.Connection, gamecode: str, team_side: str) -> dict[str, dict]:
-    """Map name_key → {jersey, minutes} for one team in one game."""
+    """Map name_key → {jersey, minutes, name} for one team in one game.
+
+    Merge variants like SEB?K ANDRÁS / SEBŐK ANDRÁS / INALEGWU MARCELL /
+    INALEGWU MARCELL SÁMUEL: max() of numeric fields, prefer non-null jersey,
+    canonical display name without `?` and full-length.
+    """
     rows = conn.execute(
         """SELECT player_name, jersey_number, minutes
            FROM player_game_stats
            WHERE gamecode=? AND team=?""",
         (gamecode, team_side),
     ).fetchall()
+    name_forms: dict[str, Counter] = defaultdict(Counter)
     out: dict[str, dict] = {}
     for name, jersey, minutes in rows:
         if not name:
             continue
         k = name_key(name)
+        name_forms[k][name] += 1
         if k in out:
-            continue  # dup row — first wins
-        out[k] = {"jersey": jersey, "minutes": int(minutes or 0)}
+            ex = out[k]
+            ex["jersey"] = ex["jersey"] or jersey
+            ex["minutes"] = max(ex["minutes"], int(minutes or 0))
+        else:
+            out[k] = {"jersey": jersey, "minutes": int(minutes or 0)}
+
+    # Pick canonical display name per key
+    for k, p in out.items():
+        forms = name_forms[k]
+        ranked = sorted(
+            forms.items(),
+            key=lambda kv: ("?" in kv[0], -len(kv[0]), kv[0].isupper(), -kv[1]),
+        )
+        canon = ranked[0][0]
+        if canon.isupper():
+            canon = " ".join(part.capitalize() for part in canon.split())
+        p["name"] = canon
     return out
 
 
@@ -311,8 +333,11 @@ def main() -> int:
                 enriched = []
                 for sub_name, count in subs[:3]:
                     info = player_lookup.get(name_key(sub_name), {})
+                    # Prefer canonical display name from player_lookup (scoresheet)
+                    # over raw PBP form (which may contain `?` for failed Ő encoding)
+                    display_name = info.get("name") or sub_name
                     enriched.append({
-                        "name": sub_name,
+                        "name": display_name,
                         "jersey": info.get("jersey"),
                         "minutes": info.get("minutes", 0),
                         "count": count,
