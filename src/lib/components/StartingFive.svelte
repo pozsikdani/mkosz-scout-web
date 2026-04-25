@@ -11,6 +11,16 @@
 	let selectedIdx = $state(0); // 0 = most recent
 	const selected = $derived<LineupMatch | undefined>(matches[selectedIdx]);
 
+	let scrubberEl = $state<HTMLElement | null>(null);
+	$effect(() => {
+		// Scroll to the right end on mount: with flex-row-reverse the latest
+		// (selected) match sits at the right edge — start the scroll there so
+		// the user sees the selected match without manual scrolling.
+		if (scrubberEl) {
+			scrubberEl.scrollLeft = scrubberEl.scrollWidth;
+		}
+	});
+
 	function fmtDate(iso: string | null): string {
 		if (!iso) return '—';
 		const [y, m, d] = iso.split('-');
@@ -39,7 +49,7 @@
 </div>
 
 <!-- Match scrubber -->
-<div class="mb-4 overflow-x-auto rounded-lg border border-border bg-card p-2">
+<div bind:this={scrubberEl} class="mb-4 overflow-x-auto rounded-lg border border-border bg-card p-2">
 	<div class="flex flex-row-reverse gap-1 min-w-max justify-end">
 		{#each matches as m, i (m.gamecode)}
 			{@const isSel = i === selectedIdx}
