@@ -99,8 +99,21 @@ def slugify(name: str) -> str:
 
 
 def name_key(name: str) -> str:
-    """Lower+accent-strip for cross-table matching (handles ő/õ/UPPER)."""
-    return norm_full(name)
+    """Merge-key for cross-table dedup.
+
+    Handles three cases of scoresheet/PBP duplicates for the same player:
+    1. UPPER vs Title case (already handled by norm_full lowercasing)
+    2. `?` encoding glitch where `Ő` failed to decode (e.g. SEB?K vs SEBŐK,
+       HEIMANN GERG? vs HEIMANN GERGŐ) — substitute `?` with `o` (the
+       lowercased ő after accent strip)
+    3. Name truncation (INALEGWU MARCELL vs INALEGWU MARCELL SÁMUEL) — only
+       use the first 2 words as key
+    """
+    n = norm_full(name).replace("?", "o")
+    parts = n.split()
+    if len(parts) >= 2:
+        return " ".join(parts[:2])
+    return parts[0] if parts else ""
 
 
 def fetch_starters_for_game(
@@ -126,6 +139,16 @@ def fetch_starters_for_game(
         k = name_key(name)
         name_counts[k][name] += 1
         if k in by_key:
+            # Merge: scoresheet often splits a player's stats across multiple
+            # rows with name variants. Take max() of each numeric field, prefer
+            # non-null jersey. (Identical UPPER+Title rows max to the same
+            # value, so this is safe for that case too.)
+            ex = by_key[k]
+            ex["jersey"] = ex["jersey"] or jersey
+            ex["minutes"] = max(ex["minutes"], int(minutes or 0))
+            ex["points"] = max(ex["points"], int(pts or 0))
+            ex["reb"] = max(ex["reb"], int((oreb or 0) + (dreb or 0)))
+            ex["ast"] = max(ex["ast"], int(ast or 0))
             continue
         by_key[k] = {
             "_key": k,
@@ -136,12 +159,16 @@ def fetch_starters_for_game(
             "reb": int((oreb or 0) + (dreb or 0)),
             "ast": int(ast or 0),
         }
-    # Pick the most-frequent name form, prefer Title-case over ALL CAPS
+    # Pick the canonical name form: longest (captures full name), then prefer
+    # non-UPPER, then most-frequent.
     out = []
     for k, p in by_key.items():
         forms = name_counts[k]
-        # most_common is stable; among ties, prefer non-upper
-        ranked = sorted(forms.items(), key=lambda kv: (-kv[1], kv[0].isupper()))
+        # Canonical: avoid `?` placeholder, prefer longest, then non-UPPER, then count
+        ranked = sorted(
+            forms.items(),
+            key=lambda kv: ("?" in kv[0], -len(kv[0]), kv[0].isupper(), -kv[1]),
+        )
         canon = ranked[0][0]
         if canon.isupper():
             canon = " ".join(part.capitalize() for part in canon.split())

@@ -266,7 +266,7 @@
         {
           "name": "Cserényi Martin",
           "jersey": 1,
-          "minutes": 0,
+          "minutes": 12,
           "points": 3,
           "reb": 0,
           "ast": 0,
@@ -282,10 +282,10 @@
         {
           "name": "Ervin Carlbe Lee",
           "jersey": 5,
-          "minutes": 0,
+          "minutes": 37,
           "points": 10,
-          "reb": 0,
-          "ast": 0,
+          "reb": 6,
+          "ast": 4,
           "subs": [
             {
               "name": "Ormai Botond Gábor",
@@ -310,10 +310,10 @@
         {
           "name": "Hargitai Krisztián",
           "jersey": 99,
-          "minutes": 0,
+          "minutes": 27,
           "points": 7,
           "reb": 0,
-          "ast": 0,
+          "ast": 1,
           "subs": [
             {
               "name": "Cserényi Marcell",
@@ -338,10 +338,10 @@
         {
           "name": "Kalassai Martin",
           "jersey": 12,
-          "minutes": 0,
+          "minutes": 23,
           "points": 4,
-          "reb": 0,
-          "ast": 0,
+          "reb": 2,
+          "ast": 1,
           "subs": [
             {
               "name": "Hargitai Krisztián",
@@ -366,10 +366,10 @@
         {
           "name": "Ormai Botond Gábor",
           "jersey": 22,
-          "minutes": 0,
+          "minutes": 36,
           "points": 24,
-          "reb": 0,
-          "ast": 0,
+          "reb": 13,
+          "ast": 6,
           "subs": [
             {
               "name": "Kalassai Martin",
@@ -396,9 +396,9 @@
         {
           "name": "Balázs Márton József",
           "jersey": 7,
-          "minutes": 0,
+          "minutes": 18,
           "points": 7,
-          "reb": 0,
+          "reb": 2,
           "ast": 0,
           "subs": [
             {
@@ -412,10 +412,10 @@
         {
           "name": "Ervin Carlbe Lee",
           "jersey": 5,
-          "minutes": 0,
+          "minutes": 40,
           "points": 28,
-          "reb": 0,
-          "ast": 0,
+          "reb": 9,
+          "ast": 5,
           "subs": [
             {
               "name": "Hargitai Krisztián",
@@ -428,9 +428,9 @@
         {
           "name": "Hargitai Krisztián",
           "jersey": 99,
-          "minutes": 0,
+          "minutes": 29,
           "points": 14,
-          "reb": 0,
+          "reb": 5,
           "ast": 0,
           "subs": [
             {
@@ -450,9 +450,9 @@
         {
           "name": "Kalassai Martin",
           "jersey": 12,
-          "minutes": 0,
+          "minutes": 26,
           "points": 8,
-          "reb": 0,
+          "reb": 6,
           "ast": 0,
           "subs": [
             {
@@ -478,10 +478,10 @@
         {
           "name": "Ormai Botond Gábor",
           "jersey": 22,
-          "minutes": 0,
+          "minutes": 33,
           "points": 12,
-          "reb": 0,
-          "ast": 0,
+          "reb": 9,
+          "ast": 11,
           "subs": [
             {
               "name": "Ervin Carlbe Lee",
@@ -1211,7 +1211,7 @@
           "name": "Tóth Bence Miklós",
           "jersey": 6,
           "minutes": 42,
-          "points": 10,
+          "points": 13,
           "reb": 0,
           "ast": 9,
           "subs": [
@@ -2594,17 +2594,8 @@
           ]
         },
         {
-          "name": "Harris Christopher",
-          "jersey": 5,
-          "minutes": 28,
-          "points": 30,
-          "reb": 4,
-          "ast": 3,
-          "subs": []
-        },
-        {
           "name": "Harris Christopher Charles",
-          "jersey": null,
+          "jersey": 5,
           "minutes": 28,
           "points": 30,
           "reb": 4,
@@ -2657,6 +2648,22 @@
               "count": 1
             }
           ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 6,
+          "minutes": 28,
+          "points": 16,
+          "reb": 3,
+          "ast": 7,
+          "subs": [
+            {
+              "name": "Harris Christopher Charles",
+              "jersey": 5,
+              "minutes": 28,
+              "count": 2
+            }
+          ]
         }
       ]
     },
@@ -2676,7 +2683,7 @@
           "name": "Cserényi Marcell",
           "jersey": 4,
           "minutes": 31,
-          "points": 4,
+          "points": 6,
           "reb": 3,
           "ast": 0,
           "subs": [
@@ -2688,7 +2695,7 @@
             },
             {
               "name": "Harris Christopher Charles",
-              "jersey": null,
+              "jersey": 5,
               "minutes": 36,
               "count": 1
             },
@@ -2701,17 +2708,8 @@
           ]
         },
         {
-          "name": "Harris Christopher",
-          "jersey": 5,
-          "minutes": 36,
-          "points": 18,
-          "reb": 6,
-          "ast": 3,
-          "subs": []
-        },
-        {
           "name": "Harris Christopher Charles",
-          "jersey": null,
+          "jersey": 5,
           "minutes": 36,
           "points": 18,
           "reb": 6,
@@ -2768,6 +2766,28 @@
               "count": 1
             }
           ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 6,
+          "minutes": 39,
+          "points": 7,
+          "reb": 4,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Cserényi Marcell",
+              "jersey": 4,
+              "minutes": 31,
+              "count": 1
+            },
+            {
+              "name": "Cserényi Martin",
+              "jersey": 1,
+              "minutes": 14,
+              "count": 1
+            }
+          ]
         }
       ]
     },
@@ -2800,17 +2820,8 @@
           ]
         },
         {
-          "name": "Harris Christopher",
-          "jersey": 5,
-          "minutes": 34,
-          "points": 27,
-          "reb": 3,
-          "ast": 5,
-          "subs": []
-        },
-        {
           "name": "Harris Christopher Charles",
-          "jersey": null,
+          "jersey": 5,
           "minutes": 34,
           "points": 27,
           "reb": 3,
@@ -2880,8 +2891,30 @@
             },
             {
               "name": "Harris Christopher Charles",
-              "jersey": null,
+              "jersey": 5,
               "minutes": 34,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 6,
+          "minutes": 29,
+          "points": 8,
+          "reb": 5,
+          "ast": 9,
+          "subs": [
+            {
+              "name": "Glatz Gábor Soma",
+              "jersey": 15,
+              "minutes": 15,
+              "count": 2
+            },
+            {
+              "name": "Kalassai Martin",
+              "jersey": 12,
+              "minutes": 32,
               "count": 1
             }
           ]
@@ -2978,7 +3011,7 @@
             },
             {
               "name": "Harris Christopher Charles",
-              "jersey": null,
+              "jersey": 5,
               "minutes": 0,
               "count": 1
             }
@@ -3087,17 +3120,8 @@
           ]
         },
         {
-          "name": "Harris Christopher",
-          "jersey": 5,
-          "minutes": 28,
-          "points": 25,
-          "reb": 5,
-          "ast": 2,
-          "subs": []
-        },
-        {
           "name": "Harris Christopher Charles",
-          "jersey": null,
+          "jersey": 5,
           "minutes": 28,
           "points": 25,
           "reb": 5,
@@ -3139,8 +3163,36 @@
             },
             {
               "name": "Harris Christopher Charles",
-              "jersey": null,
+              "jersey": 5,
               "minutes": 28,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 6,
+          "minutes": 28,
+          "points": 2,
+          "reb": 3,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Harris Christopher Charles",
+              "jersey": 5,
+              "minutes": 28,
+              "count": 1
+            },
+            {
+              "name": "Meleg Károly Richárd",
+              "jersey": 13,
+              "minutes": 15,
+              "count": 1
+            },
+            {
+              "name": "Kalassai Martin",
+              "jersey": 12,
+              "minutes": 22,
               "count": 1
             }
           ]
@@ -3182,17 +3234,8 @@
           ]
         },
         {
-          "name": "Harris Christopher",
-          "jersey": 5,
-          "minutes": 33,
-          "points": 31,
-          "reb": 6,
-          "ast": 1,
-          "subs": []
-        },
-        {
           "name": "Harris Christopher Charles",
-          "jersey": null,
+          "jersey": 5,
           "minutes": 33,
           "points": 31,
           "reb": 6,
@@ -3267,6 +3310,28 @@
               "count": 1
             }
           ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 6,
+          "minutes": 32,
+          "points": 6,
+          "reb": 3,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Kalassai Martin",
+              "jersey": 12,
+              "minutes": 14,
+              "count": 2
+            },
+            {
+              "name": "Harris Christopher Charles",
+              "jersey": 5,
+              "minutes": 33,
+              "count": 1
+            }
+          ]
         }
       ]
     },
@@ -3299,17 +3364,8 @@
           ]
         },
         {
-          "name": "Harris Christopher",
-          "jersey": 5,
-          "minutes": 44,
-          "points": 39,
-          "reb": 8,
-          "ast": 4,
-          "subs": []
-        },
-        {
           "name": "Harris Christopher Charles",
-          "jersey": null,
+          "jersey": 5,
           "minutes": 44,
           "points": 39,
           "reb": 8,
@@ -3366,6 +3422,34 @@
               "count": 1
             }
           ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 6,
+          "minutes": 31,
+          "points": 7,
+          "reb": 2,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Kalassai Martin",
+              "jersey": 12,
+              "minutes": 28,
+              "count": 2
+            },
+            {
+              "name": "Harris Christopher Charles",
+              "jersey": 5,
+              "minutes": 44,
+              "count": 1
+            },
+            {
+              "name": "Glatz Gábor Soma",
+              "jersey": 15,
+              "minutes": 31,
+              "count": 1
+            }
+          ]
         }
       ]
     },
@@ -3419,7 +3503,7 @@
             },
             {
               "name": "Harris Christopher Charles",
-              "jersey": null,
+              "jersey": 5,
               "minutes": 20,
               "count": 1
             },
@@ -3453,7 +3537,7 @@
             },
             {
               "name": "Harris Christopher Charles",
-              "jersey": null,
+              "jersey": 5,
               "minutes": 20,
               "count": 1
             }
@@ -3475,7 +3559,7 @@
             },
             {
               "name": "Harris Christopher Charles",
-              "jersey": null,
+              "jersey": 5,
               "minutes": 20,
               "count": 1
             },

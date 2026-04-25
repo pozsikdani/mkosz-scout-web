@@ -90,12 +90,18 @@ def slugify(name: str) -> str:
 
 
 def name_key(name: str) -> str:
-    return norm_full(name)
+    """Merge-key: lowercase, accent-strip, `?→o` (failed Ő encoding),
+    take first 2 words (handles "INALEGWU MARCELL" + "INALEGWU MARCELL SÁMUEL")."""
+    n = norm_full(name).replace("?", "o")
+    parts = n.split()
+    if len(parts) >= 2:
+        return " ".join(parts[:2])
+    return parts[0] if parts else ""
 
 
 def canonicalize(forms: Counter) -> str:
     """Pick canonical display form: most frequent, prefer non-UPPER on ties."""
-    ranked = sorted(forms.items(), key=lambda kv: (-kv[1], kv[0].isupper()))
+    ranked = sorted(forms.items(), key=lambda kv: ("?" in kv[0], -len(kv[0]), kv[0].isupper(), -kv[1]))
     canon = ranked[0][0]
     if canon.isupper():
         canon = " ".join(p.capitalize() for p in canon.split())

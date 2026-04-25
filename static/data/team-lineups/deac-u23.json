@@ -308,10 +308,10 @@
         {
           "name": "Bankó Zoltán Martin",
           "jersey": 19,
-          "minutes": 0,
+          "minutes": 29,
           "points": 19,
-          "reb": 0,
-          "ast": 0,
+          "reb": 8,
+          "ast": 3,
           "subs": [
             {
               "name": "Orbán Imre",
@@ -330,10 +330,10 @@
         {
           "name": "Flasár Botond",
           "jersey": 33,
-          "minutes": 0,
+          "minutes": 27,
           "points": 11,
-          "reb": 0,
-          "ast": 0,
+          "reb": 5,
+          "ast": 4,
           "subs": [
             {
               "name": "Bankó Zoltán Martin",
@@ -352,10 +352,10 @@
         {
           "name": "Gál Csongor",
           "jersey": 2,
-          "minutes": 0,
+          "minutes": 17,
           "points": 4,
-          "reb": 0,
-          "ast": 0,
+          "reb": 2,
+          "ast": 1,
           "subs": [
             {
               "name": "Varga Ferenc",
@@ -380,10 +380,10 @@
         {
           "name": "Varga Ferenc",
           "jersey": 10,
-          "minutes": 0,
+          "minutes": 26,
           "points": 7,
-          "reb": 0,
-          "ast": 0,
+          "reb": 3,
+          "ast": 2,
           "subs": [
             {
               "name": "Szentkuti Ákos",
@@ -408,10 +408,10 @@
         {
           "name": "Várszegi Ádám",
           "jersey": 13,
-          "minutes": 0,
+          "minutes": 33,
           "points": 15,
-          "reb": 0,
-          "ast": 0,
+          "reb": 4,
+          "ast": 1,
           "subs": [
             {
               "name": "Vadai Balázs",
@@ -1073,7 +1073,7 @@
           "name": "Szász-Veres Márk",
           "jersey": 24,
           "minutes": 24,
-          "points": 14,
+          "points": 16,
           "reb": 5,
           "ast": 0,
           "subs": [
@@ -2481,8 +2481,8 @@
           ]
         },
         {
-          "name": "H?gye Patrik",
-          "jersey": null,
+          "name": "Hőgye Patrik",
+          "jersey": 88,
           "minutes": 19,
           "points": 12,
           "reb": 3,
@@ -2507,15 +2507,6 @@
               "count": 1
             }
           ]
-        },
-        {
-          "name": "Hőgye Patrik",
-          "jersey": 88,
-          "minutes": 19,
-          "points": 12,
-          "reb": 3,
-          "ast": 1,
-          "subs": []
         },
         {
           "name": "Kovács Ákos Bence",
@@ -2572,6 +2563,28 @@
               "count": 1
             }
           ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 25,
+          "points": 21,
+          "reb": 7,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Balázsi Ákos Milán",
+              "jersey": 68,
+              "minutes": 17,
+              "count": 3
+            },
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 22,
+              "count": 1
+            }
+          ]
         }
       ]
     },
@@ -2619,7 +2632,7 @@
           "name": "Flasár Botond",
           "jersey": 3,
           "minutes": 30,
-          "points": 0,
+          "points": 6,
           "reb": 12,
           "ast": 5,
           "subs": [
@@ -2641,7 +2654,7 @@
           "name": "Szász-Veres Márk",
           "jersey": 4,
           "minutes": 27,
-          "points": 0,
+          "points": 3,
           "reb": 3,
           "ast": 1,
           "subs": [
@@ -2667,7 +2680,7 @@
         },
         {
           "name": "Varga Ferenc",
-          "jersey": 0,
+          "jersey": null,
           "minutes": 30,
           "points": 18,
           "reb": 1,
@@ -3058,8 +3071,8 @@
           ]
         },
         {
-          "name": "H?gye Patrik",
-          "jersey": null,
+          "name": "Hőgye Patrik",
+          "jersey": 88,
           "minutes": 31,
           "points": 11,
           "reb": 1,
@@ -3080,15 +3093,6 @@
           ]
         },
         {
-          "name": "Hőgye Patrik",
-          "jersey": 88,
-          "minutes": 31,
-          "points": 11,
-          "reb": 1,
-          "ast": 4,
-          "subs": []
-        },
-        {
           "name": "Orbán Imre",
           "jersey": 27,
           "minutes": 18,
@@ -3104,8 +3108,30 @@
             },
             {
               "name": "Csécsei Gerg?",
-              "jersey": null,
+              "jersey": 16,
               "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 34,
+          "points": 13,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Szentkuti Ákos",
+              "jersey": 4,
+              "minutes": 18,
+              "count": 4
+            },
+            {
+              "name": "Orbán Imre",
+              "jersey": 27,
+              "minutes": 18,
               "count": 1
             }
           ]
@@ -3419,8 +3445,8 @@
           ]
         },
         {
-          "name": "H?gye Patrik",
-          "jersey": null,
+          "name": "Hőgye Patrik",
+          "jersey": 88,
           "minutes": 19,
           "points": 11,
           "reb": 1,
@@ -3445,15 +3471,6 @@
               "count": 1
             }
           ]
-        },
-        {
-          "name": "Hőgye Patrik",
-          "jersey": 88,
-          "minutes": 19,
-          "points": 11,
-          "reb": 1,
-          "ast": 0,
-          "subs": []
         },
         {
           "name": "Orbán Imre",
@@ -3501,6 +3518,28 @@
               "name": "H?gye Patrik",
               "jersey": null,
               "minutes": 19,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 30,
+          "points": 16,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Szász-Veres Márk",
+              "jersey": 24,
+              "minutes": 16,
+              "count": 2
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 13,
               "count": 1
             }
           ]

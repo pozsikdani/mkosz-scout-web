@@ -236,10 +236,10 @@
         {
           "name": "Bán Tibor",
           "jersey": 8,
-          "minutes": 0,
+          "minutes": 25,
           "points": 7,
-          "reb": 0,
-          "ast": 0,
+          "reb": 4,
+          "ast": 1,
           "subs": [
             {
               "name": "Schmera Gergely",
@@ -258,10 +258,10 @@
         {
           "name": "Locure Tyreke Edwin",
           "jersey": 77,
-          "minutes": 0,
+          "minutes": 6,
           "points": 3,
-          "reb": 0,
-          "ast": 0,
+          "reb": 2,
+          "ast": 3,
           "subs": [
             {
               "name": "Kozák Márton",
@@ -274,10 +274,10 @@
         {
           "name": "Mayer Ákos",
           "jersey": 20,
-          "minutes": 0,
+          "minutes": 9,
           "points": 2,
           "reb": 0,
-          "ast": 0,
+          "ast": 1,
           "subs": [
             {
               "name": "Kozák Bertalan",
@@ -290,10 +290,10 @@
         {
           "name": "Mészáros Ágoston",
           "jersey": 4,
-          "minutes": 0,
+          "minutes": 36,
           "points": 25,
-          "reb": 0,
-          "ast": 0,
+          "reb": 11,
+          "ast": 6,
           "subs": [
             {
               "name": "Lucey Ciarán József",
@@ -306,15 +306,15 @@
         {
           "name": "Schmera Gergely",
           "jersey": 15,
-          "minutes": 0,
+          "minutes": 21,
           "points": 24,
-          "reb": 0,
+          "reb": 3,
           "ast": 0,
           "subs": [
             {
               "name": "Ger?cs Roland Bálint",
-              "jersey": null,
-              "minutes": 19,
+              "jersey": 13,
+              "minutes": 0,
               "count": 3
             }
           ]
@@ -336,10 +336,10 @@
         {
           "name": "Bán Tibor",
           "jersey": 8,
-          "minutes": 0,
+          "minutes": 25,
           "points": 13,
-          "reb": 0,
-          "ast": 0,
+          "reb": 4,
+          "ast": 3,
           "subs": [
             {
               "name": "Mester Márk",
@@ -358,10 +358,10 @@
         {
           "name": "Kozák Márton",
           "jersey": 18,
-          "minutes": 0,
+          "minutes": 25,
           "points": 11,
-          "reb": 0,
-          "ast": 0,
+          "reb": 4,
+          "ast": 4,
           "subs": [
             {
               "name": "Lakatos Máté",
@@ -386,9 +386,9 @@
         {
           "name": "Mayer Ákos",
           "jersey": 20,
-          "minutes": 0,
+          "minutes": 18,
           "points": 5,
-          "reb": 0,
+          "reb": 3,
           "ast": 0,
           "subs": [
             {
@@ -402,10 +402,10 @@
         {
           "name": "Mészáros Ágoston",
           "jersey": 4,
-          "minutes": 0,
+          "minutes": 26,
           "points": 13,
-          "reb": 0,
-          "ast": 0,
+          "reb": 4,
+          "ast": 2,
           "subs": [
             {
               "name": "Lucey Ciarán József",
@@ -418,15 +418,15 @@
         {
           "name": "Schmera Gergely",
           "jersey": 15,
-          "minutes": 0,
+          "minutes": 18,
           "points": 7,
-          "reb": 0,
-          "ast": 0,
+          "reb": 2,
+          "ast": 1,
           "subs": [
             {
               "name": "Ger?cs Roland Bálint",
-              "jersey": null,
-              "minutes": 22,
+              "jersey": 13,
+              "minutes": 0,
               "count": 3
             }
           ]
@@ -858,8 +858,8 @@
       "has_subs": true,
       "starters": [
         {
-          "name": "Ger?cs Roland Bálint",
-          "jersey": null,
+          "name": "Gerőcs Roland Bálint",
+          "jersey": 13,
           "minutes": 30,
           "points": 16,
           "reb": 10,
@@ -872,15 +872,6 @@
               "count": 2
             }
           ]
-        },
-        {
-          "name": "Gerőcs Roland Bálint",
-          "jersey": 13,
-          "minutes": 30,
-          "points": 16,
-          "reb": 10,
-          "ast": 2,
-          "subs": []
         },
         {
           "name": "Kozák Márton",
@@ -938,6 +929,28 @@
               "name": "Tanyi Áron",
               "jersey": null,
               "minutes": 0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Schmera Gergely",
+          "jersey": 15,
+          "minutes": 13,
+          "points": 3,
+          "reb": 3,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Ger?cs Roland Bálint",
+              "jersey": null,
+              "minutes": 30,
+              "count": 2
+            },
+            {
+              "name": "Mayer Ákos",
+              "jersey": 20,
+              "minutes": 16,
               "count": 1
             }
           ]
@@ -1094,7 +1107,7 @@
           "name": "Lakatos Máté",
           "jersey": 9,
           "minutes": 22,
-          "points": 0,
+          "points": 2,
           "reb": 2,
           "ast": 0,
           "subs": [
@@ -1172,7 +1185,7 @@
           "name": "Schmera Gergely",
           "jersey": 15,
           "minutes": 26,
-          "points": 11,
+          "points": 14,
           "reb": 10,
           "ast": 1,
           "subs": [
@@ -1202,7 +1215,7 @@
           "name": "Kozák Márton",
           "jersey": 18,
           "minutes": 26,
-          "points": 8,
+          "points": 10,
           "reb": 5,
           "ast": 4,
           "subs": [
@@ -1464,7 +1477,7 @@
           "name": "Mayer Ákos",
           "jersey": 20,
           "minutes": 20,
-          "points": 3,
+          "points": 5,
           "reb": 3,
           "ast": 2,
           "subs": [
@@ -1530,7 +1543,7 @@
       "starters": [
         {
           "name": "Gerõcs Roland Bálint",
-          "jersey": null,
+          "jersey": 13,
           "minutes": 15,
           "points": 7,
           "reb": 4,
@@ -1922,9 +1935,9 @@
         },
         {
           "name": "Mayer Ákos",
-          "jersey": 0,
+          "jersey": null,
           "minutes": 12,
-          "points": 0,
+          "points": 4,
           "reb": 6,
           "ast": 2,
           "subs": [
@@ -2306,7 +2319,7 @@
         },
         {
           "name": "Gerõcs Roland Bálint",
-          "jersey": null,
+          "jersey": 13,
           "minutes": 25,
           "points": 13,
           "reb": 2,
@@ -2334,7 +2347,7 @@
         },
         {
           "name": "Kozák Bertalan",
-          "jersey": 0,
+          "jersey": null,
           "minutes": 28,
           "points": 8,
           "reb": 4,
@@ -2901,8 +2914,8 @@
           ]
         },
         {
-          "name": "Ger?cs Roland Bálint",
-          "jersey": null,
+          "name": "Gerőcs Roland Bálint",
+          "jersey": 13,
           "minutes": 21,
           "points": 8,
           "reb": 3,
@@ -2921,15 +2934,6 @@
               "count": 1
             }
           ]
-        },
-        {
-          "name": "Gerőcs Roland Bálint",
-          "jersey": 13,
-          "minutes": 21,
-          "points": 8,
-          "reb": 3,
-          "ast": 0,
-          "subs": []
         },
         {
           "name": "Kozák Márton",
@@ -2960,6 +2964,28 @@
               "jersey": 4,
               "minutes": 32,
               "count": 2
+            }
+          ]
+        },
+        {
+          "name": "Mayer Ákos",
+          "jersey": 20,
+          "minutes": 24,
+          "points": 8,
+          "reb": 8,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Kozák Bertalan",
+              "jersey": 0,
+              "minutes": 16,
+              "count": 3
+            },
+            {
+              "name": "Mester Márk",
+              "jersey": 12,
+              "minutes": 15,
+              "count": 1
             }
           ]
         }
@@ -3000,8 +3026,8 @@
           ]
         },
         {
-          "name": "Ger?cs Roland Bálint",
-          "jersey": null,
+          "name": "Gerőcs Roland Bálint",
+          "jersey": 13,
           "minutes": 25,
           "points": 15,
           "reb": 1,
@@ -3022,17 +3048,8 @@
           ]
         },
         {
-          "name": "Gerőcs Roland Bálint",
-          "jersey": 13,
-          "minutes": 25,
-          "points": 15,
-          "reb": 1,
-          "ast": 0,
-          "subs": []
-        },
-        {
           "name": "Kozák Bertalan",
-          "jersey": 0,
+          "jersey": null,
           "minutes": 17,
           "points": 2,
           "reb": 1,
@@ -3071,6 +3088,22 @@
               "jersey": 15,
               "minutes": 17,
               "count": 1
+            }
+          ]
+        },
+        {
+          "name": "Lucey Ciarán József",
+          "jersey": 44,
+          "minutes": 20,
+          "points": 2,
+          "reb": 3,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Mészáros Ágoston",
+              "jersey": 4,
+              "minutes": 23,
+              "count": 3
             }
           ]
         }
