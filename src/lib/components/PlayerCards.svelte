@@ -139,6 +139,7 @@
 <div class="grid grid-cols-1 gap-3 lg:grid-cols-2">
 	{#each visiblePlayers as p (p.name)}
 		{@const group = classify(p, data.team_max_gp)}
+		{@const pc = posCategory(p.position)}
 		<div
 			class="overflow-hidden rounded-lg border border-border bg-card"
 			class:opacity-90={group === 'bench'}
@@ -165,8 +166,7 @@
 				<div class="min-w-0 flex-1">
 					<p class="truncate font-semibold leading-tight">{p.name}</p>
 					<p class="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5 font-mono text-xs text-muted">
-						{#if posCategory(p.position)}
-							{@const pc = posCategory(p.position)!}
+						{#if pc}
 							<span class="rounded px-1.5 py-0.5 text-[10px] font-bold {POS_CLS[pc]}">
 								{pc}
 							</span>

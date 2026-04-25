@@ -96,8 +96,14 @@ def slugify(name: str) -> str:
 
 
 def player_dedup_key(name: str) -> str:
-    """Lower-cased, accent-stripped key — collapses 'Foo Bar' / 'FOO BAR'."""
-    return norm_full(name)
+    """Cross-table dedup key. Handles UPPER vs Title, `?→o` Ő-encoding glitch
+    (e.g. PLEESZ GERG? vs Pleesz Gergő), and name truncation by using the
+    first 2 words (e.g. INALEGWU MARCELL vs INALEGWU MARCELL SÁMUEL)."""
+    n = norm_full(name).replace("?", "o")
+    parts = n.split()
+    if len(parts) >= 2:
+        return " ".join(parts[:2])
+    return parts[0] if parts else ""
 
 
 def roster_match_key(name: str) -> str:

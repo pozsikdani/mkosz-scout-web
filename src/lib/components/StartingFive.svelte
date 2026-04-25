@@ -142,6 +142,7 @@
 	<!-- Starting 5 cards -->
 	<div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-5">
 		{#each selected.starters as starter (starter.name)}
+			{@const pc = posCategory(starter.position)}
 			<div class="flex flex-col rounded-lg border border-border bg-card overflow-hidden">
 				<!-- Photo + jersey + name -->
 				<div class="flex items-center gap-2 border-b border-border bg-card-hover px-3 py-2">
@@ -161,8 +162,7 @@
 							{starter.name}
 						</p>
 						<p class="mt-0.5 flex flex-wrap items-center gap-1.5 font-mono text-[10px] text-muted">
-							{#if posCategory(starter.position)}
-								{@const pc = posCategory(starter.position)!}
+							{#if pc}
 								<span class="rounded px-1 py-px text-[9px] font-bold {POS_CLS[pc]}">{pc}</span>
 							{/if}
 							<span>{starter.minutes} perc</span>
