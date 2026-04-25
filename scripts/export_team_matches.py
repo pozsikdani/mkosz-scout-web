@@ -125,6 +125,20 @@ def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str
         if has_result:
             result = "W" if our_score > their_score else ("L" if our_score < their_score else "D")
 
+        # Parse quarter_scores: "[[A1,B1],[A2,B2],...]" → per-team [{our, their}, ...]
+        # OT-meccseken több mint 4 negyed lehet.
+        our_quarters: list[dict] | None = None
+        if quarter_scores:
+            try:
+                qs = json.loads(quarter_scores)
+                our_quarters = [
+                    {"our": q[0] if is_home else q[1], "their": q[1] if is_home else q[0]}
+                    for q in qs
+                    if isinstance(q, list) and len(q) >= 2
+                ]
+            except (json.JSONDecodeError, TypeError, IndexError):
+                our_quarters = None
+
         matches.append({
             "gamecode": gamecode,
             "comp_code": comp_code,
@@ -137,6 +151,7 @@ def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str
             "our_score": our_score if has_result else None,
             "their_score": their_score if has_result else None,
             "result": result,
+            "quarter_scores": our_quarters,
             "has_scoresheet": bool(has_ss),
             "has_pbp": bool(has_pbp),
         })

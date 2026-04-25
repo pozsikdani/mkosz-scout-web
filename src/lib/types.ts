@@ -24,6 +24,11 @@ export interface Standings {
 
 export type MatchPhase = 'alapszakasz' | 'rajatszas_felso' | 'rajatszas_also';
 
+export interface QuarterScore {
+	our: number;
+	their: number;
+}
+
 export interface MatchRow {
 	gamecode: string;
 	comp_code: string;
@@ -36,6 +41,7 @@ export interface MatchRow {
 	our_score: number | null;
 	their_score: number | null;
 	result: 'W' | 'L' | 'D' | null;
+	quarter_scores: QuarterScore[] | null;
 	has_scoresheet: boolean;
 	has_pbp: boolean;
 }

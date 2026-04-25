@@ -2,6 +2,7 @@
 	import { base } from '$app/paths';
 	import LeagueComparison from '$lib/components/LeagueComparison.svelte';
 	import LineupNRtg from '$lib/components/LineupNRtg.svelte';
+	import QuarterAnalysis from '$lib/components/QuarterAnalysis.svelte';
 	import PlayerCards from '$lib/components/PlayerCards.svelte';
 	import PossessionBreakdown from '$lib/components/PossessionBreakdown.svelte';
 	import Shotchart from '$lib/components/Shotchart.svelte';
@@ -31,7 +32,16 @@
 	const oppg = $derived(gp > 0 ? team.allowed / gp : 0);
 	const margin = $derived(ppg - oppg);
 
-	type Tab = 'info' | 'lineups' | 'lineup-nrtg' | 'players' | 'shotchart' | 'league';
+	type Tab =
+		| 'info'
+		| 'lineups'
+		| 'lineup-nrtg'
+		| 'players'
+		| 'shotchart'
+		| 'league'
+		| 'quarters';
+
+	const hasQuarterData = $derived(allMatches.some((m) => m.quarter_scores && m.result !== null));
 	let activeTab = $state<Tab>('info');
 
 	type PhaseFilter = 'all' | 'alapszakasz' | 'rajatszas';
@@ -265,6 +275,18 @@
 		</button>
 		<button
 			type="button"
+			onclick={() => (activeTab = 'quarters')}
+			class="rounded px-4 py-2 transition"
+			class:bg-accent={activeTab === 'quarters'}
+			class:text-fg={activeTab === 'quarters'}
+			class:text-muted={activeTab !== 'quarters'}
+			disabled={!hasQuarterData}
+		>
+			Negyedek
+			{#if !hasQuarterData}<span class="ml-1 text-xs opacity-60">(nincs adat)</span>{/if}
+		</button>
+		<button
+			type="button"
 			onclick={() => (activeTab = 'league')}
 			class="rounded px-4 py-2 transition"
 			class:bg-accent={activeTab === 'league'}
@@ -494,6 +516,16 @@
 				</div>
 			{:else}
 				<PlayerCards data={playersData} />
+			{/if}
+		</section>
+	{:else if activeTab === 'quarters'}
+		<section>
+			{#if !hasQuarterData}
+				<div class="rounded-lg border border-border bg-card p-6 text-sm text-muted">
+					Nincs negyed-bontásos adat ehhez a csapathoz.
+				</div>
+			{:else}
+				<QuarterAnalysis matches={allMatches} />
 			{/if}
 		</section>
 	{:else if activeTab === 'league'}
