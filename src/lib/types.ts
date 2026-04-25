@@ -200,6 +200,36 @@ export interface TeamLineups {
 	matches: LineupMatch[];
 }
 
+export interface LineupRow {
+	players: string[];
+	min: number;
+	pf: number;
+	pa: number;
+	is_starter: boolean;
+}
+
+export interface LineupNRtgMatch {
+	gamecode: string;
+	comp_code: string;
+	phase: string;
+	date: string | null;
+	opponent: string;
+	home: boolean;
+	result: 'W' | 'L' | 'D';
+	our_score: number;
+	their_score: number;
+	has_pbp: boolean;
+	starters: string[];
+	lineups: LineupRow[];
+}
+
+export interface TeamLineupNRtg {
+	team: string;
+	season: string;
+	match_count: number;
+	matches: LineupNRtgMatch[];
+}
+
 export interface TeamPlayers {
 	team: string;
 	season: string;

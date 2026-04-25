@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	import LineupNRtg from '$lib/components/LineupNRtg.svelte';
 	import PlayerCards from '$lib/components/PlayerCards.svelte';
 	import PossessionBreakdown from '$lib/components/PossessionBreakdown.svelte';
 	import Shotchart from '$lib/components/Shotchart.svelte';
@@ -18,6 +19,8 @@
 	const lineupsData = $derived(data.lineups);
 	const hasLineups = $derived((lineupsData?.matches?.length ?? 0) > 0);
 	const possessionsData = $derived(data.possessions);
+	const lineupNRtgData = $derived(data.lineupNRtg);
+	const hasLineupNRtg = $derived((lineupNRtgData?.matches?.length ?? 0) > 0);
 
 	const gp = $derived(team.gp || 0);
 	const diff = $derived(team.scored - team.allowed);
@@ -25,7 +28,7 @@
 	const oppg = $derived(gp > 0 ? team.allowed / gp : 0);
 	const margin = $derived(ppg - oppg);
 
-	type Tab = 'info' | 'lineups' | 'players' | 'shotchart';
+	type Tab = 'info' | 'lineups' | 'lineup-nrtg' | 'players' | 'shotchart';
 	let activeTab = $state<Tab>('info');
 
 	type PhaseFilter = 'all' | 'alapszakasz' | 'rajatszas';
@@ -232,6 +235,18 @@
 		>
 			Kezdőötös
 			{#if !hasLineups}<span class="ml-1 text-xs opacity-60">(nincs adat)</span>{/if}
+		</button>
+		<button
+			type="button"
+			onclick={() => (activeTab = 'lineup-nrtg')}
+			class="rounded px-4 py-2 transition"
+			class:bg-accent={activeTab === 'lineup-nrtg'}
+			class:text-fg={activeTab === 'lineup-nrtg'}
+			class:text-muted={activeTab !== 'lineup-nrtg'}
+			disabled={!hasLineupNRtg}
+		>
+			Lineup NRTG
+			{#if !hasLineupNRtg}<span class="ml-1 text-xs opacity-60">(nincs adat)</span>{/if}
 		</button>
 		<button
 			type="button"
@@ -444,6 +459,16 @@
 				</div>
 			{:else}
 				<StartingFive data={lineupsData} />
+			{/if}
+		</section>
+	{:else if activeTab === 'lineup-nrtg'}
+		<section>
+			{#if !lineupNRtgData || lineupNRtgData.matches.length === 0}
+				<div class="rounded-lg border border-border bg-card p-6 text-sm text-muted">
+					Ehhez a csapathoz még nincs PBP-alapú lineup adat.
+				</div>
+			{:else}
+				<LineupNRtg data={lineupNRtgData} />
 			{/if}
 		</section>
 	{:else if activeTab === 'players'}

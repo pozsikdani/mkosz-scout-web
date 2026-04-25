@@ -3,6 +3,7 @@ import { base } from '$app/paths';
 import { teamToSlug } from '$lib/slug';
 import type {
 	Standings,
+	TeamLineupNRtg,
 	TeamLineups,
 	TeamMatches,
 	TeamPlayers,
@@ -36,7 +37,11 @@ export const load: PageLoad = async ({ params, fetch }) => {
 		fetch,
 		`${base}/data/team-possessions/${params.team}.json`
 	);
-	return { team, standings, matches, shots, players, lineups, possessions };
+	const lineupNRtg = await loadJson<TeamLineupNRtg>(
+		fetch,
+		`${base}/data/team-lineup-nrtg/${params.team}.json`
+	);
+	return { team, standings, matches, shots, players, lineups, possessions, lineupNRtg };
 };
 
 export const entries: EntryGenerator = async () => {

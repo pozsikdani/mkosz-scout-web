@@ -1,0 +1,6245 @@
+{
+  "team": "Újbuda MAFC",
+  "season": "x2526",
+  "match_count": 29,
+  "matches": [
+    {
+      "gamecode": "hun2a_ply_134111",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-21",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "L",
+      "our_score": 114,
+      "their_score": 138,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Dávid Benjámin",
+        "Kazy Balázs",
+        "Pintér Dávid",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 11.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 10.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 9.0,
+          "pf": 15,
+          "pa": 19,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 4.0,
+          "pf": 13,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény"
+          ],
+          "min": 2.0,
+          "pf": 9,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_ply_134109",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-18",
+      "opponent": "PVSK-VEOLIA",
+      "home": true,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 75,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Dávid Benjámin",
+        "Kazy Balázs",
+        "Pintér Dávid",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 23.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 14.0,
+          "pf": 31,
+          "pa": 26,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 6.0,
+          "pf": 13,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 16,
+          "pa": 11,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_ply_134107",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-15",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "L",
+      "our_score": 89,
+      "their_score": 94,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Dávid Benjámin",
+        "Kazy Balázs",
+        "Pintér Dávid",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 23.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 11.0,
+          "pf": 12,
+          "pa": 20,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 5.0,
+          "pf": 52,
+          "pa": 20,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 15,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 14,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123801",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-04-05",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": false,
+      "result": "L",
+      "our_score": 97,
+      "their_score": 116,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Kazy Balázs",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 12.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 10.0,
+          "pf": 26,
+          "pa": 34,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 10.0,
+          "pf": 30,
+          "pa": 25,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Turcsányi Nándor"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123785",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-28",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 107,
+      "their_score": 73,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Kazy Balázs",
+        "Molnár Tamás",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 15.0,
+          "pf": 39,
+          "pa": 19,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 14.0,
+          "pf": 14,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dobos Máté",
+            "Geiger Bálint József",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 14.0,
+          "pf": 7,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dobos Máté",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Turcsányi Nándor"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Turcsányi Nándor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123769",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-21",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PH",
+      "home": true,
+      "result": "W",
+      "our_score": 138,
+      "their_score": 114,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Kazy Balázs",
+        "Kovács Levente Hetény",
+        "Molnár Tamás",
+        "Polgárdy Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény"
+          ],
+          "min": 14.0,
+          "pf": 11,
+          "pa": 19,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 11.0,
+          "pf": 42,
+          "pa": 24,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 11.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123757",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-14",
+      "opponent": "Phoenix-MT FÓT",
+      "home": false,
+      "result": "L",
+      "our_score": 91,
+      "their_score": 136,
+      "has_pbp": true,
+      "starters": [
+        "Dávid Benjámin",
+        "Geiger Bálint József",
+        "Kovács Levente Hetény",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény"
+          ],
+          "min": 12.0,
+          "pf": 10,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 5.0,
+          "pf": 3,
+          "pa": 13,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dobos Máté",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 5.0,
+          "pf": 14,
+          "pa": 20,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 26,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 15,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 9,
+          "pa": 7,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123745",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-07",
+      "opponent": "VASAS AKADÉMIA",
+      "home": true,
+      "result": "W",
+      "our_score": 78,
+      "their_score": 70,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Kovács Levente Hetény",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 13.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 10.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 10.0,
+          "pf": 17,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 8.0,
+          "pf": 12,
+          "pa": 15,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 5.0,
+          "pf": 6,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 5.0,
+          "pf": 10,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123733",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-28",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "W",
+      "our_score": 155,
+      "their_score": 134,
+      "has_pbp": true,
+      "starters": [
+        "Kazy Balázs",
+        "Kovács Levente Hetény",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 14.0,
+          "pf": 15,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 13.0,
+          "pf": 47,
+          "pa": 35,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 12.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 11.0,
+          "pf": 7,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 20,
+          "pa": 20,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Pintér Dávid"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 12,
+          "pa": 7,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123721",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-14",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 91,
+      "their_score": 97,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Pintér Dávid",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény"
+          ],
+          "min": 14.0,
+          "pf": 5,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 13.0,
+          "pf": 8,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 11.0,
+          "pf": 7,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 9.0,
+          "pf": 14,
+          "pa": 14,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 5.0,
+          "pf": 18,
+          "pa": 20,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123709",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-02-06",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": false,
+      "result": "L",
+      "our_score": 91,
+      "their_score": 113,
+      "has_pbp": true,
+      "starters": [
+        "Biber Áron Benedek",
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Kovács Levente Hetény",
+        "Molnár Tamás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 12.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 11.0,
+          "pf": 1,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 11.0,
+          "pf": 7,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 10,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Turcsányi Nándor"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Dávid Benjámin",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Turcsányi Nándor"
+          ],
+          "min": 0.0,
+          "pf": 10,
+          "pa": 5,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123697",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-31",
+      "opponent": "PVSK-VEOLIA",
+      "home": true,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 76,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Dávid Benjámin",
+        "Geiger Bálint József",
+        "Kovács Levente Hetény",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 11.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 10.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 9.0,
+          "pf": 22,
+          "pa": 15,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 7.0,
+          "pf": 19,
+          "pa": 21,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123683",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-24",
+      "opponent": "EBH-SALGÓTARJÁN",
+      "home": false,
+      "result": "L",
+      "our_score": 87,
+      "their_score": 102,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Pintér Dávid",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 21.0,
+          "pf": 33,
+          "pa": 22,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 14.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 14.0,
+          "pf": 8,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 9.0,
+          "pf": 11,
+          "pa": 22,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 8,
+          "pa": 10,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123667",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-17",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 127,
+      "their_score": 124,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Dávid Benjámin",
+        "Geiger Bálint József",
+        "Pintér Dávid",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 22.0,
+          "pf": 27,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 13.0,
+          "pf": 9,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 8.0,
+          "pf": 26,
+          "pa": 20,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 6.0,
+          "pf": 7,
+          "pa": 19,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 5.0,
+          "pf": 12,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 15,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 9,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123651",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-11",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 96,
+      "their_score": 77,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 17.0,
+          "pf": 26,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs"
+          ],
+          "min": 11.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 6.0,
+          "pf": 17,
+          "pa": 13,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 5.0,
+          "pf": 5,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Molnár Tamás"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Kovács Levente Hetény",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Kovács Levente Hetény"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123635",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-03",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "W",
+      "our_score": 87,
+      "their_score": 76,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 14.0,
+          "pf": 11,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 12.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 7.0,
+          "pf": 21,
+          "pa": 8,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 7.0,
+          "pf": 10,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 5.0,
+          "pf": 12,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 12,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123619",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-20",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": true,
+      "result": "L",
+      "our_score": 87,
+      "their_score": 95,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 15.0,
+          "pf": 13,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 14.0,
+          "pf": 6,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 12.0,
+          "pf": 12,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 10.0,
+          "pf": 17,
+          "pa": 17,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123603",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-10",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 119,
+      "their_score": 106,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 14.0,
+          "pf": 47,
+          "pa": 29,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 13.0,
+          "pf": 5,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 13.0,
+          "pf": 5,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 12.0,
+          "pf": 11,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 4.0,
+          "pf": 12,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 16,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123587",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-05",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "W",
+      "our_score": 104,
+      "their_score": 90,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Pintér Dávid",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás",
+        "Viola Dávid Zsolt"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 13.0,
+          "pf": 26,
+          "pa": 23,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 12.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 12.0,
+          "pf": 12,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Turcsányi Nándor"
+          ],
+          "min": 10.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 8.0,
+          "pf": 14,
+          "pa": 16,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Turcsányi Nándor"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Turcsányi Nándor"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 0.0,
+          "pf": 8,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Turcsányi Nándor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123575",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-29",
+      "opponent": "PHOENIX-MT FÓT",
+      "home": true,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 114,
+      "has_pbp": true,
+      "starters": [
+        "Biber Áron Benedek",
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 13.0,
+          "pf": 7,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 13.0,
+          "pf": 0,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 11.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 8.0,
+          "pf": 13,
+          "pa": 21,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás"
+          ],
+          "min": 5.0,
+          "pf": 2,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 5.0,
+          "pf": 13,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 8,
+          "pa": 7,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123563",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-21",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 75,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Dobos Máté",
+        "Geiger Bálint József",
+        "Pintér Dávid",
+        "Polgárdy Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás"
+          ],
+          "min": 15.0,
+          "pf": 8,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 12.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 8.0,
+          "pf": 21,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dobos Máté",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 4.0,
+          "pf": 11,
+          "pa": 7,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 4.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 4.0,
+          "pf": 12,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 3.0,
+          "pf": 15,
+          "pa": 19,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123551",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-15",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "W",
+      "our_score": 102,
+      "their_score": 88,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Dávid Benjámin",
+        "Geiger Bálint József",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 15.0,
+          "pf": 19,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 14.0,
+          "pf": 6,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 12.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 8.0,
+          "pf": 30,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 7.0,
+          "pf": 15,
+          "pa": 19,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123539",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-09",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 88,
+      "their_score": 105,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 19.0,
+          "pf": 14,
+          "pa": 23,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 12.0,
+          "pf": 25,
+          "pa": 29,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 12.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 11.0,
+          "pf": 22,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Herló György",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Herló György",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123527",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-01",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": true,
+      "result": "L",
+      "our_score": 76,
+      "their_score": 87,
+      "has_pbp": true,
+      "starters": [
+        "Biber Áron Benedek",
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 31.0,
+          "pf": 15,
+          "pa": 26,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 14.0,
+          "pf": 13,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 5.0,
+          "pf": 9,
+          "pa": 8,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám"
+          ],
+          "min": 5.0,
+          "pf": 9,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123515",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-25",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "L",
+      "our_score": 98,
+      "their_score": 106,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 19.0,
+          "pf": 19,
+          "pa": 20,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs"
+          ],
+          "min": 13.0,
+          "pf": 14,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 12.0,
+          "pf": 8,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 9.0,
+          "pf": 16,
+          "pa": 21,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 7.0,
+          "pf": 24,
+          "pa": 15,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123501",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-18",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 98,
+      "their_score": 85,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 18.0,
+          "pf": 18,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 16.0,
+          "pf": 16,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 13.0,
+          "pf": 26,
+          "pa": 23,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 13.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 12,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Herló György",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Herló György",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123485",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-11",
+      "opponent": "JÁSZBERÉNYI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 101,
+      "their_score": 84,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 13.0,
+          "pf": 29,
+          "pa": 12,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 13.0,
+          "pf": 8,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 4.0,
+          "pf": 11,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 14,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Herló György",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Herló György",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Herló György",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Herló György",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 9,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123469",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-05",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 80,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 14.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 10.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 8.0,
+          "pf": 8,
+          "pa": 22,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 6.0,
+          "pf": 14,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 11,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 9,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123453",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-09-27",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA K",
+      "home": true,
+      "result": "W",
+      "our_score": 91,
+      "their_score": 77,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Molnár Tamás",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 18.0,
+          "pf": 22,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid"
+          ],
+          "min": 13.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 11.0,
+          "pf": 19,
+          "pa": 20,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 11,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 16,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kazy Balázs",
+            "Polgárdy Ádám"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Geiger Bálint József",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
+}
