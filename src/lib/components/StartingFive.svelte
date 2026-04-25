@@ -153,6 +153,16 @@
 							loading="lazy"
 							class="h-12 w-12 shrink-0 rounded-lg object-cover"
 						/>
+					{:else}
+						<div
+							class="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-card text-muted"
+							title="Nincs fotó"
+							aria-label="Nincs fotó"
+						>
+							<svg viewBox="0 0 24 24" class="h-6 w-6" fill="currentColor" aria-hidden="true">
+								<path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0 2c-4.42 0-8 2.69-8 6v2h16v-2c0-3.31-3.58-6-8-6Z" />
+							</svg>
+						</div>
 					{/if}
 					<div class="flex h-9 w-9 shrink-0 items-center justify-center rounded bg-accent font-mono text-base font-bold text-fg">
 						{starter.jersey ?? '—'}
@@ -206,6 +216,15 @@
 											loading="lazy"
 											class="h-6 w-6 shrink-0 rounded object-cover"
 										/>
+									{:else}
+										<div
+											class="flex h-6 w-6 shrink-0 items-center justify-center rounded bg-card text-muted"
+											aria-label="Nincs fotó"
+										>
+											<svg viewBox="0 0 24 24" class="h-3.5 w-3.5" fill="currentColor" aria-hidden="true">
+												<path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0 2c-4.42 0-8 2.69-8 6v2h16v-2c0-3.31-3.58-6-8-6Z" />
+											</svg>
+										</div>
 									{/if}
 									<span class="flex h-5 w-5 shrink-0 items-center justify-center rounded bg-border font-mono text-[10px] font-bold text-muted">
 										{sub.jersey ?? '?'}

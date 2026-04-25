@@ -153,6 +153,16 @@
 						loading="lazy"
 						class="h-14 w-14 shrink-0 rounded-lg object-cover"
 					/>
+				{:else}
+					<div
+						class="flex h-14 w-14 shrink-0 items-center justify-center rounded-lg bg-card-hover text-muted"
+						title="Nincs fotó"
+						aria-label="Nincs fotó"
+					>
+						<svg viewBox="0 0 24 24" class="h-7 w-7" fill="currentColor" aria-hidden="true">
+							<path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0 2c-4.42 0-8 2.69-8 6v2h16v-2c0-3.31-3.58-6-8-6Z" />
+						</svg>
+					</div>
 				{/if}
 				<div
 					class="flex h-10 w-10 shrink-0 items-center justify-center rounded font-mono text-base font-bold"
