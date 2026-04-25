@@ -131,41 +131,49 @@ def build_name_canon_map(
     return {k: canonicalize(v) for k, v in forms.items()}
 
 
-def get_starters_from_pbp(
+def get_starters(
     conn: sqlite3.Connection, gamecode: str, team_side: str
 ) -> set[str] | None:
-    """Return name_keys of the 5 starters (first action == subbed OUT)."""
+    """Return name_keys of the 5 starters.
+
+    Primary: scoresheet `player_game_stats.is_starter=1` (megbízható, mindig 5).
+    Fallback: PBP first-action-is-OUT heurisztika.
+    """
     rows = conn.execute(
-        """
-        SELECT event_seq, player_in_name, player_out_name
-        FROM substitutions
-        WHERE gamecode=? AND team=?
-        ORDER BY event_seq
-        """,
+        """SELECT player_name FROM player_game_stats
+           WHERE gamecode=? AND team=? AND is_starter=1 AND player_name IS NOT NULL""",
+        (gamecode, team_side),
+    ).fetchall()
+    keys = {name_key(n) for (n,) in rows if n}
+    if len(keys) == 5:
+        return keys
+
+    # Fallback: PBP heuristic (egyes meccseken nincs scoresheet starter info)
+    sub_rows = conn.execute(
+        """SELECT event_seq, player_in_name, player_out_name
+           FROM substitutions WHERE gamecode=? AND team=? ORDER BY event_seq""",
         (gamecode, team_side),
     ).fetchall()
     seen: set[int] = set()
-    fi: dict[str, int] = {}  # first-IN by name_key
-    fo: dict[str, int] = {}  # first-OUT by name_key
-    for seq, in_n, out_n in rows:
+    fi: dict[str, int] = {}
+    fo: dict[str, int] = {}
+    for seq, in_n, out_n in sub_rows:
         if seq in seen:
             continue
         seen.add(seq)
         if in_n:
             k = name_key(in_n)
-            if k not in fi:
-                fi[k] = seq
+            fi.setdefault(k, seq)
         if out_n:
             k = name_key(out_n)
-            if k not in fo:
-                fo[k] = seq
+            fo.setdefault(k, seq)
     starters: set[str] = set()
     for k, fo_seq in fo.items():
         if fi.get(k, 10**9) > fo_seq:
             starters.add(k)
-    if len(starters) != 5:
-        return None
-    return starters
+    if len(starters) == 5:
+        return starters
+    return None
 
 
 def compute_match_lineups(
@@ -176,7 +184,7 @@ def compute_match_lineups(
     lineup_rows = [{"players_keys": frozenset, "min": float, "pf": int, "pa": int}]
     Only rows with min > 0 OR scoring events recorded.
     """
-    starters = get_starters_from_pbp(conn, gamecode, team_side)
+    starters = get_starters(conn, gamecode, team_side)
     if starters is None:
         return None
 

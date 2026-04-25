@@ -1,7 +1,7 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2526",
-  "match_count": 19,
+  "match_count": 29,
   "matches": [
     {
       "gamecode": "hun2a_ply_134091",
@@ -767,6 +767,204 @@
           "min": 0.0,
           "pf": 5,
           "pa": 16,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123775",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-21",
+      "opponent": "JÁSZBERÉNYI KSE",
+      "home": true,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 77,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Illés Máté Csongor",
+        "Komma László András",
+        "Pipiras Rytis",
+        "Verebélyi Áron"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 14.0,
+          "pf": 22,
+          "pa": 27,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Varga Ádám Dániel",
+            "Végsõ Bálint"
+          ],
+          "min": 11.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Varga Ádám Dániel",
+            "Végsõ Bálint"
+          ],
+          "min": 5.0,
+          "pf": 16,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 0.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123763",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-14",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 75,
+      "their_score": 71,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Illés Máté Csongor",
+        "Nagy Simon",
+        "Orosi Bálint Gábor",
+        "Pipiras Rytis"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 33.0,
+          "pf": 27,
+          "pa": 23,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Magyari Kristóf",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 15.0,
+          "pf": 10,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Orosi Bálint Gábor",
+            "Pipiras Rytis"
+          ],
+          "min": 8.0,
+          "pf": 17,
+          "pa": 22,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 6.0,
+          "pf": 21,
+          "pa": 18,
           "is_starter": false
         }
       ]
@@ -1665,6 +1863,118 @@
       ]
     },
     {
+      "gamecode": "hun2a_123661",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-17",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "W",
+      "our_score": 108,
+      "their_score": 100,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Bolyos Mateja",
+        "Illés Máté Csongor",
+        "Komma László András",
+        "Nagy Simon"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon"
+          ],
+          "min": 17.0,
+          "pf": 76,
+          "pa": 56,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon",
+            "Verebélyi Áron"
+          ],
+          "min": 12.0,
+          "pf": 7,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Illés Máté Csongor",
+            "Magyari Kristóf",
+            "Nagy Simon"
+          ],
+          "min": 12.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Végső Bálint"
+          ],
+          "min": 12.0,
+          "pf": 4,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Orosi Bálint Gábor"
+          ],
+          "min": 5.0,
+          "pf": 10,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Verebélyi Áron",
+            "Végső Bálint"
+          ],
+          "min": 2.0,
+          "pf": 11,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Hibján Máté",
+            "Illés Máté Csongor",
+            "Komma László András"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    },
+    {
       "gamecode": "hun2a_123581",
       "comp_code": "hun2a",
       "phase": "alapszakasz",
@@ -1803,6 +2113,79 @@
       ]
     },
     {
+      "gamecode": "hun2a_123645",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-11",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 83,
+      "their_score": 88,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Bolyos Mateja",
+        "Illés Máté Csongor",
+        "Komma László András",
+        "Nagy Simon"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon"
+          ],
+          "min": 22.0,
+          "pf": 53,
+          "pa": 52,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Végsõ Bálint"
+          ],
+          "min": 16.0,
+          "pf": 15,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon",
+            "Verebélyi Áron"
+          ],
+          "min": 6.0,
+          "pf": 8,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Hibján Máté",
+            "Illés Máté Csongor",
+            "Komma László András"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 8,
+          "is_starter": false
+        }
+      ]
+    },
+    {
       "gamecode": "hun2a_123629",
       "comp_code": "hun2a",
       "phase": "alapszakasz",
@@ -1884,6 +2267,389 @@
           "min": 3.0,
           "pf": 5,
           "pa": 7,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123617",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-19",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 106,
+      "has_pbp": true,
+      "starters": [
+        "Komma László András",
+        "Magyari Kristóf",
+        "Nagy Simon",
+        "Verebélyi Áron",
+        "Végső Bálint"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Komma László András",
+            "Magyari Kristóf",
+            "Nagy Simon",
+            "Verebélyi Áron",
+            "Végső Bálint"
+          ],
+          "min": 23.0,
+          "pf": 25,
+          "pa": 28,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Komma László András",
+            "Kristóf Péter Kristóf",
+            "Nagy Simon",
+            "Végső Bálint"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Komma László András",
+            "Kristóf Péter Kristóf",
+            "Magyari Kristóf",
+            "Végső Bálint"
+          ],
+          "min": 12.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Komma László András",
+            "Kristóf Péter Kristóf",
+            "Magyari Kristóf",
+            "Nagy Simon",
+            "Végső Bálint"
+          ],
+          "min": 9.0,
+          "pf": 15,
+          "pa": 26,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Komma László András",
+            "Nagy Simon",
+            "Verebélyi Áron",
+            "Végső Bálint"
+          ],
+          "min": 4.0,
+          "pf": 4,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kassai Sándor",
+            "Komma László András",
+            "Magyari Kristóf",
+            "Nagy Simon",
+            "Végső Bálint"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Nagy Simon",
+            "Orosi Bálint Gábor",
+            "Verebélyi Áron",
+            "Végső Bálint"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Kassai Sándor",
+            "Komma László András",
+            "Magyari Kristóf",
+            "Végső Bálint"
+          ],
+          "min": 0.0,
+          "pf": 13,
+          "pa": 8,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123605",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-12",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 78,
+      "their_score": 71,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Komma László András",
+        "Pipiras Rytis",
+        "Verebélyi Áron",
+        "Végso Bálint"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Nagy Simon",
+            "Orosi Bálint Gábor",
+            "Pipiras Rytis",
+            "Végso Bálint"
+          ],
+          "min": 14.0,
+          "pf": 26,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Komma László András",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 14.0,
+          "pf": 12,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végso Bálint"
+          ],
+          "min": 13.0,
+          "pf": 25,
+          "pa": 18,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Komma László András",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végso Bálint"
+          ],
+          "min": 12.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végso Bálint"
+          ],
+          "min": 7.0,
+          "pf": 8,
+          "pa": 18,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123593",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-12-05",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 74,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Illés Máté Csongor",
+        "Komma László András",
+        "Pipiras Rytis",
+        "Verebélyi Áron"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 20.0,
+          "pf": 36,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Komma László András",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 15.0,
+          "pf": 13,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Orosi Bálint Gábor",
+            "Pipiras Rytis"
+          ],
+          "min": 14.0,
+          "pf": 11,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 12.0,
+          "pf": 19,
+          "pa": 19,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 18,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123569",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-22",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 83,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Illés Máté Csongor",
+        "Komma László András",
+        "Pipiras Rytis",
+        "Verebélyi Áron"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Orosi Bálint Gábor",
+            "Pipiras Rytis"
+          ],
+          "min": 28.0,
+          "pf": 20,
+          "pa": 21,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 22.0,
+          "pf": 15,
+          "pa": 26,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 13.0,
+          "pf": 32,
+          "pa": 25,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 6.0,
+          "pf": 2,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon",
+            "Verebélyi Áron"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 3,
           "is_starter": false
         }
       ]
@@ -2035,6 +2801,131 @@
           "min": 0.0,
           "pf": 3,
           "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123543",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-11-08",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 98,
+      "their_score": 95,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Illés Máté Csongor",
+        "Komma László András",
+        "Pipiras Rytis",
+        "Verebélyi Áron"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Orosi Bálint Gábor",
+            "Pipiras Rytis"
+          ],
+          "min": 30.0,
+          "pf": 22,
+          "pa": 29,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 12.0,
+          "pf": 13,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 10.0,
+          "pf": 22,
+          "pa": 23,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron"
+          ],
+          "min": 5.0,
+          "pf": 23,
+          "pa": 19,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Komma László András",
+            "Nagy Simon",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Nagy Simon",
+            "Pipiras Rytis",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon",
+            "Verebélyi Áron"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
           "is_starter": false
         }
       ]
@@ -2298,6 +3189,79 @@
           "min": 0.0,
           "pf": 4,
           "pa": 7,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123495",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2025-10-18",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 85,
+      "their_score": 73,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Bolyos Mateja",
+        "Illés Máté Csongor",
+        "Komma László András",
+        "Pipiras Rytis"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Pipiras Rytis"
+          ],
+          "min": 33.0,
+          "pf": 56,
+          "pa": 44,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Illés Máté Csongor",
+            "Nagy Simon",
+            "Pipiras Rytis"
+          ],
+          "min": 24.0,
+          "pf": 15,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bolyos Mateja",
+            "Illés Máté Csongor",
+            "Komma László András",
+            "Nagy Simon",
+            "Pipiras Rytis"
+          ],
+          "min": 8.0,
+          "pf": 13,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Bolyos Mateja",
+            "Komma László András",
+            "Nagy Simon",
+            "Pipiras Rytis"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 4,
           "is_starter": false
         }
       ]

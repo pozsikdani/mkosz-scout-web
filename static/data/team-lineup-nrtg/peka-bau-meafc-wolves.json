@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2526",
-  "match_count": 27,
+  "match_count": 29,
   "matches": [
     {
       "gamecode": "hun2a_ply_134091",
@@ -1223,6 +1223,66 @@
           "pf": 0,
           "pa": 4,
           "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123781",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-03-21",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 102,
+      "has_pbp": true,
+      "starters": [
+        "Czermann Patrik Ákos",
+        "Dunai Zétény Péter",
+        "Kékesi Kolos",
+        "Radics Gerzson",
+        "Velkey János"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Meleg Károly Richárd",
+            "Radics Gerzson",
+            "Velkey János"
+          ],
+          "min": 20.0,
+          "pf": 6,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Meleg Károly Richárd",
+            "Velkey János",
+            "Árva-File Balázs"
+          ],
+          "min": 15.0,
+          "pf": 10,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Velkey János"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 16,
+          "is_starter": true
         }
       ]
     },
@@ -3210,6 +3270,183 @@
           "min": 0.0,
           "pf": 2,
           "pa": 6,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123649",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-10",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "L",
+      "our_score": 97,
+      "their_score": 98,
+      "has_pbp": true,
+      "starters": [
+        "Czermann Patrik Ákos",
+        "Dunai Zétény Péter",
+        "Kelemen Ádám",
+        "Kékesi Kolos",
+        "Velkey János"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Velkey János"
+          ],
+          "min": 23.0,
+          "pf": 26,
+          "pa": 23,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Ragályi Levente Gergely",
+            "Velkey János"
+          ],
+          "min": 14.0,
+          "pf": 9,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Velkey János"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Velkey János",
+            "Árva-File Balázs"
+          ],
+          "min": 11.0,
+          "pf": 37,
+          "pa": 23,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Velkey János",
+            "Árva-File Balázs"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Velkey János",
+            "Árva-File Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Velkey János",
+            "Árva-File Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Velkey János",
+            "Árva-File Balázs"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Velkey János"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Velkey János"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Velkey János",
+            "Árva-File Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Velkey János",
+            "Árva-File Balázs"
+          ],
+          "min": 0.0,
+          "pf": 5,
+          "pa": 8,
           "is_starter": false
         }
       ]

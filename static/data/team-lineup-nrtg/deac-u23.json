@@ -1,7 +1,7 @@
 {
   "team": "DEAC U23",
   "season": "x2526",
-  "match_count": 25,
+  "match_count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123809",
@@ -2643,6 +2643,209 @@
           "min": 0.0,
           "pf": 3,
           "pa": 4,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_123651",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-01-11",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 96,
+      "has_pbp": true,
+      "starters": [
+        "Flasár Botond",
+        "Gál Csongor",
+        "Szentkuti Ákos",
+        "Szász-Veres Márk",
+        "Várszegi Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Várszegi Ádám"
+          ],
+          "min": 19.0,
+          "pf": 39,
+          "pa": 48,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Vadai Balázs"
+          ],
+          "min": 11.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Orbán Imre",
+            "Szentkuti Ákos"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Varga Ferenc"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szász-Veres Márk",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Vadai Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szász-Veres Márk",
+            "Varga Ferenc"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Varga Ferenc"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szász-Veres Márk",
+            "Vadai Balázs",
+            "Varga Ferenc"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Orbán Imre",
+            "Vadai Balázs",
+            "Varga Ferenc"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Orbán Imre",
+            "Varga Ferenc"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 2,
           "is_starter": false
         }
       ]
