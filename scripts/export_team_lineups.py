@@ -365,7 +365,9 @@ def main() -> int:
                         s["photo_filename"] = rmeta["photo_filename"]
                     if rmeta.get("position"):
                         s["position"] = rmeta["position"]
-                    if rmeta.get("jersey") is not None:
+                    # Treat jersey=0 as "no jersey set on roster" (mkosz.hu
+                    # shows 0 for inactive/new players); keep scoresheet value.
+                    if rmeta.get("jersey"):
                         s["jersey"] = rmeta["jersey"]
                     if rmeta.get("name"):
                         s["name"] = rmeta["name"]
@@ -383,7 +385,7 @@ def main() -> int:
                     )
                     enriched.append({
                         "name": display_name,
-                        "jersey": (sub_rmeta or {}).get("jersey") if sub_rmeta and sub_rmeta.get("jersey") is not None else info.get("jersey"),
+                        "jersey": (sub_rmeta or {}).get("jersey") if sub_rmeta and sub_rmeta.get("jersey") else info.get("jersey"),
                         "minutes": info.get("minutes", 0),
                         "count": count,
                         "photo_filename": (sub_rmeta or {}).get("photo_filename"),

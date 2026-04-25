@@ -74,6 +74,8 @@ def scrape_team_roster(team_url: str) -> list[dict]:
         if len(cols) < 5:
             continue
         jersey = parse_int(cols[0].get_text(strip=True))
+        if jersey == 0:
+            jersey = None  # mkosz.hu uses 0 as placeholder for inactive/new players
         link = cols[1].find("a")
         name = (link.get("title", "").strip() if link else cols[1].get_text(strip=True)).strip()
         if not name:

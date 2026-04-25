@@ -343,7 +343,9 @@ def main() -> int:
                     f["position"] = meta["position"]
                 if meta.get("birth_year"):
                     f["birth_year"] = meta["birth_year"]
-                if meta.get("jersey") is not None:
+                # jersey=0 is mkosz.hu placeholder for inactive/new players —
+                # only override scoresheet jersey if roster has a real number.
+                if meta.get("jersey"):
                     f["jersey"] = meta["jersey"]
                 # Prefer the roster canonical (handles `?` / case variants)
                 if meta.get("name"):
