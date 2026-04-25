@@ -144,8 +144,11 @@
 		{#each selected.starters as starter (starter.name)}
 			{@const pc = posCategory(starter.position)}
 			<div class="flex flex-col rounded-lg border border-border bg-card overflow-hidden">
-				<!-- Photo + jersey on top row, name spans below -->
+				<!-- Name on top, photo + jersey below -->
 				<div class="border-b border-border bg-card-hover px-3 py-2">
+					<p class="mb-1.5 text-sm font-semibold leading-snug break-words" title={starter.name}>
+						{starter.name}
+					</p>
 					<div class="flex items-center gap-2">
 						{#if starter.photo_filename}
 							<img
@@ -175,9 +178,6 @@
 							<span class="font-mono text-[10px] text-muted">{starter.minutes} perc</span>
 						</div>
 					</div>
-					<p class="mt-1.5 text-sm font-semibold leading-snug break-words" title={starter.name}>
-						{starter.name}
-					</p>
 				</div>
 
 				<!-- Mini box: PTS / REB / AST -->
