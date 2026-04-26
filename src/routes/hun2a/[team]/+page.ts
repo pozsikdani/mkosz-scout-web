@@ -8,6 +8,7 @@ import type {
 	TeamLineups,
 	TeamMatches,
 	TeamPlayers,
+	TeamPlayerShots,
 	TeamPossessions,
 	TeamShots
 } from '$lib/types';
@@ -33,6 +34,10 @@ export const load: PageLoad = async ({ params, fetch }) => {
 	const matches = await loadJson<TeamMatches>(fetch, `${base}/data/team-matches/${params.team}.json`);
 	const shots = await loadJson<TeamShots>(fetch, `${base}/data/team-shots/${params.team}.json`);
 	const players = await loadJson<TeamPlayers>(fetch, `${base}/data/team-players/${params.team}.json`);
+	const playerShots = await loadJson<TeamPlayerShots>(
+		fetch,
+		`${base}/data/team-player-shots/${params.team}.json`
+	);
 	const lineups = await loadJson<TeamLineups>(fetch, `${base}/data/team-lineups/${params.team}.json`);
 	const possessions = await loadJson<TeamPossessions>(
 		fetch,
@@ -52,6 +57,7 @@ export const load: PageLoad = async ({ params, fetch }) => {
 		matches,
 		shots,
 		players,
+		playerShots,
 		lineups,
 		possessions,
 		lineupNRtg,

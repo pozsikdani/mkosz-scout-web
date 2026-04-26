@@ -269,6 +269,24 @@ export interface LeagueComparison {
 	teams: LeagueComparisonTeam[];
 }
 
+export interface MiniShot {
+	x: number;
+	y: number;
+	made: number;
+}
+export interface ZoneBaseline {
+	made: number;
+	att: number;
+	fg_pct: number | null;
+}
+export interface TeamPlayerShots {
+	team: string;
+	team_id: number;
+	season: string;
+	players: Record<string, { shots: MiniShot[] }>;
+	league_baselines: Record<string, ZoneBaseline>;
+}
+
 export interface TeamPlayers {
 	team: string;
 	season: string;

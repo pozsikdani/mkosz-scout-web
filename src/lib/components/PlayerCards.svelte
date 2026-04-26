@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { base } from '$app/paths';
-	import type { PercentileStat, PlayerSeason, TeamPlayers } from '$lib/types';
+	import type { PercentileStat, PlayerSeason, TeamPlayers, TeamPlayerShots } from '$lib/types';
+	import MiniHeatmap from './MiniHeatmap.svelte';
 
 	type PosCat = 'PG' | 'SG' | 'SF' | 'PF' | 'C';
 
@@ -29,8 +30,9 @@
 
 	type Props = {
 		data: TeamPlayers;
+		playerShots?: TeamPlayerShots | null;
 	};
-	let { data }: Props = $props();
+	let { data, playerShots = null }: Props = $props();
 
 	type Group = 'starter' | 'rotation' | 'bench';
 
@@ -78,8 +80,7 @@
 		const raw = p.percentiles[key];
 		if (raw === undefined) return null;
 		const v = INVERTED.includes(key) ? 100 - raw : raw;
-		if (v >= 80) return 'good';
-		if (v <= 20) return 'bad';
+		if (v >= 90) return 'good';
 		return null;
 	}
 
@@ -87,8 +88,7 @@
 		const raw = p.percentiles[key];
 		if (raw === undefined) return null;
 		const v = INVERTED.includes(key) ? 100 - raw : raw;
-		if (v >= 80) return `top ${100 - v}%`;
-		if (v <= 20) return `top ${100 - v}%`;
+		if (v >= 90) return `top ${100 - v}%`;
 		return null;
 	}
 
@@ -231,6 +231,28 @@
 					{@render shotCell('FT%', pct(p.ft_pct), `${p.ft_made}/${p.ft_att}`, p, 'ft_pct')}
 				</div>
 			</div>
+
+			{#if playerShots?.league_baselines}
+				{@const ps = playerShots.players[p.name]?.shots ?? []}
+				{#if ps.length >= 20}
+					<div class="flex items-start gap-3 border-t border-border bg-card px-3 py-2">
+						<MiniHeatmap shots={ps} baselines={playerShots.league_baselines} />
+						<div class="min-w-0 flex-1 text-[10px] leading-tight text-muted">
+							<p class="font-semibold text-fg">Lövés-eloszlás · {ps.length} kísérlet</p>
+							<p class="mt-1">
+								Zónánként <span class="font-semibold text-fg">felső szám = FG%</span>,
+								<span class="font-semibold text-fg">alsó = darabszám</span> (hány lövést
+								vállalt onnan).
+							</p>
+							<p class="mt-1">
+								Háttér a <span class="text-positive">liga-átlaghoz</span> képest:
+								<span class="text-positive">zöld</span> jobb,
+								<span class="text-negative">piros</span> rosszabb · szürke = &lt;5 lövés.
+							</p>
+						</div>
+					</div>
+				{/if}
+			{/if}
 		</div>
 	{/each}
 </div>

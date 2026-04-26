@@ -17,6 +17,7 @@
 	const allMatches = $derived(data.matches?.matches ?? []);
 	const shotData = $derived(data.shots);
 	const playersData = $derived(data.players);
+	const playerShotsData = $derived(data.playerShots);
 	const hasPlayers = $derived((playersData?.players?.length ?? 0) > 0);
 	const lineupsData = $derived(data.lineups);
 	const hasLineups = $derived((lineupsData?.matches?.length ?? 0) > 0);
@@ -515,7 +516,7 @@
 					Ehhez a csapathoz még nincs játékos-statisztika az adatbázisban.
 				</div>
 			{:else}
-				<PlayerCards data={playersData} />
+				<PlayerCards data={playersData} playerShots={playerShotsData} />
 			{/if}
 		</section>
 	{:else if activeTab === 'quarters'}

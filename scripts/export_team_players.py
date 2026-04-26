@@ -43,6 +43,9 @@ import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _lib.name_key import norm_full, player_dedup_key  # noqa: E402
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DB = REPO_ROOT.parent / "mkosz-stats" / "mkosz_stats.sqlite"
@@ -61,11 +64,6 @@ MIN_GP_FOR_PERCENTILE = 5
 MIN_FGA = 50
 MIN_3PA = 15
 MIN_FTA = 10
-
-
-def norm_full(name: str) -> str:
-    nfkd = unicodedata.normalize("NFKD", name)
-    return "".join(c for c in nfkd if not unicodedata.combining(c)).lower().strip()
 
 
 def team_matches(canonical_name: str, db_name: str, aliases: list[str]) -> bool:
@@ -93,17 +91,6 @@ def slugify(name: str) -> str:
             out.append("-")
             prev_dash = True
     return "".join(out).rstrip("-")
-
-
-def player_dedup_key(name: str) -> str:
-    """Cross-table dedup key. Handles UPPER vs Title, `?→o` Ő-encoding glitch
-    (e.g. PLEESZ GERG? vs Pleesz Gergő), and name truncation by using the
-    first 2 words (e.g. INALEGWU MARCELL vs INALEGWU MARCELL SÁMUEL)."""
-    n = norm_full(name).replace("?", "o")
-    parts = n.split()
-    if len(parts) >= 2:
-        return " ".join(parts[:2])
-    return parts[0] if parts else ""
 
 
 def roster_match_key(name: str) -> str:
