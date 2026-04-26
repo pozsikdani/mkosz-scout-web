@@ -227,9 +227,10 @@
 		</div>
 	</header>
 
-	<div
-		class="mb-6 flex gap-1 overflow-x-auto whitespace-nowrap rounded-lg border border-border bg-card p-1 text-sm font-semibold sm:w-fit [scrollbar-width:none] [-ms-overflow-style:none] [&amp;::-webkit-scrollbar]:hidden"
-	>
+	<div class="relative mb-6 sm:w-fit">
+		<div
+			class="tab-scroll flex gap-1 overflow-x-auto whitespace-nowrap rounded-lg border border-border bg-card p-1 text-sm font-semibold [scrollbar-width:none] [-ms-overflow-style:none] [&amp;::-webkit-scrollbar]:hidden"
+		>
 		<button
 			type="button"
 			onclick={() => (activeTab = 'info')}
@@ -312,6 +313,14 @@
 			Shotchart
 			{#if !hasShots}<span class="ml-1 text-xs opacity-60">(nincs adat)</span>{/if}
 		</button>
+		</div>
+		<!-- Scroll affordance: chevron on the right edge, hidden on sm+ where the strip fits -->
+		<div
+			class="pointer-events-none absolute inset-y-0 right-0 flex w-10 items-center justify-end rounded-r-lg bg-gradient-to-l from-card via-card/80 to-transparent pr-2 text-muted sm:hidden"
+			aria-hidden="true"
+		>
+			<span class="text-lg leading-none">›</span>
+		</div>
 	</div>
 
 	{#if activeTab === 'info'}
