@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Veolia",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123451",
@@ -655,8 +655,8 @@
       "opponent": "EBH-SALGÓTARJÁN",
       "home": true,
       "result": "W",
-      "our_score": 103,
-      "their_score": 67,
+      "our_score": 42,
+      "their_score": 34,
       "has_pbp": true,
       "counts": {
         "close_m": 6,
@@ -729,90 +729,6 @@
         "fta": 28,
         "oreb": 25,
         "tov_total": 10
-      }
-    },
-    {
-      "gamecode": "hun2a_ply_134107",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "date": "2026-04-15",
-      "opponent": "ÚJBUDA MAFC",
-      "home": true,
-      "result": "W",
-      "our_score": 94,
-      "their_score": 89,
-      "has_pbp": true,
-      "counts": {
-        "close_m": 29,
-        "mid_m": 1,
-        "three_m": 4,
-        "dunk_m": 1,
-        "ft": 15,
-        "close_x": 11,
-        "mid_x": 2,
-        "three_x": 17,
-        "dunk_x": 0,
-        "tov": 10,
-        "fga": 80,
-        "fta": 31,
-        "oreb": 17,
-        "tov_total": 10
-      }
-    },
-    {
-      "gamecode": "hun2a_ply_134109",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "date": "2026-04-18",
-      "opponent": "ÚJBUDA MAFC",
-      "home": false,
-      "result": "L",
-      "our_score": 75,
-      "their_score": 88,
-      "has_pbp": true,
-      "counts": {
-        "close_m": 15,
-        "mid_m": 0,
-        "three_m": 8,
-        "dunk_m": 1,
-        "ft": 15,
-        "close_x": 11,
-        "mid_x": 5,
-        "three_x": 16,
-        "dunk_x": 0,
-        "tov": 16,
-        "fga": 71,
-        "fta": 28,
-        "oreb": 16,
-        "tov_total": 16
-      }
-    },
-    {
-      "gamecode": "hun2a_ply_134111",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "date": "2026-04-21",
-      "opponent": "ÚJBUDA MAFC",
-      "home": true,
-      "result": "W",
-      "our_score": 138,
-      "their_score": 114,
-      "has_pbp": true,
-      "counts": {
-        "close_m": 25,
-        "mid_m": 1,
-        "three_m": 14,
-        "dunk_m": 2,
-        "ft": 30,
-        "close_x": 9,
-        "mid_x": 1,
-        "three_x": 13,
-        "dunk_x": 0,
-        "tov": 18,
-        "fga": 73,
-        "fta": 55,
-        "oreb": 9,
-        "tov_total": 18
       }
     }
   ]

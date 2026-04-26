@@ -1,7 +1,7 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2526",
-  "count": 31,
+  "count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123447",
@@ -775,9 +775,9 @@
       "time": "17:00",
       "home": true,
       "opponent": "JÁSZBERÉNYI KSE",
-      "our_score": 73,
-      "their_score": 77,
-      "result": "L",
+      "our_score": 62,
+      "their_score": 56,
+      "result": "W",
       "quarter_scores": [
         {
           "our": 21,
@@ -859,141 +859,6 @@
         }
       ],
       "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134087",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home": true,
-      "opponent": "PEKA BAU-MEAFC WOLVES",
-      "our_score": 105,
-      "their_score": 96,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 15,
-          "their": 27
-        },
-        {
-          "our": 26,
-          "their": 22
-        },
-        {
-          "our": 22,
-          "their": 16
-        },
-        {
-          "our": 27,
-          "their": 25
-        },
-        {
-          "our": 15,
-          "their": 6
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134089",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-19",
-      "time": "18:30",
-      "home": false,
-      "opponent": "PEKA BAU-MEAFC WOLVES",
-      "our_score": 93,
-      "their_score": 99,
-      "result": "L",
-      "quarter_scores": [
-        {
-          "our": 19,
-          "their": 24
-        },
-        {
-          "our": 20,
-          "their": 26
-        },
-        {
-          "our": 25,
-          "their": 20
-        },
-        {
-          "our": 29,
-          "their": 29
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134091",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home": true,
-      "opponent": "PEKA BAU-MEAFC WOLVES",
-      "our_score": 104,
-      "their_score": 101,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 24,
-          "their": 25
-        },
-        {
-          "our": 33,
-          "their": 25
-        },
-        {
-          "our": 24,
-          "their": 32
-        },
-        {
-          "our": 23,
-          "their": 19
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134093",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-24",
-      "time": "18:00",
-      "home": false,
-      "opponent": "Peka Bau-MEAFC Wolves",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134095",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-26",
-      "time": "18:00",
-      "home": true,
-      "opponent": "Peka Bau-MEAFC Wolves",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
       "has_pbp": true
     }
   ]

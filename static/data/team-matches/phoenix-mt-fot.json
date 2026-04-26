@@ -1,7 +1,7 @@
 {
   "team": "Phoenix-MT Fót",
   "season": "x2526",
-  "count": 29,
+  "count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123457",
@@ -850,105 +850,6 @@
         }
       ],
       "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134077",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-15",
-      "time": "19:00",
-      "home": true,
-      "opponent": "Óbudai Kaszások",
-      "our_score": 95,
-      "their_score": 68,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 21,
-          "their": 22
-        },
-        {
-          "our": 17,
-          "their": 13
-        },
-        {
-          "our": 34,
-          "their": 23
-        },
-        {
-          "our": 23,
-          "their": 10
-        }
-      ],
-      "has_scoresheet": false,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134079",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-19",
-      "time": "16:45",
-      "home": false,
-      "opponent": "ÓBUDAI KASZÁSOK",
-      "our_score": 105,
-      "their_score": 93,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 31,
-          "their": 27
-        },
-        {
-          "our": 30,
-          "their": 24
-        },
-        {
-          "our": 22,
-          "their": 24
-        },
-        {
-          "our": 22,
-          "their": 18
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134081",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-22",
-      "time": "19:00",
-      "home": true,
-      "opponent": "Óbudai Kaszások",
-      "our_score": 96,
-      "their_score": 71,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 23,
-          "their": 15
-        },
-        {
-          "our": 27,
-          "their": 8
-        },
-        {
-          "our": 21,
-          "their": 27
-        },
-        {
-          "our": 25,
-          "their": 21
-        }
-      ],
-      "has_scoresheet": false,
       "has_pbp": true
     }
   ]

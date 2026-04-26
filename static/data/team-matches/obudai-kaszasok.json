@@ -1,7 +1,7 @@
 {
   "team": "Óbudai Kaszások",
   "season": "x2526",
-  "count": 29,
+  "count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123449",
@@ -775,8 +775,8 @@
       "time": "16:45",
       "home": true,
       "opponent": "VASAS AKADÉMIA",
-      "our_score": 82,
-      "their_score": 80,
+      "our_score": 77,
+      "their_score": 73,
       "result": "W",
       "quarter_scores": [
         {
@@ -846,105 +846,6 @@
         }
       ],
       "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134077",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-15",
-      "time": "19:00",
-      "home": false,
-      "opponent": "Phoenix-MT FÓT",
-      "our_score": 68,
-      "their_score": 95,
-      "result": "L",
-      "quarter_scores": [
-        {
-          "our": 22,
-          "their": 21
-        },
-        {
-          "our": 13,
-          "their": 17
-        },
-        {
-          "our": 23,
-          "their": 34
-        },
-        {
-          "our": 10,
-          "their": 23
-        }
-      ],
-      "has_scoresheet": false,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134079",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-19",
-      "time": "16:45",
-      "home": true,
-      "opponent": "PHOENIX-MT FÓT",
-      "our_score": 93,
-      "their_score": 105,
-      "result": "L",
-      "quarter_scores": [
-        {
-          "our": 27,
-          "their": 31
-        },
-        {
-          "our": 24,
-          "their": 30
-        },
-        {
-          "our": 24,
-          "their": 22
-        },
-        {
-          "our": 18,
-          "their": 22
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134081",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-22",
-      "time": "19:00",
-      "home": false,
-      "opponent": "Phoenix-MT FÓT",
-      "our_score": 71,
-      "their_score": 96,
-      "result": "L",
-      "quarter_scores": [
-        {
-          "our": 15,
-          "their": 23
-        },
-        {
-          "our": 8,
-          "their": 27
-        },
-        {
-          "our": 27,
-          "their": 21
-        },
-        {
-          "our": 21,
-          "their": 25
-        }
-      ],
-      "has_scoresheet": false,
       "has_pbp": true
     }
   ]

@@ -1,7 +1,7 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2526",
-  "count": 31,
+  "count": 27,
   "matches": [
     {
       "gamecode": "hun2a_123459",
@@ -787,8 +787,8 @@
       "time": "16:45",
       "home": false,
       "opponent": "ÓBUDAI KASZÁSOK",
-      "our_score": 80,
-      "their_score": 82,
+      "our_score": 73,
+      "their_score": 77,
       "result": "L",
       "quarter_scores": [
         {
@@ -907,87 +907,6 @@
           "their": 11
         }
       ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_plya_134147",
-      "comp_code": "hun2a_plya",
-      "phase": "rajatszas_also",
-      "round": "1. forduló",
-      "date": "2026-04-17",
-      "time": "19:00",
-      "home": false,
-      "opponent": "TF-BP",
-      "our_score": 71,
-      "their_score": 61,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 23,
-          "their": 11
-        },
-        {
-          "our": 19,
-          "their": 17
-        },
-        {
-          "our": 18,
-          "their": 15
-        },
-        {
-          "our": 11,
-          "their": 18
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_plya_134163",
-      "comp_code": "hun2a_plya",
-      "phase": "rajatszas_also",
-      "round": "2. forduló",
-      "date": "2026-04-30",
-      "time": "19:00",
-      "home": false,
-      "opponent": "Jászberényi KSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_plya_134165",
-      "comp_code": "hun2a_plya",
-      "phase": "rajatszas_also",
-      "round": "2. forduló",
-      "date": "2026-05-03",
-      "time": "17:00",
-      "home": true,
-      "opponent": "Jászberényi KSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_plya_134167",
-      "comp_code": "hun2a_plya",
-      "phase": "rajatszas_also",
-      "round": "2. forduló",
-      "date": "2026-05-06",
-      "time": "18:00",
-      "home": false,
-      "opponent": "Jászberényi KSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     }

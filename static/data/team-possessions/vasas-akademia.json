@@ -1,7 +1,7 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 27,
   "matches": [
     {
       "gamecode": "hun2a_123459",
@@ -655,8 +655,8 @@
       "opponent": "ÓBUDAI KASZÁSOK",
       "home": false,
       "result": "L",
-      "our_score": 80,
-      "their_score": 82,
+      "our_score": 73,
+      "their_score": 77,
       "has_pbp": true,
       "counts": {
         "close_m": 17,
@@ -757,34 +757,6 @@
         "fta": 24,
         "oreb": 9,
         "tov_total": 15
-      }
-    },
-    {
-      "gamecode": "hun2a_plya_134147",
-      "comp_code": "hun2a_plya",
-      "phase": "rajatszas_also",
-      "date": "2026-04-17",
-      "opponent": "TF-BP",
-      "home": false,
-      "result": "W",
-      "our_score": 71,
-      "their_score": 61,
-      "has_pbp": true,
-      "counts": {
-        "close_m": 16,
-        "mid_m": 2,
-        "three_m": 8,
-        "dunk_m": 1,
-        "ft": 11,
-        "close_x": 3,
-        "mid_x": 1,
-        "three_x": 16,
-        "dunk_x": 0,
-        "tov": 27,
-        "fga": 49,
-        "fta": 19,
-        "oreb": 3,
-        "tov_total": 27
       }
     }
   ]

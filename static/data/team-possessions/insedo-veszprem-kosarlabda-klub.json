@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123453",
@@ -655,8 +655,8 @@
       "opponent": "PEKA BAU-MEAFC WOLVES",
       "home": true,
       "result": "W",
-      "our_score": 102,
-      "their_score": 73,
+      "our_score": 40,
+      "their_score": 25,
       "has_pbp": true,
       "counts": {
         "close_m": 12,
@@ -729,90 +729,6 @@
         "fta": 18,
         "oreb": 4,
         "tov_total": 18
-      }
-    },
-    {
-      "gamecode": "hun2a_ply_134097",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "date": "2026-04-15",
-      "opponent": "BKG PRIMA AKADÉMIA",
-      "home": false,
-      "result": "L",
-      "our_score": 65,
-      "their_score": 69,
-      "has_pbp": true,
-      "counts": {
-        "close_m": 9,
-        "mid_m": 6,
-        "three_m": 7,
-        "dunk_m": 0,
-        "ft": 12,
-        "close_x": 7,
-        "mid_x": 4,
-        "three_x": 9,
-        "dunk_x": 0,
-        "tov": 14,
-        "fga": 47,
-        "fta": 22,
-        "oreb": 5,
-        "tov_total": 14
-      }
-    },
-    {
-      "gamecode": "hun2a_ply_134099",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "date": "2026-04-18",
-      "opponent": "BKG PRIMA AKADÉMIA",
-      "home": true,
-      "result": "L",
-      "our_score": 78,
-      "their_score": 84,
-      "has_pbp": true,
-      "counts": {
-        "close_m": 14,
-        "mid_m": 4,
-        "three_m": 8,
-        "dunk_m": 1,
-        "ft": 12,
-        "close_x": 6,
-        "mid_x": 4,
-        "three_x": 11,
-        "dunk_x": 0,
-        "tov": 11,
-        "fga": 54,
-        "fta": 21,
-        "oreb": 6,
-        "tov_total": 11
-      }
-    },
-    {
-      "gamecode": "hun2a_ply_134101",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "date": "2026-04-21",
-      "opponent": "BKG PRIMA AKADÉMIA",
-      "home": false,
-      "result": "L",
-      "our_score": 80,
-      "their_score": 90,
-      "has_pbp": true,
-      "counts": {
-        "close_m": 19,
-        "mid_m": 3,
-        "three_m": 6,
-        "dunk_m": 0,
-        "ft": 13,
-        "close_x": 8,
-        "mid_x": 3,
-        "three_x": 14,
-        "dunk_x": 0,
-        "tov": 9,
-        "fga": 60,
-        "fta": 25,
-        "oreb": 7,
-        "tov_total": 9
       }
     }
   ]

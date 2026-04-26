@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2526",
-  "count": 31,
+  "count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123455",
@@ -771,8 +771,8 @@
       "time": "18:00",
       "home": false,
       "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
-      "our_score": 73,
-      "their_score": 102,
+      "our_score": 25,
+      "their_score": 40,
       "result": "L",
       "quarter_scores": [
         {
@@ -851,141 +851,6 @@
         }
       ],
       "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134087",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "home": false,
-      "opponent": "HÜBNER NYÍREGYHÁZA BS",
-      "our_score": 96,
-      "their_score": 105,
-      "result": "L",
-      "quarter_scores": [
-        {
-          "our": 27,
-          "their": 15
-        },
-        {
-          "our": 22,
-          "their": 26
-        },
-        {
-          "our": 16,
-          "their": 22
-        },
-        {
-          "our": 25,
-          "their": 27
-        },
-        {
-          "our": 6,
-          "their": 15
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134089",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-19",
-      "time": "18:30",
-      "home": true,
-      "opponent": "HÜBNER NYÍREGYHÁZA BS",
-      "our_score": 99,
-      "their_score": 93,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 24,
-          "their": 19
-        },
-        {
-          "our": 26,
-          "their": 20
-        },
-        {
-          "our": 20,
-          "their": 25
-        },
-        {
-          "our": 29,
-          "their": 29
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134091",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-22",
-      "time": "18:00",
-      "home": false,
-      "opponent": "HÜBNER NYÍREGYHÁZA BS",
-      "our_score": 101,
-      "their_score": 104,
-      "result": "L",
-      "quarter_scores": [
-        {
-          "our": 25,
-          "their": 24
-        },
-        {
-          "our": 25,
-          "their": 33
-        },
-        {
-          "our": 32,
-          "their": 24
-        },
-        {
-          "our": 19,
-          "their": 23
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134093",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-24",
-      "time": "18:00",
-      "home": true,
-      "opponent": "HÜBNER Nyíregyháza BS",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134095",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-26",
-      "time": "18:00",
-      "home": false,
-      "opponent": "HÜBNER Nyíregyháza BS",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
       "has_pbp": true
     }
   ]

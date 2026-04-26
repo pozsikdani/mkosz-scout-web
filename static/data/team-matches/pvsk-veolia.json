@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Veolia",
   "season": "x2526",
-  "count": 31,
+  "count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123451",
@@ -775,8 +775,8 @@
       "time": "17:30",
       "home": true,
       "opponent": "EBH-SALGÓTARJÁN",
-      "our_score": 103,
-      "their_score": 67,
+      "our_score": 42,
+      "their_score": 34,
       "result": "W",
       "quarter_scores": [
         {
@@ -855,137 +855,6 @@
         }
       ],
       "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134107",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-15",
-      "time": "18:00",
-      "home": true,
-      "opponent": "ÚJBUDA MAFC",
-      "our_score": 94,
-      "their_score": 89,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 29,
-          "their": 22
-        },
-        {
-          "our": 14,
-          "their": 24
-        },
-        {
-          "our": 27,
-          "their": 31
-        },
-        {
-          "our": 24,
-          "their": 12
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134109",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-18",
-      "time": "19:00",
-      "home": false,
-      "opponent": "ÚJBUDA MAFC",
-      "our_score": 75,
-      "their_score": 88,
-      "result": "L",
-      "quarter_scores": [
-        {
-          "our": 19,
-          "their": 17
-        },
-        {
-          "our": 15,
-          "their": 19
-        },
-        {
-          "our": 22,
-          "their": 27
-        },
-        {
-          "our": 19,
-          "their": 25
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134111",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-21",
-      "time": "18:00",
-      "home": true,
-      "opponent": "ÚJBUDA MAFC",
-      "our_score": 138,
-      "their_score": 114,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 35,
-          "their": 24
-        },
-        {
-          "our": 33,
-          "their": 22
-        },
-        {
-          "our": 32,
-          "their": 37
-        },
-        {
-          "our": 38,
-          "their": 31
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134113",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-24",
-      "time": "19:00",
-      "home": false,
-      "opponent": "Újbuda MAFC",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_ply_134115",
-      "comp_code": "hun2a_ply",
-      "phase": "rajatszas_felso",
-      "round": "1. forduló",
-      "date": "2026-04-26",
-      "time": "18:00",
-      "home": true,
-      "opponent": "Újbuda MAFC",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
       "has_pbp": true
     }
   ]

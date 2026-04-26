@@ -1,7 +1,7 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2526",
-  "count": 28,
+  "count": 26,
   "matches": [
     {
       "gamecode": "hun2a_123447",
@@ -775,8 +775,8 @@
       "time": "17:30",
       "home": false,
       "opponent": "ÚJBUDA MAFC",
-      "our_score": 114,
-      "their_score": 138,
+      "our_score": 62,
+      "their_score": 73,
       "result": "L",
       "quarter_scores": [
         {
@@ -852,72 +852,6 @@
         {
           "our": 25,
           "their": 13
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_plya_134151",
-      "comp_code": "hun2a_plya",
-      "phase": "rajatszas_also",
-      "round": "1. forduló",
-      "date": "2026-04-15",
-      "time": "17:00",
-      "home": false,
-      "opponent": "EBH-SALGÓTARJÁN",
-      "our_score": 90,
-      "their_score": 83,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 25,
-          "their": 18
-        },
-        {
-          "our": 22,
-          "their": 19
-        },
-        {
-          "our": 17,
-          "their": 14
-        },
-        {
-          "our": 26,
-          "their": 32
-        }
-      ],
-      "has_scoresheet": true,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_plya_134153",
-      "comp_code": "hun2a_plya",
-      "phase": "rajatszas_also",
-      "round": "1. forduló",
-      "date": "2026-04-18",
-      "time": "18:00",
-      "home": true,
-      "opponent": "EBH-SALGÓTARJÁN",
-      "our_score": 87,
-      "their_score": 71,
-      "result": "W",
-      "quarter_scores": [
-        {
-          "our": 26,
-          "their": 18
-        },
-        {
-          "our": 13,
-          "their": 22
-        },
-        {
-          "our": 24,
-          "their": 13
-        },
-        {
-          "our": 24,
-          "their": 18
         }
       ],
       "has_scoresheet": true,
