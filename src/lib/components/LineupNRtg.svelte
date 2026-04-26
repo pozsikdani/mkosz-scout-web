@@ -270,13 +270,13 @@
 {/if}
 
 <!-- Min minutes filter -->
-<div class="mb-3 flex items-center gap-3 text-xs text-muted">
+<div class="mb-3 flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-muted">
 	<span>Minimum perc:</span>
 	{#each [3, 5, 10, 20] as m}
 		<button
 			type="button"
 			onclick={() => (minMinutes = m)}
-			class="rounded border px-2 py-0.5 font-mono"
+			class="rounded border px-2.5 py-1 font-mono"
 			class:bg-accent={minMinutes === m}
 			class:text-fg={minMinutes === m}
 			class:border-accent={minMinutes === m}

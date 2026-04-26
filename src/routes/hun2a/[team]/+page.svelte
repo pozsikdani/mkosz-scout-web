@@ -227,7 +227,9 @@
 		</div>
 	</header>
 
-	<div class="mb-6 flex gap-1 rounded-lg border border-border bg-card p-1 text-sm font-semibold w-fit">
+	<div
+		class="mb-6 flex gap-1 overflow-x-auto whitespace-nowrap rounded-lg border border-border bg-card p-1 text-sm font-semibold sm:w-fit [scrollbar-width:none] [-ms-overflow-style:none] [&amp;::-webkit-scrollbar]:hidden"
+	>
 		<button
 			type="button"
 			onclick={() => (activeTab = 'info')}

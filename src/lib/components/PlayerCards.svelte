@@ -273,10 +273,10 @@
 	{@const kind = p && pctKey ? badge(p, pctKey) : null}
 	{@const txt = p && pctKey ? badgeText(p, pctKey) : null}
 	<div
-		class="relative bg-card px-2 py-2"
+		class="relative bg-card px-1 py-2 sm:px-2"
 		class:bg-card-hover={emphasis === 'ppg'}
 	>
-		<p class="text-[9px] font-semibold uppercase tracking-wider text-muted">{label}</p>
+		<p class="text-[8px] font-semibold uppercase tracking-wider text-muted sm:text-[9px]">{label}</p>
 		<p
 			class="font-mono font-bold leading-tight"
 			class:text-base={emphasis === 'ppg'}
@@ -308,8 +308,8 @@
 )}
 	{@const kind = badge(p, pctKey)}
 	{@const txt = badgeText(p, pctKey)}
-	<div class="bg-card px-2 py-2">
-		<p class="text-[9px] font-semibold uppercase tracking-wider text-muted">{label}</p>
+	<div class="bg-card px-1 py-2 sm:px-2">
+		<p class="text-[8px] font-semibold uppercase tracking-wider text-muted sm:text-[9px]">{label}</p>
 		<p
 			class="font-mono text-sm font-bold leading-tight"
 			class:text-positive={kind === 'good'}
