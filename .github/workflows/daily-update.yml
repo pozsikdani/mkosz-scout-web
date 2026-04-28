@@ -32,6 +32,22 @@ jobs:
       - name: Stats DB letöltése (frissített mkosz-stats)
         run: git clone --depth 1 https://github.com/pozsikdani/mkosz-stats.git /tmp/mkosz-stats
 
+      - name: Indexek újraépítése (a forrás-DB méret-okból index nélkül van commit-elve)
+        run: |
+          sqlite3 /tmp/mkosz-stats/mkosz_stats.sqlite <<'SQL'
+          CREATE INDEX IF NOT EXISTS idx_matches_comp        ON matches(comp_code, season);
+          CREATE INDEX IF NOT EXISTS idx_matches_date        ON matches(match_date);
+          CREATE INDEX IF NOT EXISTS idx_pbp_gamecode        ON pbp_events(gamecode);
+          CREATE INDEX IF NOT EXISTS idx_pbp_playercode      ON pbp_events(playercode);
+          CREATE INDEX IF NOT EXISTS idx_pf_gamecode         ON personal_fouls(gamecode);
+          CREATE INDEX IF NOT EXISTS idx_pgs_gamecode        ON player_game_stats(gamecode);
+          CREATE INDEX IF NOT EXISTS idx_pgs_playercode      ON player_game_stats(playercode);
+          CREATE INDEX IF NOT EXISTS idx_se_gamecode         ON scoring_events(gamecode);
+          CREATE INDEX IF NOT EXISTS idx_shots_gamecode      ON shots(gamecode);
+          CREATE INDEX IF NOT EXISTS idx_shots_playercode    ON shots(playercode);
+          CREATE INDEX IF NOT EXISTS idx_subs_gamecode       ON substitutions(gamecode);
+          SQL
+
       - name: Tabella scrape (mkosz.hu)
         run: python3 scripts/scrape_standings.py
 
