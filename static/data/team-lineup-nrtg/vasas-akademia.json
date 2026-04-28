@@ -1,8 +1,250 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2526",
-  "match_count": 27,
+  "match_count": 28,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134147",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-17",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 71,
+      "their_score": 61,
+      "has_pbp": true,
+      "starters": [
+        "Farkas Attila",
+        "Krasovec Ádám",
+        "Olasz Ádám Zsolt",
+        "Takács Dániel",
+        "Zöldi Péter András"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Karosi Gergely",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 10.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 6.0,
+          "pf": 16,
+          "pa": 7,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Zöldi Péter András"
+          ],
+          "min": 6.0,
+          "pf": 18,
+          "pa": 20,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt"
+          ],
+          "min": 5.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Karosi Gergely",
+            "Krasovec Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 11,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Karosi Gergely",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Krasovec Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Karosi Gergely",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Karosi Gergely",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Karosi Gergely",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Zöldi Péter András"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134145",
       "comp_code": "hun2a_plya",

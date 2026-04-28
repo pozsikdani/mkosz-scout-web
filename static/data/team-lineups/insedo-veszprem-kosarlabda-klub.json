@@ -1,8 +1,412 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2526",
-  "match_count": 26,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134101",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-21",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 90,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bogdán Benedek",
+          "jersey": 7,
+          "minutes": 37,
+          "points": 25,
+          "reb": 10,
+          "ast": 1,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bogdan-benedek.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kass Balázs",
+              "jersey": 17,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bonifert Bendegúz",
+          "jersey": 33,
+          "minutes": 26,
+          "points": 9,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kocsis Zalán",
+              "jersey": 8,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg"
+            },
+            {
+              "name": "Daniels Vionte Ramone",
+              "jersey": 24,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg"
+            },
+            {
+              "name": "Lintner Kristóf Barnabás",
+              "jersey": 9,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-lintner-kristof-barnabas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Daniels Vionte Ramone",
+          "jersey": 24,
+          "minutes": 33,
+          "points": 17,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kocsis Zalán",
+              "jersey": 8,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg"
+            },
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-frank-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kass Balázs",
+          "jersey": 17,
+          "minutes": 28,
+          "points": 12,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Daniels Vionte Ramone",
+              "jersey": 24,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg"
+            },
+            {
+              "name": "Bogdán Benedek",
+              "jersey": 7,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-bogdan-benedek.jpg"
+            },
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-frank-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Simon Dávid",
+          "jersey": 70,
+          "minutes": 10,
+          "points": 3,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-simon-david.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Tóth Dániel",
+              "jersey": 5,
+              "minutes": 30,
+              "count": 3,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-toth-daniel.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_ply_134099",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-18",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 84,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bogdán Benedek",
+          "jersey": 7,
+          "minutes": 39,
+          "points": 8,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bogdan-benedek.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kocsis Zalán",
+              "jersey": 8,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bonifert Bendegúz",
+          "jersey": 33,
+          "minutes": 34,
+          "points": 17,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Daniels Vionte Ramone",
+              "jersey": 24,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg"
+            },
+            {
+              "name": "Kass Balázs",
+              "jersey": 17,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg"
+            },
+            {
+              "name": "Kuttor Gergő",
+              "jersey": 1,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kuttor-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Daniels Vionte Ramone",
+          "jersey": 24,
+          "minutes": 34,
+          "points": 29,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-frank-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kass Balázs",
+          "jersey": 17,
+          "minutes": 15,
+          "points": 0,
+          "reb": 7,
+          "ast": 4,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-frank-aron.jpg"
+            },
+            {
+              "name": "Kocsis Zalán",
+              "jersey": 8,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Dániel",
+          "jersey": 5,
+          "minutes": 27,
+          "points": 6,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-toth-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Simon Dávid",
+              "jersey": 70,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-simon-david.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_ply_134097",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-15",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bogdán Benedek",
+          "jersey": 7,
+          "minutes": 40,
+          "points": 16,
+          "reb": 9,
+          "ast": 3,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bogdan-benedek.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kocsis Zalán",
+              "jersey": 8,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Daniels Vionte Ramone",
+          "jersey": 24,
+          "minutes": 35,
+          "points": 20,
+          "reb": 3,
+          "ast": 6,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Tóth Dániel",
+              "jersey": 5,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-toth-daniel.jpg"
+            },
+            {
+              "name": "Bonifert Bendegúz",
+              "jersey": 33,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Frank Áron",
+          "jersey": 2,
+          "minutes": 25,
+          "points": 0,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-frank-aron.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Bonifert Bendegúz",
+              "jersey": 33,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg"
+            },
+            {
+              "name": "Daniels Vionte Ramone",
+              "jersey": 24,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kocsis Zalán",
+          "jersey": 8,
+          "minutes": 24,
+          "points": 3,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kass Balázs",
+              "jersey": 17,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Dániel",
+          "jersey": 5,
+          "minutes": 24,
+          "points": 0,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-toth-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Simon Dávid",
+              "jersey": 70,
+              "minutes": 16,
+              "count": 4,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-simon-david.jpg"
+            },
+            {
+              "name": "Kass Balázs",
+              "jersey": 17,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_123805",
       "comp_code": "hun2a",

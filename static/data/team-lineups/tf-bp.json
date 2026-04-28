@@ -1,14 +1,150 @@
 {
   "team": "TF-BP",
   "season": "x2526",
-  "match_count": 27,
+  "match_count": 28,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134147",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-17",
+      "opponent": "VASAS AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 61,
+      "their_score": 71,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Hegedüs Brúnó",
+          "jersey": 28,
+          "minutes": 30,
+          "points": 8,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "tf-bp-hegedus-bruno.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Pantelic Dorde",
+              "jersey": 31,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Pilinszki Máté",
+              "jersey": 5,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "tf-bp-pilinszki-mate.jpg"
+            },
+            {
+              "name": "Kiss Dominik",
+              "jersey": 17,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "tf-bp-kiss-dominik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Inalegwu Marcell Sámuel",
+          "jersey": 4,
+          "minutes": 34,
+          "points": 6,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Sebők András",
+              "jersey": 15,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "tf-bp-sebok-andras.jpg"
+            },
+            {
+              "name": "Bogdán Dávid Bence",
+              "jersey": 11,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "tf-bp-bogdan-david-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pantelic Dorde",
+          "jersey": 31,
+          "minutes": 14,
+          "points": 8,
+          "reb": 3,
+          "ast": 0,
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kiss Dominik",
+              "jersey": 17,
+              "minutes": 21,
+              "count": 3,
+              "photo_filename": "tf-bp-kiss-dominik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pilinszki Máté",
+          "jersey": 5,
+          "minutes": 11,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "tf-bp-pilinszki-mate.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Heimann Gergő",
+              "jersey": 29,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "tf-bp-heimann-gergo.jpg"
+            },
+            {
+              "name": "Hegedüs Brúnó",
+              "jersey": 28,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "tf-bp-hegedus-bruno.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sebők András",
+          "jersey": 15,
+          "minutes": 23,
+          "points": 7,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "tf-bp-sebok-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Molnár Marcell József",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 3,
+              "photo_filename": "tf-bp-molnar-marcell-jozsef.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134145",
       "comp_code": "hun2a_plya",
       "phase": "rajatszas_also",
       "date": "2026-04-14",
-      "opponent": "Vasas Akadémia",
+      "opponent": "VASAS AKADÉMIA",
       "home": false,
       "result": "L",
       "our_score": 65,
@@ -17,7 +153,7 @@
       "starters": [
         {
           "name": "Inalegwu Marcell Sámuel",
-          "jersey": null,
+          "jersey": 4,
           "minutes": 30,
           "points": 12,
           "reb": 5,
@@ -50,7 +186,7 @@
         },
         {
           "name": "Pantelic Dorde",
-          "jersey": null,
+          "jersey": 31,
           "minutes": 16,
           "points": 3,
           "reb": 4,
@@ -120,7 +256,7 @@
         },
         {
           "name": "Sebők András",
-          "jersey": null,
+          "jersey": 15,
           "minutes": 21,
           "points": 10,
           "reb": 2,

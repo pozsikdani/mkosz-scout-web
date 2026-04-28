@@ -1,7 +1,7 @@
 {
   "team": "Óbudai Kaszások",
   "season": "x2526",
-  "match_count": 26,
+  "match_count": 29,
   "matches": [
     {
       "gamecode": "hun2a_123449",
@@ -714,6 +714,90 @@
         "fta": 26,
         "oreb": 12,
         "tov_total": 11
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134077",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-15",
+      "opponent": "Phoenix-MT FÓT",
+      "home": false,
+      "result": "L",
+      "our_score": 68,
+      "their_score": 95,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 15,
+        "mid_m": 8,
+        "three_m": 3,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 10,
+        "mid_x": 7,
+        "three_x": 12,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 66,
+        "fta": 22,
+        "oreb": 13,
+        "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134079",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-19",
+      "opponent": "PHOENIX-MT FÓT",
+      "home": true,
+      "result": "L",
+      "our_score": 93,
+      "their_score": 105,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 22,
+        "mid_m": 6,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 4,
+        "mid_x": 9,
+        "three_x": 12,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 70,
+        "fta": 18,
+        "oreb": 8,
+        "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134081",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-22",
+      "opponent": "Phoenix-MT FÓT",
+      "home": false,
+      "result": "L",
+      "our_score": 71,
+      "their_score": 96,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 15,
+        "mid_m": 3,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 14,
+        "close_x": 16,
+        "mid_x": 2,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 20,
+        "fga": 68,
+        "fta": 24,
+        "oreb": 17,
+        "tov_total": 20
       }
     }
   ]

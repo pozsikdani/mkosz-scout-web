@@ -1,14 +1,230 @@
 {
   "team": "TF-BP",
   "season": "x2526",
-  "match_count": 27,
+  "match_count": 28,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134147",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-17",
+      "opponent": "VASAS AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 61,
+      "their_score": 71,
+      "has_pbp": true,
+      "starters": [
+        "Hegedüs Brúnó",
+        "Inalegwu Marcell Sámuel",
+        "Pantelic Dorde",
+        "Pilinszki Máté",
+        "Sebők András"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Sebők András"
+          ],
+          "min": 16.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Sebők András"
+          ],
+          "min": 13.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pantelic Dorde",
+            "Pilinszki Máté"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Molnár Marcell József"
+          ],
+          "min": 6.0,
+          "pf": 7,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pantelic Dorde"
+          ],
+          "min": 5.0,
+          "pf": 8,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Pilinszki Máté",
+            "Sebők András"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Pantelic Dorde",
+            "Sebők András"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pantelic Dorde"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Inalegwu Marcell Sámuel",
+            "Pantelic Dorde",
+            "Pilinszki Máté",
+            "Sebők András"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Pilinszki Máté",
+            "Sebők András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Sebők András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pantelic Dorde",
+            "Sebők András"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Sebők András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Pilinszki Máté",
+            "Sebők András"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pilinszki Máté"
+          ],
+          "min": 0.0,
+          "pf": 10,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134145",
       "comp_code": "hun2a_plya",
       "phase": "rajatszas_also",
       "date": "2026-04-14",
-      "opponent": "Vasas Akadémia",
+      "opponent": "VASAS AKADÉMIA",
       "home": false,
       "result": "L",
       "our_score": 65,

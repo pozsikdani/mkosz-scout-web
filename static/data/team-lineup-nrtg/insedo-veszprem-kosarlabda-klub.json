@@ -1,8 +1,526 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2526",
-  "match_count": 26,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134101",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-21",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 90,
+      "has_pbp": true,
+      "starters": [
+        "Bogdán Benedek",
+        "Bonifert Bendegúz",
+        "Daniels Vionte Ramone",
+        "Kass Balázs",
+        "Simon Dávid"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Tóth Dániel"
+          ],
+          "min": 19.0,
+          "pf": 24,
+          "pa": 27,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 12.0,
+          "pf": 3,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 10.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 6.0,
+          "pf": 12,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 5.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Simon Dávid"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 0.0,
+          "pf": 15,
+          "pa": 9,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_ply_134099",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-18",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 84,
+      "has_pbp": true,
+      "starters": [
+        "Bogdán Benedek",
+        "Bonifert Bendegúz",
+        "Daniels Vionte Ramone",
+        "Kass Balázs",
+        "Tóth Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 15.0,
+          "pf": 15,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Simon Dávid"
+          ],
+          "min": 12.0,
+          "pf": 1,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kocsis Zalán",
+            "Kuttor Gergő",
+            "Simon Dávid"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Tóth Dániel"
+          ],
+          "min": 9.0,
+          "pf": 16,
+          "pa": 13,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 8.0,
+          "pf": 25,
+          "pa": 37,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 4.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Tóth Dániel"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_ply_134097",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-15",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 69,
+      "has_pbp": true,
+      "starters": [
+        "Bogdán Benedek",
+        "Daniels Vionte Ramone",
+        "Frank Áron",
+        "Kocsis Zalán",
+        "Tóth Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 15.0,
+          "pf": 8,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 13.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 11.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 9.0,
+          "pf": 9,
+          "pa": 16,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 6.0,
+          "pf": 7,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Tóth Dániel"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_123805",
       "comp_code": "hun2a",

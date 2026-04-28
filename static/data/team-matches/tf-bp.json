@@ -1,7 +1,7 @@
 {
   "team": "TF-BP",
   "season": "x2526",
-  "count": 27,
+  "count": 31,
   "matches": [
     {
       "gamecode": "hun2a_123449",
@@ -869,7 +869,7 @@
       "date": "2026-04-14",
       "time": "18:00",
       "home": false,
-      "opponent": "Vasas Akadémia",
+      "opponent": "VASAS AKADÉMIA",
       "our_score": 65,
       "their_score": 73,
       "result": "L",
@@ -891,6 +891,87 @@
           "their": 18
         }
       ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134147",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "1. forduló",
+      "date": "2026-04-17",
+      "time": "19:00",
+      "home": true,
+      "opponent": "VASAS AKADÉMIA",
+      "our_score": 61,
+      "their_score": 71,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 11,
+          "their": 23
+        },
+        {
+          "our": 17,
+          "their": 19
+        },
+        {
+          "our": 15,
+          "their": 18
+        },
+        {
+          "our": 18,
+          "their": 11
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134169",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "2. forduló",
+      "date": "2026-05-02",
+      "time": "17:00",
+      "home": false,
+      "opponent": "EBH-Salgótarján",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134171",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "2. forduló",
+      "date": "2026-05-09",
+      "time": "17:30",
+      "home": true,
+      "opponent": "EBH-Salgótarján",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134173",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "2. forduló",
+      "date": "2026-05-16",
+      "time": "18:00",
+      "home": false,
+      "opponent": "EBH-Salgótarján",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
       "has_scoresheet": false,
       "has_pbp": true
     }

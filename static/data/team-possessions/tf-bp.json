@@ -1,7 +1,7 @@
 {
   "team": "TF-BP",
   "season": "x2526",
-  "match_count": 27,
+  "match_count": 28,
   "matches": [
     {
       "gamecode": "hun2a_123449",
@@ -736,7 +736,7 @@
       "comp_code": "hun2a_plya",
       "phase": "rajatszas_also",
       "date": "2026-04-14",
-      "opponent": "Vasas Akadémia",
+      "opponent": "VASAS AKADÉMIA",
       "home": false,
       "result": "L",
       "our_score": 65,
@@ -757,6 +757,34 @@
         "fta": 19,
         "oreb": 11,
         "tov_total": 21
+      }
+    },
+    {
+      "gamecode": "hun2a_plya_134147",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-17",
+      "opponent": "VASAS AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 61,
+      "their_score": 71,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 8,
+        "mid_m": 1,
+        "three_m": 8,
+        "dunk_m": 1,
+        "ft": 12,
+        "close_x": 17,
+        "mid_x": 3,
+        "three_x": 20,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 64,
+        "fta": 21,
+        "oreb": 6,
+        "tov_total": 13
       }
     }
   ]

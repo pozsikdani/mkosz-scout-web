@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2526",
-  "count": 26,
+  "count": 31,
   "matches": [
     {
       "gamecode": "hun2a_123453",
@@ -867,6 +867,137 @@
         }
       ],
       "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134097",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "1. forduló",
+      "date": "2026-04-15",
+      "time": "19:00",
+      "home": false,
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "our_score": 65,
+      "their_score": 69,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 16,
+          "their": 24
+        },
+        {
+          "our": 21,
+          "their": 16
+        },
+        {
+          "our": 18,
+          "their": 15
+        },
+        {
+          "our": 10,
+          "their": 14
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134099",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "1. forduló",
+      "date": "2026-04-18",
+      "time": "18:00",
+      "home": true,
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "our_score": 78,
+      "their_score": 84,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 18,
+          "their": 19
+        },
+        {
+          "our": 21,
+          "their": 17
+        },
+        {
+          "our": 20,
+          "their": 16
+        },
+        {
+          "our": 19,
+          "their": 32
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134101",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "1. forduló",
+      "date": "2026-04-21",
+      "time": "19:30",
+      "home": false,
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "our_score": 80,
+      "their_score": 90,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 17,
+          "their": 25
+        },
+        {
+          "our": 24,
+          "their": 26
+        },
+        {
+          "our": 8,
+          "their": 21
+        },
+        {
+          "our": 31,
+          "their": 18
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134141",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "2. forduló",
+      "date": "2026-05-02",
+      "time": "18:00",
+      "home": true,
+      "opponent": "HÜBNER Nyíregyháza BS",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134143",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "2. forduló",
+      "date": "2026-05-07",
+      "time": "18:00",
+      "home": false,
+      "opponent": "HÜBNER Nyíregyháza BS",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
       "has_pbp": true
     }
   ]

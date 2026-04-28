@@ -1,7 +1,7 @@
 {
   "team": "EBH-Salgótarján",
   "season": "x2526",
-  "count": 26,
+  "count": 31,
   "matches": [
     {
       "gamecode": "hun2a_123455",
@@ -867,6 +867,120 @@
         }
       ],
       "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134151",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "1. forduló",
+      "date": "2026-04-15",
+      "time": "17:00",
+      "home": true,
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PH",
+      "our_score": 83,
+      "their_score": 90,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 18,
+          "their": 25
+        },
+        {
+          "our": 19,
+          "their": 22
+        },
+        {
+          "our": 14,
+          "their": 17
+        },
+        {
+          "our": 32,
+          "their": 26
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134153",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "1. forduló",
+      "date": "2026-04-18",
+      "time": "18:00",
+      "home": false,
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "our_score": 71,
+      "their_score": 87,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 18,
+          "their": 26
+        },
+        {
+          "our": 22,
+          "their": 13
+        },
+        {
+          "our": 13,
+          "their": 24
+        },
+        {
+          "our": 18,
+          "their": 24
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134169",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "2. forduló",
+      "date": "2026-05-02",
+      "time": "17:00",
+      "home": true,
+      "opponent": "TF-BP",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134171",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "2. forduló",
+      "date": "2026-05-09",
+      "time": "17:30",
+      "home": false,
+      "opponent": "TF-BP",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_plya_134173",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "round": "2. forduló",
+      "date": "2026-05-16",
+      "time": "18:00",
+      "home": true,
+      "opponent": "TF-BP",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
       "has_pbp": true
     }
   ]
