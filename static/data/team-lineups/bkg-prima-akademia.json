@@ -1,8 +1,77 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 30,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134127",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-29",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "W",
+      "our_score": 103,
+      "their_score": 80,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Armaghani Ármin",
+          "jersey": 7,
+          "minutes": 0,
+          "points": 21,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-armaghani-armin.jpg",
+          "position": "4",
+          "subs": []
+        },
+        {
+          "name": "Arnóczi Áron",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 8,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-arnoczi-aron.jpg",
+          "position": "2",
+          "subs": []
+        },
+        {
+          "name": "Nagy Benedek Ágost",
+          "jersey": 9,
+          "minutes": 0,
+          "points": 3,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-nagy-benedek-agost.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Nagy Botond Ágoston",
+          "jersey": 14,
+          "minutes": 0,
+          "points": 28,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-nagy-botond-agoston.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Reiber Dean Thomas",
+          "jersey": 5,
+          "minutes": 0,
+          "points": 26,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg",
+          "position": "4-5",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134101",
       "comp_code": "hun2a_ply",

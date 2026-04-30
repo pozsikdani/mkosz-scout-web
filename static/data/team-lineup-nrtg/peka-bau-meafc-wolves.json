@@ -1,8 +1,42 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134127",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-29",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 103,
+      "has_pbp": true,
+      "starters": [
+        "Czermann Patrik Ákos",
+        "Dunai Zétény Péter",
+        "Kékesi Kolos",
+        "Velkey János",
+        "Árva-file Balázs"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": true
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134095",
       "comp_code": "hun2a_ply",

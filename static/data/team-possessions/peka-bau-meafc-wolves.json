@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
     {
       "gamecode": "hun2a_123455",
@@ -870,6 +870,19 @@
         "oreb": 11,
         "tov_total": 12
       }
+    },
+    {
+      "gamecode": "hun2a_ply_134127",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-29",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 103,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }
