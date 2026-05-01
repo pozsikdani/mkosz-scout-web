@@ -18,57 +18,125 @@
         {
           "name": "Armaghani Ármin",
           "jersey": 7,
-          "minutes": 0,
+          "minutes": 23,
           "points": 21,
-          "reb": 0,
-          "ast": 0,
+          "reb": 5,
+          "ast": 2,
           "photo_filename": "bkg-prima-akademia-armaghani-armin.jpg",
           "position": "4",
-          "subs": []
+          "subs": [
+            {
+              "name": "Galambos Árpád",
+              "jersey": 7,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-galambos-arpad.jpg"
+            },
+            {
+              "name": "Bohunicky Olivér",
+              "jersey": 8,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-bohunicky-oliver.jpg"
+            },
+            {
+              "name": "Fábián Szabolcs",
+              "jersey": 22,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-fabian-szabolcs.jpg"
+            }
+          ]
         },
         {
           "name": "Arnóczi Áron",
           "jersey": 13,
-          "minutes": 0,
+          "minutes": 17,
           "points": 8,
-          "reb": 0,
-          "ast": 0,
+          "reb": 4,
+          "ast": 4,
           "photo_filename": "bkg-prima-akademia-arnoczi-aron.jpg",
           "position": "2",
-          "subs": []
+          "subs": [
+            {
+              "name": "Gyimes Áron",
+              "jersey": 4,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-gyimes-aron.jpg"
+            },
+            {
+              "name": "Büki Lóránt",
+              "jersey": 12,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-buki-lorant.jpg"
+            },
+            {
+              "name": "Kovács Leonárd",
+              "jersey": 16,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg"
+            }
+          ]
         },
         {
           "name": "Nagy Benedek Ágost",
           "jersey": 9,
-          "minutes": 0,
+          "minutes": 38,
           "points": 3,
           "reb": 0,
-          "ast": 0,
+          "ast": 14,
           "photo_filename": "bkg-prima-akademia-nagy-benedek-agost.jpg",
           "position": "1-2",
-          "subs": []
+          "subs": [
+            {
+              "name": "Büki Lóránt",
+              "jersey": 12,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-buki-lorant.jpg"
+            }
+          ]
         },
         {
           "name": "Nagy Botond Ágoston",
           "jersey": 14,
-          "minutes": 0,
+          "minutes": 39,
           "points": 28,
-          "reb": 0,
-          "ast": 0,
+          "reb": 3,
+          "ast": 6,
           "photo_filename": "bkg-prima-akademia-nagy-botond-agoston.jpg",
           "position": "1-2",
-          "subs": []
+          "subs": [
+            {
+              "name": "Bohunicky Olivér",
+              "jersey": 8,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-bohunicky-oliver.jpg"
+            }
+          ]
         },
         {
           "name": "Reiber Dean Thomas",
           "jersey": 5,
-          "minutes": 0,
+          "minutes": 38,
           "points": 26,
-          "reb": 0,
-          "ast": 0,
+          "reb": 9,
+          "ast": 2,
           "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg",
           "position": "4-5",
-          "subs": []
+          "subs": [
+            {
+              "name": "Kovács Leonárd",
+              "jersey": 16,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg"
+            }
+          ]
         }
       ]
     },

@@ -1,8 +1,145 @@
 {
   "team": "DEAC U23",
   "season": "x2526",
-  "match_count": 26,
+  "match_count": 27,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134157",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-28",
+      "opponent": "Tiszaújvárosi Termálfürdő Phoenix KK",
+      "home": true,
+      "result": "L",
+      "our_score": 76,
+      "their_score": 98,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bankó Zoltán Martin",
+          "jersey": 19,
+          "minutes": 34,
+          "points": 26,
+          "reb": 10,
+          "ast": 1,
+          "photo_filename": "deac-u23-banko-zoltan-martin.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kedvek László",
+              "jersey": 99,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "deac-u23-kedvek-laszlo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szentkuti Ákos",
+          "jersey": 4,
+          "minutes": 36,
+          "points": 18,
+          "reb": 2,
+          "ast": 6,
+          "photo_filename": "deac-u23-szentkuti-akos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Székely Bence",
+              "jersey": 39,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "deac-u23-szekely-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Székely Bence",
+          "jersey": 39,
+          "minutes": 29,
+          "points": 0,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "deac-u23-szekely-bence.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Orvos Ádám",
+              "jersey": 98,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "deac-u23-orvos-adam.jpg"
+            },
+            {
+              "name": "Kedvek László",
+              "jersey": 99,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "deac-u23-kedvek-laszlo.jpg"
+            },
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": 19,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "deac-u23-banko-zoltan-martin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ságodi Róbert",
+          "jersey": 50,
+          "minutes": 25,
+          "points": 10,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "deac-u23-sagodi-robert.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Fórián Zsombor Zsolt",
+              "jersey": 48,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "deac-u23-forian-zsombor-zsolt.jpg"
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "deac-u23-varszegi-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 36,
+          "points": 18,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "deac-u23-varszegi-adam.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Ságodi Róbert",
+              "jersey": 50,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "deac-u23-sagodi-robert.jpg"
+            },
+            {
+              "name": "Szűcs Gellért",
+              "jersey": 3,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "deac-u23-szucs-gellert.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_123809",
       "comp_code": "hun2a",

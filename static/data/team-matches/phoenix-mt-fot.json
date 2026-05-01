@@ -815,7 +815,24 @@
       "our_score": 96,
       "their_score": 78,
       "result": "W",
-      "quarter_scores": null,
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 23
+        },
+        {
+          "our": 21,
+          "their": 20
+        },
+        {
+          "our": 19,
+          "their": 17
+        },
+        {
+          "our": 32,
+          "their": 18
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -960,10 +977,27 @@
       "time": "18:45",
       "home": true,
       "opponent": "PVSK-Veolia",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 104,
+      "their_score": 88,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 23,
+          "their": 21
+        },
+        {
+          "our": 25,
+          "their": 26
+        },
+        {
+          "our": 34,
+          "their": 26
+        },
+        {
+          "our": 22,
+          "their": 15
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

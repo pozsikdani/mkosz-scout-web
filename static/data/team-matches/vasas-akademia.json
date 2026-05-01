@@ -952,10 +952,27 @@
       "time": "19:00",
       "home": false,
       "opponent": "Jászberényi KSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 79,
+      "their_score": 73,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 27,
+          "their": 16
+        },
+        {
+          "our": 16,
+          "their": 21
+        },
+        {
+          "our": 13,
+          "their": 20
+        },
+        {
+          "our": 23,
+          "their": 16
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

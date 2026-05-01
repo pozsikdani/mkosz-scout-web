@@ -882,10 +882,27 @@
       "time": "19:00",
       "home": true,
       "opponent": "Vasas Akadémia",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 73,
+      "their_score": 79,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 16,
+          "their": 27
+        },
+        {
+          "our": 21,
+          "their": 16
+        },
+        {
+          "our": 20,
+          "their": 13
+        },
+        {
+          "our": 16,
+          "their": 23
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

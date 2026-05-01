@@ -972,7 +972,24 @@
       "our_score": 103,
       "their_score": 80,
       "result": "W",
-      "quarter_scores": null,
+      "quarter_scores": [
+        {
+          "our": 33,
+          "their": 19
+        },
+        {
+          "our": 25,
+          "their": 20
+        },
+        {
+          "our": 27,
+          "their": 24
+        },
+        {
+          "our": 18,
+          "their": 17
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },

@@ -1,8 +1,124 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134157",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-28",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 98,
+      "their_score": 76,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bán Tibor",
+          "jersey": 8,
+          "minutes": 18,
+          "points": 5,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ban-tibor.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Mester Márk",
+              "jersey": 12,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lakatos Máté",
+          "jersey": 9,
+          "minutes": 13,
+          "points": 0,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lakatos-mate.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kozák Márton",
+              "jersey": 18,
+              "minutes": 24,
+              "count": 3,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-kozak-marton.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mayer Ákos",
+          "jersey": 20,
+          "minutes": 23,
+          "points": 4,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mayer-akos.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kozák Bertalan",
+              "jersey": null,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-kozak-bertalan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Ágoston",
+          "jersey": 4,
+          "minutes": 23,
+          "points": 13,
+          "reb": 4,
+          "ast": 6,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-meszaros-agoston.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Lucey Ciarán József",
+              "jersey": 44,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg"
+            },
+            {
+              "name": "Tanyi Antal Áron",
+              "jersey": 30,
+              "minutes": 1,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-tanyi-antal-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schmera Gergely",
+          "jersey": 15,
+          "minutes": 19,
+          "points": 29,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-schmera-gergely.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Gerőcs Roland Bálint",
+              "jersey": 13,
+              "minutes": 21,
+              "count": 3,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134153",
       "comp_code": "hun2a_plya",

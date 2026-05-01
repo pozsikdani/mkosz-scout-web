@@ -878,10 +878,27 @@
       "time": "19:30",
       "home": true,
       "opponent": "Tiszaújvárosi Termálfürdő Phoenix KK",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 76,
+      "their_score": 98,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 21,
+          "their": 28
+        },
+        {
+          "our": 31,
+          "their": 21
+        },
+        {
+          "our": 7,
+          "their": 24
+        },
+        {
+          "our": 17,
+          "their": 25
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

@@ -1,8 +1,138 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134163",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-30",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 73,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Farkas Attila",
+          "jersey": 9,
+          "minutes": 29,
+          "points": 15,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Fekete Viktor Norbert",
+              "jersey": 7,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
+            },
+            {
+              "name": "Takács Dániel",
+              "jersey": 11,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "vasas-akademia-takacs-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Krasovec Ádám",
+          "jersey": 14,
+          "minutes": 10,
+          "points": 2,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Andrássy Géza",
+              "jersey": 15,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
+            },
+            {
+              "name": "Pleesz Ádám",
+              "jersey": 20,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Olasz Ádám Zsolt",
+          "jersey": 34,
+          "minutes": 31,
+          "points": 15,
+          "reb": 6,
+          "ast": 4,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Andrássy Géza",
+              "jersey": 15,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
+            },
+            {
+              "name": "Farkas Attila",
+              "jersey": 9,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Takács Dániel",
+          "jersey": 11,
+          "minutes": 36,
+          "points": 15,
+          "reb": 2,
+          "ast": 7,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Farkas Attila",
+              "jersey": 9,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zöldi Péter András",
+          "jersey": 2,
+          "minutes": 31,
+          "points": 10,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Erdős Artúr",
+              "jersey": 19,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "vasas-akademia-erdos-artur.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134147",
       "comp_code": "hun2a_plya",

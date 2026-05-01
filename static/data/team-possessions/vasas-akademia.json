@@ -1,7 +1,7 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 29,
   "matches": [
     {
       "gamecode": "hun2a_123459",
@@ -785,6 +785,34 @@
         "fta": 19,
         "oreb": 3,
         "tov_total": 27
+      }
+    },
+    {
+      "gamecode": "hun2a_plya_134163",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-30",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 73,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 22,
+        "mid_m": 2,
+        "three_m": 7,
+        "dunk_m": 1,
+        "ft": 6,
+        "close_x": 9,
+        "mid_x": 2,
+        "three_x": 12,
+        "dunk_x": 0,
+        "tov": 9,
+        "fga": 62,
+        "fta": 11,
+        "oreb": 8,
+        "tov_total": 9
       }
     }
   ]

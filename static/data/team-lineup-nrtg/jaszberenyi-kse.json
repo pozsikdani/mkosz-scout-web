@@ -1,8 +1,315 @@
 {
   "team": "Jászberényi KSE",
   "season": "x2526",
-  "match_count": 26,
+  "match_count": 27,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134163",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-30",
+      "opponent": "Vasas Akadémia",
+      "home": true,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 79,
+      "has_pbp": true,
+      "starters": [
+        "Abraham Arabo",
+        "Csaba György",
+        "Cvijin Patrik",
+        "Kámán Bálint",
+        "Szálkai Gordon"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Csaba György",
+            "Geröly Márton András",
+            "Kámán Bálint",
+            "Pucz Zalán",
+            "Zsók Áron"
+          ],
+          "min": 12.0,
+          "pf": 7,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Geröly Márton András",
+            "Kámán Bálint",
+            "Német Ákos",
+            "Zsók Áron"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Csaba György",
+            "Cvijin Patrik",
+            "Geröly Márton András",
+            "Szálkai Gordon"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csaba György",
+            "Cvijin Patrik",
+            "Geröly Márton András",
+            "Német Ákos",
+            "Zsók Áron"
+          ],
+          "min": 6.0,
+          "pf": 12,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Csaba György",
+            "Cvijin Patrik",
+            "Kámán Bálint",
+            "Szálkai Gordon"
+          ],
+          "min": 5.0,
+          "pf": 6,
+          "pa": 11,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Csaba György",
+            "Cvijin Patrik",
+            "Geröly Márton András",
+            "Német Ákos"
+          ],
+          "min": 5.0,
+          "pf": 12,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Cvijin Patrik",
+            "Kámán Bálint",
+            "Német Ákos",
+            "Zsók Áron"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Csaba György",
+            "Kámán Bálint",
+            "Szálkai Gordon",
+            "Zsók Áron"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csaba György",
+            "Cvijin Patrik",
+            "Kámán Bálint",
+            "Német Ákos",
+            "Zsók Áron"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csaba György",
+            "Cvijin Patrik",
+            "Kámán Bálint",
+            "Pucz Zalán",
+            "Zsók Áron"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Csaba György",
+            "Geröly Márton András",
+            "Német Ákos",
+            "Szálkai Gordon"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Csaba György",
+            "Geröly Márton András",
+            "Kámán Bálint",
+            "Szálkai Gordon"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csaba György",
+            "Geröly Márton András",
+            "Kámán Bálint",
+            "Német Ákos",
+            "Zsók Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csaba György",
+            "Cvijin Patrik",
+            "Kámán Bálint",
+            "Szálkai Gordon",
+            "Zsók Áron"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Csaba György",
+            "Német Ákos",
+            "Szálkai Gordon",
+            "Zsók Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Cvijin Patrik",
+            "Német Ákos",
+            "Pucz Zalán",
+            "Zsók Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csaba György",
+            "Geröly Márton András",
+            "Német Ákos",
+            "Pucz Zalán",
+            "Zsók Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Cvijin Patrik",
+            "Kámán Bálint",
+            "Szálkai Gordon",
+            "Zsók Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Cvijin Patrik",
+            "Geröly Márton András",
+            "Német Ákos",
+            "Zsók Áron"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Cvijin Patrik",
+            "Kámán Bálint",
+            "Pucz Zalán",
+            "Zsók Áron"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Csaba György",
+            "Cvijin Patrik",
+            "Német Ákos",
+            "Pucz Zalán"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cvijin Patrik",
+            "Geröly Márton András",
+            "Német Ákos",
+            "Pucz Zalán",
+            "Zsók Áron"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_123807",
       "comp_code": "hun2a",

@@ -811,7 +811,24 @@
       "our_score": 78,
       "their_score": 96,
       "result": "L",
-      "quarter_scores": null,
+      "quarter_scores": [
+        {
+          "our": 23,
+          "their": 24
+        },
+        {
+          "our": 20,
+          "their": 21
+        },
+        {
+          "our": 17,
+          "their": 19
+        },
+        {
+          "our": 18,
+          "their": 32
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

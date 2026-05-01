@@ -1,8 +1,315 @@
 {
   "team": "PVSK-Veolia",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134117",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-29",
+      "opponent": "Phoenix-MT Fót",
+      "home": false,
+      "result": "L",
+      "our_score": 88,
+      "their_score": 104,
+      "has_pbp": true,
+      "starters": [
+        "Balogh Szilárd",
+        "Bunos Oleksandr",
+        "Dordevic Nemanja",
+        "Géringer Gerg?",
+        "Molnár Mátyás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Dordevic Nemanja",
+            "Géringer Gerg?",
+            "Kertész Dávid",
+            "Molnár Mátyás"
+          ],
+          "min": 17.0,
+          "pf": 19,
+          "pa": 22,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Dordevic Nemanja",
+            "Géringer Gerg?",
+            "Plézer Gábor"
+          ],
+          "min": 13.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Plézer Gábor"
+          ],
+          "min": 12.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Dordevic Nemanja",
+            "Géringer Gerg?",
+            "Molnár Mátyás"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Dordevic Nemanja",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Werner Viktor"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Géringer Gerg?",
+            "Kertész Dávid",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Plézer Gábor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Dordevic Nemanja",
+            "Géringer Gerg?",
+            "Kertész Dávid",
+            "Plézer Gábor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Géringer Gerg?",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Géringer Gerg?",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Géringer Gerg?",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Géringer Gerg?",
+            "Kertész Dávid",
+            "Plézer Gábor"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Dordevic Nemanja",
+            "Géringer Gerg?",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Géringer Gerg?",
+            "Kertész Dávid",
+            "Molnár Mátyás"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Plézer Gábor",
+            "Rácz Gábor",
+            "Werner Viktor"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134115",
       "comp_code": "hun2a_ply",

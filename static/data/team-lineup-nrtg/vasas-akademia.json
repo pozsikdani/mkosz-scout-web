@@ -1,8 +1,185 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134163",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-30",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 73,
+      "has_pbp": true,
+      "starters": [
+        "Farkas Attila",
+        "Krasovec Ádám",
+        "Olasz Ádám Zsolt",
+        "Takács Dániel",
+        "Zöldi Péter András"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Andrássy Géza",
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Karosi Gergely"
+          ],
+          "min": 14.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Takács Dániel"
+          ],
+          "min": 13.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Karosi Gergely",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 11.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 9.0,
+          "pf": 17,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 5.0,
+          "pf": 9,
+          "pa": 6,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Karosi Gergely",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Erd?s Artúr",
+            "Fekete Viktor Norbert",
+            "Karosi Gergely",
+            "Takács Dániel"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 0.0,
+          "pf": 14,
+          "pa": 9,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134147",
       "comp_code": "hun2a_plya",
