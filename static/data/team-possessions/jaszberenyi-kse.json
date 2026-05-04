@@ -1,7 +1,7 @@
 {
   "team": "Jászberényi KSE",
   "season": "x2526",
-  "match_count": 27,
+  "match_count": 28,
   "matches": [
     {
       "gamecode": "hun2a_123459",
@@ -757,6 +757,34 @@
         "fta": 8,
         "oreb": 7,
         "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2a_plya_134165",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-03",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 49,
+      "their_score": 93,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 10,
+        "mid_m": 1,
+        "three_m": 5,
+        "dunk_m": 2,
+        "ft": 4,
+        "close_x": 12,
+        "mid_x": 6,
+        "three_x": 10,
+        "dunk_x": 2,
+        "tov": 22,
+        "fga": 57,
+        "fta": 11,
+        "oreb": 11,
+        "tov_total": 22
       }
     }
   ]

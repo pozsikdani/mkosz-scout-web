@@ -1,8 +1,145 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 30,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134141",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-02",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": true,
+      "result": "W",
+      "our_score": 94,
+      "their_score": 63,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bonifert Bendegúz",
+          "jersey": 33,
+          "minutes": 35,
+          "points": 23,
+          "reb": 13,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kocsis Zalán",
+              "jersey": 8,
+              "minutes": 37,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg"
+            },
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-frank-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Daniels Vionte Ramone",
+          "jersey": 24,
+          "minutes": 36,
+          "points": 18,
+          "reb": 13,
+          "ast": 13,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Bonifert Bendegúz",
+              "jersey": 33,
+              "minutes": 35,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kass Balázs",
+          "jersey": 17,
+          "minutes": 31,
+          "points": 14,
+          "reb": 5,
+          "ast": 8,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 3,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-frank-aron.jpg"
+            },
+            {
+              "name": "Daniels Vionte Ramone",
+              "jersey": 24,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kocsis Zalán",
+          "jersey": 8,
+          "minutes": 37,
+          "points": 15,
+          "reb": 12,
+          "ast": 1,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-frank-aron.jpg"
+            },
+            {
+              "name": "Kass Balázs",
+              "jersey": 17,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg"
+            },
+            {
+              "name": "Lintner Kristóf Barnabás",
+              "jersey": 9,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-lintner-kristof-barnabas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Dániel",
+          "jersey": 5,
+          "minutes": 33,
+          "points": 15,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-toth-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Simon Dávid",
+              "jersey": 70,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-simon-david.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134101",
       "comp_code": "hun2a_ply",

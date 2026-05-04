@@ -1,8 +1,237 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 30,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134159",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-03",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 102,
+      "their_score": 78,
+      "has_pbp": true,
+      "starters": [
+        "Bán Tibor",
+        "Kozák Márton",
+        "Mayer Ákos",
+        "Mészáros Ágoston",
+        "Schmera Gergely"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 15.0,
+          "pf": 18,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lucey Ciarán József"
+          ],
+          "min": 14.0,
+          "pf": 13,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Schmera Gergely"
+          ],
+          "min": 12.0,
+          "pf": 9,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Márton",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 5.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 4.0,
+          "pf": 13,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Lakatos Máté",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Márton",
+            "Mayer Ákos",
+            "Mészáros Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Márton",
+            "Lucey Ciarán József",
+            "Mayer Ákos"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Schmera Gergely"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Tanyi Antal Áron"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 15,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134157",
       "comp_code": "hun2a_plya",

@@ -1,7 +1,7 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
     {
       "gamecode": "hun2a_123453",
@@ -869,6 +869,34 @@
         "fta": 40,
         "oreb": 14,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134137",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-02",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": false,
+      "result": "L",
+      "our_score": 101,
+      "their_score": 111,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 2,
+        "three_m": 13,
+        "dunk_m": 1,
+        "ft": 17,
+        "close_x": 11,
+        "mid_x": 2,
+        "three_x": 16,
+        "dunk_x": 0,
+        "tov": 15,
+        "fga": 75,
+        "fta": 35,
+        "oreb": 15,
+        "tov_total": 15
       }
     }
   ]

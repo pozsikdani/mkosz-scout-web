@@ -1,8 +1,166 @@
 {
   "team": "TF-BP",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134169",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-02",
+      "opponent": "EBH-SALGÓTARJÁN",
+      "home": false,
+      "result": "W",
+      "our_score": 90,
+      "their_score": 87,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Hegedüs Brúnó",
+          "jersey": 28,
+          "minutes": 32,
+          "points": 11,
+          "reb": 7,
+          "ast": 2,
+          "photo_filename": "tf-bp-hegedus-bruno.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kalmár Viktor Patrik",
+              "jersey": 88,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "tf-bp-kalmar-viktor-patrik.jpg"
+            },
+            {
+              "name": "Kiss Dominik",
+              "jersey": 17,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "tf-bp-kiss-dominik.jpg"
+            },
+            {
+              "name": "Pantelic Dorde",
+              "jersey": 31,
+              "minutes": 1,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Heimann Gergő",
+          "jersey": 29,
+          "minutes": 36,
+          "points": 26,
+          "reb": 2,
+          "ast": 7,
+          "photo_filename": "tf-bp-heimann-gergo.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Pilinszki Máté",
+              "jersey": 5,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "tf-bp-pilinszki-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Inalegwu Marcell Sámuel",
+          "jersey": 4,
+          "minutes": 28,
+          "points": 6,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Bogdán Dávid Bence",
+              "jersey": 11,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "tf-bp-bogdan-david-bence.jpg"
+            },
+            {
+              "name": "Hegedüs Brúnó",
+              "jersey": 28,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "tf-bp-hegedus-bruno.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Marcell József",
+          "jersey": 3,
+          "minutes": 33,
+          "points": 10,
+          "reb": 10,
+          "ast": 6,
+          "photo_filename": "tf-bp-molnar-marcell-jozsef.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Pilinszki Máté",
+              "jersey": 5,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "tf-bp-pilinszki-mate.jpg"
+            },
+            {
+              "name": "Hegedüs Brúnó",
+              "jersey": 28,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "tf-bp-hegedus-bruno.jpg"
+            },
+            {
+              "name": "Inalegwu Marcell Sámuel",
+              "jersey": 4,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pilinszki Máté",
+          "jersey": 5,
+          "minutes": 10,
+          "points": 2,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "tf-bp-pilinszki-mate.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Polster Attila",
+              "jersey": 7,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "tf-bp-polster-attila.jpg"
+            },
+            {
+              "name": "Molnár Marcell József",
+              "jersey": 3,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "tf-bp-molnar-marcell-jozsef.jpg"
+            },
+            {
+              "name": "Heimann Gergő",
+              "jersey": 29,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "tf-bp-heimann-gergo.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134147",
       "comp_code": "hun2a_plya",

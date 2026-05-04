@@ -1,7 +1,7 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
     {
       "gamecode": "hun2a_123447",
@@ -869,6 +869,34 @@
         "fta": 29,
         "oreb": 11,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134141",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-02",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 94,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 2,
+        "three_m": 5,
+        "dunk_m": 1,
+        "ft": 6,
+        "close_x": 18,
+        "mid_x": 3,
+        "three_x": 19,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 70,
+        "fta": 14,
+        "oreb": 9,
+        "tov_total": 11
       }
     }
   ]

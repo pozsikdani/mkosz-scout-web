@@ -1,8 +1,166 @@
 {
   "team": "Jászberényi KSE",
   "season": "x2526",
-  "match_count": 27,
+  "match_count": 28,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134165",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-03",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 49,
+      "their_score": 93,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Abraham Arabo",
+          "jersey": 88,
+          "minutes": 26,
+          "points": 8,
+          "reb": 11,
+          "ast": 0,
+          "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Zsók Áron",
+              "jersey": 12,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-zsok-aron.jpg"
+            },
+            {
+              "name": "Csaba György",
+              "jersey": 3,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-csaba-gyorgy.jpg"
+            },
+            {
+              "name": "Hőgye Attila",
+              "jersey": 24,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-hogye-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csaba György",
+          "jersey": 3,
+          "minutes": 20,
+          "points": 7,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "jaszberenyi-kse-csaba-gyorgy.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Cvijin Patrik",
+              "jersey": 10,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-cvijin-patrik.jpg"
+            },
+            {
+              "name": "Zsók Áron",
+              "jersey": 12,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-zsok-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kámán Bálint",
+          "jersey": 13,
+          "minutes": 11,
+          "points": 0,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "jaszberenyi-kse-kaman-balint.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kinney Jr. James Edwin",
+              "jersey": 0,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-kinney-jr-james-edwin.jpg"
+            },
+            {
+              "name": "Német Ákos",
+              "jersey": 27,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-nemet-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szálkai Gordon",
+          "jersey": 2,
+          "minutes": 21,
+          "points": 3,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Német Ákos",
+              "jersey": 27,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-nemet-akos.jpg"
+            },
+            {
+              "name": "Geröly Márton András",
+              "jersey": 22,
+              "minutes": 11,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zsók Áron",
+          "jersey": 12,
+          "minutes": 28,
+          "points": 0,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "jaszberenyi-kse-zsok-aron.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Német Ákos",
+              "jersey": 27,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-nemet-akos.jpg"
+            },
+            {
+              "name": "Abraham Arabo",
+              "jersey": 88,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg"
+            },
+            {
+              "name": "Pucz Zalán",
+              "jersey": 9,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-pucz-zalan.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134163",
       "comp_code": "hun2a_plya",

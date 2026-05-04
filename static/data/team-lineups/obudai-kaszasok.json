@@ -1,8 +1,159 @@
 {
   "team": "Óbudai Kaszások",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134137",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-02",
+      "opponent": "ÚJBUDA MAFC",
+      "home": true,
+      "result": "W",
+      "our_score": 111,
+      "their_score": 101,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Balázsi Ákos Milán",
+          "jersey": 10,
+          "minutes": 28,
+          "points": 17,
+          "reb": 7,
+          "ast": 5,
+          "photo_filename": "obudai-kaszasok-balazsi-akos-milan.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Hajdu Gergely",
+              "jersey": 19,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-hajdu-gergely.jpg"
+            },
+            {
+              "name": "Varsányi Áron",
+              "jersey": 2,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-varsanyi-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Boros Márk",
+          "jersey": 13,
+          "minutes": 23,
+          "points": 20,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "obudai-kaszasok-boros-mark.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Lakosa Ákos",
+              "jersey": 17,
+              "minutes": 27,
+              "count": 3,
+              "photo_filename": "obudai-kaszasok-lakosa-akos.jpg"
+            },
+            {
+              "name": "Horváth Botond",
+              "jersey": 3,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-horvath-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Homoki Donát László",
+          "jersey": 14,
+          "minutes": 16,
+          "points": 18,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Szabó Dániel",
+              "jersey": 21,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-szabo-daniel.jpg"
+            },
+            {
+              "name": "Nshimba Kalau Joel",
+              "jersey": 6,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
+            },
+            {
+              "name": "Gazdag Áron Bendegúz",
+              "jersey": 22,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Horváth Botond",
+          "jersey": 3,
+          "minutes": 21,
+          "points": 3,
+          "reb": 1,
+          "ast": 4,
+          "photo_filename": "obudai-kaszasok-horvath-botond.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Balázsi Bence Soma",
+              "jersey": 9,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-balazsi-bence-soma.jpg"
+            },
+            {
+              "name": "Homoki Donát László",
+              "jersey": 14,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-homoki-donat-laszlo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Swanson Kevin Wade",
+          "jersey": 33,
+          "minutes": 35,
+          "points": 18,
+          "reb": 9,
+          "ast": 3,
+          "photo_filename": "obudai-kaszasok-swanson-kevin-wade.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Nshimba Kalau Joel",
+              "jersey": 6,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "obudai-kaszasok-nshimba-kalau-joel.jpg"
+            },
+            {
+              "name": "Gazdag Áron Bendegúz",
+              "jersey": 22,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "obudai-kaszasok-gazdag-aron-bendeguz.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134081",
       "comp_code": "hun2a_ply",

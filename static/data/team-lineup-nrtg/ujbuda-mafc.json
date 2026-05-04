@@ -1,8 +1,224 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134137",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-02",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": false,
+      "result": "L",
+      "our_score": 101,
+      "their_score": 111,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Geiger Bálint József",
+        "Kazy Balázs",
+        "Molnár Tamás",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 18.0,
+          "pf": 18,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 13.0,
+          "pf": 31,
+          "pa": 36,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Bordács Gábor Soma",
+            "Pintér Dávid",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 12.0,
+          "pf": 8,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Németh Donát Gergő",
+            "Pintér Dávid"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 4.0,
+          "pf": 15,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Németh Donát Gergő",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Máté",
+            "Geiger Bálint József",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Áron Benedek",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kazy Balázs",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás",
+            "Turcsányi Nándor"
+          ],
+          "min": 0.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134115",
       "comp_code": "hun2a_ply",

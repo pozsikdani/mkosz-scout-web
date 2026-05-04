@@ -1,8 +1,263 @@
 {
   "team": "DEAC U23",
   "season": "x2526",
-  "match_count": 27,
+  "match_count": 28,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134159",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-03",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 102,
+      "has_pbp": true,
+      "starters": [
+        "Bankó Zoltán Martin",
+        "Szafkó Márk",
+        "Ságodi Róbert",
+        "Varga Sándor",
+        "Várszegi Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szafkó Márk",
+            "Ságodi Róbert",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 20.0,
+          "pf": 20,
+          "pa": 23,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fórián Zsombor Zsolt",
+            "Székely Bence",
+            "Vadai Balázs",
+            "Varga Sándor"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Székely Bence",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
+            "Ságodi Róbert",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Varga Sándor"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
+            "Székely Bence",
+            "Vadai Balázs",
+            "Varga Sándor"
+          ],
+          "min": 3.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szafkó Márk",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 11,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kedvek László",
+            "Szafkó Márk",
+            "Ságodi Róbert",
+            "Varga Sándor"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fórián Zsombor Zsolt",
+            "Kedvek László",
+            "Szafkó Márk",
+            "Ságodi Róbert"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fórián Zsombor Zsolt",
+            "Kedvek László",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Varga Sándor"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kedvek László",
+            "Szafkó Márk",
+            "Vadai Balázs",
+            "Varga Sándor"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fórián Zsombor Zsolt",
+            "Kedvek László",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Ságodi Róbert",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 8,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fórián Zsombor Zsolt",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Varga Sándor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fórián Zsombor Zsolt",
+            "Székely Bence",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fórián Zsombor Zsolt",
+            "Kedvek László",
+            "Orbán Imre",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 0.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134157",
       "comp_code": "hun2a_plya",

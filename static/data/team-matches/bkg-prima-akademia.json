@@ -1001,12 +1001,29 @@
       "date": "2026-05-03",
       "time": "18:00",
       "home": false,
-      "opponent": "Peka Bau-MEAFC Wolves",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "our_score": 91,
+      "their_score": 93,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 22,
+          "their": 20
+        },
+        {
+          "our": 17,
+          "their": 24
+        },
+        {
+          "our": 24,
+          "their": 26
+        },
+        {
+          "our": 28,
+          "their": 23
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

@@ -1,8 +1,146 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134141",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-02",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 94,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Hibján Máté",
+        "Illés Máté Csongor",
+        "Orosi Bálint Gábor",
+        "Végső Bálint"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Magyari Kristóf",
+            "Varga Ádám Dániel",
+            "Végső Bálint"
+          ],
+          "min": 20.0,
+          "pf": 14,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Illés Máté Csongor",
+            "Orosi Bálint Gábor",
+            "Varga Ádám Dániel",
+            "Végső Bálint"
+          ],
+          "min": 15.0,
+          "pf": 6,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Magyari Kristóf",
+            "Orosi Bálint Gábor",
+            "Varga Ádám Dániel",
+            "Végső Bálint"
+          ],
+          "min": 13.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Illés Máté Csongor",
+            "Orosi Bálint Gábor",
+            "Végső Bálint"
+          ],
+          "min": 12.0,
+          "pf": 27,
+          "pa": 27,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Magyari Kristóf",
+            "Varga Ádám Dániel",
+            "Végső Bálint"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Illés Máté Csongor",
+            "Magyari Kristóf",
+            "Orosi Bálint Gábor",
+            "Végső Bálint"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Illés Máté Csongor",
+            "Orosi Bálint Gábor",
+            "Varga Ádám Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Illés Máté Csongor",
+            "Orosi Bálint Gábor",
+            "Varga Ádám Dániel",
+            "Végső Bálint"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Illés Máté Csongor",
+            "Magyari Kristóf",
+            "Varga Ádám Dániel"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134095",
       "comp_code": "hun2a_ply",

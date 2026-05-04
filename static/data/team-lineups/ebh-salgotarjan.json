@@ -1,8 +1,138 @@
 {
   "team": "EBH-Salgótarján",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134169",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-02",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "L",
+      "our_score": 87,
+      "their_score": 90,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Cserényi Martin",
+          "jersey": 1,
+          "minutes": 35,
+          "points": 11,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "ebh-salgotarjan-cserenyi-martin.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Balázs Márton József",
+              "jersey": 7,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "ebh-salgotarjan-balazs-marton-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ervin Carlbe Lee",
+          "jersey": 5,
+          "minutes": 33,
+          "points": 25,
+          "reb": 6,
+          "ast": 4,
+          "photo_filename": "ebh-salgotarjan-ervin-carlbe-lee.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Hargitai Krisztián",
+              "jersey": 99,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "ebh-salgotarjan-hargitai-krisztian.jpg"
+            },
+            {
+              "name": "Tóth Bence Miklós",
+              "jersey": 6,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "ebh-salgotarjan-toth-bence-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Hargitai Krisztián",
+          "jersey": 99,
+          "minutes": 31,
+          "points": 8,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "ebh-salgotarjan-hargitai-krisztian.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kalassai Martin",
+              "jersey": 12,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "ebh-salgotarjan-kalassai-martin.jpg"
+            },
+            {
+              "name": "Ervin Carlbe Lee",
+              "jersey": 5,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "ebh-salgotarjan-ervin-carlbe-lee.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ormai Botond Gábor",
+          "jersey": 22,
+          "minutes": 37,
+          "points": 15,
+          "reb": 7,
+          "ast": 7,
+          "photo_filename": "ebh-salgotarjan-ormai-botond-gabor.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Nagy Ádám Béla",
+              "jersey": 23,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "ebh-salgotarjan-nagy-adam-bela.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 6,
+          "minutes": 36,
+          "points": 18,
+          "reb": 4,
+          "ast": 5,
+          "photo_filename": "ebh-salgotarjan-toth-bence-miklos.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Hargitai Krisztián",
+              "jersey": 99,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "ebh-salgotarjan-hargitai-krisztian.jpg"
+            },
+            {
+              "name": "Kalassai Martin",
+              "jersey": 12,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "ebh-salgotarjan-kalassai-martin.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134153",
       "comp_code": "hun2a_plya",

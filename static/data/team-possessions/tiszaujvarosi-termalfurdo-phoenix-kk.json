@@ -1,7 +1,7 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 30,
   "matches": [
     {
       "gamecode": "hun2a_123447",
@@ -813,6 +813,34 @@
         "fta": 18,
         "oreb": 10,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_plya_134159",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-03",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 102,
+      "their_score": 78,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 24,
+        "mid_m": 3,
+        "three_m": 11,
+        "dunk_m": 2,
+        "ft": 8,
+        "close_x": 10,
+        "mid_x": 5,
+        "three_x": 11,
+        "dunk_x": 0,
+        "tov": 9,
+        "fga": 75,
+        "fta": 16,
+        "oreb": 10,
+        "tov_total": 9
       }
     }
   ]

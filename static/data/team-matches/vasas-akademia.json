@@ -984,12 +984,29 @@
       "date": "2026-05-03",
       "time": "17:00",
       "home": true,
-      "opponent": "Jászberényi KSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "JÁSZBERÉNYI KSE",
+      "our_score": 93,
+      "their_score": 49,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 25,
+          "their": 17
+        },
+        {
+          "our": 31,
+          "their": 7
+        },
+        {
+          "our": 21,
+          "their": 6
+        },
+        {
+          "our": 16,
+          "their": 19
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {
