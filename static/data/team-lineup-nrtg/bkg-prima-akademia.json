@@ -1,8 +1,185 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134131",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-05",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "W",
+      "our_score": 109,
+      "their_score": 84,
+      "has_pbp": true,
+      "starters": [
+        "Armaghani Ármin",
+        "Arnóczi Áron",
+        "Nagy Benedek Ágost",
+        "Nagy Botond Ágoston",
+        "Reiber Dean Thomas"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 16.0,
+          "pf": 22,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Galambos Árpád",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 13.0,
+          "pf": 10,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Arnóczi Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 10.0,
+          "pf": 30,
+          "pa": 17,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Fábián Szabolcs",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Várszegi Balázs"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 8.0,
+          "pf": 18,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Galambos Árpád",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Fábián Szabolcs",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Várszegi Balázs"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Büki Lóránt",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Várszegi Balázs"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Büki Lóránt",
+            "Nagy Benedek Ágost",
+            "Reiber Dean Thomas",
+            "Várszegi Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Bohunicky Olivér",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Büki Lóránt",
+            "Fábián Szabolcs",
+            "Nagy Benedek Ágost",
+            "Várszegi Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Büki Lóránt",
+            "Fábián Szabolcs",
+            "Kovács Leonárd",
+            "Várszegi Balázs"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134129",
       "comp_code": "hun2a_ply",

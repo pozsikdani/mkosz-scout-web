@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Veolia",
   "season": "x2526",
-  "match_count": 33,
+  "match_count": 34,
   "matches": [
     {
       "gamecode": "hun2a_123451",
@@ -925,6 +925,34 @@
         "fta": 28,
         "oreb": 13,
         "tov_total": 15
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134121",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-05",
+      "opponent": "Phoenix-MT Fót",
+      "home": false,
+      "result": "L",
+      "our_score": 76,
+      "their_score": 113,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 20,
+        "mid_m": 0,
+        "three_m": 4,
+        "dunk_m": 0,
+        "ft": 19,
+        "close_x": 14,
+        "mid_x": 2,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 19,
+        "fga": 64,
+        "fta": 37,
+        "oreb": 9,
+        "tov_total": 19
       }
     }
   ]

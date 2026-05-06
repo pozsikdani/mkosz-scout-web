@@ -1,8 +1,166 @@
 {
   "team": "Phoenix-MT Fót",
   "season": "x2526",
-  "match_count": 30,
+  "match_count": 31,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134121",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-05",
+      "opponent": "PVSK-Veolia",
+      "home": true,
+      "result": "W",
+      "our_score": 113,
+      "their_score": 76,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 30,
+          "points": 22,
+          "reb": 2,
+          "ast": 5,
+          "photo_filename": "phoenix-mt-fot-dancsecs-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": null,
+              "minutes": 29,
+              "count": 2,
+              "photo_filename": "phoenix-mt-fot-mitchell-shereef-rashadd.jpg"
+            },
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-nemeth-andras.jpg"
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 5,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-boka-mago-aron-istvan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 12,
+          "minutes": 26,
+          "points": 25,
+          "reb": 9,
+          "ast": 2,
+          "photo_filename": "phoenix-mt-fot-juhos-levente.jpg",
+          "position": "5-4",
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 11,
+              "count": 2,
+              "photo_filename": "phoenix-mt-fot-toth-patrik-kristof.jpg"
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": null,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "phoenix-mt-fot-kis-attila-raul.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Attila Raul",
+          "jersey": null,
+          "minutes": 20,
+          "points": 1,
+          "reb": 8,
+          "ast": 3,
+          "photo_filename": "phoenix-mt-fot-kis-attila-raul.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 5,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "phoenix-mt-fot-boka-mago-aron-istvan.jpg"
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 15,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-antoni-csanad-zoltan.jpg"
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 12,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-juhos-levente.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": null,
+          "minutes": 29,
+          "points": 33,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "phoenix-mt-fot-mitchell-shereef-rashadd.jpg",
+          "position": "2-1",
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 16,
+              "count": 4,
+              "photo_filename": "phoenix-mt-fot-nemeth-andras.jpg"
+            },
+            {
+              "name": "Dancsecs András",
+              "jersey": 9,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-dancsecs-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Richter Dániel",
+          "jersey": 9,
+          "minutes": 11,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "phoenix-mt-fot-richter-daniel.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Karda Dominik Krisztián",
+              "jersey": 8,
+              "minutes": 19,
+              "count": 3,
+              "photo_filename": "phoenix-mt-fot-karda-dominik-krisztian.jpg"
+            },
+            {
+              "name": "Molnár Dániel",
+              "jersey": 7,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-molnar-daniel.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134119",
       "comp_code": "hun2a_ply",

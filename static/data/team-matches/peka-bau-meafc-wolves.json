@@ -1096,12 +1096,29 @@
       "date": "2026-05-05",
       "time": "19:30",
       "home": false,
-      "opponent": "BKG PRIMA Akadémia",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "our_score": 84,
+      "their_score": 109,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 29
+        },
+        {
+          "our": 14,
+          "their": 26
+        },
+        {
+          "our": 19,
+          "their": 32
+        },
+        {
+          "our": 27,
+          "their": 22
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {
