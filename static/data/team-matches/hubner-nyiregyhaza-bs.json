@@ -1071,12 +1071,29 @@
       "date": "2026-05-07",
       "time": "18:00",
       "home": true,
-      "opponent": "Insedo Veszprém Kosárlabda Klub",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA K",
+      "our_score": 75,
+      "their_score": 104,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 14,
+          "their": 28
+        },
+        {
+          "our": 18,
+          "their": 29
+        },
+        {
+          "our": 21,
+          "their": 26
+        },
+        {
+          "our": 22,
+          "their": 21
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     }
   ]

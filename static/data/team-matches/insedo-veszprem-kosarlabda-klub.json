@@ -1009,12 +1009,29 @@
       "date": "2026-05-07",
       "time": "18:00",
       "home": false,
-      "opponent": "HÜBNER Nyíregyháza BS",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "our_score": 104,
+      "their_score": 75,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 28,
+          "their": 14
+        },
+        {
+          "our": 29,
+          "their": 18
+        },
+        {
+          "our": 26,
+          "their": 21
+        },
+        {
+          "our": 21,
+          "their": 22
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     }
   ]
