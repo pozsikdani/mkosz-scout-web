@@ -1,8 +1,315 @@
 {
   "team": "Phoenix-MT Fót",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134123",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-08",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "W",
+      "our_score": 109,
+      "their_score": 95,
+      "has_pbp": true,
+      "starters": [
+        "Dancsecs András",
+        "Juhos Levente",
+        "Kis Attila Raul",
+        "Mitchell Shereef Rashadd",
+        "Richter Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Dancsecs András",
+            "Juhos Levente",
+            "Karda Dominik Krisztián",
+            "Mitchell Shereef Rashadd"
+          ],
+          "min": 18.0,
+          "pf": 20,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Dancsecs András",
+            "Juhos Levente",
+            "Karda Dominik Krisztián",
+            "Németh András"
+          ],
+          "min": 11.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Dancsecs András",
+            "Karda Dominik Krisztián",
+            "Kis Attila Raul",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Dancsecs András",
+            "Juhos Levente",
+            "Mitchell Shereef Rashadd",
+            "Richter Dániel"
+          ],
+          "min": 7.0,
+          "pf": 16,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dancsecs András",
+            "Juhos Levente",
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd",
+            "Richter Dániel"
+          ],
+          "min": 5.0,
+          "pf": 13,
+          "pa": 16,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Karda Dominik Krisztián",
+            "Mitchell Shereef Rashadd",
+            "Németh András",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dancsecs András",
+            "Juhos Levente",
+            "Karda Dominik Krisztián",
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Dancsecs András",
+            "Karda Dominik Krisztián",
+            "Kis Attila Raul",
+            "Németh András"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Juhos Levente",
+            "Karda Dominik Krisztián",
+            "Mitchell Shereef Rashadd",
+            "Németh András"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Dancsecs András",
+            "Juhos Levente",
+            "Németh András",
+            "Richter Dániel"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Dancsecs András",
+            "Juhos Levente",
+            "Karda Dominik Krisztián",
+            "Kis Attila Raul"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dancsecs András",
+            "Juhos Levente",
+            "Karda Dominik Krisztián",
+            "Kis Attila Raul",
+            "Németh András"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dancsecs András",
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd",
+            "Richter Dániel",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Karda Dominik Krisztián",
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dancsecs András",
+            "Juhos Levente",
+            "Kis Attila Raul",
+            "Németh András",
+            "Richter Dániel"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd",
+            "Németh András",
+            "Richter Dániel",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd",
+            "Richter Dániel",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Juhos Levente",
+            "Karda Dominik Krisztián",
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Dancsecs András",
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd",
+            "Richter Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Juhos Levente",
+            "Karda Dominik Krisztián",
+            "Kis Attila Raul",
+            "Mitchell Shereef Rashadd",
+            "Németh András"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Dancsecs András",
+            "Gerencsér Botond",
+            "Mitchell Shereef Rashadd",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Dancsecs András",
+            "Gerencsér Botond",
+            "Németh András",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134121",
       "comp_code": "hun2a_ply",

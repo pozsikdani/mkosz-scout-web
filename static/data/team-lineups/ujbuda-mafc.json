@@ -1,8 +1,152 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2526",
-  "match_count": 32,
+  "match_count": 33,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134139",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-08",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": true,
+      "result": "W",
+      "our_score": 106,
+      "their_score": 93,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bordács Gábor Soma",
+          "jersey": 13,
+          "minutes": 25,
+          "points": 4,
+          "reb": 18,
+          "ast": 5,
+          "photo_filename": "ujbuda-mafc-bordacs-gabor-soma.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Pápai Máté Barnabás",
+              "jersey": 27,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg"
+            },
+            {
+              "name": "Dobos Máté",
+              "jersey": 20,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-dobos-mate.jpg"
+            },
+            {
+              "name": "Turcsányi Nándor",
+              "jersey": 91,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-turcsanyi-nandor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Geiger Bálint József",
+          "jersey": 2,
+          "minutes": 31,
+          "points": 10,
+          "reb": 3,
+          "ast": 5,
+          "photo_filename": "ujbuda-mafc-geiger-balint-jozsef.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Viola Dávid Zsolt",
+              "jersey": 51,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "ujbuda-mafc-viola-david-zsolt.jpg"
+            },
+            {
+              "name": "Pintér Dávid",
+              "jersey": 24,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-pinter-david.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kazy Balázs",
+          "jersey": 12,
+          "minutes": 38,
+          "points": 35,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "ujbuda-mafc-kazy-balazs.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Geiger Bálint József",
+              "jersey": 2,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-geiger-balint-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Tamás",
+          "jersey": 18,
+          "minutes": 24,
+          "points": 28,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "ujbuda-mafc-molnar-tamas.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Pintér Dávid",
+              "jersey": 24,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "ujbuda-mafc-pinter-david.jpg"
+            },
+            {
+              "name": "Viola Dávid Zsolt",
+              "jersey": 51,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-viola-david-zsolt.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pápai Máté Barnabás",
+          "jersey": 27,
+          "minutes": 28,
+          "points": 13,
+          "reb": 10,
+          "ast": 4,
+          "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Turcsányi Nándor",
+              "jersey": 91,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "ujbuda-mafc-turcsanyi-nandor.jpg"
+            },
+            {
+              "name": "Pintér Dávid",
+              "jersey": 24,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-pinter-david.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134137",
       "comp_code": "hun2a_ply",

@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2526",
-  "match_count": 32,
+  "match_count": 33,
   "matches": [
     {
       "gamecode": "hun2a_123451",
@@ -897,6 +897,34 @@
         "fta": 29,
         "oreb": 17,
         "tov_total": 10
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134133",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-08",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "L",
+      "our_score": 85,
+      "their_score": 86,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 22,
+        "mid_m": 8,
+        "three_m": 3,
+        "dunk_m": 2,
+        "ft": 10,
+        "close_x": 11,
+        "mid_x": 9,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 8,
+        "fga": 79,
+        "fta": 16,
+        "oreb": 12,
+        "tov_total": 8
       }
     }
   ]
