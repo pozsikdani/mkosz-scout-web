@@ -45,7 +45,7 @@
         "rpg": 94,
         "oreb_pg": 97,
         "dreb_pg": 93,
-        "apg": 67,
+        "apg": 68,
         "spg": 80,
         "bpg": 94,
         "fdpg": 93,
@@ -53,7 +53,7 @@
         "tpg": 94,
         "fpg": 66,
         "fg_pct": 77,
-        "three_pct": 36,
+        "three_pct": 35,
         "ft_pct": 28
       }
     },
@@ -93,10 +93,10 @@
         "rpg": 99,
         "oreb_pg": 93,
         "dreb_pg": 99,
-        "apg": 48,
+        "apg": 49,
         "spg": 56,
         "bpg": 79,
-        "fdpg": 79,
+        "fdpg": 80,
         "mpg": 79,
         "tpg": 82,
         "fpg": 99,
@@ -143,14 +143,14 @@
         "dreb_pg": 68,
         "apg": 97,
         "spg": 88,
-        "bpg": 64,
-        "fdpg": 88,
-        "mpg": 76,
-        "tpg": 92,
+        "bpg": 63,
+        "fdpg": 87,
+        "mpg": 75,
+        "tpg": 93,
         "fpg": 40,
-        "fg_pct": 18,
+        "fg_pct": 20,
         "three_pct": 21,
-        "ft_pct": 45
+        "ft_pct": 46
       }
     },
     {
@@ -198,7 +198,7 @@
         "fpg": 66,
         "fg_pct": 100,
         "three_pct": 98,
-        "ft_pct": 59
+        "ft_pct": 60
       }
     },
     {
@@ -234,16 +234,16 @@
       "birth_year": 2005,
       "percentiles": {
         "ppg": 31,
-        "rpg": 37,
-        "oreb_pg": 53,
+        "rpg": 36,
+        "oreb_pg": 54,
         "dreb_pg": 34,
-        "apg": 48,
+        "apg": 49,
         "spg": 56,
-        "bpg": 64,
+        "bpg": 63,
         "fdpg": 35,
         "mpg": 43,
-        "tpg": 65,
-        "fpg": 59,
+        "tpg": 66,
+        "fpg": 60,
         "fg_pct": 1,
         "three_pct": 10
       }
@@ -281,15 +281,15 @@
       "birth_year": 2003,
       "percentiles": {
         "ppg": 50,
-        "rpg": 28,
+        "rpg": 29,
         "oreb_pg": 30,
-        "dreb_pg": 30,
+        "dreb_pg": 29,
         "apg": 66,
         "spg": 56,
-        "bpg": 64,
+        "bpg": 63,
         "fdpg": 43,
         "mpg": 53,
-        "tpg": 35,
+        "tpg": 34,
         "fpg": 66,
         "fg_pct": 34,
         "three_pct": 67,
@@ -324,11 +324,11 @@
       "ft_att": 1,
       "ft_pct": 100.0,
       "percentiles": {
-        "ppg": 24,
+        "ppg": 25,
         "rpg": 23,
-        "oreb_pg": 40,
+        "oreb_pg": 41,
         "dreb_pg": 18,
-        "apg": 60,
+        "apg": 59,
         "spg": 80,
         "bpg": 40,
         "fdpg": 26,
@@ -370,18 +370,18 @@
       "birth_year": 2001,
       "percentiles": {
         "ppg": 31,
-        "rpg": 51,
+        "rpg": 52,
         "oreb_pg": 68,
         "dreb_pg": 50,
         "apg": 56,
         "spg": 56,
-        "bpg": 64,
+        "bpg": 63,
         "fdpg": 35,
         "mpg": 53,
         "tpg": 39,
         "fpg": 97,
         "fg_pct": 56,
-        "three_pct": 64
+        "three_pct": 63
       }
     },
     {
@@ -418,8 +418,8 @@
       "percentiles": {
         "ppg": 45,
         "rpg": 58,
-        "oreb_pg": 53,
-        "dreb_pg": 62,
+        "oreb_pg": 54,
+        "dreb_pg": 63,
         "apg": 89,
         "spg": 88,
         "bpg": 79,
@@ -428,7 +428,7 @@
         "tpg": 88,
         "fpg": 66,
         "fg_pct": 61,
-        "three_pct": 11,
+        "three_pct": 12,
         "ft_pct": 52
       }
     },
@@ -464,15 +464,15 @@
       "position": "5",
       "birth_year": 2005,
       "percentiles": {
-        "ppg": 42,
+        "ppg": 41,
         "rpg": 61,
         "oreb_pg": 68,
-        "dreb_pg": 60,
+        "dreb_pg": 61,
         "apg": 32,
         "spg": 42,
         "bpg": 92,
-        "fdpg": 34,
-        "mpg": 42,
+        "fdpg": 33,
+        "mpg": 41,
         "tpg": 43,
         "fpg": 40,
         "fg_pct": 81,
@@ -512,18 +512,18 @@
       "birth_year": 1992,
       "percentiles": {
         "ppg": 64,
-        "rpg": 55,
-        "oreb_pg": 60,
-        "dreb_pg": 58,
+        "rpg": 56,
+        "oreb_pg": 59,
+        "dreb_pg": 59,
         "apg": 77,
         "spg": 84,
-        "bpg": 64,
+        "bpg": 63,
         "fdpg": 72,
         "mpg": 55,
         "tpg": 78,
         "fpg": 49,
         "fg_pct": 35,
-        "three_pct": 67,
+        "three_pct": 68,
         "ft_pct": 26
       }
     },
@@ -560,7 +560,7 @@
       "birth_year": 2004,
       "percentiles": {
         "ppg": 27,
-        "rpg": 25,
+        "rpg": 24,
         "oreb_pg": 30,
         "dreb_pg": 28,
         "apg": 27,
@@ -571,7 +571,7 @@
         "tpg": 29,
         "fpg": 22,
         "fg_pct": 4,
-        "three_pct": 15,
+        "three_pct": 16,
         "ft_pct": 19
       }
     },
@@ -642,14 +642,14 @@
       "percentiles": {
         "ppg": 30,
         "rpg": 39,
-        "oreb_pg": 53,
+        "oreb_pg": 54,
         "dreb_pg": 36,
         "apg": 11,
         "spg": 20,
-        "bpg": 64,
-        "fdpg": 34,
+        "bpg": 63,
+        "fdpg": 33,
         "mpg": 22,
-        "tpg": 35,
+        "tpg": 34,
         "fpg": 37,
         "ft_pct": 27
       }
@@ -689,7 +689,7 @@
         "ppg": 23,
         "rpg": 23,
         "oreb_pg": 18,
-        "dreb_pg": 30,
+        "dreb_pg": 29,
         "apg": 11,
         "spg": 31,
         "bpg": 40,

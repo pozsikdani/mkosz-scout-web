@@ -1,8 +1,138 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2526",
-  "match_count": 30,
+  "match_count": 31,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134503",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-09",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 98,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bán Tibor",
+          "jersey": 8,
+          "minutes": 22,
+          "points": 11,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ban-tibor.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Lucey Ciarán József",
+              "jersey": 44,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg"
+            },
+            {
+              "name": "Mester Márk",
+              "jersey": 12,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozák Márton",
+          "jersey": 18,
+          "minutes": 17,
+          "points": 8,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-kozak-marton.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Lakatos Máté",
+              "jersey": 9,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lakatos-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mayer Ákos",
+          "jersey": 20,
+          "minutes": 23,
+          "points": 2,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mayer-akos.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kozák Bertalan",
+              "jersey": 0,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-kozak-bertalan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Ágoston",
+          "jersey": 4,
+          "minutes": 16,
+          "points": 8,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-meszaros-agoston.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Mester Márk",
+              "jersey": 12,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg"
+            },
+            {
+              "name": "Lucey Ciarán József",
+              "jersey": 44,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schmera Gergely",
+          "jersey": 15,
+          "minutes": 13,
+          "points": 15,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-schmera-gergely.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Gerőcs Roland Bálint",
+              "jersey": 13,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg"
+            },
+            {
+              "name": "Besenyei Bálint",
+              "jersey": 5,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-besenyei-balint.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134159",
       "comp_code": "hun2a_plya",

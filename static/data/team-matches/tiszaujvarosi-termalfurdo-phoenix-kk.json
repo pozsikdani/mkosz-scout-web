@@ -1013,12 +1013,29 @@
       "date": "2026-05-09",
       "time": "15:00",
       "home": false,
-      "opponent": "Vasas Akadémia",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "VASAS AKADÉMIA",
+      "our_score": 77,
+      "their_score": 98,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 18,
+          "their": 29
+        },
+        {
+          "our": 20,
+          "their": 27
+        },
+        {
+          "our": 19,
+          "their": 19
+        },
+        {
+          "our": 20,
+          "their": 23
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

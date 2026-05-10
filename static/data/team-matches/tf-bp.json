@@ -968,12 +968,29 @@
       "date": "2026-05-09",
       "time": "17:30",
       "home": true,
-      "opponent": "EBH-Salgótarján",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "EBH-SALGÓTARJÁN",
+      "our_score": 78,
+      "their_score": 91,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 18,
+          "their": 18
+        },
+        {
+          "our": 15,
+          "their": 24
+        },
+        {
+          "our": 30,
+          "their": 23
+        },
+        {
+          "our": 15,
+          "their": 26
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

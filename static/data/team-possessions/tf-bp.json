@@ -1,7 +1,7 @@
 {
   "team": "TF-BP",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 30,
   "matches": [
     {
       "gamecode": "hun2a_123449",
@@ -813,6 +813,34 @@
         "fta": 14,
         "oreb": 8,
         "tov_total": 10
+      }
+    },
+    {
+      "gamecode": "hun2a_plya_134171",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-09",
+      "opponent": "EBH-SALGÓTARJÁN",
+      "home": true,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 91,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 3,
+        "three_m": 9,
+        "dunk_m": 1,
+        "ft": 12,
+        "close_x": 6,
+        "mid_x": 9,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 12,
+        "fga": 70,
+        "fta": 23,
+        "oreb": 15,
+        "tov_total": 12
       }
     }
   ]

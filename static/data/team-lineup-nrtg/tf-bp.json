@@ -1,8 +1,185 @@
 {
   "team": "TF-BP",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 30,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134171",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-09",
+      "opponent": "EBH-SALGÓTARJÁN",
+      "home": true,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 91,
+      "has_pbp": true,
+      "starters": [
+        "Hegedüs Brúnó",
+        "Heimann Gergő",
+        "Inalegwu Marcell Sámuel",
+        "Molnár Marcell József",
+        "Polster Attila"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 19.0,
+          "pf": 29,
+          "pa": 42,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 15.0,
+          "pf": 13,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Molnár Marcell József",
+            "Pilinszki Máté",
+            "Polster Attila"
+          ],
+          "min": 14.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pilinszki Máté",
+            "Polster Attila"
+          ],
+          "min": 13.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 11,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pilinszki Máté"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Polster Attila"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Polster Attila"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Molnár Marcell József"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Molnár Marcell József",
+            "Pilinszki Máté"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pilinszki Máté"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134169",
       "comp_code": "hun2a_plya",
