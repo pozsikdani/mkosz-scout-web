@@ -51,7 +51,7 @@
         "fdpg": 98,
         "mpg": 99,
         "tpg": 84,
-        "fpg": 70,
+        "fpg": 71,
         "fg_pct": 72,
         "three_pct": 90,
         "ft_pct": 79
@@ -96,12 +96,12 @@
         "apg": 98,
         "spg": 96,
         "bpg": 92,
-        "fdpg": 72,
+        "fdpg": 73,
         "mpg": 93,
         "tpg": 94,
         "fpg": 92,
-        "fg_pct": 90,
-        "three_pct": 51,
+        "fg_pct": 89,
+        "three_pct": 52,
         "ft_pct": 42
       }
     },
@@ -140,17 +140,17 @@
         "ppg": 73,
         "rpg": 69,
         "oreb_pg": 41,
-        "dreb_pg": 80,
+        "dreb_pg": 81,
         "apg": 99,
         "spg": 84,
-        "bpg": 63,
-        "fdpg": 91,
+        "bpg": 64,
+        "fdpg": 92,
         "mpg": 91,
         "tpg": 88,
-        "fpg": 85,
+        "fpg": 86,
         "fg_pct": 51,
-        "three_pct": 62,
-        "ft_pct": 78
+        "three_pct": 63,
+        "ft_pct": 77
       }
     },
     {
@@ -189,7 +189,7 @@
         "rpg": 67,
         "oreb_pg": 41,
         "dreb_pg": 74,
-        "apg": 59,
+        "apg": 60,
         "spg": 42,
         "bpg": 79,
         "fdpg": 62,
@@ -229,20 +229,20 @@
       "ft_att": 83,
       "ft_pct": 79.5,
       "percentiles": {
-        "ppg": 98,
+        "ppg": 99,
         "rpg": 77,
         "oreb_pg": 41,
         "dreb_pg": 86,
         "apg": 78,
         "spg": 95,
-        "bpg": 63,
+        "bpg": 64,
         "fdpg": 99,
         "mpg": 82,
         "tpg": 97,
         "fpg": 44,
         "fg_pct": 70,
         "three_pct": 71,
-        "ft_pct": 87
+        "ft_pct": 88
       }
     },
     {
@@ -279,17 +279,17 @@
       "percentiles": {
         "ppg": 47,
         "rpg": 46,
-        "oreb_pg": 59,
+        "oreb_pg": 58,
         "dreb_pg": 41,
-        "apg": 35,
+        "apg": 36,
         "spg": 42,
-        "bpg": 40,
+        "bpg": 39,
         "fdpg": 41,
         "mpg": 57,
         "tpg": 39,
-        "fpg": 66,
+        "fpg": 65,
         "fg_pct": 19,
-        "three_pct": 34,
+        "three_pct": 35,
         "ft_pct": 77
       }
     },
@@ -322,19 +322,19 @@
       "ft_pct": 73.3,
       "percentiles": {
         "ppg": 78,
-        "rpg": 88,
-        "oreb_pg": 59,
+        "rpg": 87,
+        "oreb_pg": 58,
         "dreb_pg": 91,
-        "apg": 71,
+        "apg": 72,
         "spg": 61,
         "bpg": 90,
         "fdpg": 83,
         "mpg": 69,
-        "tpg": 90,
-        "fpg": 40,
+        "tpg": 91,
+        "fpg": 39,
         "fg_pct": 29,
         "three_pct": 31,
-        "ft_pct": 69
+        "ft_pct": 68
       }
     },
     {
@@ -369,20 +369,20 @@
       "position": "2-3",
       "birth_year": 2006,
       "percentiles": {
-        "ppg": 60,
+        "ppg": 61,
         "rpg": 74,
-        "oreb_pg": 81,
+        "oreb_pg": 82,
         "dreb_pg": 70,
         "apg": 43,
         "spg": 61,
-        "bpg": 63,
+        "bpg": 64,
         "fdpg": 57,
         "mpg": 63,
         "tpg": 62,
         "fpg": 75,
         "fg_pct": 88,
         "three_pct": 4,
-        "ft_pct": 60
+        "ft_pct": 58
       }
     },
     {
@@ -418,18 +418,18 @@
       "birth_year": 2003,
       "percentiles": {
         "ppg": 67,
-        "rpg": 42,
+        "rpg": 43,
         "oreb_pg": 41,
-        "dreb_pg": 44,
-        "apg": 40,
+        "dreb_pg": 45,
+        "apg": 39,
         "spg": 50,
-        "bpg": 63,
+        "bpg": 64,
         "fdpg": 41,
         "mpg": 68,
         "tpg": 62,
-        "fpg": 49,
-        "fg_pct": 21,
-        "three_pct": 33,
+        "fpg": 48,
+        "fg_pct": 22,
+        "three_pct": 32,
         "ft_pct": 98
       }
     },
@@ -463,16 +463,16 @@
       "percentiles": {
         "ppg": 39,
         "rpg": 46,
-        "oreb_pg": 30,
-        "dreb_pg": 52,
-        "apg": 32,
+        "oreb_pg": 31,
+        "dreb_pg": 53,
+        "apg": 33,
         "spg": 50,
         "bpg": 86,
-        "fdpg": 43,
+        "fdpg": 44,
         "mpg": 37,
         "tpg": 62,
         "fpg": 34,
-        "three_pct": 47,
+        "three_pct": 48,
         "ft_pct": 16
       }
     },
@@ -509,17 +509,17 @@
       "birth_year": 2007,
       "percentiles": {
         "ppg": 25,
-        "rpg": 20,
+        "rpg": 19,
         "oreb_pg": 24,
-        "dreb_pg": 21,
-        "apg": 32,
-        "spg": 20,
-        "bpg": 40,
+        "dreb_pg": 23,
+        "apg": 33,
+        "spg": 21,
+        "bpg": 39,
         "fdpg": 16,
         "mpg": 20,
-        "tpg": 49,
+        "tpg": 48,
         "fpg": 21,
-        "three_pct": 53
+        "three_pct": 54
       }
     },
     {
@@ -555,17 +555,17 @@
       "birth_year": 2004,
       "percentiles": {
         "ppg": 20,
-        "rpg": 29,
+        "rpg": 28,
         "oreb_pg": 54,
-        "dreb_pg": 21,
-        "apg": 22,
+        "dreb_pg": 23,
+        "apg": 21,
         "spg": 31,
-        "bpg": 63,
+        "bpg": 64,
         "fdpg": 33,
         "mpg": 23,
         "tpg": 43,
         "fpg": 14,
-        "ft_pct": 88
+        "ft_pct": 89
       }
     },
     {
@@ -606,7 +606,7 @@
         "dreb_pg": 13,
         "apg": 11,
         "spg": 12,
-        "bpg": 40,
+        "bpg": 39,
         "fdpg": 9,
         "mpg": 6,
         "tpg": 8,
@@ -651,7 +651,7 @@
         "dreb_pg": 7,
         "apg": 11,
         "spg": 12,
-        "bpg": 40,
+        "bpg": 39,
         "fdpg": 16,
         "mpg": 5,
         "tpg": 14,
@@ -696,7 +696,7 @@
         "dreb_pg": 13,
         "apg": 11,
         "spg": 12,
-        "bpg": 40,
+        "bpg": 39,
         "fdpg": 9,
         "mpg": 2,
         "tpg": 8,
@@ -770,7 +770,7 @@
         "dreb_pg": 7,
         "apg": 11,
         "spg": 12,
-        "bpg": 40,
+        "bpg": 39,
         "fdpg": 9,
         "mpg": 1,
         "tpg": 8,

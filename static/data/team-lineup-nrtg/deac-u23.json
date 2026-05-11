@@ -1,8 +1,237 @@
 {
   "team": "DEAC U23",
   "season": "x2526",
-  "match_count": 28,
+  "match_count": 29,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134509",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-10",
+      "opponent": "Jászberényi KSE",
+      "home": true,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 67,
+      "has_pbp": true,
+      "starters": [
+        "Bankó Zoltán Martin",
+        "Szafkó Márk",
+        "Ságodi Róbert",
+        "Varga Sándor",
+        "Várszegi Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 13.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kedvek László",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 13.0,
+          "pf": 4,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Ságodi Róbert",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szafkó Márk",
+            "Ságodi Róbert",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 8.0,
+          "pf": 21,
+          "pa": 18,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szafkó Márk",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 0,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Szafkó Márk",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Ságodi Róbert",
+            "Varga Sándor"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kedvek László",
+            "Szafkó Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
+            "Ságodi Róbert",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Ságodi Róbert",
+            "Vadai Balázs",
+            "Varga Sándor"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Vadai Balázs",
+            "Varga Sándor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Vadai Balázs",
+            "Varga Sándor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Ságodi Róbert",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134159",
       "comp_code": "hun2a_plya",
