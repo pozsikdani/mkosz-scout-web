@@ -11,40 +11,79 @@
 			.sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''))
 	);
 
-	type Filter =
-		| 'last5'
-		| 'last8'
-		| 'all'
-		| 'alap'
-		| 'rajatszas'
-		| 'home'
-		| 'away'
-		| 'won'
-		| 'lost';
-	let filter = $state<Filter>('all');
+	const selectableGamecodes = $derived(playedWithQuarters.map((m) => m.gamecode));
 
-	const filtered = $derived.by(() => {
-		switch (filter) {
-			case 'last5':
-				return playedWithQuarters.slice(0, 5);
-			case 'last8':
-				return playedWithQuarters.slice(0, 8);
-			case 'alap':
-				return playedWithQuarters.filter((m) => m.phase === 'alapszakasz');
-			case 'rajatszas':
-				return playedWithQuarters.filter((m) => m.phase !== 'alapszakasz');
-			case 'home':
-				return playedWithQuarters.filter((m) => m.home);
-			case 'away':
-				return playedWithQuarters.filter((m) => !m.home);
-			case 'won':
-				return playedWithQuarters.filter((m) => m.result === 'W');
-			case 'lost':
-				return playedWithQuarters.filter((m) => m.result === 'L');
-			default:
-				return playedWithQuarters;
+	let selectedSet = $state<Set<string>>(new Set());
+	let selectorOpen = $state(false);
+	let initialized = $state(false);
+
+	// Initialize selection to "all" once on first data load
+	$effect(() => {
+		if (playedWithQuarters.length > 0 && !initialized) {
+			selectedSet = new Set(selectableGamecodes);
+			initialized = true;
 		}
 	});
+
+	const filtered = $derived(
+		playedWithQuarters.filter((m) => selectedSet.has(m.gamecode))
+	);
+	const selectedCount = $derived(selectedSet.size);
+
+	function toggleMatch(m: MatchRow) {
+		const next = new Set(selectedSet);
+		if (next.has(m.gamecode)) next.delete(m.gamecode);
+		else next.add(m.gamecode);
+		selectedSet = next;
+	}
+	function selectAll() {
+		selectedSet = new Set(selectableGamecodes);
+	}
+	function selectNone() {
+		selectedSet = new Set();
+	}
+	function selectLastN(n: number) {
+		selectedSet = new Set(playedWithQuarters.slice(0, n).map((m) => m.gamecode));
+	}
+	function selectAlap() {
+		selectedSet = new Set(
+			playedWithQuarters.filter((m) => m.phase === 'alapszakasz').map((m) => m.gamecode)
+		);
+	}
+	function selectRajatszas() {
+		selectedSet = new Set(
+			playedWithQuarters.filter((m) => m.phase !== 'alapszakasz').map((m) => m.gamecode)
+		);
+	}
+	function selectHome() {
+		selectedSet = new Set(playedWithQuarters.filter((m) => m.home).map((m) => m.gamecode));
+	}
+	function selectAway() {
+		selectedSet = new Set(playedWithQuarters.filter((m) => !m.home).map((m) => m.gamecode));
+	}
+	function selectWon() {
+		selectedSet = new Set(
+			playedWithQuarters.filter((m) => m.result === 'W').map((m) => m.gamecode)
+		);
+	}
+	function selectLost() {
+		selectedSet = new Set(
+			playedWithQuarters.filter((m) => m.result === 'L').map((m) => m.gamecode)
+		);
+	}
+
+	const counts = $derived({
+		last5: Math.min(5, playedWithQuarters.length),
+		last8: Math.min(8, playedWithQuarters.length),
+		all: playedWithQuarters.length,
+		alap: playedWithQuarters.filter((m) => m.phase === 'alapszakasz').length,
+		rajatszas: playedWithQuarters.filter((m) => m.phase !== 'alapszakasz').length,
+		home: playedWithQuarters.filter((m) => m.home).length,
+		away: playedWithQuarters.filter((m) => !m.home).length,
+		won: playedWithQuarters.filter((m) => m.result === 'W').length,
+		lost: playedWithQuarters.filter((m) => m.result === 'L').length
+	});
+	const hasPlayoff = $derived(counts.rajatszas > 0);
 
 	type QStats = {
 		quarter: number;
@@ -85,7 +124,6 @@
 		return Array.from(map.values()).sort((a, b) => a.quarter - b.quarter);
 	});
 
-	// Margin sorting only over regulation Q1-Q4 (OT skewed by small samples)
 	const regularQuarters = $derived(quarterStats.filter((q) => q.quarter <= 4));
 	const bestMargin = $derived(
 		regularQuarters.reduce(
@@ -109,42 +147,31 @@
 	function avg(n: number, gp: number): number {
 		return gp > 0 ? n / gp : 0;
 	}
-
 	function fmtSigned(n: number): string {
 		if (n > 0) return '+' + n.toFixed(1);
 		return n.toFixed(1);
 	}
-
 	function fmtDate(iso: string | null): string {
 		if (!iso) return '—';
 		const [, m, d] = iso.split('-');
 		return `${m}.${d}`;
 	}
-
-	const filterCounts = $derived({
-		last5: Math.min(5, playedWithQuarters.length),
-		last8: Math.min(8, playedWithQuarters.length),
-		all: playedWithQuarters.length,
-		alap: playedWithQuarters.filter((m) => m.phase === 'alapszakasz').length,
-		rajatszas: playedWithQuarters.filter((m) => m.phase !== 'alapszakasz').length,
-		home: playedWithQuarters.filter((m) => m.home).length,
-		away: playedWithQuarters.filter((m) => !m.home).length,
-		won: playedWithQuarters.filter((m) => m.result === 'W').length,
-		lost: playedWithQuarters.filter((m) => m.result === 'L').length
-	});
-
-	type FilterOpt = { val: Filter; label: string; count: number; cls?: string };
-	const filterOpts = $derived<FilterOpt[]>([
-		{ val: 'last5', label: 'Utolsó 5', count: filterCounts.last5 },
-		{ val: 'last8', label: 'Utolsó 8', count: filterCounts.last8 },
-		{ val: 'all', label: 'Teljes szezon', count: filterCounts.all },
-		{ val: 'alap', label: 'Alapszakasz', count: filterCounts.alap },
-		{ val: 'rajatszas', label: 'Rájátszás', count: filterCounts.rajatszas },
-		{ val: 'home', label: 'Hazai', count: filterCounts.home },
-		{ val: 'away', label: 'Vendég', count: filterCounts.away },
-		{ val: 'won', label: 'Nyert', count: filterCounts.won, cls: 'text-positive' },
-		{ val: 'lost', label: 'Vesztett', count: filterCounts.lost, cls: 'text-negative' }
-	]);
+	function fmtDateLong(iso: string | null): string {
+		if (!iso) return '—';
+		const [y, m, d] = iso.split('-');
+		if (!y || !m || !d) return iso;
+		return `${y}.${m}.${d}`;
+	}
+	function phaseLabel(phase: MatchRow['phase']): string {
+		if (phase === 'alapszakasz') return 'Alapszakasz';
+		if (phase === 'rajatszas_felso') return 'Felső házi';
+		if (phase === 'rajatszas_also') return 'Alsó házi';
+		return phase;
+	}
+	function phaseChipClass(phase: MatchRow['phase']): string {
+		if (phase === 'alapszakasz') return 'bg-border text-muted';
+		return 'bg-accent/20 text-accent';
+	}
 
 	function marginCellColor(margin: number): string {
 		const intensity = Math.min(Math.abs(margin) / 6, 1);
@@ -155,36 +182,172 @@
 	}
 </script>
 
-<div class="mb-4">
-	<h2 class="text-xl font-bold tracking-tight">Negyed-elemzés</h2>
-	<p class="mt-1 text-xs text-muted">
-		Negyedenkénti dobott / kapott / margin · {playedWithQuarters.length} meccs negyed-bontással
-	</p>
+<div class="mb-4 flex flex-wrap items-center justify-between gap-3">
+	<div>
+		<h2 class="text-xl font-bold tracking-tight">Negyed-elemzés</h2>
+		<p class="mt-1 text-xs text-muted">
+			Negyedenkénti dobott / kapott / margin · {playedWithQuarters.length} meccs negyed-bontással
+		</p>
+	</div>
+	<button
+		type="button"
+		onclick={() => (selectorOpen = !selectorOpen)}
+		class="inline-flex items-center gap-2 rounded border border-border bg-card px-3 py-2 text-sm font-semibold transition hover:bg-card-hover"
+	>
+		<span>
+			{selectedCount}
+			<span class="text-muted">/ {playedWithQuarters.length} meccs</span>
+		</span>
+		<span aria-hidden="true">{selectorOpen ? '▲' : '▼'}</span>
+	</button>
 </div>
 
-<!-- Quick filters -->
-<div class="mb-4 flex flex-wrap items-center gap-2 text-xs">
-	{#each filterOpts as o (o.val)}
-		<button
-			type="button"
-			onclick={() => (filter = o.val)}
-			class="rounded border px-2.5 py-1 font-semibold transition {o.cls ?? ''}"
-			class:bg-accent={filter === o.val}
-			class:text-fg={filter === o.val}
-			class:border-accent={filter === o.val}
-			class:border-border={filter !== o.val}
-			class:bg-card={filter !== o.val}
-			class:hover:bg-card-hover={filter !== o.val}
-			disabled={o.count === 0}
-		>
-			{o.label} {o.count}
-		</button>
-	{/each}
-</div>
+{#if selectorOpen}
+	<div class="mb-4 rounded-lg border border-border bg-card">
+		<div class="flex flex-wrap gap-2 border-b border-border p-3 text-xs">
+			<button
+				type="button"
+				onclick={selectAll}
+				class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+			>
+				Mind
+			</button>
+			<button
+				type="button"
+				onclick={selectNone}
+				class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+			>
+				Egyik sem
+			</button>
+			<span class="text-muted">|</span>
+			<button
+				type="button"
+				onclick={() => selectLastN(5)}
+				class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+				disabled={counts.last5 === 0}
+			>
+				Utolsó 5 <span class="opacity-60">{counts.last5}</span>
+			</button>
+			<button
+				type="button"
+				onclick={() => selectLastN(8)}
+				class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+				disabled={counts.last8 === 0}
+			>
+				Utolsó 8 <span class="opacity-60">{counts.last8}</span>
+			</button>
+			<span class="text-muted">|</span>
+			<button
+				type="button"
+				onclick={selectAlap}
+				class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+				disabled={counts.alap === 0}
+			>
+				Csak alapszakasz <span class="opacity-60">{counts.alap}</span>
+			</button>
+			{#if hasPlayoff}
+				<button
+					type="button"
+					onclick={selectRajatszas}
+					class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+				>
+					Csak rájátszás <span class="opacity-60">{counts.rajatszas}</span>
+				</button>
+			{/if}
+			<span class="text-muted">|</span>
+			<button
+				type="button"
+				onclick={selectHome}
+				class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+				disabled={counts.home === 0}
+			>
+				Csak hazai <span class="opacity-60">{counts.home}</span>
+			</button>
+			<button
+				type="button"
+				onclick={selectAway}
+				class="rounded border border-border px-2.5 py-1 font-semibold hover:bg-card-hover"
+				disabled={counts.away === 0}
+			>
+				Csak vendég <span class="opacity-60">{counts.away}</span>
+			</button>
+			<span class="text-muted">|</span>
+			<button
+				type="button"
+				onclick={selectWon}
+				class="rounded border border-border px-2.5 py-1 font-semibold text-positive hover:bg-card-hover"
+				disabled={counts.won === 0}
+			>
+				Csak nyert <span class="opacity-60">{counts.won}</span>
+			</button>
+			<button
+				type="button"
+				onclick={selectLost}
+				class="rounded border border-border px-2.5 py-1 font-semibold text-negative hover:bg-card-hover"
+				disabled={counts.lost === 0}
+			>
+				Csak vesztett <span class="opacity-60">{counts.lost}</span>
+			</button>
+		</div>
+		<ul class="max-h-96 divide-y divide-border overflow-y-auto">
+			{#each playedWithQuarters as m (m.gamecode)}
+				{@const checked = selectedSet.has(m.gamecode)}
+				<li>
+					<label
+						class="flex flex-wrap items-center gap-3 px-4 py-2 text-sm cursor-pointer hover:bg-card-hover"
+					>
+						<input
+							type="checkbox"
+							{checked}
+							onchange={() => toggleMatch(m)}
+							class="h-4 w-4 accent-accent"
+						/>
+						<span class="w-20 font-mono text-xs text-muted">{fmtDateLong(m.date)}</span>
+						<span
+							class="rounded px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider {phaseChipClass(
+								m.phase
+							)}"
+						>
+							{phaseLabel(m.phase)}
+						</span>
+						<span
+							class="w-5 text-center font-mono text-xs"
+							class:text-muted={m.home}
+							class:text-accent={!m.home}
+						>
+							{m.home ? 'H' : '@'}
+						</span>
+						<span class="flex-1 truncate">{m.opponent}</span>
+						{#if m.result}
+							<span class="font-mono text-xs">
+								<span
+									class:text-positive={m.result === 'W'}
+									class:text-negative={m.result === 'L'}
+								>
+									{m.our_score}
+								</span>
+								<span class="text-muted">–</span>
+								<span class="text-muted">{m.their_score}</span>
+							</span>
+							<span
+								class="w-5 rounded px-1 py-0.5 text-center font-mono text-[10px] font-bold"
+								class:bg-positive={m.result === 'W'}
+								class:bg-negative={m.result === 'L'}
+								class:text-bg={m.result !== null}
+							>
+								{m.result}
+							</span>
+						{/if}
+					</label>
+				</li>
+			{/each}
+		</ul>
+	</div>
+{/if}
 
 {#if filtered.length === 0}
 	<div class="rounded-lg border border-border bg-card p-6 text-center text-sm text-muted">
-		Nincs meccs a kiválasztott szűrővel.
+		Nincs kiválasztott meccs. Nyisd meg a fenti meccs-választót és válassz legalább egyet.
 	</div>
 {:else}
 	<!-- Best / Worst quarter highlight -->
@@ -338,6 +501,7 @@
 {/if}
 
 <p class="mt-4 text-xs text-muted">
-	Forrás: scoresheet negyedenkénti pontszámok. „Negyed-mérleg" = nyert/vesztett negyedek. Best/Worst
-	csak Q1–Q4 alapján (OT a kis minta miatt nincs rangsorolva).
+	Forrás: scoresheet negyedenkénti pontszámok. „Negyed-mérleg" = nyert/vesztett negyedek.
+	Best/Worst csak Q1–Q4 alapján (OT a kis minta miatt nincs rangsorolva). A meccs-választóban
+	gyors-szűrőkkel beállíthatsz egy halmazt, vagy kattintással bármelyik meccset egyenként.
 </p>
