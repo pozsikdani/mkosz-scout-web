@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2526",
-  "count": 34,
+  "count": 39,
   "matches": [
     {
       "gamecode": "hun2a_123451",
@@ -1123,6 +1123,86 @@
         }
       ],
       "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134675",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "3. forduló",
+      "date": "2026-05-13",
+      "time": "18:45",
+      "home": false,
+      "opponent": "Phoenix-MT Fót",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134677",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "3. forduló",
+      "date": "2026-05-17",
+      "time": "18:00",
+      "home": true,
+      "opponent": "Phoenix-MT Fót",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134679",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "3. forduló",
+      "date": "2026-05-20",
+      "time": "18:45",
+      "home": false,
+      "opponent": "Phoenix-MT Fót",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134681",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "3. forduló",
+      "date": "2026-05-23",
+      "time": "18:00",
+      "home": true,
+      "opponent": "Phoenix-MT Fót",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134683",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "3. forduló",
+      "date": "2026-05-26",
+      "time": "18:45",
+      "home": false,
+      "opponent": "Phoenix-MT Fót",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
       "has_pbp": true
     }
   ]

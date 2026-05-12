@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2526",
-  "count": 36,
+  "count": 39,
   "matches": [
     {
       "gamecode": "hun2a_123455",
@@ -1185,6 +1185,54 @@
         }
       ],
       "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134685",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "3. forduló",
+      "date": "2026-05-16",
+      "time": "18:30",
+      "home": false,
+      "opponent": "PVSK-Veolia",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134687",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "3. forduló",
+      "date": "2026-05-19",
+      "time": "18:00",
+      "home": true,
+      "opponent": "PVSK-Veolia",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_ply_134689",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "round": "3. forduló",
+      "date": "2026-05-21",
+      "time": "15:30",
+      "home": false,
+      "opponent": "PVSK-Veolia",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
       "has_pbp": true
     }
   ]
