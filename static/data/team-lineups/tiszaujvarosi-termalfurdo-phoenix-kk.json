@@ -1,8 +1,145 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134505",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-13",
+      "opponent": "VASAS AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 60,
+      "their_score": 106,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Kozák Márton",
+          "jersey": 18,
+          "minutes": 22,
+          "points": 2,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-kozak-marton.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Lakatos Máté",
+              "jersey": 9,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lakatos-mate.jpg"
+            },
+            {
+              "name": "Mester Márk",
+              "jersey": 12,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lakatos Máté",
+          "jersey": 9,
+          "minutes": 19,
+          "points": 6,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lakatos-mate.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Lucey Ciarán József",
+              "jersey": 44,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg"
+            },
+            {
+              "name": "Kozák Márton",
+              "jersey": 18,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-kozak-marton.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mayer Ákos",
+          "jersey": 20,
+          "minutes": 24,
+          "points": 12,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mayer-akos.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kozák Bertalan",
+              "jersey": 0,
+              "minutes": 16,
+              "count": 3,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-kozak-bertalan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Ágoston",
+          "jersey": 4,
+          "minutes": 18,
+          "points": 7,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-meszaros-agoston.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Bán Tibor",
+              "jersey": 8,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ban-tibor.jpg"
+            },
+            {
+              "name": "Lucey Ciarán József",
+              "jersey": 44,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schmera Gergely",
+          "jersey": 15,
+          "minutes": 15,
+          "points": 3,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-schmera-gergely.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Gerőcs Roland Bálint",
+              "jersey": 13,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg"
+            },
+            {
+              "name": "Bán Tibor",
+              "jersey": 8,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ban-tibor.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134503",
       "comp_code": "hun2a_plya",

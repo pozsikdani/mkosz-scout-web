@@ -1,8 +1,94 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2526",
-  "match_count": 34,
+  "match_count": 35,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134675",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-13",
+      "opponent": "Phoenix-MT Fót",
+      "home": false,
+      "result": "W",
+      "our_score": 91,
+      "their_score": 83,
+      "has_pbp": true,
+      "starters": [
+        "Armaghani Ármin",
+        "Arnóczi Áron",
+        "Nagy Benedek Ágost",
+        "Nagy Botond Ágoston",
+        "Reiber Dean Thomas"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Galambos Árpád",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 19.0,
+          "pf": 38,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 15.0,
+          "pf": 37,
+          "pa": 30,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Arnóczi Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 12.0,
+          "pf": 24,
+          "pa": 24,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Galambos Árpád",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Galambos Árpád",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 6.0,
+          "pf": 43,
+          "pa": 9,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134135",
       "comp_code": "hun2a_ply",

@@ -1,7 +1,7 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2526",
-  "match_count": 33,
+  "match_count": 34,
   "matches": [
     {
       "gamecode": "hun2a_123453",
@@ -925,6 +925,34 @@
         "fta": 39,
         "oreb": 16,
         "tov_total": 18
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134693",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-13",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA K",
+      "home": true,
+      "result": "W",
+      "our_score": 121,
+      "their_score": 102,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 20,
+        "mid_m": 5,
+        "three_m": 16,
+        "dunk_m": 0,
+        "ft": 14,
+        "close_x": 7,
+        "mid_x": 3,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 80,
+        "fta": 32,
+        "oreb": 20,
+        "tov_total": 13
       }
     }
   ]

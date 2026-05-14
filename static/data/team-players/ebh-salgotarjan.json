@@ -51,8 +51,8 @@
         "fdpg": 98,
         "mpg": 99,
         "tpg": 84,
-        "fpg": 71,
-        "fg_pct": 72,
+        "fpg": 70,
+        "fg_pct": 73,
         "three_pct": 90,
         "ft_pct": 79
       }
@@ -101,8 +101,8 @@
         "tpg": 94,
         "fpg": 92,
         "fg_pct": 89,
-        "three_pct": 52,
-        "ft_pct": 42
+        "three_pct": 51,
+        "ft_pct": 41
       }
     },
     {
@@ -139,18 +139,18 @@
       "percentiles": {
         "ppg": 73,
         "rpg": 69,
-        "oreb_pg": 41,
+        "oreb_pg": 40,
         "dreb_pg": 81,
         "apg": 99,
         "spg": 84,
         "bpg": 64,
         "fdpg": 92,
-        "mpg": 91,
-        "tpg": 88,
+        "mpg": 92,
+        "tpg": 89,
         "fpg": 86,
         "fg_pct": 51,
-        "three_pct": 63,
-        "ft_pct": 77
+        "three_pct": 64,
+        "ft_pct": 78
       }
     },
     {
@@ -187,17 +187,17 @@
       "percentiles": {
         "ppg": 70,
         "rpg": 67,
-        "oreb_pg": 41,
+        "oreb_pg": 40,
         "dreb_pg": 74,
         "apg": 60,
-        "spg": 42,
+        "spg": 43,
         "bpg": 79,
         "fdpg": 62,
         "mpg": 73,
         "tpg": 62,
         "fpg": 53,
-        "fg_pct": 58,
-        "three_pct": 17,
+        "fg_pct": 57,
+        "three_pct": 16,
         "ft_pct": 72
       }
     },
@@ -229,18 +229,18 @@
       "ft_att": 83,
       "ft_pct": 79.5,
       "percentiles": {
-        "ppg": 99,
-        "rpg": 77,
-        "oreb_pg": 41,
+        "ppg": 98,
+        "rpg": 76,
+        "oreb_pg": 40,
         "dreb_pg": 86,
         "apg": 78,
         "spg": 95,
         "bpg": 64,
-        "fdpg": 99,
+        "fdpg": 100,
         "mpg": 82,
         "tpg": 97,
         "fpg": 44,
-        "fg_pct": 70,
+        "fg_pct": 69,
         "three_pct": 71,
         "ft_pct": 88
       }
@@ -282,14 +282,14 @@
         "oreb_pg": 58,
         "dreb_pg": 41,
         "apg": 36,
-        "spg": 42,
+        "spg": 43,
         "bpg": 39,
         "fdpg": 41,
-        "mpg": 57,
+        "mpg": 56,
         "tpg": 39,
         "fpg": 65,
-        "fg_pct": 19,
-        "three_pct": 35,
+        "fg_pct": 18,
+        "three_pct": 34,
         "ft_pct": 77
       }
     },
@@ -334,7 +334,7 @@
         "fpg": 39,
         "fg_pct": 29,
         "three_pct": 31,
-        "ft_pct": 68
+        "ft_pct": 69
       }
     },
     {
@@ -370,19 +370,19 @@
       "birth_year": 2006,
       "percentiles": {
         "ppg": 61,
-        "rpg": 74,
+        "rpg": 75,
         "oreb_pg": 82,
         "dreb_pg": 70,
         "apg": 43,
         "spg": 61,
         "bpg": 64,
-        "fdpg": 57,
+        "fdpg": 56,
         "mpg": 63,
         "tpg": 62,
         "fpg": 75,
         "fg_pct": 88,
         "three_pct": 4,
-        "ft_pct": 58
+        "ft_pct": 59
       }
     },
     {
@@ -418,9 +418,9 @@
       "birth_year": 2003,
       "percentiles": {
         "ppg": 67,
-        "rpg": 43,
-        "oreb_pg": 41,
-        "dreb_pg": 45,
+        "rpg": 42,
+        "oreb_pg": 40,
+        "dreb_pg": 44,
         "apg": 39,
         "spg": 50,
         "bpg": 64,
@@ -461,17 +461,17 @@
       "ft_att": 18,
       "ft_pct": 55.6,
       "percentiles": {
-        "ppg": 39,
+        "ppg": 38,
         "rpg": 46,
         "oreb_pg": 31,
         "dreb_pg": 53,
-        "apg": 33,
+        "apg": 32,
         "spg": 50,
-        "bpg": 86,
-        "fdpg": 44,
+        "bpg": 87,
+        "fdpg": 43,
         "mpg": 37,
         "tpg": 62,
-        "fpg": 34,
+        "fpg": 33,
         "three_pct": 48,
         "ft_pct": 16
       }
@@ -512,12 +512,12 @@
         "rpg": 19,
         "oreb_pg": 24,
         "dreb_pg": 23,
-        "apg": 33,
+        "apg": 32,
         "spg": 21,
         "bpg": 39,
         "fdpg": 16,
         "mpg": 20,
-        "tpg": 48,
+        "tpg": 49,
         "fpg": 21,
         "three_pct": 54
       }
@@ -559,7 +559,7 @@
         "oreb_pg": 54,
         "dreb_pg": 23,
         "apg": 21,
-        "spg": 31,
+        "spg": 30,
         "bpg": 64,
         "fdpg": 33,
         "mpg": 23,
@@ -654,7 +654,7 @@
         "bpg": 39,
         "fdpg": 16,
         "mpg": 5,
-        "tpg": 14,
+        "tpg": 15,
         "fpg": 10
       }
     },

@@ -1125,10 +1125,27 @@
       "time": "18:45",
       "home": true,
       "opponent": "BKG PRIMA Akadémia",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 83,
+      "their_score": 91,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 25,
+          "their": 19
+        },
+        {
+          "our": 16,
+          "their": 25
+        },
+        {
+          "our": 24,
+          "their": 25
+        },
+        {
+          "our": 18,
+          "their": 22
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

@@ -1,7 +1,7 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
     {
       "gamecode": "hun2a_123459",
@@ -869,6 +869,34 @@
         "fta": 6,
         "oreb": 17,
         "tov_total": 19
+      }
+    },
+    {
+      "gamecode": "hun2a_plya_134505",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-13",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "W",
+      "our_score": 106,
+      "their_score": 60,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 27,
+        "mid_m": 5,
+        "three_m": 7,
+        "dunk_m": 2,
+        "ft": 14,
+        "close_x": 4,
+        "mid_x": 3,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 5,
+        "fga": 72,
+        "fta": 20,
+        "oreb": 11,
+        "tov_total": 5
       }
     }
   ]

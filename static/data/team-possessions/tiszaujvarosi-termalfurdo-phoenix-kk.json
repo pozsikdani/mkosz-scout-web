@@ -1,7 +1,7 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
     {
       "gamecode": "hun2a_123447",
@@ -869,6 +869,34 @@
         "fta": 15,
         "oreb": 7,
         "tov_total": 15
+      }
+    },
+    {
+      "gamecode": "hun2a_plya_134505",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-13",
+      "opponent": "VASAS AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 60,
+      "their_score": 106,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 8,
+        "mid_m": 3,
+        "three_m": 9,
+        "dunk_m": 1,
+        "ft": 5,
+        "close_x": 9,
+        "mid_x": 10,
+        "three_x": 20,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 68,
+        "fta": 9,
+        "oreb": 8,
+        "tov_total": 11
       }
     }
   ]

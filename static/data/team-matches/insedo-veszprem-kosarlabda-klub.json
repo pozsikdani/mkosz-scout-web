@@ -1042,12 +1042,29 @@
       "date": "2026-05-13",
       "time": "18:00",
       "home": false,
-      "opponent": "Újbuda MAFC",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "ÚJBUDA MAFC",
+      "our_score": 102,
+      "their_score": 121,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 23,
+          "their": 23
+        },
+        {
+          "our": 29,
+          "their": 31
+        },
+        {
+          "our": 20,
+          "their": 35
+        },
+        {
+          "our": 30,
+          "their": 32
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

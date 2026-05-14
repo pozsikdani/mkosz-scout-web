@@ -1,8 +1,152 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2526",
-  "match_count": 31,
+  "match_count": 32,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134505",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-13",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "W",
+      "our_score": 106,
+      "their_score": 60,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Farkas Attila",
+          "jersey": 9,
+          "minutes": 27,
+          "points": 12,
+          "reb": 4,
+          "ast": 7,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Fekete Viktor Norbert",
+              "jersey": 7,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
+            },
+            {
+              "name": "Zöldi Péter András",
+              "jersey": 2,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Krasovec Ádám",
+          "jersey": 14,
+          "minutes": 19,
+          "points": 17,
+          "reb": 3,
+          "ast": 5,
+          "photo_filename": "vasas-akademia-krasovec-adam.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Pleesz Ádám",
+              "jersey": 20,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Olasz Ádám Zsolt",
+          "jersey": 34,
+          "minutes": 19,
+          "points": 18,
+          "reb": 7,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Andrássy Géza",
+              "jersey": 15,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "vasas-akademia-andrassy-geza.jpg"
+            },
+            {
+              "name": "Erdős Artúr",
+              "jersey": 19,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "vasas-akademia-erdos-artur.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Takács Dániel",
+          "jersey": 11,
+          "minutes": 26,
+          "points": 6,
+          "reb": 7,
+          "ast": 7,
+          "photo_filename": "vasas-akademia-takacs-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zöldi Péter András",
+              "jersey": 2,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
+            },
+            {
+              "name": "Fekete Viktor Norbert",
+              "jersey": 7,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "vasas-akademia-fekete-viktor-norbert.jpg"
+            },
+            {
+              "name": "Karosi Gergely",
+              "jersey": 25,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "vasas-akademia-karosi-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zöldi Péter András",
+          "jersey": 2,
+          "minutes": 27,
+          "points": 3,
+          "reb": 5,
+          "ast": 4,
+          "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Halasy Örs",
+              "jersey": 23,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": null
+            },
+            {
+              "name": "Olasz Ádám Zsolt",
+              "jersey": 34,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "vasas-akademia-olasz-adam-zsolt.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134503",
       "comp_code": "hun2a_plya",
