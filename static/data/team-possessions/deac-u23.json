@@ -1,7 +1,7 @@
 {
   "team": "DEAC U23",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 30,
   "matches": [
     {
       "gamecode": "hun2a_123457",
@@ -813,6 +813,34 @@
         "fta": 14,
         "oreb": 13,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_plya_134511",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-14",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 103,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 0,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 8,
+        "close_x": 16,
+        "mid_x": 7,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 67,
+        "fta": 17,
+        "oreb": 10,
+        "tov_total": 14
       }
     }
   ]

@@ -1,8 +1,172 @@
 {
   "team": "DEAC U23",
   "season": "x2526",
-  "match_count": 29,
+  "match_count": 30,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134511",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-14",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 103,
+      "has_pbp": true,
+      "starters": [
+        "Orbán Imre",
+        "Szafkó Márk",
+        "Szentkuti Ákos",
+        "Székely Bence",
+        "Vadai Balázs"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 25.0,
+          "pf": 31,
+          "pa": 40,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Orvos Ádám",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Vadai Balázs"
+          ],
+          "min": 14.0,
+          "pf": 10,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Orvos Ádám",
+            "Szentkuti Ákos",
+            "Székely Bence"
+          ],
+          "min": 13.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orvos Ádám",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Székely Bence"
+          ],
+          "min": 6.0,
+          "pf": 4,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Vadai Balázs"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Orvos Ádám",
+            "Szentkuti Ákos",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orvos Ádám",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Vadai Balázs"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Orvos Ádám",
+            "Szafkó Márk",
+            "Vadai Balázs"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Székely Bence"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orvos Ádám",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 0.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134509",
       "comp_code": "hun2a_plya",
