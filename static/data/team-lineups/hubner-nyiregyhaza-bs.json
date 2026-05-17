@@ -1,8 +1,137 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2526",
-  "match_count": 33,
+  "match_count": 34,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134695",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-16",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": false,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 111,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bazsó Brúnó Tamás",
+          "jersey": 11,
+          "minutes": 10,
+          "points": 3,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "hubner-nyiregyhaza-bs-bazso-bruno-tamas.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Orosi Bálint Gábor",
+              "jersey": 7,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg"
+            },
+            {
+              "name": "Hibján Máté",
+              "jersey": 6,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Illés Máté Csongor",
+          "jersey": 17,
+          "minutes": 36,
+          "points": 19,
+          "reb": 7,
+          "ast": 7,
+          "photo_filename": "hubner-nyiregyhaza-bs-illes-mate-csongor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Hibján Máté",
+              "jersey": 6,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg"
+            },
+            {
+              "name": "Verebélyi Áron",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Magyari Kristóf",
+          "jersey": 14,
+          "minutes": 35,
+          "points": 13,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "hubner-nyiregyhaza-bs-magyari-kristof.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Varga Ádám Dániel",
+              "jersey": 88,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-varga-adam-daniel.jpg"
+            },
+            {
+              "name": "Hibján Máté",
+              "jersey": 6,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Verebélyi Áron",
+          "jersey": 2,
+          "minutes": 16,
+          "points": 5,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg",
+          "position": "1-2-3",
+          "subs": [
+            {
+              "name": "Orosi Bálint Gábor",
+              "jersey": 7,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg"
+            },
+            {
+              "name": "Varga Ádám Dániel",
+              "jersey": 88,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-varga-adam-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Végső Bálint",
+          "jersey": 9,
+          "minutes": 40,
+          "points": 14,
+          "reb": 5,
+          "ast": 5,
+          "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg",
+          "position": "1-2",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134143",
       "comp_code": "hun2a_ply",

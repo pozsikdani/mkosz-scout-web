@@ -1,8 +1,367 @@
 {
   "team": "PVSK-Veolia",
   "season": "x2526",
-  "match_count": 35,
+  "match_count": 36,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134685",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-16",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "W",
+      "our_score": 108,
+      "their_score": 81,
+      "has_pbp": true,
+      "starters": [
+        "Dordevic Nemanja",
+        "Géringer Gergő",
+        "Kertész Dávid",
+        "Molnár Mátyás",
+        "Plézer Gábor"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Géringer Gergő",
+            "Molnár Mátyás",
+            "Werner Viktor"
+          ],
+          "min": 12.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 10.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Rácz Gábor"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dordevic Nemanja",
+            "Géringer Gergő",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 8.0,
+          "pf": 23,
+          "pa": 17,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Géringer Gergő",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Géringer Gergő",
+            "Kertész Dávid",
+            "Plézer Gábor"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Géringer Gergő",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Géringer Gergő",
+            "Molnár Mátyás",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Géringer Gergő",
+            "Molnár Mátyás",
+            "Plézer Gábor",
+            "Rácz Gábor",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor",
+            "Rácz Gábor",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor"
+          ],
+          "min": 2.0,
+          "pf": 11,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Aradi Atilla",
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Géringer Gergő",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Géringer Gergő",
+            "Kertész Dávid",
+            "Plézer Gábor"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Géringer Gergő",
+            "Kertész Dávid",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Géringer Gergő",
+            "Molnár Mátyás",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Molnár Mátyás",
+            "Rácz Gábor",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Molnár Mátyás",
+            "Rácz Gábor"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Aradi Atilla",
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Rácz Gábor",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Plézer Gábor",
+            "Werner Viktor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Géringer Gergő",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Werner Viktor"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Géringer Gergő",
+            "Kertész Dávid",
+            "Werner Viktor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Aradi Atilla",
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Juhász Dániel",
+            "Rácz Gábor"
+          ],
+          "min": 0.0,
+          "pf": 7,
+          "pa": 10,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134123",
       "comp_code": "hun2a_ply",

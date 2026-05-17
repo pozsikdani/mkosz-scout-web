@@ -1,8 +1,237 @@
 {
   "team": "Óbudai Kaszások",
   "season": "x2526",
-  "match_count": 30,
+  "match_count": 31,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134695",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-16",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": true,
+      "result": "W",
+      "our_score": 111,
+      "their_score": 78,
+      "has_pbp": true,
+      "starters": [
+        "Balázsi Bence Soma",
+        "Balázsi Ákos Milán",
+        "Boros Márk",
+        "Homoki Donát László",
+        "Swanson Kevin Wade"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Boros Márk",
+            "Gazdag Áron Bendegúz",
+            "Horváth Botond",
+            "Lakosa Ákos",
+            "Szabó Dániel"
+          ],
+          "min": 12.0,
+          "pf": 9,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Gazdag Áron Bendegúz",
+            "Hajdu Gergely",
+            "Homoki Donát László",
+            "Varsányi Áron"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Bence Soma",
+            "Balázsi Ákos Milán",
+            "Homoki Donát László",
+            "Swanson Kevin Wade",
+            "Varsányi Áron"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Bence Soma",
+            "Balázsi Ákos Milán",
+            "Boros Márk",
+            "Homoki Donát László",
+            "Swanson Kevin Wade"
+          ],
+          "min": 9.0,
+          "pf": 29,
+          "pa": 13,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Boros Márk",
+            "Homoki Donát László",
+            "Horváth Botond",
+            "Swanson Kevin Wade"
+          ],
+          "min": 7.0,
+          "pf": 10,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Gazdag Áron Bendegúz",
+            "Homoki Donát László",
+            "Lakosa Ákos",
+            "Varsányi Áron"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Bence Soma",
+            "Boros Márk",
+            "Gazdag Áron Bendegúz",
+            "Homoki Donát László",
+            "Varsányi Áron"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Gazdag Áron Bendegúz",
+            "Horváth Botond",
+            "Lakosa Ákos",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Boros Márk",
+            "Gazdag Áron Bendegúz",
+            "Swanson Kevin Wade",
+            "Varsányi Áron"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Gazdag Áron Bendegúz",
+            "Horváth Botond",
+            "Lakosa Ákos",
+            "Szabó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Horváth Botond",
+            "Lakosa Ákos",
+            "Swanson Kevin Wade",
+            "Szabó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Homoki Donát László",
+            "Horváth Botond",
+            "Lakosa Ákos",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 17,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Bence Soma",
+            "Balázsi Ákos Milán",
+            "Homoki Donát László",
+            "Lakosa Ákos",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Bence Soma",
+            "Balázsi Ákos Milán",
+            "Lakosa Ákos",
+            "Swanson Kevin Wade",
+            "Varsányi Áron"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Gazdag Áron Bendegúz",
+            "Homoki Donát László",
+            "Horváth Botond",
+            "Lakosa Ákos"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Homoki Donát László",
+            "Horváth Botond",
+            "Swanson Kevin Wade",
+            "Szabó Dániel"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134139",
       "comp_code": "hun2a_ply",

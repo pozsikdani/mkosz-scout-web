@@ -1195,12 +1195,29 @@
       "date": "2026-05-16",
       "time": "18:30",
       "home": false,
-      "opponent": "PVSK-Veolia",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "PVSK-VEOLIA",
+      "our_score": 81,
+      "their_score": 108,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 18,
+          "their": 27
+        },
+        {
+          "our": 20,
+          "their": 32
+        },
+        {
+          "our": 19,
+          "their": 30
+        },
+        {
+          "our": 24,
+          "their": 19
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

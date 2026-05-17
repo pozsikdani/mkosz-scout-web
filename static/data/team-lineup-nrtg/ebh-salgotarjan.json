@@ -1,8 +1,159 @@
 {
   "team": "EBH-Salgótarján",
   "season": "x2526",
-  "match_count": 30,
+  "match_count": 31,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134173",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-16",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 90,
+      "their_score": 63,
+      "has_pbp": true,
+      "starters": [
+        "Cserényi Marcell",
+        "Ervin Carlbe Lee",
+        "Hargitai Krisztián",
+        "Ormai Botond Gábor",
+        "Tóth Bence Miklós"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Ervin Carlbe Lee",
+            "Hargitai Krisztián",
+            "Ormai Botond Gábor",
+            "Tóth Bence Miklós"
+          ],
+          "min": 31.0,
+          "pf": 51,
+          "pa": 31,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Ervin Carlbe Lee",
+            "Kalassai Martin",
+            "Ormai Botond Gábor",
+            "Tóth Bence Miklós"
+          ],
+          "min": 12.0,
+          "pf": 24,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cserényi Martin",
+            "Ervin Carlbe Lee",
+            "Hargitai Krisztián",
+            "Kalassai Martin",
+            "Nagy Ádám Béla"
+          ],
+          "min": 11.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cserényi Martin",
+            "Hargitai Krisztián",
+            "Kalassai Martin",
+            "Nagy Ádám Béla",
+            "Ormai Botond Gábor"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cserényi Martin",
+            "Ervin Carlbe Lee",
+            "Hargitai Krisztián",
+            "Kalassai Martin",
+            "Ormai Botond Gábor"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cserényi Martin",
+            "Hargitai Krisztián",
+            "Kalassai Martin",
+            "Ormai Botond Gábor",
+            "Tóth Bence Miklós"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Ervin Carlbe Lee",
+            "Hargitai Krisztián",
+            "Kalassai Martin",
+            "Ormai Botond Gábor"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Cserényi Martin",
+            "Kalassai Martin",
+            "Nagy Ádám Béla",
+            "Tóth Bence Miklós"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Cserényi Martin",
+            "Kazinczy Levente",
+            "Nagy Ádám Béla",
+            "Tóth Bence Miklós"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Cserényi Martin",
+            "Kazinczy Levente",
+            "Nagy Ádám Béla",
+            "Takács Máté"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134171",
       "comp_code": "hun2a_plya",

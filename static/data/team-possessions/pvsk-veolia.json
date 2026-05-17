@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Veolia",
   "season": "x2526",
-  "match_count": 35,
+  "match_count": 36,
   "matches": [
     {
       "gamecode": "hun2a_123451",
@@ -981,6 +981,34 @@
         "fta": 28,
         "oreb": 9,
         "tov_total": 15
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134685",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-16",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "W",
+      "our_score": 108,
+      "their_score": 81,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 26,
+        "mid_m": 1,
+        "three_m": 11,
+        "dunk_m": 4,
+        "ft": 10,
+        "close_x": 10,
+        "mid_x": 0,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 75,
+        "fta": 19,
+        "oreb": 11,
+        "tov_total": 17
       }
     }
   ]

@@ -1,8 +1,159 @@
 {
   "team": "TF-BP",
   "season": "x2526",
-  "match_count": 30,
+  "match_count": 31,
   "matches": [
+    {
+      "gamecode": "hun2a_plya_134173",
+      "comp_code": "hun2a_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-16",
+      "opponent": "EBH-SALGÓTARJÁN",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 90,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bogdán Dávid Bence",
+          "jersey": 11,
+          "minutes": 9,
+          "points": 3,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "tf-bp-bogdan-david-bence.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Inalegwu Marcell Sámuel",
+              "jersey": 4,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg"
+            },
+            {
+              "name": "Hansági Kristóf Zalán",
+              "jersey": 10,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "tf-bp-hansagi-kristof-zalan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Hegedüs Brúnó",
+          "jersey": 28,
+          "minutes": 28,
+          "points": 9,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "tf-bp-hegedus-bruno.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Heimann Gergő",
+              "jersey": 29,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "tf-bp-heimann-gergo.jpg"
+            },
+            {
+              "name": "Kiss Dominik",
+              "jersey": 17,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "tf-bp-kiss-dominik.jpg"
+            },
+            {
+              "name": "Kalmár Viktor Patrik",
+              "jersey": 88,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "tf-bp-kalmar-viktor-patrik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Heimann Gergő",
+          "jersey": 29,
+          "minutes": 32,
+          "points": 14,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "tf-bp-heimann-gergo.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Sebők András",
+              "jersey": 15,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "tf-bp-sebok-andras.jpg"
+            },
+            {
+              "name": "Inalegwu Marcell Sámuel",
+              "jersey": 4,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg"
+            },
+            {
+              "name": "Pilinszki Máté",
+              "jersey": 5,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "tf-bp-pilinszki-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Marcell József",
+          "jersey": 3,
+          "minutes": 38,
+          "points": 14,
+          "reb": 7,
+          "ast": 6,
+          "photo_filename": "tf-bp-molnar-marcell-jozsef.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kiss Dominik",
+              "jersey": 17,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "tf-bp-kiss-dominik.jpg"
+            },
+            {
+              "name": "Sebők András",
+              "jersey": 15,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "tf-bp-sebok-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Polster Attila",
+          "jersey": 7,
+          "minutes": 38,
+          "points": 9,
+          "reb": 7,
+          "ast": 3,
+          "photo_filename": "tf-bp-polster-attila.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Hegedüs Brúnó",
+              "jersey": 28,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "tf-bp-hegedus-bruno.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_plya_134171",
       "comp_code": "hun2a_plya",

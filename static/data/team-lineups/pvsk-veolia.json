@@ -1,8 +1,173 @@
 {
   "team": "PVSK-Veolia",
   "season": "x2526",
-  "match_count": 35,
+  "match_count": 36,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134685",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-16",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "W",
+      "our_score": 108,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dordevic Nemanja",
+          "jersey": 3,
+          "minutes": 18,
+          "points": 17,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "pvsk-veolia-dordevic-nemanja.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Werner Viktor",
+              "jersey": 9,
+              "minutes": 19,
+              "count": 3,
+              "photo_filename": "pvsk-veolia-werner-viktor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Géringer Gergő",
+          "jersey": 10,
+          "minutes": 26,
+          "points": 17,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "pvsk-veolia-geringer-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Czermann Máté",
+              "jersey": 2,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "pvsk-veolia-czermann-mate.jpg"
+            },
+            {
+              "name": "Kertész Dávid",
+              "jersey": 5,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "pvsk-veolia-kertesz-david.jpg"
+            },
+            {
+              "name": "Bunos Oleksandr",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Kertész Dávid",
+          "jersey": 5,
+          "minutes": 24,
+          "points": 9,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "pvsk-veolia-kertesz-david.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Géringer Gergő",
+              "jersey": 10,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "pvsk-veolia-geringer-gergo.jpg"
+            },
+            {
+              "name": "Bunos Oleksandr",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Rácz Gábor",
+              "jersey": 4,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "pvsk-veolia-racz-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Mátyás",
+          "jersey": 27,
+          "minutes": 28,
+          "points": 27,
+          "reb": 7,
+          "ast": 5,
+          "photo_filename": "pvsk-veolia-molnar-matyas.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Bunos Oleksandr",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Czermann Máté",
+              "jersey": 2,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "pvsk-veolia-czermann-mate.jpg"
+            },
+            {
+              "name": "Kertész Dávid",
+              "jersey": 5,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "pvsk-veolia-kertesz-david.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Plézer Gábor",
+          "jersey": 8,
+          "minutes": 30,
+          "points": 16,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "pvsk-veolia-plezer-gabor.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Molnár Mátyás",
+              "jersey": 27,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "pvsk-veolia-molnar-matyas.jpg"
+            },
+            {
+              "name": "Czermann Máté",
+              "jersey": 2,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "pvsk-veolia-czermann-mate.jpg"
+            },
+            {
+              "name": "Bunos Oleksandr",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134123",
       "comp_code": "hun2a_ply",

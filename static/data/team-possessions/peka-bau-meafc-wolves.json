@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2526",
-  "match_count": 36,
+  "match_count": 37,
   "matches": [
     {
       "gamecode": "hun2a_123455",
@@ -1009,6 +1009,34 @@
         "fta": 18,
         "oreb": 20,
         "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134685",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-16",
+      "opponent": "PVSK-VEOLIA",
+      "home": false,
+      "result": "L",
+      "our_score": 81,
+      "their_score": 108,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 21,
+        "mid_m": 2,
+        "three_m": 5,
+        "dunk_m": 0,
+        "ft": 13,
+        "close_x": 6,
+        "mid_x": 2,
+        "three_x": 20,
+        "dunk_x": 0,
+        "tov": 25,
+        "fga": 72,
+        "fta": 24,
+        "oreb": 18,
+        "tov_total": 25
       }
     }
   ]
