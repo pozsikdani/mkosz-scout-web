@@ -1,7 +1,7 @@
 {
   "team": "Phoenix-MT Fót",
   "season": "x2526",
-  "match_count": 34,
+  "match_count": 35,
   "matches": [
     {
       "gamecode": "hun2a_123457",
@@ -938,6 +938,34 @@
         "fta": 13,
         "oreb": 8,
         "tov_total": 9
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134677",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-17",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 77,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 6,
+        "three_m": 12,
+        "dunk_m": 1,
+        "ft": 15,
+        "close_x": 6,
+        "mid_x": 3,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 16,
+        "fga": 56,
+        "fta": 27,
+        "oreb": 5,
+        "tov_total": 16
       }
     }
   ]
