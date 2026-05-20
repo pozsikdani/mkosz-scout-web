@@ -1,8 +1,145 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2526",
-  "match_count": 37,
+  "match_count": 38,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134687",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-19",
+      "opponent": "PVSK-VEOLIA",
+      "home": true,
+      "result": "L",
+      "our_score": 87,
+      "their_score": 94,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dunai Zétény Péter",
+          "jersey": 10,
+          "minutes": 33,
+          "points": 9,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "peka-bau-meafc-wolves-dunai-zeteny-peter.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Gadus Bogdán Olivér",
+              "jersey": 5,
+              "minutes": 16,
+              "count": 5,
+              "photo_filename": "peka-bau-meafc-wolves-gadus-bogdan-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kelemen Ádám",
+          "jersey": 7,
+          "minutes": 22,
+          "points": 8,
+          "reb": 7,
+          "ast": 3,
+          "photo_filename": "peka-bau-meafc-wolves-kelemen-adam.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Árva-File Balázs",
+              "jersey": 8,
+              "minutes": 17,
+              "count": 4,
+              "photo_filename": "peka-bau-meafc-wolves-arva-file-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kékesi Kolos",
+          "jersey": 17,
+          "minutes": 35,
+          "points": 14,
+          "reb": 5,
+          "ast": 4,
+          "photo_filename": "peka-bau-meafc-wolves-kekesi-kolos.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Dunai Zétény Péter",
+              "jersey": 10,
+              "minutes": 33,
+              "count": 2,
+              "photo_filename": "peka-bau-meafc-wolves-dunai-zeteny-peter.jpg"
+            },
+            {
+              "name": "Velkey János",
+              "jersey": 13,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-velkey-janos.jpg"
+            },
+            {
+              "name": "Ragályi Levente Gergely",
+              "jersey": 77,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-ragalyi-levente-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ragályi Levente Gergely",
+          "jersey": 77,
+          "minutes": 15,
+          "points": 6,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "peka-bau-meafc-wolves-ragalyi-levente-gergely.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Meleg Károly Richárd",
+              "jersey": 6,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "peka-bau-meafc-wolves-meleg-karoly-richard.jpg"
+            },
+            {
+              "name": "Árva-File Balázs",
+              "jersey": 8,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-arva-file-balazs.jpg"
+            },
+            {
+              "name": "Kékesi Kolos",
+              "jersey": 17,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-kekesi-kolos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Velkey János",
+          "jersey": 13,
+          "minutes": 36,
+          "points": 22,
+          "reb": 7,
+          "ast": 9,
+          "photo_filename": "peka-bau-meafc-wolves-velkey-janos.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Mokánszki Milán",
+              "jersey": 88,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-mokanszki-milan.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134685",
       "comp_code": "hun2a_ply",

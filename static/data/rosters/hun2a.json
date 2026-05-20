@@ -1,7 +1,7 @@
 {
   "season": "x2526",
   "comp": "hun2a",
-  "scraped_at": "2026-05-19T10:48:17+00:00",
+  "scraped_at": "2026-05-20T10:34:59+00:00",
   "team_count": 14,
   "player_count": 229,
   "photo_count": 219,
@@ -20,31 +20,13 @@
           "photo_filename": "phoenix-mt-fot-gerencser-botond.jpg"
         },
         {
-          "name": "Kékesi Kristóf",
-          "jersey": null,
-          "position": "4-5",
-          "height_cm": 195,
-          "birth_year": 2003,
-          "photo_url": "https://15th.webpont.com/art/player/photo/A779288.gif",
-          "photo_filename": "phoenix-mt-fot-kekesi-kristof.jpg"
-        },
-        {
           "name": "Kis Attila Raul",
-          "jersey": null,
+          "jersey": 1,
           "position": "4",
           "height_cm": 205,
           "birth_year": 1996,
           "photo_url": "https://15th.webpont.com/art/player/photo/A65222.gif",
           "photo_filename": "phoenix-mt-fot-kis-attila-raul.jpg"
-        },
-        {
-          "name": "Mitchell Shereef Rashadd",
-          "jersey": null,
-          "position": "2-1",
-          "height_cm": 185,
-          "birth_year": 2000,
-          "photo_url": "https://15th.webpont.com/art/player/photo/A442978.gif",
-          "photo_filename": "phoenix-mt-fot-mitchell-shereef-rashadd.jpg"
         },
         {
           "name": "Békési Benedek",
@@ -54,6 +36,15 @@
           "birth_year": 2006,
           "photo_url": "https://15th.webpont.com/art/player/photo/A801491.gif",
           "photo_filename": "phoenix-mt-fot-bekesi-benedek.jpg"
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "position": "2-1",
+          "height_cm": 185,
+          "birth_year": 2000,
+          "photo_url": "https://15th.webpont.com/art/player/photo/A442978.gif",
+          "photo_filename": "phoenix-mt-fot-mitchell-shereef-rashadd.jpg"
         },
         {
           "name": "Boka-Magó Áron István",
@@ -144,6 +135,15 @@
           "birth_year": 1996,
           "photo_url": "https://15th.webpont.com/art/player/photo/A56016.gif",
           "photo_filename": "phoenix-mt-fot-antoni-csanad-zoltan.jpg"
+        },
+        {
+          "name": "Kékesi Kristóf",
+          "jersey": 18,
+          "position": "4-5",
+          "height_cm": 195,
+          "birth_year": 2003,
+          "photo_url": "https://15th.webpont.com/art/player/photo/A779288.gif",
+          "photo_filename": "phoenix-mt-fot-kekesi-kristof.jpg"
         }
       ]
     },
