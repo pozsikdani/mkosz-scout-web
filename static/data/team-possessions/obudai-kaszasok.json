@@ -1,7 +1,7 @@
 {
   "team": "Óbudai Kaszások",
   "season": "x2526",
-  "match_count": 32,
+  "match_count": 33,
   "matches": [
     {
       "gamecode": "hun2a_123449",
@@ -882,6 +882,34 @@
         "fta": 18,
         "oreb": 11,
         "tov_total": 7
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134697",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-20",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": false,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 82,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 19,
+        "mid_m": 1,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 10,
+        "close_x": 6,
+        "mid_x": 6,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 12,
+        "fga": 66,
+        "fta": 20,
+        "oreb": 9,
+        "tov_total": 12
       }
     }
   ]

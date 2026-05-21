@@ -1,8 +1,145 @@
 {
   "team": "Phoenix-MT Fót",
   "season": "x2526",
-  "match_count": 34,
+  "match_count": 35,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134679",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-20",
+      "opponent": "BKG PRIMA Akadémia",
+      "home": true,
+      "result": "W",
+      "our_score": 73,
+      "their_score": 62,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 15,
+          "minutes": 30,
+          "points": 6,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "phoenix-mt-fot-antoni-csanad-zoltan.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 5,
+              "minutes": 4,
+              "count": 3,
+              "photo_filename": "phoenix-mt-fot-boka-mago-aron-istvan.jpg"
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": 1,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-kis-attila-raul.jpg"
+            },
+            {
+              "name": "Juhos Levente",
+              "jersey": 12,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-juhos-levente.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Dancsecs András",
+          "jersey": 9,
+          "minutes": 33,
+          "points": 10,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "phoenix-mt-fot-dancsecs-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Mitchell Shereef Rashadd",
+              "jersey": 4,
+              "minutes": 36,
+              "count": 3,
+              "photo_filename": "phoenix-mt-fot-mitchell-shereef-rashadd.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Juhos Levente",
+          "jersey": 12,
+          "minutes": 33,
+          "points": 13,
+          "reb": 14,
+          "ast": 2,
+          "photo_filename": "phoenix-mt-fot-juhos-levente.jpg",
+          "position": "5-4",
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 14,
+              "minutes": 4,
+              "count": 3,
+              "photo_filename": "phoenix-mt-fot-toth-patrik-kristof.jpg"
+            },
+            {
+              "name": "Kis Attila Raul",
+              "jersey": 1,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "phoenix-mt-fot-kis-attila-raul.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Karda Dominik Krisztián",
+          "jersey": 8,
+          "minutes": 30,
+          "points": 16,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "phoenix-mt-fot-karda-dominik-krisztian.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 9,
+              "minutes": 9,
+              "count": 5,
+              "photo_filename": "phoenix-mt-fot-richter-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mitchell Shereef Rashadd",
+          "jersey": 4,
+          "minutes": 36,
+          "points": 19,
+          "reb": 4,
+          "ast": 5,
+          "photo_filename": "phoenix-mt-fot-mitchell-shereef-rashadd.jpg",
+          "position": "2-1",
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 10,
+              "minutes": 11,
+              "count": 3,
+              "photo_filename": "phoenix-mt-fot-nemeth-andras.jpg"
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 9,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "phoenix-mt-fot-richter-daniel.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134677",
       "comp_code": "hun2a_ply",

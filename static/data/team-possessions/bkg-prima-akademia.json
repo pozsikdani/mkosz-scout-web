@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2526",
-  "match_count": 36,
+  "match_count": 37,
   "matches": [
     {
       "gamecode": "hun2a_123451",
@@ -1009,6 +1009,34 @@
         "fta": 21,
         "oreb": 14,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134679",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-20",
+      "opponent": "Phoenix-MT Fót",
+      "home": false,
+      "result": "L",
+      "our_score": 62,
+      "their_score": 73,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 10,
+        "mid_m": 2,
+        "three_m": 6,
+        "dunk_m": 3,
+        "ft": 11,
+        "close_x": 11,
+        "mid_x": 6,
+        "three_x": 16,
+        "dunk_x": 0,
+        "tov": 9,
+        "fga": 65,
+        "fta": 21,
+        "oreb": 13,
+        "tov_total": 9
       }
     }
   ]

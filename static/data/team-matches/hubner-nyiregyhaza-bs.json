@@ -1137,12 +1137,29 @@
       "date": "2026-05-20",
       "time": "18:00",
       "home": true,
-      "opponent": "Óbudai Kaszások",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "our_score": 82,
+      "their_score": 84,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 17,
+          "their": 30
+        },
+        {
+          "our": 19,
+          "their": 24
+        },
+        {
+          "our": 25,
+          "their": 19
+        },
+        {
+          "our": 21,
+          "their": 11
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     }
   ]

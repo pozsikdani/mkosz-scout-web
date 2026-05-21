@@ -1,7 +1,7 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2526",
-  "match_count": 34,
+  "match_count": 35,
   "matches": [
     {
       "gamecode": "hun2a_123447",
@@ -953,6 +953,34 @@
         "fta": 15,
         "oreb": 8,
         "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134697",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-20",
+      "opponent": "ÓBUDAI KASZÁSOK",
+      "home": true,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 84,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 0,
+        "three_m": 14,
+        "dunk_m": 1,
+        "ft": 3,
+        "close_x": 10,
+        "mid_x": 4,
+        "three_x": 19,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 75,
+        "fta": 6,
+        "oreb": 10,
+        "tov_total": 11
       }
     }
   ]

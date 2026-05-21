@@ -1200,10 +1200,27 @@
       "time": "18:45",
       "home": false,
       "opponent": "Phoenix-MT Fót",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 62,
+      "their_score": 73,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 12,
+          "their": 18
+        },
+        {
+          "our": 19,
+          "their": 18
+        },
+        {
+          "our": 10,
+          "their": 17
+        },
+        {
+          "our": 21,
+          "their": 20
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },
