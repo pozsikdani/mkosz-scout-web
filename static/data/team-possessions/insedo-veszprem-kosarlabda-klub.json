@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2526",
-  "match_count": 32,
+  "match_count": 33,
   "matches": [
     {
       "gamecode": "hun2a_123453",
@@ -897,6 +897,34 @@
         "fta": 23,
         "oreb": 16,
         "tov_total": 14
+      }
+    },
+    {
+      "gamecode": "hun2a_ply_134691",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-21",
+      "opponent": "ÚJBUDA MAFC",
+      "home": true,
+      "result": "W",
+      "our_score": 103,
+      "their_score": 88,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 2,
+        "three_m": 18,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 7,
+        "mid_x": 2,
+        "three_x": 22,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 80,
+        "fta": 16,
+        "oreb": 12,
+        "tov_total": 11
       }
     }
   ]

@@ -1,8 +1,263 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2526",
-  "match_count": 34,
+  "match_count": 35,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134691",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-21",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "L",
+      "our_score": 88,
+      "their_score": 103,
+      "has_pbp": true,
+      "starters": [
+        "Biber Ãron Benedek",
+        "Bordã¡cs Gã¡bor Soma",
+        "Kazy Balã¡zs",
+        "Molnã¡r Tamã¡s",
+        "Pintã©r Dã¡vid"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Geiger Bã¡lint Jã³zsef",
+            "Kazy Balã¡zs",
+            "Pã¡pai Mã¡tã© Barnabã¡s",
+            "Tã¶lgyesi Ãron",
+            "Viola Dã¡vid Zsolt"
+          ],
+          "min": 13.0,
+          "pf": 6,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Ãron Benedek",
+            "Kazy Balã¡zs",
+            "Pintã©r Dã¡vid",
+            "Turcsã¡nyi Nã¡ndor",
+            "Viola Dã¡vid Zsolt"
+          ],
+          "min": 13.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordã¡cs Gã¡bor Soma",
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Pintã©r Dã¡vid",
+            "Viola Dã¡vid Zsolt"
+          ],
+          "min": 12.0,
+          "pf": 3,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Ãron Benedek",
+            "Bordã¡cs Gã¡bor Soma",
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Pintã©r Dã¡vid"
+          ],
+          "min": 6.0,
+          "pf": 15,
+          "pa": 14,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bordã¡cs Gã¡bor Soma",
+            "Geiger Bã¡lint Jã³zsef",
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Pã¡pai Mã¡tã© Barnabã¡s"
+          ],
+          "min": 6.0,
+          "pf": 14,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordã¡cs Gã¡bor Soma",
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Pintã©r Dã¡vid",
+            "Pã¡pai Mã¡tã© Barnabã¡s"
+          ],
+          "min": 6.0,
+          "pf": 13,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Mã¡tã©",
+            "Geiger Bã¡lint Jã³zsef",
+            "Nã©meth Donã¡t Gergå‘",
+            "Pã¡pai Mã¡tã© Barnabã¡s",
+            "Turcsã¡nyi Nã¡ndor"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bã¡lint Jã³zsef",
+            "Pã¡pai Mã¡tã© Barnabã¡s",
+            "Turcsã¡nyi Nã¡ndor",
+            "Tã¶lgyesi Ãron",
+            "Viola Dã¡vid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Mã¡tã©",
+            "Geiger Bã¡lint Jã³zsef",
+            "Molnã¡r Tamã¡s",
+            "Nã©meth Donã¡t Gergå‘",
+            "Turcsã¡nyi Nã¡ndor"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Ãron Benedek",
+            "Bordã¡cs Gã¡bor Soma",
+            "Kazy Balã¡zs",
+            "Pintã©r Dã¡vid",
+            "Viola Dã¡vid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bã¡lint Jã³zsef",
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Pã¡pai Mã¡tã© Barnabã¡s",
+            "Tã¶lgyesi Ãron"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dobos Mã¡tã©",
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Nã©meth Donã¡t Gergå‘",
+            "Viola Dã¡vid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Ãron Benedek",
+            "Bordã¡cs Gã¡bor Soma",
+            "Kazy Balã¡zs",
+            "Pintã©r Dã¡vid",
+            "Turcsã¡nyi Nã¡ndor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordã¡cs Gã¡bor Soma",
+            "Kazy Balã¡zs",
+            "Pintã©r Dã¡vid",
+            "Pã¡pai Mã¡tã© Barnabã¡s",
+            "Turcsã¡nyi Nã¡ndor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Geiger Bã¡lint Jã³zsef",
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Pintã©r Dã¡vid",
+            "Pã¡pai Mã¡tã© Barnabã¡s"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Ãron Benedek",
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Pintã©r Dã¡vid",
+            "Pã¡pai Mã¡tã© Barnabã¡s"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kazy Balã¡zs",
+            "Molnã¡r Tamã¡s",
+            "Pintã©r Dã¡vid",
+            "Pã¡pai Mã¡tã© Barnabã¡s",
+            "Tã¶lgyesi Ãron"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bordã¡cs Gã¡bor Soma",
+            "Kazy Balã¡zs",
+            "Pintã©r Dã¡vid",
+            "Pã¡pai Mã¡tã© Barnabã¡s",
+            "Viola Dã¡vid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134693",
       "comp_code": "hun2a_ply",

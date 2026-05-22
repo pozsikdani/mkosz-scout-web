@@ -46,15 +46,15 @@
         "oreb_pg": 73,
         "dreb_pg": 94,
         "apg": 70,
-        "spg": 80,
+        "spg": 81,
         "bpg": 79,
         "fdpg": 64,
         "mpg": 94,
         "tpg": 98,
-        "fpg": 66,
+        "fpg": 65,
         "fg_pct": 57,
-        "three_pct": 86,
-        "ft_pct": 81
+        "three_pct": 85,
+        "ft_pct": 80
       }
     },
     {
@@ -72,7 +72,7 @@
       "tpg": 1.7,
       "spg": 1.7,
       "bpg": 0.2,
-      "fpg": 3.0,
+      "fpg": 3.2,
       "fdpg": 3.8,
       "ato": 1.0,
       "fg_made": 28,
@@ -97,9 +97,9 @@
         "spg": 96,
         "bpg": 79,
         "fdpg": 88,
-        "mpg": 88,
-        "tpg": 81,
-        "fpg": 97,
+        "mpg": 89,
+        "tpg": 82,
+        "fpg": 99,
         "fg_pct": 2,
         "three_pct": 23,
         "ft_pct": 7
@@ -120,7 +120,7 @@
       "tpg": 4.1,
       "spg": 1.4,
       "bpg": 0.1,
-      "fpg": 3.1,
+      "fpg": 3.2,
       "fdpg": 5.0,
       "ato": 1.02,
       "fg_made": 193,
@@ -148,8 +148,8 @@
         "mpg": 95,
         "tpg": 100,
         "fpg": 99,
-        "fg_pct": 36,
-        "three_pct": 60,
+        "fg_pct": 35,
+        "three_pct": 59,
         "ft_pct": 79
       }
     },
@@ -190,7 +190,7 @@
         "oreb_pg": 89,
         "dreb_pg": 89,
         "apg": 56,
-        "spg": 95,
+        "spg": 94,
         "bpg": 99,
         "fdpg": 67,
         "mpg": 77,
@@ -241,10 +241,10 @@
         "spg": 89,
         "bpg": 87,
         "fdpg": 93,
-        "mpg": 90,
+        "mpg": 91,
         "tpg": 100,
-        "fpg": 60,
-        "fg_pct": 46,
+        "fpg": 59,
+        "fg_pct": 44,
         "three_pct": 6,
         "ft_pct": 36
       }
@@ -285,14 +285,14 @@
         "rpg": 39,
         "oreb_pg": 9,
         "dreb_pg": 50,
-        "apg": 78,
+        "apg": 79,
         "spg": 61,
         "bpg": 37,
         "fdpg": 67,
         "mpg": 46,
         "tpg": 44,
-        "fpg": 31,
-        "three_pct": 58
+        "fpg": 30,
+        "three_pct": 57
       }
     },
     {
@@ -310,7 +310,7 @@
       "tpg": 0.5,
       "spg": 0.4,
       "bpg": 0.1,
-      "fpg": 1.6,
+      "fpg": 1.7,
       "fdpg": 0.3,
       "ato": 1.6,
       "fg_made": 33,
@@ -337,10 +337,10 @@
         "fdpg": 25,
         "mpg": 48,
         "tpg": 33,
-        "fpg": 44,
-        "fg_pct": 30,
+        "fpg": 45,
+        "fg_pct": 29,
         "three_pct": 36,
-        "ft_pct": 23
+        "ft_pct": 24
       }
     },
     {
@@ -372,7 +372,7 @@
       "ft_pct": 54.1,
       "percentiles": {
         "ppg": 67,
-        "rpg": 55,
+        "rpg": 56,
         "oreb_pg": 59,
         "dreb_pg": 60,
         "apg": 56,
@@ -381,7 +381,7 @@
         "fdpg": 69,
         "mpg": 52,
         "tpg": 72,
-        "fpg": 66,
+        "fpg": 65,
         "fg_pct": 59,
         "three_pct": 49,
         "ft_pct": 12
@@ -418,14 +418,14 @@
         "ppg": 16,
         "rpg": 39,
         "oreb_pg": 18,
-        "dreb_pg": 46,
+        "dreb_pg": 47,
         "apg": 21,
         "spg": 12,
         "bpg": 37,
         "fdpg": 19,
         "mpg": 34,
         "tpg": 18,
-        "fpg": 17,
+        "fpg": 16,
         "three_pct": 8
       }
     },
@@ -444,7 +444,7 @@
       "tpg": 0.9,
       "spg": 0.1,
       "bpg": 0.0,
-      "fpg": 0.8,
+      "fpg": 1.0,
       "fdpg": 1.1,
       "ato": 0.14,
       "fg_made": 13,
@@ -468,9 +468,9 @@
         "spg": 21,
         "bpg": 37,
         "fdpg": 48,
-        "mpg": 29,
+        "mpg": 30,
         "tpg": 52,
-        "fpg": 24,
+        "fpg": 27,
         "ft_pct": 26
       }
     },
@@ -516,7 +516,7 @@
         "fdpg": 19,
         "mpg": 32,
         "tpg": 44,
-        "fpg": 40
+        "fpg": 39
       }
     },
     {
@@ -534,7 +534,7 @@
       "tpg": 0.4,
       "spg": 0.1,
       "bpg": 0.1,
-      "fpg": 1.2,
+      "fpg": 1.3,
       "fdpg": 0.7,
       "ato": 0.75,
       "fg_made": 14,
@@ -561,7 +561,7 @@
         "fdpg": 40,
         "mpg": 24,
         "tpg": 27,
-        "fpg": 31,
+        "fpg": 32,
         "three_pct": 10
       }
     },
@@ -598,8 +598,8 @@
       "birth_year": 2003,
       "percentiles": {
         "ppg": 33,
-        "rpg": 55,
-        "oreb_pg": 63,
+        "rpg": 56,
+        "oreb_pg": 64,
         "dreb_pg": 57,
         "apg": 33,
         "spg": 50,
@@ -607,7 +607,7 @@
         "fdpg": 48,
         "mpg": 37,
         "tpg": 64,
-        "fpg": 66,
+        "fpg": 65,
         "ft_pct": 76
       }
     },
@@ -653,7 +653,7 @@
         "fdpg": 40,
         "mpg": 25,
         "tpg": 44,
-        "fpg": 40,
+        "fpg": 39,
         "ft_pct": 12
       }
     },
@@ -727,7 +727,7 @@
         "fdpg": 25,
         "mpg": 17,
         "tpg": 33,
-        "fpg": 24
+        "fpg": 23
       }
     },
     {

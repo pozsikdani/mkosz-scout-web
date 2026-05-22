@@ -1,8 +1,111 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2526",
-  "match_count": 32,
+  "match_count": 33,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134691",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-21",
+      "opponent": "ÚJBUDA MAFC",
+      "home": true,
+      "result": "W",
+      "our_score": 103,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bogdán Benedek",
+          "jersey": 7,
+          "minutes": 0,
+          "points": 17,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bogdan-benedek.jpg",
+          "position": "4-5",
+          "subs": []
+        },
+        {
+          "name": "Bogdã¡n Benedek",
+          "jersey": null,
+          "minutes": 25,
+          "points": 17,
+          "reb": 8,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kass Balã¡zs",
+              "jersey": null,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Frank Ãron",
+              "jersey": null,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "BONIFERT BENDEGÃºZ",
+          "jersey": null,
+          "minutes": 22,
+          "points": 16,
+          "reb": 6,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Kass Balã¡zs",
+              "jersey": null,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Bogdã¡n Benedek",
+              "jersey": null,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Bonifert Bendegúz",
+          "jersey": 33,
+          "minutes": 0,
+          "points": 14,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg",
+          "position": "3-4",
+          "subs": []
+        },
+        {
+          "name": "Daniels Vionte Ramone",
+          "jersey": 24,
+          "minutes": 38,
+          "points": 23,
+          "reb": 3,
+          "ast": 6,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-daniels-vionte-ramone.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "BONIFERT BENDEGÃºZ",
+              "jersey": null,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134693",
       "comp_code": "hun2a_ply",

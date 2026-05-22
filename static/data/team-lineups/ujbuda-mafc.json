@@ -1,8 +1,110 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2526",
-  "match_count": 34,
+  "match_count": 35,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134691",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-21",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": false,
+      "result": "L",
+      "our_score": 88,
+      "their_score": 103,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Biber Áron Benedek",
+          "jersey": 32,
+          "minutes": 0,
+          "points": 2,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "ujbuda-mafc-biber-aron-benedek.jpg",
+          "position": "5",
+          "subs": []
+        },
+        {
+          "name": "Biber Ãron Benedek",
+          "jersey": null,
+          "minutes": 12,
+          "points": 2,
+          "reb": 2,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Tã¶lgyesi Ãron",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Pã¡pai Mã¡tã© Barnabã¡s",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Bordács Gábor Soma",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 13,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "ujbuda-mafc-bordacs-gabor-soma.jpg",
+          "position": "4",
+          "subs": []
+        },
+        {
+          "name": "Bordã¡cs Gã¡bor Soma",
+          "jersey": null,
+          "minutes": 24,
+          "points": 13,
+          "reb": 15,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Pã¡pai Mã¡tã© Barnabã¡s",
+              "jersey": null,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Turcsã¡nyi Nã¡ndor",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Geiger Bã¡lint Jã³zsef",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Kazy Balázs",
+          "jersey": 12,
+          "minutes": 0,
+          "points": 27,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "ujbuda-mafc-kazy-balazs.jpg",
+          "position": "3",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134693",
       "comp_code": "hun2a_ply",
