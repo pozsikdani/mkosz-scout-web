@@ -1232,12 +1232,29 @@
       "date": "2026-05-23",
       "time": "18:00",
       "home": true,
-      "opponent": "Phoenix-MT Fót",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "PHOENIX-MT FÓT",
+      "our_score": 83,
+      "their_score": 94,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 18,
+          "their": 17
+        },
+        {
+          "our": 21,
+          "their": 26
+        },
+        {
+          "our": 22,
+          "their": 20
+        },
+        {
+          "our": 22,
+          "their": 31
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

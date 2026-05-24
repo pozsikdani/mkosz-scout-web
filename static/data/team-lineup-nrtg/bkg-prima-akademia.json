@@ -1,8 +1,133 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2526",
-  "match_count": 37,
+  "match_count": 38,
   "matches": [
+    {
+      "gamecode": "hun2a_ply_134681",
+      "comp_code": "hun2a_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-23",
+      "opponent": "PHOENIX-MT FÓT",
+      "home": true,
+      "result": "L",
+      "our_score": 83,
+      "their_score": 94,
+      "has_pbp": true,
+      "starters": [
+        "Armaghani Ármin",
+        "Arnóczi Áron",
+        "Nagy Benedek Ágost",
+        "Nagy Botond Ágoston",
+        "Reiber Dean Thomas"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Galambos Árpád",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 20.0,
+          "pf": 19,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Galambos Árpád",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 15.0,
+          "pf": 17,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Büki Lóránt",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 12.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 11.0,
+          "pf": 18,
+          "pa": 29,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Arnóczi Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 9.0,
+          "pf": 18,
+          "pa": 15,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Galambos Árpád",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Armaghani Ármin",
+            "Büki Lóránt",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost",
+            "Reiber Dean Thomas"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Büki Lóránt",
+            "Galambos Árpád",
+            "Gyimes Áron",
+            "Nagy Benedek Ágost"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_ply_134679",
       "comp_code": "hun2a_ply",
