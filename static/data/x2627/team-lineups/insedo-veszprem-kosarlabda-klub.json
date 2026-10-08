@@ -1,6 +1,172 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135739",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "ZTE KK",
+      "home": false,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 86,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bonifert Bendegúz",
+          "jersey": 33,
+          "minutes": 23,
+          "points": 9,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Tóth Barna",
+              "jersey": 9,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-toth-barna.jpg"
+            },
+            {
+              "name": "Kocsis Zalán",
+              "jersey": 8,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg"
+            },
+            {
+              "name": "Kass Balázs",
+              "jersey": 17,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Illés Máté Csongor",
+          "jersey": 71,
+          "minutes": 32,
+          "points": 16,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-illes-mate-csongor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kass Balázs",
+              "jersey": 17,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg"
+            },
+            {
+              "name": "Völgyi Marcell Zoltán",
+              "jersey": 11,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-volgyi-marcell-zoltan.jpg"
+            },
+            {
+              "name": "Tóth Barna",
+              "jersey": 9,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-toth-barna.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kocsis Zalán",
+          "jersey": 8,
+          "minutes": 21,
+          "points": 10,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-kocsis-zalan.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bonifert Bendegúz",
+              "jersey": 33,
+              "minutes": 23,
+              "count": 4,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg"
+            },
+            {
+              "name": "Illés Máté Csongor",
+              "jersey": 71,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-illes-mate-csongor.jpg"
+            },
+            {
+              "name": "Barba-Bey Ahmed Tyree",
+              "jersey": 2,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-barba-bey-ahmed-tyree.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Ágoston",
+          "jersey": 4,
+          "minutes": 36,
+          "points": 9,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-meszaros-agoston.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Varga Ádám Dániel",
+              "jersey": 88,
+              "minutes": 4,
+              "count": 2,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-varga-adam-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Völgyi Marcell Zoltán",
+          "jersey": 11,
+          "minutes": 22,
+          "points": 11,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-volgyi-marcell-zoltan.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Schöll Richárd",
+              "jersey": 6,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-scholl-richard.jpg"
+            },
+            {
+              "name": "Illés Máté Csongor",
+              "jersey": 71,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-illes-mate-csongor.jpg"
+            },
+            {
+              "name": "Barba-Bey Ahmed Tyree",
+              "jersey": 2,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "insedo-veszprem-kosarlabda-klub-barba-bey-ahmed-tyree.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

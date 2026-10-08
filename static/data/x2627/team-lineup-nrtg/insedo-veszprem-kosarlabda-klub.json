@@ -1,6 +1,392 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135739",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "ZTE KK",
+      "home": false,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 86,
+      "has_pbp": true,
+      "starters": [
+        "Bonifert Bendegúz",
+        "Illés Máté Csongor",
+        "Kocsis Zalán",
+        "Mészáros Ágoston",
+        "Völgyi Marcell Zoltán"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Mészáros Ágoston",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 13.0,
+          "pf": 12,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Schöll Richárd"
+          ],
+          "min": 11.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Mészáros Ágoston"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 6.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Illés Máté Csongor",
+            "Mészáros Ágoston",
+            "Schöll Richárd",
+            "Tóth Barna"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Barna",
+            "Varga Ádám Dániel",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Mészáros Ágoston",
+            "Schöll Richárd",
+            "Tóth Barna"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Mészáros Ágoston",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Mészáros Ágoston",
+            "Schöll Richárd",
+            "Tóth Barna"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Schöll Richárd",
+            "Tóth Barna"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Illés Máté Csongor",
+            "Schmera Gergely",
+            "Schöll Richárd",
+            "Varga Ádám Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Schöll Richárd",
+            "Varga Ádám Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Mészáros Ágoston",
+            "Schöll Richárd"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Mészáros Ágoston",
+            "Schöll Richárd"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Bonifert Bendegúz",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Kass Balázs",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Schöll Richárd",
+            "Tóth Barna"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Varga Ádám Dániel",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Schöll Richárd",
+            "Varga Ádám Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Barba-bey Ahmed Tyree",
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Schöll Richárd"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Tóth Barna"
+          ],
+          "min": 0.0,
+          "pf": 5,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
 }

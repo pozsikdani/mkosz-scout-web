@@ -1,6 +1,327 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135741",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 71,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Kopácsi Ákos",
+        "Németh András",
+        "Tóth Patrik Kristóf",
+        "Verebélyi Áron"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Németh András",
+            "Tóth Patrik Kristóf",
+            "Vajda Dávid Levente"
+          ],
+          "min": 14.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Németh András",
+            "Richter Dániel"
+          ],
+          "min": 12.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Goór Dániel",
+            "Hibján Máté",
+            "Németh András",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Tóth Patrik Kristóf",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 5.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Németh András",
+            "Tóth Patrik Kristóf",
+            "Verebélyi Áron"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 10,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Németh András",
+            "Orosi Bálint Gábor",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 3.0,
+          "pf": 13,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Németh András",
+            "Orosi Bálint Gábor",
+            "Richter Dániel",
+            "Végsõ Bálint"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Németh András",
+            "Richter Dániel",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 3.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Orosi Bálint Gábor",
+            "Richter Dániel",
+            "Végsõ Bálint"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Goór Dániel",
+            "Kopácsi Ákos",
+            "Tóth Patrik Kristóf",
+            "Végsõ Bálint"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Goór Dániel",
+            "Németh András",
+            "Orosi Bálint Gábor",
+            "Végsõ Bálint"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Németh András",
+            "Richter Dániel",
+            "Tóth Patrik Kristóf",
+            "Végsõ Bálint"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Verebélyi Áron",
+            "Végsõ Bálint"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Orosi Bálint Gábor",
+            "Vajda Dávid Levente",
+            "Végsõ Bálint"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Németh András",
+            "Orosi Bálint Gábor",
+            "Vajda Dávid Levente",
+            "Végsõ Bálint"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Németh András",
+            "Tóth Patrik Kristóf",
+            "Verebélyi Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Németh András",
+            "Orosi Bálint Gábor",
+            "Richter Dániel"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Richter Dániel",
+            "Végsõ Bálint"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Tóth Patrik Kristóf",
+            "Vajda Dávid Levente",
+            "Végsõ Bálint"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Németh András",
+            "Tóth Patrik Kristóf",
+            "Vajda Dávid Levente",
+            "Végsõ Bálint"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Richter Dániel",
+            "Tóth Patrik Kristóf",
+            "Végsõ Bálint"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Németh András",
+            "Richter Dániel",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Hibján Máté",
+            "Kopácsi Ákos",
+            "Németh András",
+            "Verebélyi Áron"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
 }

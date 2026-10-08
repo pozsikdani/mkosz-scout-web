@@ -1,6 +1,165 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135741",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 71,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bazsó Brúnó Tamás",
+          "jersey": 11,
+          "minutes": 36,
+          "points": 18,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "hubner-nyiregyhaza-bs-bazso-bruno-tamas.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Hibján Máté",
+              "jersey": 17,
+              "minutes": 10,
+              "count": 3,
+              "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kopácsi Ákos",
+          "jersey": 8,
+          "minutes": 28,
+          "points": 15,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Németh András",
+              "jersey": 21,
+              "minutes": 26,
+              "count": 3,
+              "photo_filename": "hubner-nyiregyhaza-bs-nemeth-andras.jpg"
+            },
+            {
+              "name": "Orosi Bálint Gábor",
+              "jersey": 7,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg"
+            },
+            {
+              "name": "Végső Bálint",
+              "jersey": 9,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Németh András",
+          "jersey": 21,
+          "minutes": 26,
+          "points": 4,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "hubner-nyiregyhaza-bs-nemeth-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kopácsi Ákos",
+              "jersey": 8,
+              "minutes": 28,
+              "count": 3,
+              "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg"
+            },
+            {
+              "name": "Végső Bálint",
+              "jersey": 9,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg"
+            },
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-toth-patrik-kristof.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Patrik Kristóf",
+          "jersey": 6,
+          "minutes": 22,
+          "points": 9,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "hubner-nyiregyhaza-bs-toth-patrik-kristof.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Orosi Bálint Gábor",
+              "jersey": 7,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg"
+            },
+            {
+              "name": "Végső Bálint",
+              "jersey": 9,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg"
+            },
+            {
+              "name": "Verebélyi Áron",
+              "jersey": 2,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Verebélyi Áron",
+          "jersey": 2,
+          "minutes": 15,
+          "points": 4,
+          "reb": 0,
+          "ast": 2,
+          "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg",
+          "position": "1-2-3",
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 3,
+              "photo_filename": "hubner-nyiregyhaza-bs-richter-daniel.jpg"
+            },
+            {
+              "name": "Goór Dániel",
+              "jersey": 10,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-goor-daniel.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

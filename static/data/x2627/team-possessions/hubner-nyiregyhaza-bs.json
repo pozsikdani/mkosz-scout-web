@@ -1,6 +1,35 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135741",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 71,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 1,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 8,
+        "close_x": 9,
+        "mid_x": 6,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 69,
+        "fta": 17,
+        "oreb": 16,
+        "tov_total": 13
+      }
+    }
+  ]
 }

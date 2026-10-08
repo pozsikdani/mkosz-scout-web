@@ -1,6 +1,35 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135739",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "ZTE KK",
+      "home": false,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 86,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 10,
+        "mid_m": 8,
+        "three_m": 8,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 6,
+        "mid_x": 3,
+        "three_x": 16,
+        "dunk_x": 0,
+        "tov": 12,
+        "fga": 59,
+        "fta": 22,
+        "oreb": 8,
+        "tov_total": 12
+      }
+    }
+  ]
 }

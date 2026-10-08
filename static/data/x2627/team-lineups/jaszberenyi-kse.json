@@ -1,6 +1,179 @@
 {
   "team": "Jászberényi KSE",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135741",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "HÜBNER Nyíregyháza BS",
+      "home": true,
+      "result": "W",
+      "our_score": 71,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Arnóczi Áron",
+          "jersey": 13,
+          "minutes": 31,
+          "points": 14,
+          "reb": 5,
+          "ast": 5,
+          "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Bolyos Mateja",
+              "jersey": 19,
+              "minutes": 36,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg"
+            },
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-frank-aron.jpg"
+            },
+            {
+              "name": "Márkus Balázs",
+              "jersey": 10,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-markus-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bolyos Mateja",
+          "jersey": 19,
+          "minutes": 36,
+          "points": 11,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Arnóczi Áron",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg"
+            },
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-frank-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Geröly Márton András",
+          "jersey": 22,
+          "minutes": 30,
+          "points": 16,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Abraham Arabo",
+              "jersey": 88,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg"
+            },
+            {
+              "name": "Magyari Kristóf",
+              "jersey": 14,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-magyari-kristof.jpg"
+            },
+            {
+              "name": "Arnóczi Áron",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szálkai Gordon",
+          "jersey": 1,
+          "minutes": 16,
+          "points": 2,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Abraham Arabo",
+              "jersey": 88,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg"
+            },
+            {
+              "name": "Márkus Balázs",
+              "jersey": 10,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-markus-balazs.jpg"
+            },
+            {
+              "name": "Rékasi Bojta Bendegúz",
+              "jersey": 73,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-rekasi-bojta-bendeguz.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zsók Áron",
+          "jersey": 12,
+          "minutes": 26,
+          "points": 4,
+          "reb": 9,
+          "ast": 0,
+          "photo_filename": "jaszberenyi-kse-zsok-aron.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Abraham Arabo",
+              "jersey": 88,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg"
+            },
+            {
+              "name": "Márkus Balázs",
+              "jersey": 10,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-markus-balazs.jpg"
+            },
+            {
+              "name": "Bolyos Mateja",
+              "jersey": 19,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
