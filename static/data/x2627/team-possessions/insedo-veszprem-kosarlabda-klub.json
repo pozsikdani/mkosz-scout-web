@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 1,
+  "match_count": 2,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -28,6 +28,34 @@
         "fga": 59,
         "fta": 22,
         "oreb": 8,
+        "tov_total": 12
+      }
+    },
+    {
+      "gamecode": "hun2a_135751",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 91,
+      "their_score": 65,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 19,
+        "mid_m": 6,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 8,
+        "close_x": 11,
+        "mid_x": 3,
+        "three_x": 11,
+        "dunk_x": 0,
+        "tov": 12,
+        "fga": 72,
+        "fta": 14,
+        "oreb": 14,
         "tov_total": 12
       }
     }

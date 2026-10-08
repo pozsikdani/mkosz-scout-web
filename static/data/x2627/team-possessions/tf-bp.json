@@ -1,6 +1,63 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135735",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-27",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 83,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 5,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 16,
+        "close_x": 2,
+        "mid_x": 2,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 18,
+        "fga": 54,
+        "fta": 28,
+        "oreb": 9,
+        "tov_total": 18
+      }
+    },
+    {
+      "gamecode": "hun2a_135751",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA…",
+      "home": false,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 91,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 4,
+        "three_m": 7,
+        "dunk_m": 0,
+        "ft": 8,
+        "close_x": 11,
+        "mid_x": 5,
+        "three_x": 11,
+        "dunk_x": 0,
+        "tov": 19,
+        "fga": 60,
+        "fta": 16,
+        "oreb": 13,
+        "tov_total": 19
+      }
+    }
+  ]
 }

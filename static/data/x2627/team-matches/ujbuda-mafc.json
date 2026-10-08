@@ -1,8 +1,74 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2627",
-  "count": 22,
+  "count": 24,
   "matches": [
+    {
+      "gamecode": "hun2a_135743",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "1. forduló",
+      "date": "2026-09-26",
+      "time": "17:30",
+      "home": true,
+      "opponent": "PVSK-PANTHERS",
+      "our_score": 82,
+      "their_score": 95,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 20,
+          "their": 27
+        },
+        {
+          "our": 29,
+          "their": 21
+        },
+        {
+          "our": 13,
+          "their": 21
+        },
+        {
+          "our": 20,
+          "their": 26
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_135759",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "2. forduló",
+      "date": "2026-10-04",
+      "time": "18:00",
+      "home": false,
+      "opponent": "VASAS AKADÉMIA",
+      "our_score": 93,
+      "their_score": 82,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 28,
+          "their": 13
+        },
+        {
+          "our": 26,
+          "their": 23
+        },
+        {
+          "our": 20,
+          "their": 26
+        },
+        {
+          "our": 19,
+          "their": 20
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
     {
       "gamecode": "hun2a_135775",
       "comp_code": "hun2a",

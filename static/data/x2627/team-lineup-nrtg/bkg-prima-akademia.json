@@ -1,6 +1,322 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135749",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "L",
+      "our_score": 91,
+      "their_score": 97,
+      "has_pbp": true,
+      "starters": [
+        "Csécsei Gergő",
+        "Nagy Benedek Ágost",
+        "Nagy Botond Ágoston",
+        "Reiber Dean Thomas",
+        "Várszegi Balázs"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dokmanovic Milán",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Szanyi Róbert"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas",
+            "Szanyi Róbert"
+          ],
+          "min": 12.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csécsei Gergő",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas",
+            "Várszegi Balázs"
+          ],
+          "min": 11.0,
+          "pf": 25,
+          "pa": 20,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Csécsei Gergő",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csécsei Gergő",
+            "Dokmanovic Milán",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 5.0,
+          "pf": 23,
+          "pa": 21,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dokmanovic Milán",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 5.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 5.0,
+          "pf": 12,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Demeter Levente",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csécsei Gergő",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas",
+            "Szanyi Róbert"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Csécsei Gergő",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Reiber Dean Thomas"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Csécsei Gergő",
+            "Nagy Benedek Ágost",
+            "Reiber Dean Thomas",
+            "Szanyi Róbert"
+          ],
+          "min": 0.0,
+          "pf": 11,
+          "pa": 12,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_135735",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-27",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 83,
+      "their_score": 80,
+      "has_pbp": true,
+      "starters": [
+        "Galambos Árpád",
+        "Kovács Leonárd",
+        "Nagy Benedek Ágost",
+        "Nagy Botond Ágoston",
+        "Reiber Dean Thomas"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Csécsei Gergő",
+            "Dokmanovic Milán",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 19.0,
+          "pf": 18,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Galambos Árpád",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 12.0,
+          "pf": 30,
+          "pa": 23,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Csécsei Gergő",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Dokmanovic Milán",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csécsei Gergő",
+            "Galambos Árpád",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 5.0,
+          "pf": 16,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Demeter Levente",
+            "Galambos Árpád",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Demeter Levente",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dokmanovic Milán",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dokmanovic Milán",
+            "Galambos Árpád",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
 }

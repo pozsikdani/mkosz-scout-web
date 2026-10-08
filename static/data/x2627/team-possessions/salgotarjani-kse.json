@@ -1,6 +1,35 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135745",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 67,
+      "their_score": 66,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 1,
+        "three_m": 10,
+        "dunk_m": 1,
+        "ft": 7,
+        "close_x": 12,
+        "mid_x": 1,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 23,
+        "fga": 60,
+        "fta": 14,
+        "oreb": 6,
+        "tov_total": 23
+      }
+    }
+  ]
 }

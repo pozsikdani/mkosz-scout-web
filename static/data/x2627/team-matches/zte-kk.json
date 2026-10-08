@@ -1,7 +1,7 @@
 {
   "team": "ZTE KK",
   "season": "x2627",
-  "count": 23,
+  "count": 24,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -34,6 +34,39 @@
         }
       ],
       "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_135755",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "2. forduló",
+      "date": "2026-10-03",
+      "time": "18:00",
+      "home": false,
+      "opponent": "PVSK-PANTHERS",
+      "our_score": 92,
+      "their_score": 71,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 21,
+          "their": 14
+        },
+        {
+          "our": 16,
+          "their": 19
+        },
+        {
+          "our": 28,
+          "their": 19
+        },
+        {
+          "our": 27,
+          "their": 19
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

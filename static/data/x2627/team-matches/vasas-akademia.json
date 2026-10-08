@@ -1,8 +1,41 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "count": 23,
+  "count": 24,
   "matches": [
+    {
+      "gamecode": "hun2a_135759",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "2. forduló",
+      "date": "2026-10-04",
+      "time": "18:00",
+      "home": true,
+      "opponent": "ÚJBUDA MAFC",
+      "our_score": 82,
+      "their_score": 93,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 13,
+          "their": 28
+        },
+        {
+          "our": 23,
+          "their": 26
+        },
+        {
+          "our": 26,
+          "their": 20
+        },
+        {
+          "our": 20,
+          "their": 19
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
     {
       "gamecode": "hun2a_135771",
       "comp_code": "hun2a",

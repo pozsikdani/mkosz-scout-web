@@ -1,6 +1,335 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135753",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-02",
+      "opponent": "JÁSZBERÉNYI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 74,
+      "their_score": 70,
+      "has_pbp": true,
+      "starters": [
+        "Ervin Carlbe Lee",
+        "Lucey Ciarán József",
+        "Mester Márk",
+        "Ormai Botond Gábor",
+        "Polster Attila"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Gerőcs Roland Bálint",
+            "Mester Márk",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 17.0,
+          "pf": 13,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 15.0,
+          "pf": 6,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Gerőcs Roland Bálint",
+            "Lucey Ciarán József",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 11.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Ormai Botond Gábor",
+            "Polster Attila"
+          ],
+          "min": 10.0,
+          "pf": 16,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Polster Attila"
+          ],
+          "min": 6.0,
+          "pf": 18,
+          "pa": 16,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Ormai Botond Gábor",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Ormai Botond Gábor",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Ormai Botond Gábor",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Gerőcs Roland Bálint",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Gerőcs Roland Bálint",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_135737",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-25",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "W",
+      "our_score": 87,
+      "their_score": 82,
+      "has_pbp": true,
+      "starters": [
+        "Ervin Carlbe Lee",
+        "Lucey Ciarán József",
+        "Mester Márk",
+        "Ormai Botond Gábor",
+        "Polster Attila"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Ormai Botond Gábor",
+            "Polster Attila"
+          ],
+          "min": 16.0,
+          "pf": 24,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 15.0,
+          "pf": 12,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Mester Márk",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 13.0,
+          "pf": 8,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Polster Attila"
+          ],
+          "min": 8.0,
+          "pf": 18,
+          "pa": 17,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Ormai Botond Gábor",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Gerőcs Roland Bálint",
+            "Mayer Ákos",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Ormai Botond Gábor",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Mayer Ákos",
+            "Ormai Botond Gábor",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Ormai Botond Gábor",
+            "Szabadfi Márk"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
 }

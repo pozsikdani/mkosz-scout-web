@@ -1,8 +1,211 @@
 {
   "team": "Jászberényi KSE",
   "season": "x2627",
-  "match_count": 1,
+  "match_count": 2,
   "matches": [
+    {
+      "gamecode": "hun2a_135753",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-02",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 74,
+      "has_pbp": true,
+      "starters": [
+        "Arnóczi Áron",
+        "Bolyos Mateja",
+        "Geröly Márton András",
+        "Szálkai Gordon",
+        "Zsók Áron"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Abraham Arabo",
+            "Arnóczi Áron",
+            "Bolyos Mateja",
+            "Geröly Márton András",
+            "Szálkai Gordon"
+          ],
+          "min": 16.0,
+          "pf": 13,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Arnóczi Áron",
+            "Frank Áron",
+            "Márkus Balázs",
+            "Zsók Áron"
+          ],
+          "min": 13.0,
+          "pf": 9,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Frank Áron",
+            "Geröly Márton András",
+            "Márkus Balázs",
+            "Zsók Áron"
+          ],
+          "min": 13.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Bolyos Mateja",
+            "Frank Áron",
+            "Geröly Márton András",
+            "Szálkai Gordon"
+          ],
+          "min": 8.0,
+          "pf": 12,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Bolyos Mateja",
+            "Geröly Márton András",
+            "Szálkai Gordon",
+            "Zsók Áron"
+          ],
+          "min": 6.0,
+          "pf": 16,
+          "pa": 18,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Bolyos Mateja",
+            "Geröly Márton András",
+            "Márkus Balázs",
+            "Zsók Áron"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Arnóczi Áron",
+            "Frank Áron",
+            "Geröly Márton András",
+            "Márkus Balázs"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Frank Áron",
+            "Márkus Balázs",
+            "Rékasi Bojta Bendegúz",
+            "Zsók Áron"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Bolyos Mateja",
+            "Frank Áron",
+            "Márkus Balázs",
+            "Zsók Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Bolyos Mateja",
+            "Frank Áron",
+            "Geröly Márton András",
+            "Márkus Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Arnóczi Áron",
+            "Frank Áron",
+            "Geröly Márton András",
+            "Szálkai Gordon"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Abraham Arabo",
+            "Arnóczi Áron",
+            "Bolyos Mateja",
+            "Geröly Márton András",
+            "Márkus Balázs"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Arnóczi Áron",
+            "Bolyos Mateja",
+            "Geröly Márton András",
+            "Márkus Balázs",
+            "Rékasi Bojta Bendegúz"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bolyos Mateja",
+            "Frank Áron",
+            "Geröly Márton András",
+            "Márkus Balázs",
+            "Zsók Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135741",
       "comp_code": "hun2a",

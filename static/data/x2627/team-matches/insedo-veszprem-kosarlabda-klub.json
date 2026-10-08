@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "count": 23,
+  "count": 24,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -34,6 +34,39 @@
         }
       ],
       "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_135751",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "2. forduló",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "home": true,
+      "opponent": "TF-BP",
+      "our_score": 91,
+      "their_score": 65,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 15,
+          "their": 18
+        },
+        {
+          "our": 24,
+          "their": 7
+        },
+        {
+          "our": 25,
+          "their": 24
+        },
+        {
+          "our": 27,
+          "their": 16
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

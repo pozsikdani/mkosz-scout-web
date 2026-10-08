@@ -1,6 +1,63 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135743",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 82,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 21,
+        "mid_m": 2,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 14,
+        "close_x": 10,
+        "mid_x": 6,
+        "three_x": 18,
+        "dunk_x": 0,
+        "tov": 8,
+        "fga": 72,
+        "fta": 24,
+        "oreb": 5,
+        "tov_total": 8
+      }
+    },
+    {
+      "gamecode": "hun2a_135755",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "ZTE KK",
+      "home": true,
+      "result": "L",
+      "our_score": 71,
+      "their_score": 92,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 1,
+        "three_m": 7,
+        "dunk_m": 0,
+        "ft": 13,
+        "close_x": 12,
+        "mid_x": 3,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 60,
+        "fta": 24,
+        "oreb": 9,
+        "tov_total": 17
+      }
+    }
+  ]
 }

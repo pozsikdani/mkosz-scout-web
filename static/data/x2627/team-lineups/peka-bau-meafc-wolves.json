@@ -1,6 +1,295 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135749",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": true,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 91,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dunai Zétény Péter",
+          "jersey": 10,
+          "minutes": 34,
+          "points": 14,
+          "reb": 4,
+          "ast": 6,
+          "photo_filename": "peka-bau-meafc-wolves-dunai-zeteny-peter.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Gadus Bogdán Olivér",
+              "jersey": 5,
+              "minutes": 6,
+              "count": 3,
+              "photo_filename": "peka-bau-meafc-wolves-gadus-bogdan-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kelemen Ádám",
+          "jersey": 7,
+          "minutes": 17,
+          "points": 9,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "peka-bau-meafc-wolves-kelemen-adam.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Árva-File Balázs",
+              "jersey": 8,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-arva-file-balazs.jpg"
+            },
+            {
+              "name": "Radics Gerzson",
+              "jersey": 4,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-radics-gerzson.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kékesi Kolos",
+          "jersey": 17,
+          "minutes": 33,
+          "points": 12,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "peka-bau-meafc-wolves-kekesi-kolos.jpg",
+          "position": "2-1",
+          "subs": [
+            {
+              "name": "Árva-File Balázs",
+              "jersey": 8,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-arva-file-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ragályi Levente Gergely",
+          "jersey": 77,
+          "minutes": 25,
+          "points": 12,
+          "reb": 11,
+          "ast": 0,
+          "photo_filename": "peka-bau-meafc-wolves-ragalyi-levente-gergely.jpg",
+          "position": "5-4",
+          "subs": [
+            {
+              "name": "Meleg Károly Richárd",
+              "jersey": 6,
+              "minutes": 8,
+              "count": 3,
+              "photo_filename": "peka-bau-meafc-wolves-meleg-karoly-richard.jpg"
+            },
+            {
+              "name": "Kelemen Ádám",
+              "jersey": 7,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-kelemen-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Velkey János",
+          "jersey": 13,
+          "minutes": 34,
+          "points": 15,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "peka-bau-meafc-wolves-velkey-janos.jpg",
+          "position": "3-2",
+          "subs": [
+            {
+              "name": "Radics Gerzson",
+              "jersey": 4,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-radics-gerzson.jpg"
+            },
+            {
+              "name": "Molnár Levente",
+              "jersey": 24,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-molnar-levente.jpg"
+            },
+            {
+              "name": "Meleg Károly Richárd",
+              "jersey": 6,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-meleg-karoly-richard.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_135737",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-25",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 87,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dunai Zétény Péter",
+          "jersey": 10,
+          "minutes": 27,
+          "points": 6,
+          "reb": 8,
+          "ast": 3,
+          "photo_filename": "peka-bau-meafc-wolves-dunai-zeteny-peter.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Radics Gerzson",
+              "jersey": 4,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-radics-gerzson.jpg"
+            },
+            {
+              "name": "Árva-File Balázs",
+              "jersey": 8,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-arva-file-balazs.jpg"
+            },
+            {
+              "name": "Kelemen Ádám",
+              "jersey": 7,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-kelemen-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kelemen Ádám",
+          "jersey": 7,
+          "minutes": 25,
+          "points": 10,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "peka-bau-meafc-wolves-kelemen-adam.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Rozmán Flórián",
+              "jersey": 41,
+              "minutes": 6,
+              "count": 2,
+              "photo_filename": "peka-bau-meafc-wolves-rozman-florian.jpg"
+            },
+            {
+              "name": "Gadus Bogdán Olivér",
+              "jersey": 5,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-gadus-bogdan-oliver.jpg"
+            },
+            {
+              "name": "Radics Gerzson",
+              "jersey": 4,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-radics-gerzson.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kékesi Kolos",
+          "jersey": 17,
+          "minutes": 34,
+          "points": 17,
+          "reb": 5,
+          "ast": 4,
+          "photo_filename": "peka-bau-meafc-wolves-kekesi-kolos.jpg",
+          "position": "2-1",
+          "subs": [
+            {
+              "name": "Rozmán Flórián",
+              "jersey": 41,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-rozman-florian.jpg"
+            },
+            {
+              "name": "Gadus Bogdán Olivér",
+              "jersey": 5,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-gadus-bogdan-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Meleg Károly Richárd",
+          "jersey": 6,
+          "minutes": 9,
+          "points": 2,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "peka-bau-meafc-wolves-meleg-karoly-richard.jpg",
+          "position": "5-4",
+          "subs": [
+            {
+              "name": "Árva-File Balázs",
+              "jersey": 8,
+              "minutes": 11,
+              "count": 2,
+              "photo_filename": "peka-bau-meafc-wolves-arva-file-balazs.jpg"
+            },
+            {
+              "name": "Ragályi Levente Gergely",
+              "jersey": 77,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-ragalyi-levente-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Velkey János",
+          "jersey": 13,
+          "minutes": 36,
+          "points": 23,
+          "reb": 1,
+          "ast": 5,
+          "photo_filename": "peka-bau-meafc-wolves-velkey-janos.jpg",
+          "position": "3-2",
+          "subs": [
+            {
+              "name": "Radics Gerzson",
+              "jersey": 4,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "peka-bau-meafc-wolves-radics-gerzson.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

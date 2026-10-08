@@ -1,6 +1,158 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135759",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-04",
+      "opponent": "ÚJBUDA MAFC",
+      "home": true,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 93,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Farkas Attila",
+          "jersey": 9,
+          "minutes": 31,
+          "points": 7,
+          "reb": 1,
+          "ast": 5,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Plézer Gábor",
+              "jersey": 8,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "vasas-akademia-plezer-gabor.jpg"
+            },
+            {
+              "name": "Kis Botond",
+              "jersey": 25,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "vasas-akademia-kis-botond.jpg"
+            },
+            {
+              "name": "Pleesz Ádám",
+              "jersey": 20,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gáspár Mátyás",
+          "jersey": 17,
+          "minutes": 22,
+          "points": 8,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "vasas-akademia-gaspar-matyas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Erdős Artúr",
+              "jersey": 19,
+              "minutes": 18,
+              "count": 4,
+              "photo_filename": "vasas-akademia-erdos-artur.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Homoki Donát László",
+          "jersey": 4,
+          "minutes": 31,
+          "points": 13,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "vasas-akademia-homoki-donat-laszlo.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Pleesz Ádám",
+              "jersey": 20,
+              "minutes": 10,
+              "count": 3,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Makkos Dávid",
+          "jersey": 3,
+          "minutes": 29,
+          "points": 7,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Heimann Gergő",
+              "jersey": 13,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "vasas-akademia-heimann-gergo.jpg"
+            },
+            {
+              "name": "Zöldi Péter András",
+              "jersey": 1,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg"
+            },
+            {
+              "name": "Plézer Gábor",
+              "jersey": 8,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "vasas-akademia-plezer-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zöldi Péter András",
+          "jersey": 1,
+          "minutes": 31,
+          "points": 24,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Heimann Gergő",
+              "jersey": 13,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "vasas-akademia-heimann-gergo.jpg"
+            },
+            {
+              "name": "Farkas Attila",
+              "jersey": 9,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
+            },
+            {
+              "name": "Plézer Gábor",
+              "jersey": 8,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "vasas-akademia-plezer-gabor.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

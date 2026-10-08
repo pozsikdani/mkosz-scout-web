@@ -1,8 +1,74 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "count": 22,
+  "count": 24,
   "matches": [
+    {
+      "gamecode": "hun2a_135737",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "1. forduló",
+      "date": "2026-09-25",
+      "time": "18:00",
+      "home": true,
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "our_score": 87,
+      "their_score": 82,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 24
+        },
+        {
+          "our": 24,
+          "their": 26
+        },
+        {
+          "our": 21,
+          "their": 18
+        },
+        {
+          "our": 18,
+          "their": 14
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_135753",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "2. forduló",
+      "date": "2026-10-02",
+      "time": "18:00",
+      "home": true,
+      "opponent": "JÁSZBERÉNYI KSE",
+      "our_score": 74,
+      "their_score": 70,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 28,
+          "their": 23
+        },
+        {
+          "our": 13,
+          "their": 28
+        },
+        {
+          "our": 20,
+          "their": 13
+        },
+        {
+          "our": 13,
+          "their": 6
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
     {
       "gamecode": "hun2a_135769",
       "comp_code": "hun2a",

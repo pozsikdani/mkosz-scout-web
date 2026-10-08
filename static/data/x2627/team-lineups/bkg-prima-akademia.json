@@ -1,6 +1,222 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135749",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "L",
+      "our_score": 91,
+      "their_score": 97,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csécsei Gergő",
+          "jersey": 13,
+          "minutes": 24,
+          "points": 5,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-csecsei-gergo.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kovács Leonárd",
+              "jersey": 16,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Benedek Ágost",
+          "jersey": 9,
+          "minutes": 40,
+          "points": 26,
+          "reb": 4,
+          "ast": 6,
+          "photo_filename": "bkg-prima-akademia-nagy-benedek-agost.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Nagy Botond Ágoston",
+          "jersey": 14,
+          "minutes": 34,
+          "points": 25,
+          "reb": 1,
+          "ast": 8,
+          "photo_filename": "bkg-prima-akademia-nagy-botond-agoston.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Csécsei Gergő",
+              "jersey": 13,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-csecsei-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Reiber Dean Thomas",
+          "jersey": 5,
+          "minutes": 38,
+          "points": 29,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Szanyi Róbert",
+              "jersey": 15,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-szanyi-robert.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Várszegi Balázs",
+          "jersey": 6,
+          "minutes": 11,
+          "points": 2,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-varszegi-balazs.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Dokmanovic Milán",
+              "jersey": 22,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-dokmanovic-milan.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_135735",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-27",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 83,
+      "their_score": 80,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Galambos Árpád",
+          "jersey": 7,
+          "minutes": 22,
+          "points": 8,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "bkg-prima-akademia-galambos-arpad.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Dokmanovic Milán",
+              "jersey": 22,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-dokmanovic-milan.jpg"
+            },
+            {
+              "name": "Reiber Dean Thomas",
+              "jersey": 5,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg"
+            },
+            {
+              "name": "Büki Lóránt",
+              "jersey": 12,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-buki-lorant.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Leonárd",
+          "jersey": 16,
+          "minutes": 19,
+          "points": 0,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Csécsei Gergő",
+              "jersey": 13,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-csecsei-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Benedek Ágost",
+          "jersey": 9,
+          "minutes": 40,
+          "points": 11,
+          "reb": 7,
+          "ast": 11,
+          "photo_filename": "bkg-prima-akademia-nagy-benedek-agost.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Nagy Botond Ágoston",
+          "jersey": 14,
+          "minutes": 40,
+          "points": 34,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "bkg-prima-akademia-nagy-botond-agoston.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Reiber Dean Thomas",
+          "jersey": 5,
+          "minutes": 35,
+          "points": 21,
+          "reb": 7,
+          "ast": 2,
+          "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Galambos Árpád",
+              "jersey": 7,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-galambos-arpad.jpg"
+            },
+            {
+              "name": "Kovács Leonárd",
+              "jersey": 16,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

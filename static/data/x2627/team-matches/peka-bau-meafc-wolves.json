@@ -1,8 +1,74 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "count": 22,
+  "count": 24,
   "matches": [
+    {
+      "gamecode": "hun2a_135737",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "1. forduló",
+      "date": "2026-09-25",
+      "time": "18:00",
+      "home": false,
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "our_score": 82,
+      "their_score": 87,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 24
+        },
+        {
+          "our": 26,
+          "their": 24
+        },
+        {
+          "our": 18,
+          "their": 21
+        },
+        {
+          "our": 14,
+          "their": 18
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_135749",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "2. forduló",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "home": true,
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "our_score": 97,
+      "their_score": 91,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 21,
+          "their": 25
+        },
+        {
+          "our": 29,
+          "their": 23
+        },
+        {
+          "our": 22,
+          "their": 22
+        },
+        {
+          "our": 25,
+          "their": 21
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
     {
       "gamecode": "hun2a_135765",
       "comp_code": "hun2a",

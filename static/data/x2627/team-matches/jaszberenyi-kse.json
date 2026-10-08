@@ -1,7 +1,7 @@
 {
   "team": "Jászberényi KSE",
   "season": "x2627",
-  "count": 23,
+  "count": 24,
   "matches": [
     {
       "gamecode": "hun2a_135741",
@@ -34,6 +34,39 @@
         }
       ],
       "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_135753",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "2. forduló",
+      "date": "2026-10-02",
+      "time": "18:00",
+      "home": false,
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "our_score": 70,
+      "their_score": 74,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 23,
+          "their": 28
+        },
+        {
+          "our": 28,
+          "their": 13
+        },
+        {
+          "our": 13,
+          "their": 20
+        },
+        {
+          "our": 6,
+          "their": 13
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

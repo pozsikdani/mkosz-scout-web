@@ -1,6 +1,634 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135751",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA…",
+      "home": false,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 91,
+      "has_pbp": true,
+      "starters": [
+        "Czermann Patrik Ákos",
+        "Horváth Botond",
+        "Molnár Dániel",
+        "Molnár Marcell József",
+        "Swanson Kevin Wade"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Czermann Patrik Ákos",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 15.0,
+          "pf": 13,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Fábián Szabolcs",
+            "Inalegwu Marcell Sámuel",
+            "Lőrincz Boldizsár Zalán"
+          ],
+          "min": 13.0,
+          "pf": 8,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Horváth Botond",
+            "Kovács Áron Boldizsár",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 7.0,
+          "pf": 8,
+          "pa": 15,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Fábián Szabolcs",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Fábián Szabolcs",
+            "Inalegwu Marcell Sámuel",
+            "Kovács Áron Boldizsár"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Inalegwu Marcell Sámuel",
+            "Kovács Áron Boldizsár",
+            "Swanson Kevin Wade"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Fábián Szabolcs",
+            "Horváth Botond",
+            "Inalegwu Marcell Sámuel",
+            "Kovács Áron Boldizsár"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Horváth Botond",
+            "Inalegwu Marcell Sámuel",
+            "Kovács Áron Boldizsár",
+            "Swanson Kevin Wade"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Fábián Szabolcs",
+            "Horváth Botond",
+            "Kovács Áron Boldizsár"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Fábián Szabolcs",
+            "Horváth Botond",
+            "Kovács Áron Boldizsár",
+            "Molnár Marcell József"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Inalegwu Marcell Sámuel",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Molnár Marcell József"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Inalegwu Marcell Sámuel",
+            "Lőrincz Boldizsár Zalán"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Inalegwu Marcell Sámuel",
+            "Kovács Áron Boldizsár"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Inalegwu Marcell Sámuel",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_135735",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-27",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 83,
+      "has_pbp": true,
+      "starters": [
+        "Boros Márk",
+        "Czermann Patrik Ákos",
+        "Inalegwu Marcell Sámuel",
+        "Molnár Dániel",
+        "Swanson Kevin Wade"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Horváth Botond",
+            "Lőrincz Boldizsár Zalán",
+            "Swanson Kevin Wade"
+          ],
+          "min": 14.0,
+          "pf": 11,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Fábián Szabolcs",
+            "Horváth Botond",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József"
+          ],
+          "min": 13.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 10.0,
+          "pf": 21,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 5.0,
+          "pf": 2,
+          "pa": 14,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Horváth Botond",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Patrik Ákos",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Horváth Botond",
+            "Inalegwu Marcell Sámuel",
+            "Lőrincz Boldizsár Zalán",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Inalegwu Marcell Sámuel",
+            "Lőrincz Boldizsár Zalán",
+            "Swanson Kevin Wade"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fábián Szabolcs",
+            "Inalegwu Marcell Sámuel",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Molnár Dániel",
+            "Molnár Marcell József"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Inalegwu Marcell Sámuel",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Molnár Marcell József"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Lőrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Lőrincz Boldizsár Zalán",
+            "Swanson Kevin Wade"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Czermann Patrik Ákos",
+            "Horváth Botond",
+            "Molnár Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
 }

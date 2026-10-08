@@ -1,6 +1,210 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135745",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 67,
+      "their_score": 66,
+      "has_pbp": true,
+      "starters": [
+        "Cserényi Marcell",
+        "Fekete Viktor Norbert",
+        "Mucza Tamás",
+        "Takács Dániel",
+        "Williams Jr. Eric Leval"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Mucza Tamás",
+            "Takács Dániel",
+            "Williams Jr. Eric Leval"
+          ],
+          "min": 14.0,
+          "pf": 35,
+          "pa": 25,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Németh Atilla Gergő",
+            "Williams Jr. Eric Leval"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Boka-magó Áron István",
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Osztoics Milán"
+          ],
+          "min": 11.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Mucza Tamás"
+          ],
+          "min": 11.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Hargitai Krisztián",
+            "Kámán Bálint"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Osztoics Milán"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Hargitai Krisztián",
+            "Mucza Tamás",
+            "Takács Dániel",
+            "Williams Jr. Eric Leval"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Mucza Tamás",
+            "Osztoics Milán",
+            "Takács Dániel"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Osztoics Milán"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Hargitai Krisztián",
+            "Mucza Tamás",
+            "Takács Dániel"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Takács Dániel",
+            "Williams Jr. Eric Leval"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Boka-magó Áron István",
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Williams Jr. Eric Leval"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Nagy Ádám Béla",
+            "Németh Atilla Gergő"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Kámán Bálint",
+            "Williams Jr. Eric Leval"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
 }

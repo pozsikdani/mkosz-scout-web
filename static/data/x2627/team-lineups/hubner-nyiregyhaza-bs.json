@@ -1,8 +1,173 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 1,
+  "match_count": 2,
   "matches": [
+    {
+      "gamecode": "hun2a_135757",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "L",
+      "our_score": 62,
+      "their_score": 85,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bazsó Brúnó Tamás",
+          "jersey": 11,
+          "minutes": 27,
+          "points": 8,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "hubner-nyiregyhaza-bs-bazso-bruno-tamas.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kopácsi Ákos",
+              "jersey": 8,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg"
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-richter-daniel.jpg"
+            },
+            {
+              "name": "Verebélyi Áron",
+              "jersey": 2,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Hibján Máté",
+          "jersey": 17,
+          "minutes": 30,
+          "points": 3,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Végső Bálint",
+              "jersey": 9,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg"
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-richter-daniel.jpg"
+            },
+            {
+              "name": "Orosi Bálint Gábor",
+              "jersey": 7,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kopácsi Ákos",
+          "jersey": 8,
+          "minutes": 20,
+          "points": 2,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Hibján Máté",
+              "jersey": 17,
+              "minutes": 30,
+              "count": 3,
+              "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg"
+            },
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-richter-daniel.jpg"
+            },
+            {
+              "name": "Orosi Bálint Gábor",
+              "jersey": 7,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Orosi Bálint Gábor",
+          "jersey": 7,
+          "minutes": 22,
+          "points": 3,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 18,
+              "count": 4,
+              "photo_filename": "hubner-nyiregyhaza-bs-toth-patrik-kristof.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Richter Dániel",
+          "jersey": 45,
+          "minutes": 14,
+          "points": 12,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "hubner-nyiregyhaza-bs-richter-daniel.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Verebélyi Áron",
+              "jersey": 2,
+              "minutes": 12,
+              "count": 3,
+              "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg"
+            },
+            {
+              "name": "Kristóf Péter Kristóf",
+              "jersey": 5,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-kristof-peter-kristof.jpg"
+            },
+            {
+              "name": "Bazsó Brúnó Tamás",
+              "jersey": 11,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-bazso-bruno-tamas.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135741",
       "comp_code": "hun2a",

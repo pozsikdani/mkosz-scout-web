@@ -1,6 +1,63 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135737",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-25",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 87,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 3,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 10,
+        "close_x": 13,
+        "mid_x": 2,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 9,
+        "fga": 72,
+        "fta": 17,
+        "oreb": 10,
+        "tov_total": 9
+      }
+    },
+    {
+      "gamecode": "hun2a_135749",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": true,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 91,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 29,
+        "mid_m": 2,
+        "three_m": 7,
+        "dunk_m": 1,
+        "ft": 13,
+        "close_x": 5,
+        "mid_x": 3,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 15,
+        "fga": 75,
+        "fta": 15,
+        "oreb": 17,
+        "tov_total": 15
+      }
+    }
+  ]
 }

@@ -1,6 +1,135 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2a_135745",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 67,
+      "their_score": 66,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Cserényi Marcell",
+          "jersey": 4,
+          "minutes": 30,
+          "points": 6,
+          "reb": 10,
+          "ast": 2,
+          "photo_filename": "salgotarjani-kse-cserenyi-marcell.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Balázs Márton József",
+              "jersey": 21,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-balazs-marton-jozsef.jpg"
+            },
+            {
+              "name": "Németh Atilla Gergő",
+              "jersey": 80,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-nemeth-atilla-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fekete Viktor Norbert",
+          "jersey": 7,
+          "minutes": 29,
+          "points": 12,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "salgotarjani-kse-fekete-viktor-norbert.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Hargitai Krisztián",
+              "jersey": 99,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "salgotarjani-kse-hargitai-krisztian.jpg"
+            },
+            {
+              "name": "Mucza Tamás",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-mucza-tamas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mucza Tamás",
+          "jersey": 13,
+          "minutes": 31,
+          "points": 14,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "salgotarjani-kse-mucza-tamas.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 0,
+              "minutes": 10,
+              "count": 3,
+              "photo_filename": "salgotarjani-kse-boka-mago-aron-istvan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Takács Dániel",
+          "jersey": 11,
+          "minutes": 25,
+          "points": 3,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "salgotarjani-kse-takacs-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kámán Bálint",
+              "jersey": 6,
+              "minutes": 15,
+              "count": 3,
+              "photo_filename": "salgotarjani-kse-kaman-balint.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Williams Jr. Eric Leval",
+          "jersey": 34,
+          "minutes": 24,
+          "points": 4,
+          "reb": 6,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Osztoics Milán",
+              "jersey": 9,
+              "minutes": 8,
+              "count": 3,
+              "photo_filename": "salgotarjani-kse-osztoics-milan.jpg"
+            },
+            {
+              "name": "Cserényi Marcell",
+              "jersey": 4,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-cserenyi-marcell.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

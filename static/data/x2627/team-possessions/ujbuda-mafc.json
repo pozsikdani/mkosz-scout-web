@@ -1,6 +1,63 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135743",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "PVSK-PANTHERS",
+      "home": true,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 95,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 0,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 18,
+        "close_x": 13,
+        "mid_x": 3,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 67,
+        "fta": 33,
+        "oreb": 11,
+        "tov_total": 14
+      }
+    },
+    {
+      "gamecode": "hun2a_135759",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-04",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 93,
+      "their_score": 82,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 19,
+        "mid_m": 2,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 18,
+        "close_x": 9,
+        "mid_x": 2,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 65,
+        "fta": 34,
+        "oreb": 9,
+        "tov_total": 14
+      }
+    }
+  ]
 }

@@ -1,6 +1,413 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135749",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": true,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 91,
+      "has_pbp": true,
+      "starters": [
+        "Dunai Zétény Péter",
+        "Kelemen Ádám",
+        "Kékesi Kolos",
+        "Ragályi Levente Gergely",
+        "Velkey János"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Ragályi Levente Gergely",
+            "Velkey János"
+          ],
+          "min": 11.0,
+          "pf": 20,
+          "pa": 25,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Meleg Károly Richárd",
+            "Radics Gerzson",
+            "Árva-file Balázs"
+          ],
+          "min": 11.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Rozmán Flórián",
+            "Velkey János"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Meleg Károly Richárd",
+            "Molnár Levente",
+            "Árva-file Balázs"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Ragályi Levente Gergely",
+            "Velkey János"
+          ],
+          "min": 6.0,
+          "pf": 28,
+          "pa": 23,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Meleg Károly Richárd",
+            "Radics Gerzson",
+            "Velkey János"
+          ],
+          "min": 5.0,
+          "pf": 14,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Molnár Levente",
+            "Radics Gerzson",
+            "Ragályi Levente Gergely",
+            "Árva-file Balázs"
+          ],
+          "min": 3.0,
+          "pf": 15,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Meleg Károly Richárd",
+            "Radics Gerzson"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Molnár Levente",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Molnár Levente",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Rozmán Flórián",
+            "Velkey János"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Ragályi Levente Gergely"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2a_135737",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-25",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 87,
+      "has_pbp": true,
+      "starters": [
+        "Dunai Zétény Péter",
+        "Kelemen Ádám",
+        "Kékesi Kolos",
+        "Meleg Károly Richárd",
+        "Velkey János"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 13.0,
+          "pf": 7,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 12.0,
+          "pf": 7,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Radics Gerzson",
+            "Rozmán Flórián",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Ragályi Levente Gergely",
+            "Velkey János"
+          ],
+          "min": 5.0,
+          "pf": 15,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Meleg Károly Richárd",
+            "Velkey János"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 10,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Ragályi Levente Gergely"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Ragályi Levente Gergely",
+            "Velkey János"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Velkey János"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Meleg Károly Richárd",
+            "Radics Gerzson",
+            "Velkey János"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Radics Gerzson",
+            "Rozmán Flórián",
+            "Velkey János"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Rozmán Flórián",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Meleg Károly Richárd",
+            "Velkey János"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Ragályi Levente Gergely",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Rozmán Flórián"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Rozmán Flórián",
+            "Velkey János"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
 }

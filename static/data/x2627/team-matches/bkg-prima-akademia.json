@@ -1,8 +1,74 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "count": 22,
+  "count": 24,
   "matches": [
+    {
+      "gamecode": "hun2a_135735",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "1. forduló",
+      "date": "2026-09-27",
+      "time": "16:00",
+      "home": true,
+      "opponent": "TF-BP",
+      "our_score": 83,
+      "their_score": 80,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 22,
+          "their": 16
+        },
+        {
+          "our": 14,
+          "their": 23
+        },
+        {
+          "our": 23,
+          "their": 21
+        },
+        {
+          "our": 24,
+          "their": 20
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
+    {
+      "gamecode": "hun2a_135749",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "2. forduló",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "home": false,
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "our_score": 91,
+      "their_score": 97,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 25,
+          "their": 21
+        },
+        {
+          "our": 23,
+          "their": 29
+        },
+        {
+          "our": 22,
+          "their": 22
+        },
+        {
+          "our": 21,
+          "their": 25
+        }
+      ],
+      "has_scoresheet": true,
+      "has_pbp": true
+    },
     {
       "gamecode": "hun2a_135763",
       "comp_code": "hun2a",

@@ -1,6 +1,63 @@
 {
   "team": "DEAC U23",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2a_135745",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 66,
+      "their_score": 67,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 1,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 5,
+        "close_x": 9,
+        "mid_x": 2,
+        "three_x": 24,
+        "dunk_x": 0,
+        "tov": 18,
+        "fga": 72,
+        "fta": 8,
+        "oreb": 11,
+        "tov_total": 18
+      }
+    },
+    {
+      "gamecode": "hun2a_135757",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-03",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": true,
+      "result": "W",
+      "our_score": 85,
+      "their_score": 62,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 1,
+        "three_m": 13,
+        "dunk_m": 2,
+        "ft": 10,
+        "close_x": 10,
+        "mid_x": 1,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 65,
+        "fta": 19,
+        "oreb": 10,
+        "tov_total": 13
+      }
+    }
+  ]
 }
