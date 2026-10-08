@@ -45,11 +45,14 @@ def crop_and_save(pic_url: str, out_path: Path, size: int = PHOTO_SIZE) -> bool:
 
 def main() -> int:
     p = argparse.ArgumentParser()
-    p.add_argument("--rosters", default=str(DEFAULT_ROSTERS))
+    p.add_argument("--rosters", default=None)
+    p.add_argument("--season", default="x2627")
     p.add_argument("--out-dir", default=str(DEFAULT_OUT_DIR))
     p.add_argument("--force", action="store_true",
                    help="Re-download even if photo file already exists")
     args = p.parse_args()
+    if args.rosters is None:
+        args.rosters = str(REPO_ROOT / "static" / "data" / args.season / "rosters/hun2a.json")
 
     rosters = json.loads(Path(args.rosters).read_text(encoding="utf-8"))
     out_dir = Path(args.out_dir)

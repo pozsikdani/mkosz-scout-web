@@ -1,5 +1,14 @@
 name: Napi adat-export és deploy (NB1B Piros)
 
+# Aktív szezon: x2627 (2026/27). A scriptek defaultja is ez, és az adat
+# a static/data/x2627/ alá kerül. Új szezonra váltáskor:
+#   1. SEASON env-et frissítsd itt (vagy a script-defaults módosulnak)
+#   2. src/lib/seasons.ts-be add be az új szezont CURRENT_SEASON-nek
+#   3. mkosz-play-by-play/.github/workflows/daily-scrape.yml-ben --season frissítése
+#   4. mkosz-scoresheet/ci_update.py SEASON konstansa
+env:
+  SEASON: x2627
+
 on:
   schedule:
     - cron: '30 7 * * *'  # 7:30 UTC — mkosz-stats import (6:30 UTC) után
@@ -49,26 +58,26 @@ jobs:
           SQL
 
       - name: Tabella scrape (mkosz.hu)
-        run: python3 scripts/scrape_standings.py
+        run: python3 scripts/scrape_standings.py --season "$SEASON"
 
       - name: Roster scrape (mkosz.hu csapat oldalak)
-        run: python3 scripts/scrape_rosters.py
+        run: python3 scripts/scrape_rosters.py --season "$SEASON"
 
       - name: Játékos-fotók letöltése (idempotens, cache-elt)
-        run: python3 scripts/download_player_photos.py
+        run: python3 scripts/download_player_photos.py --season "$SEASON"
 
       - name: Per-csapat exportok (DB-ből)
         env:
           DB_PATH: /tmp/mkosz-stats/mkosz_stats.sqlite
         run: |
-          python3 scripts/export_team_matches.py     --db "$DB_PATH"
-          python3 scripts/export_team_players.py     --db "$DB_PATH"
-          python3 scripts/export_team_shots.py       --db "$DB_PATH"
-          python3 scripts/export_team_player_shots.py --db "$DB_PATH"
-          python3 scripts/export_team_possessions.py --db "$DB_PATH"
-          python3 scripts/export_team_lineups.py     --db "$DB_PATH"
-          python3 scripts/export_team_lineup_nrtg.py --db "$DB_PATH"
-          python3 scripts/export_league_comparison.py --db "$DB_PATH"
+          python3 scripts/export_team_matches.py      --db "$DB_PATH" --season "$SEASON"
+          python3 scripts/export_team_players.py      --db "$DB_PATH" --season "$SEASON"
+          python3 scripts/export_team_shots.py        --db "$DB_PATH" --season "$SEASON"
+          python3 scripts/export_team_player_shots.py --db "$DB_PATH" --season "$SEASON"
+          python3 scripts/export_team_possessions.py  --db "$DB_PATH" --season "$SEASON"
+          python3 scripts/export_team_lineups.py      --db "$DB_PATH" --season "$SEASON"
+          python3 scripts/export_team_lineup_nrtg.py  --db "$DB_PATH" --season "$SEASON"
+          python3 scripts/export_league_comparison.py --db "$DB_PATH" --season "$SEASON"
 
       - name: Commit és push ha változott
         run: |

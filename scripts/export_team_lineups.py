@@ -298,11 +298,18 @@ def build_player_lookup(conn: sqlite3.Connection, gamecode: str, team_side: str)
 def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--db", default=str(DEFAULT_DB))
-    p.add_argument("--standings", default=str(DEFAULT_STANDINGS))
-    p.add_argument("--out-dir", default=str(DEFAULT_OUT_DIR))
-    p.add_argument("--rosters", default=str(DEFAULT_ROSTERS))
-    p.add_argument("--season", default="x2526")
+    p.add_argument("--standings", default=None)
+    p.add_argument("--out-dir", default=None)
+    p.add_argument("--rosters", default=None)
+    p.add_argument("--season", default="x2627")
     args = p.parse_args()
+    if args.rosters is None:
+        args.rosters = str(REPO_ROOT / "static" / "data" / args.season / "rosters/hun2a.json")
+    if args.standings is None:
+        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / "hun2a.json")
+    if args.out_dir is None:
+        args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-lineups")
+
 
     standings_path = Path(args.standings)
     if not standings_path.exists():

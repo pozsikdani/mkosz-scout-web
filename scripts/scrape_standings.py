@@ -84,9 +84,9 @@ def scrape_standings(season: str, comp: str) -> list[dict]:
 
 def main() -> int:
     p = argparse.ArgumentParser()
-    p.add_argument("--season", default="x2526")
+    p.add_argument("--season", default="x2627")
     p.add_argument("--comp", default="hun2a")
-    p.add_argument("--out", default=None, help="output path (default: static/data/standings/{comp}.json)")
+    p.add_argument("--out", default=None, help="output path (default: static/data/{season}/standings/{comp}.json)")
     args = p.parse_args()
 
     teams = scrape_standings(args.season, args.comp)
@@ -107,7 +107,7 @@ def main() -> int:
         out_path = Path(args.out)
     else:
         repo_root = Path(__file__).resolve().parent.parent
-        out_path = repo_root / "static" / "data" / "standings" / f"{args.comp}.json"
+        out_path = repo_root / "static" / "data" / args.season / "standings" / f"{args.comp}.json"
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {len(teams)} teams → {out_path}")

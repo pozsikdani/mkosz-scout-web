@@ -101,11 +101,18 @@ def fetch_shots(conn: sqlite3.Connection, gamecode: str, team_id: int) -> list[d
 def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--db", default=str(DEFAULT_DB))
-    p.add_argument("--standings", default=str(DEFAULT_STANDINGS))
-    p.add_argument("--matches-dir", default=str(DEFAULT_MATCHES_DIR))
-    p.add_argument("--out-dir", default=str(DEFAULT_OUT_DIR))
-    p.add_argument("--season", default="x2526")
+    p.add_argument("--standings", default=None)
+    p.add_argument("--matches-dir", default=None)
+    p.add_argument("--out-dir", default=None)
+    p.add_argument("--season", default="x2627")
     args = p.parse_args()
+    if args.matches_dir is None:
+        args.matches_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-matches")
+    if args.standings is None:
+        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / "hun2a.json")
+    if args.out_dir is None:
+        args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-shots")
+
 
     standings = json.loads(Path(args.standings).read_text(encoding="utf-8"))
     matches_dir = Path(args.matches_dir)
