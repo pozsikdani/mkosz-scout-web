@@ -1,7 +1,7 @@
 {
   "team": "DEAC U23",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135745",
@@ -58,6 +58,19 @@
         "oreb": 10,
         "tov_total": 13
       }
+    },
+    {
+      "gamecode": "hun2a_135769",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-09",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": false,
+      "result": "L",
+      "our_score": 89,
+      "their_score": 92,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

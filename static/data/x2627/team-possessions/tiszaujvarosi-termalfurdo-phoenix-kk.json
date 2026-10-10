@@ -1,7 +1,7 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -58,6 +58,19 @@
         "oreb": 8,
         "tov_total": 13
       }
+    },
+    {
+      "gamecode": "hun2a_135769",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-09",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 92,
+      "their_score": 89,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

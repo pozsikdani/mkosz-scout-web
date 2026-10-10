@@ -1,8 +1,42 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2a_135769",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-09",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "W",
+      "our_score": 92,
+      "their_score": 89,
+      "has_pbp": true,
+      "starters": [
+        "Ervin Carlbe Lee",
+        "Lucey Ciarán József",
+        "Mester Márk",
+        "Ormai Botond Gábor",
+        "Polster Attila"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Polster Attila"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": true
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135753",
       "comp_code": "hun2a",
