@@ -234,7 +234,7 @@
 
 			{#if playerShots?.league_baselines}
 				{@const ps = playerShots.players[p.name]?.shots ?? []}
-				{#if ps.length >= 20}
+				{#if ps.length >= 5}
 					<div class="flex items-start gap-3 border-t border-border bg-card px-3 py-2">
 						<MiniHeatmap shots={ps} baselines={playerShots.league_baselines} />
 						<div class="min-w-0 flex-1 text-[10px] leading-tight text-muted">
