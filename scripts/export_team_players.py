@@ -68,7 +68,7 @@ MIN_FTA = 10
 
 def team_matches(canonical_name: str, db_name: str, aliases: list[str]) -> bool:
     db_full = norm_full(db_name)
-    if len(db_full) < 5:
+    if len(db_full) < 4:
         return False
     for cand in [canonical_name, *aliases]:
         cand_full = norm_full(cand)

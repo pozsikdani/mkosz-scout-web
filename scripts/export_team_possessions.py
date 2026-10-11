@@ -53,6 +53,9 @@ PHASE_MAP = {
     "hun2a": "alapszakasz",
     "hun2a_ply": "rajatszas_felso",
     "hun2a_plya": "rajatszas_also",
+    "hun2b": "alapszakasz",
+    "hun2b_ply": "rajatszas_felso",
+    "hun2b_plya": "rajatszas_also",
 }
 
 TEAM_ALIASES: dict[str, list[str]] = {
@@ -74,7 +77,7 @@ def norm_full(name: str) -> str:
 
 def team_matches(canonical_name: str, db_name: str, aliases: list[str]) -> bool:
     db_full = norm_full(db_name)
-    if len(db_full) < 5:
+    if len(db_full) < 4:
         return False
     for cand in [canonical_name, *aliases]:
         cand_full = norm_full(cand)

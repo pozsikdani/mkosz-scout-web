@@ -24,10 +24,13 @@ DEFAULT_DB = REPO_ROOT.parent / "mkosz-stats" / "mkosz_stats.sqlite"
 DEFAULT_STANDINGS = REPO_ROOT / "static" / "data" / "standings" / "hun2a.json"
 DEFAULT_OUT_DIR = REPO_ROOT / "static" / "data" / "team-matches"
 
-PLAYOFF_BRACKETS = {
+PLAYOFF_BRACKETS: dict[str, str] = {
     "hun2a": "alapszakasz",
     "hun2a_ply": "rajatszas_felso",
     "hun2a_plya": "rajatszas_also",
+    "hun2b": "alapszakasz",
+    "hun2b_ply": "rajatszas_felso",
+    "hun2b_plya": "rajatszas_also",
 }
 
 # Csapatok, amiknek szezon közben név/szponzor-váltás miatt több néven szerepelnek
@@ -59,7 +62,7 @@ def team_matches(canonical_name: str, db_name: str, aliases: list[str]) -> bool:
     - DB names shorter than the canonical prefix (\"BKG PRIMA\" in \"bkg prima akademia\")
     """
     db_full = norm_full(db_name)
-    if len(db_full) < 5:
+    if len(db_full) < 4:
         return False
     for candidate in [canonical_name, *aliases]:
         cand_full = norm_full(candidate)
@@ -131,8 +134,8 @@ def fetch_matches_for_team(conn: sqlite3.Connection, team_name: str, season: str
         WHERE season = ?
           AND comp_code IN (%s)
         """
-        % ",".join("?" for _ in PLAYOFF_BRACKETS),
-        (season, *PLAYOFF_BRACKETS.keys()),
+        % ",".join("?" for _ in COMPS),
+        (season, *COMPS),
     ).fetchall()
 
     matches = []

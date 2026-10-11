@@ -1,6 +1,655 @@
 {
   "team": "TFSE",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 3,
+  "matches": [
+    {
+      "gamecode": "hun2b_136137",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-09",
+      "opponent": "Vásárhelyi Kosársuli",
+      "home": true,
+      "result": "L",
+      "our_score": 53,
+      "their_score": 72,
+      "has_pbp": true,
+      "starters": [
+        "Blaskovits Márk Mihály",
+        "Körömi László",
+        "Pozsik Zsombor",
+        "Vámos László",
+        "Vígh Marcell Péter"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Dobos Máté",
+            "Keresztesi Dávid József",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté"
+          ],
+          "min": 30.0,
+          "pf": 11,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Körömi László",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 14.0,
+          "pf": 20,
+          "pa": 24,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Keresztesi Dávid József",
+            "Körömi László",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 11.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor",
+            "Szalontai Máté",
+            "Vígh Marcell Péter"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Dobos Máté",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Körömi László",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor",
+            "Vígh Marcell Péter"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Körömi László",
+            "Pozsik Zsombor",
+            "Vámos László"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Dobos Máté",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Dobos Máté",
+            "Pozsik Zsombor",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Körömi László",
+            "Pozsik Zsombor",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Keresztesi Dávid József",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté",
+            "Vígh Marcell Péter"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Keresztesi Dávid József",
+            "Körömi László",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 0.0,
+          "pf": 6,
+          "pa": 8,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_136125",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-02",
+      "opponent": "NEOsport Kozármisleny SE",
+      "home": true,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 74,
+      "has_pbp": true,
+      "starters": [
+        "Lakits Benedek",
+        "Nagy Kevin Krisztián",
+        "Pozsik Zsombor",
+        "Vámos László",
+        "Vígh Marcell Péter"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 11.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Garancz Milán",
+            "Körömi László",
+            "Szalontai Máté"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Vígh Marcell Péter"
+          ],
+          "min": 10.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Lakits Benedek",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 7.0,
+          "pf": 9,
+          "pa": 13,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Bognár Mátyás",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Garancz Milán",
+            "Körömi László",
+            "Pozsik Zsombor",
+            "Szalontai Máté"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Garancz Milán",
+            "Pozsik Zsombor",
+            "Vígh Marcell Péter"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté",
+            "Vígh Marcell Péter"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Bognár Mátyás",
+            "Szalontai Máté",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Nagy Kevin Krisztián"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Körömi László",
+            "Vámos László"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Körömi László"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Nagy Kevin Krisztián",
+            "Vámos László"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Nagy Kevin Krisztián",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Körömi László",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Körömi László",
+            "Vámos László"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Bognár Mátyás",
+            "Körömi László",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Bognár Mátyás",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté",
+            "Vígh Marcell Péter"
+          ],
+          "min": 0.0,
+          "pf": 7,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_136111",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "Százhalombattai KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 72,
+      "their_score": 64,
+      "has_pbp": true,
+      "starters": [
+        "Lakits Benedek",
+        "Nagy Kevin Krisztián",
+        "Pozsik Zsombor",
+        "Vámos László",
+        "Vígh Marcell Péter"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Körömi László"
+          ],
+          "min": 17.0,
+          "pf": 19,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Garancz Milán",
+            "Körömi László",
+            "Pozsik Zsombor"
+          ],
+          "min": 16.0,
+          "pf": 12,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Lakits Benedek",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 12.0,
+          "pf": 6,
+          "pa": 21,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Körömi László",
+            "Pozsik Zsombor"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Vígh Marcell Péter"
+          ],
+          "min": 6.0,
+          "pf": 17,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Körömi László",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bognár Mátyás",
+            "Körömi László",
+            "Lakits Benedek",
+            "Nagy Kevin Krisztián",
+            "Vámos László"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Bognár Mátyás",
+            "Körömi László",
+            "Vámos László"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Bognár Mátyás",
+            "Garancz Milán",
+            "Szalontai Máté",
+            "Vígh Marcell Péter"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
 }

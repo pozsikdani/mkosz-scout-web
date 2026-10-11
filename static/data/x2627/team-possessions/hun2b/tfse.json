@@ -1,6 +1,91 @@
 {
   "team": "TFSE",
   "season": "x2627",
-  "match_count": 0,
-  "matches": []
+  "match_count": 3,
+  "matches": [
+    {
+      "gamecode": "hun2b_136111",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-09-26",
+      "opponent": "Százhalombattai KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 72,
+      "their_score": 64,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 8,
+        "mid_m": 1,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 15,
+        "close_x": 8,
+        "mid_x": 11,
+        "three_x": 16,
+        "dunk_x": 0,
+        "tov": 19,
+        "fga": 61,
+        "fta": 28,
+        "oreb": 9,
+        "tov_total": 19
+      }
+    },
+    {
+      "gamecode": "hun2b_136125",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-02",
+      "opponent": "NEOsport Kozármisleny SE",
+      "home": true,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 74,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 11,
+        "mid_m": 1,
+        "three_m": 7,
+        "dunk_m": 0,
+        "ft": 15,
+        "close_x": 13,
+        "mid_x": 3,
+        "three_x": 14,
+        "dunk_x": 0,
+        "tov": 20,
+        "fga": 63,
+        "fta": 32,
+        "oreb": 17,
+        "tov_total": 20
+      }
+    },
+    {
+      "gamecode": "hun2b_136137",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-09",
+      "opponent": "Vásárhelyi Kosársuli",
+      "home": true,
+      "result": "L",
+      "our_score": 53,
+      "their_score": 72,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 15,
+        "mid_m": 1,
+        "three_m": 5,
+        "dunk_m": 0,
+        "ft": 12,
+        "close_x": 12,
+        "mid_x": 4,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 23,
+        "fga": 70,
+        "fta": 17,
+        "oreb": 22,
+        "tov_total": 23
+      }
+    }
+  ]
 }
