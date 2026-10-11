@@ -1,13 +1,14 @@
-name: Napi adat-export és deploy (NB1B Piros)
+name: Napi adat-export és deploy (NB1B Piros + Zöld)
 
-# Aktív szezon: x2627 (2026/27). A scriptek defaultja is ez, és az adat
-# a static/data/x2627/ alá kerül. Új szezonra váltáskor:
-#   1. SEASON env-et frissítsd itt (vagy a script-defaults módosulnak)
-#   2. src/lib/seasons.ts-be add be az új szezont CURRENT_SEASON-nek
-#   3. mkosz-play-by-play/.github/workflows/daily-scrape.yml-ben --season frissítése
-#   4. mkosz-scoresheet/ci_update.py SEASON konstansa
+# Aktív szezon: x2627 (2026/27). Comp lista: hun2a (Piros), hun2b (Zöld).
+# Új szezonra váltáskor:
+#   1. SEASON env + COMPS env itt
+#   2. src/lib/seasons.ts: új szezon ID, régi active:false
+#   3. mkosz-play-by-play/.github/workflows/daily-scrape.yml: --season
+#   4. mkosz-scoresheet/ci_update.py: SEASON konstans + comp lista
 env:
   SEASON: x2627
+  COMPS: 'hun2a hun2b'  # space-separated — a bash loop iterál végig rajta
 
 on:
   schedule:
@@ -57,27 +58,30 @@ jobs:
           CREATE INDEX IF NOT EXISTS idx_subs_gamecode       ON substitutions(gamecode);
           SQL
 
-      - name: Tabella scrape (mkosz.hu)
-        run: python3 scripts/scrape_standings.py --season "$SEASON"
+      - name: Tabella + roster + fotó scrape (minden comp-ra)
+        run: |
+          for COMP in $COMPS; do
+            echo "=== $COMP: standings + roster + photos ==="
+            python3 scripts/scrape_standings.py       --season "$SEASON" --comp "$COMP"
+            python3 scripts/scrape_rosters.py         --season "$SEASON" --comp "$COMP"
+            python3 scripts/download_player_photos.py --season "$SEASON" --comp "$COMP"
+          done
 
-      - name: Roster scrape (mkosz.hu csapat oldalak)
-        run: python3 scripts/scrape_rosters.py --season "$SEASON"
-
-      - name: Játékos-fotók letöltése (idempotens, cache-elt)
-        run: python3 scripts/download_player_photos.py --season "$SEASON"
-
-      - name: Per-csapat exportok (DB-ből)
+      - name: Per-csapat exportok (DB-ből, minden comp-ra)
         env:
           DB_PATH: /tmp/mkosz-stats/mkosz_stats.sqlite
         run: |
-          python3 scripts/export_team_matches.py      --db "$DB_PATH" --season "$SEASON"
-          python3 scripts/export_team_players.py      --db "$DB_PATH" --season "$SEASON"
-          python3 scripts/export_team_shots.py        --db "$DB_PATH" --season "$SEASON"
-          python3 scripts/export_team_player_shots.py --db "$DB_PATH" --season "$SEASON"
-          python3 scripts/export_team_possessions.py  --db "$DB_PATH" --season "$SEASON"
-          python3 scripts/export_team_lineups.py      --db "$DB_PATH" --season "$SEASON"
-          python3 scripts/export_team_lineup_nrtg.py  --db "$DB_PATH" --season "$SEASON"
-          python3 scripts/export_league_comparison.py --db "$DB_PATH" --season "$SEASON"
+          for COMP in $COMPS; do
+            echo "=== $COMP: DB exports ==="
+            python3 scripts/export_team_matches.py      --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
+            python3 scripts/export_team_players.py      --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
+            python3 scripts/export_team_shots.py        --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
+            python3 scripts/export_team_player_shots.py --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
+            python3 scripts/export_team_possessions.py  --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
+            python3 scripts/export_team_lineups.py      --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
+            python3 scripts/export_team_lineup_nrtg.py  --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
+            python3 scripts/export_league_comparison.py --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
+          done
 
       - name: Commit és push ha változott
         run: |

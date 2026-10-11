@@ -46,7 +46,7 @@ DEFAULT_DB = REPO_ROOT.parent / "mkosz-stats" / "mkosz_stats.sqlite"
 DEFAULT_STANDINGS = REPO_ROOT / "static" / "data" / "standings" / "hun2a.json"
 DEFAULT_OUT_DIR = REPO_ROOT / "static" / "data" / "team-lineup-nrtg"
 
-COMPS = ("hun2a", "hun2a_ply", "hun2a_plya")
+COMPS: tuple[str, ...] = ("hun2a", "hun2a_ply", "hun2a_plya")  # overridden in main() from --comp
 PHASE_MAP = {
     "hun2a": "alapszakasz",
     "hun2a_ply": "rajatszas_felso",
@@ -280,11 +280,14 @@ def main() -> int:
     p.add_argument("--standings", default=None)
     p.add_argument("--out-dir", default=None)
     p.add_argument("--season", default="x2627")
+    p.add_argument("--comp", default="hun2a")
     args = p.parse_args()
     if args.standings is None:
-        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / "hun2a.json")
+        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / f"{args.comp}.json")
     if args.out_dir is None:
-        args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-lineup-nrtg")
+        args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-lineup-nrtg" / args.comp)
+    global COMPS
+    COMPS = (args.comp, f"{args.comp}_ply", f"{args.comp}_plya")
 
 
     standings_path = Path(args.standings)

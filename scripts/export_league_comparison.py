@@ -63,9 +63,11 @@ def main() -> int:
     p.add_argument("--season", default="x2627")
     args = p.parse_args()
     if args.standings is None:
-        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / "hun2a.json")
+        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / f"{args.comp}.json")
     if args.out_dir is None:
         args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "league-comparison")
+    global COMPS
+    COMPS = (args.comp, f"{args.comp}_ply", f"{args.comp}_plya")
 
 
     standings_path = Path(args.standings)

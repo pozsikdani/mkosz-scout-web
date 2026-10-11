@@ -1,0 +1,63 @@
+{
+  "team": "GYKC UNI Győr",
+  "season": "x2627",
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2b_136099",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-25",
+      "opponent": "Foody-BasketBaja",
+      "home": true,
+      "result": "W",
+      "our_score": 90,
+      "their_score": 86,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 21,
+        "mid_m": 2,
+        "three_m": 7,
+        "dunk_m": 1,
+        "ft": 14,
+        "close_x": 10,
+        "mid_x": 3,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 71,
+        "fta": 26,
+        "oreb": 14,
+        "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2b_136127",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-09",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "W",
+      "our_score": 106,
+      "their_score": 82,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 21,
+        "mid_m": 2,
+        "three_m": 15,
+        "dunk_m": 1,
+        "ft": 9,
+        "close_x": 8,
+        "mid_x": 3,
+        "three_x": 6,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 74,
+        "fta": 17,
+        "oreb": 20,
+        "tov_total": 17
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "team": "Eszterházy SC",
+  "season": "x2627",
+  "match_count": 1,
+  "matches": [
+    {
+      "gamecode": "hun2b_136107",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-26",
+      "opponent": "PTE-PEAC",
+      "home": false,
+      "result": "L",
+      "our_score": 66,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Botka Botond",
+          "jersey": 25,
+          "minutes": 36,
+          "points": 14,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "eszterhazy-sc-botka-botond.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kiss Kolos",
+              "jersey": 16,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-kiss-kolos.jpg"
+            },
+            {
+              "name": "Molnár Bálint",
+              "jersey": 8,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-molnar-balint.jpg"
+            },
+            {
+              "name": "Szicsák Bence",
+              "jersey": 7,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-szicsak-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kiss Kolos",
+          "jersey": 16,
+          "minutes": 25,
+          "points": 9,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "eszterhazy-sc-kiss-kolos.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kerekes Hunor Ákos",
+              "jersey": 33,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-kerekes-hunor-akos.jpg"
+            },
+            {
+              "name": "Botka Botond",
+              "jersey": 25,
+              "minutes": 36,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-botka-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szicsák Bence",
+          "jersey": 7,
+          "minutes": 11,
+          "points": 7,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "eszterhazy-sc-szicsak-bence.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Cvijin Patrik",
+              "jersey": 10,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-cvijin-patrik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vanja Gazibegovic",
+          "jersey": null,
+          "minutes": 37,
+          "points": 3,
+          "reb": 16,
+          "ast": 6,
+          "subs": [
+            {
+              "name": "Cvijin Patrik",
+              "jersey": 10,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-cvijin-patrik.jpg"
+            },
+            {
+              "name": "Kerekes Hunor Ákos",
+              "jersey": 33,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-kerekes-hunor-akos.jpg"
+            },
+            {
+              "name": "Molnár Bálint",
+              "jersey": 8,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-molnar-balint.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vágner Áron",
+          "jersey": 27,
+          "minutes": 4,
+          "points": 5,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "eszterhazy-sc-vagner-aron.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Német Ákos",
+              "jersey": 1,
+              "minutes": 36,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-nemet-akos.jpg"
+            },
+            {
+              "name": "Vanja Gazibegovic",
+              "jersey": null,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

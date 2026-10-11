@@ -47,7 +47,7 @@ DEFAULT_STANDINGS = REPO_ROOT / "static" / "data" / "standings" / "hun2a.json"
 DEFAULT_PLAYERS_DIR = REPO_ROOT / "static" / "data" / "team-players"
 DEFAULT_OUT_DIR = REPO_ROOT / "static" / "data" / "team-player-shots"
 
-COMPS = ("hun2a", "hun2a_ply", "hun2a_plya")
+COMPS: tuple[str, ...] = ("hun2a", "hun2a_ply", "hun2a_plya")  # overridden in main() from --comp
 
 # Geometry — must match src/lib/components/ShotchartZones.svelte exactly
 Y_SCALE = 0.77
@@ -171,13 +171,16 @@ def main() -> int:
     p.add_argument("--players-dir", default=None)
     p.add_argument("--out-dir", default=None)
     p.add_argument("--season", default="x2627")
+    p.add_argument("--comp", default="hun2a")
     args = p.parse_args()
     if args.players_dir is None:
-        args.players_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-players")
+        args.players_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-players" / args.comp)
     if args.standings is None:
-        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / "hun2a.json")
+        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / f"{args.comp}.json")
     if args.out_dir is None:
-        args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-player-shots")
+        args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-player-shots" / args.comp)
+    global COMPS
+    COMPS = (args.comp, f"{args.comp}_ply", f"{args.comp}_plya")
 
 
     standings = json.loads(Path(args.standings).read_text(encoding="utf-8"))

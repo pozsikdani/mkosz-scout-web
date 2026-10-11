@@ -53,7 +53,7 @@ DEFAULT_STANDINGS = REPO_ROOT / "static" / "data" / "standings" / "hun2a.json"
 DEFAULT_OUT_DIR = REPO_ROOT / "static" / "data" / "team-players"
 DEFAULT_ROSTERS = REPO_ROOT / "static" / "data" / "rosters" / "hun2a.json"
 
-COMPS = ("hun2a", "hun2a_ply", "hun2a_plya")
+COMPS: tuple[str, ...] = ("hun2a", "hun2a_ply", "hun2a_plya")  # overridden in main() from --comp
 
 TEAM_ALIASES: dict[str, list[str]] = {
     "EBH-Salgótarján": ["Salgótarjáni KSE"],
@@ -272,13 +272,16 @@ def main() -> int:
     p.add_argument("--out-dir", default=None)
     p.add_argument("--rosters", default=None)
     p.add_argument("--season", default="x2627")
+    p.add_argument("--comp", default="hun2a")
     args = p.parse_args()
     if args.rosters is None:
-        args.rosters = str(REPO_ROOT / "static" / "data" / args.season / "rosters/hun2a.json")
+        args.rosters = str(REPO_ROOT / "static" / "data" / args.season / f"rosters/{args.comp}.json")
     if args.standings is None:
-        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / "hun2a.json")
+        args.standings = str(REPO_ROOT / "static" / "data" / args.season / "standings" / f"{args.comp}.json")
     if args.out_dir is None:
-        args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-players")
+        args.out_dir = str(REPO_ROOT / "static" / "data" / args.season / "team-players" / args.comp)
+    global COMPS
+    COMPS = (args.comp, f"{args.comp}_ply", f"{args.comp}_plya")
 
 
     standings_path = Path(args.standings)

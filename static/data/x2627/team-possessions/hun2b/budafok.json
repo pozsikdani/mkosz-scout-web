@@ -1,0 +1,63 @@
+{
+  "team": "BUDAFOK",
+  "season": "x2627",
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2b_136101",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-25",
+      "opponent": "Békéscsabai KK",
+      "home": true,
+      "result": "W",
+      "our_score": 111,
+      "their_score": 64,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 30,
+        "mid_m": 2,
+        "three_m": 9,
+        "dunk_m": 3,
+        "ft": 12,
+        "close_x": 10,
+        "mid_x": 2,
+        "three_x": 10,
+        "dunk_x": 0,
+        "tov": 16,
+        "fga": 78,
+        "fta": 19,
+        "oreb": 14,
+        "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2b_136117",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-02",
+      "opponent": "Budapesti Bikák",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 63,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 7,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 16,
+        "close_x": 7,
+        "mid_x": 4,
+        "three_x": 12,
+        "dunk_x": 0,
+        "tov": 18,
+        "fga": 64,
+        "fta": 30,
+        "oreb": 13,
+        "tov_total": 18
+      }
+    }
+  ]
+}

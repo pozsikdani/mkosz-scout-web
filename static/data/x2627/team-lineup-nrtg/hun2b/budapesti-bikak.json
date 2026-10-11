@@ -1,0 +1,465 @@
+{
+  "team": "Budapesti Bikák",
+  "season": "x2627",
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2b_136117",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-02",
+      "opponent": "BUDAFOK",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 89,
+      "has_pbp": true,
+      "starters": [
+        "Bohunicky Olivér",
+        "Bucskó Zalán",
+        "Lajsz Gergely",
+        "Szabó Dániel",
+        "Szántó Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szántó Dániel"
+          ],
+          "min": 12.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bohunicky Olivér",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Pleesz Gerg?"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bucskó Zalán",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 10.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Lajsz Gergely",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 7.0,
+          "pf": 15,
+          "pa": 16,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ménesi Miklós",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Pleesz Gerg?"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szabó Dániel"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Szabó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Pleesz Gerg?"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bohunicky Olivér",
+            "Ménesi Miklós",
+            "Novák Patrik",
+            "Pleesz Gerg?"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szabó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Pleesz Gerg?"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bohunicky Olivér",
+            "Ménesi Miklós",
+            "Novák Patrik",
+            "Szántó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Pleesz Gerg?",
+            "Szabó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Pleesz Gerg?",
+            "Szabó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szántó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Novák Patrik"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szántó Dániel"
+          ],
+          "min": 0.0,
+          "pf": 6,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_136105",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-25",
+      "opponent": "Vásárhelyi Kosársuli",
+      "home": false,
+      "result": "L",
+      "our_score": 55,
+      "their_score": 71,
+      "has_pbp": true,
+      "starters": [
+        "Lajsz Gergely",
+        "Ménesi Miklós",
+        "Pleesz Gerg?",
+        "Szabó Dániel",
+        "Szántó Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Baki Sándor",
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Novák Patrik"
+          ],
+          "min": 28.0,
+          "pf": 10,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Pleesz Gerg?",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 16.0,
+          "pf": 31,
+          "pa": 28,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bucskó Zalán",
+            "Lajsz Gergely",
+            "Novák Patrik",
+            "Szántó Dániel"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bohunicky Olivér",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szántó Dániel"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szabó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Lajsz Gergely",
+            "Szántó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bucskó Zalán",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Novák Patrik",
+            "Szabó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Novák Patrik",
+            "Szántó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szántó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bucskó Zalán",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Szántó Dániel"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
+}

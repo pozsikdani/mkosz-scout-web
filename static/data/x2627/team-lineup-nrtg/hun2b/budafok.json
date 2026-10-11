@@ -1,0 +1,582 @@
+{
+  "team": "BUDAFOK",
+  "season": "x2627",
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2b_136117",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-02",
+      "opponent": "Budapesti Bikák",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 63,
+      "has_pbp": true,
+      "starters": [
+        "Katona József Bence",
+        "Sziegl Gábor",
+        "Szántó Levente",
+        "Tóth Balázs",
+        "Varga Dániel Géza"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Katona József Bence",
+            "Sziegl Gábor",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Varga Dániel Géza"
+          ],
+          "min": 11.0,
+          "pf": 20,
+          "pa": 20,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Varga Dániel Géza"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Tóth Balázs"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente"
+          ],
+          "min": 10.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Tóth Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente"
+          ],
+          "min": 4.0,
+          "pf": 12,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Katona József Bence",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Tóth Balázs",
+            "Varga Dániel Géza"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Sziegl Gábor",
+            "Szántó Levente",
+            "Tóth Balázs"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Szántó Levente",
+            "Vincze Máté"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente",
+            "Tóth Balázs"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Vincze Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Szántó Levente",
+            "Vincze Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Juhász Dániel",
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Juhász Dániel",
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Vincze Máté"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 0.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Birinyi Marcell Bence",
+            "Horváth Áron",
+            "Juhász Dániel",
+            "Medvei Keve Károly",
+            "Vincze Máté"
+          ],
+          "min": 0.0,
+          "pf": 7,
+          "pa": 11,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_136101",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-25",
+      "opponent": "Békéscsabai KK",
+      "home": true,
+      "result": "W",
+      "our_score": 111,
+      "their_score": 64,
+      "has_pbp": true,
+      "starters": [
+        "Katona József Bence",
+        "Sziegl Gábor",
+        "Szántó Levente",
+        "Tóth Balázs",
+        "Varga Dániel Géza"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Vincze Máté"
+          ],
+          "min": 12.0,
+          "pf": 10,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Juhász Dániel",
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs"
+          ],
+          "min": 12.0,
+          "pf": 9,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Katona József Bence",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Szántó Levente"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Sziegl Gábor",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Varga Dániel Géza"
+          ],
+          "min": 9.0,
+          "pf": 20,
+          "pa": 14,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Tóth Balázs",
+            "Varga Dániel Géza"
+          ],
+          "min": 3.0,
+          "pf": 14,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente",
+            "Varga Dániel Géza"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Varga Dániel Géza"
+          ],
+          "min": 2.0,
+          "pf": 15,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Sziegl Gábor",
+            "Varga Dániel Géza"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Juhász Dániel",
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kódor Tamás Olivér",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Tóth Balázs",
+            "Vincze Máté"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente",
+            "Tóth Balázs"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Szántó Levente",
+            "Vincze Máté"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Medvei Keve Károly",
+            "Sziegl Gábor",
+            "Szántó Levente",
+            "Varga Dániel Géza"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Sziegl Gábor",
+            "Szántó Levente"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Siklós Olivér Balázs",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Varga Dániel Géza"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Szántó Levente"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Juhász Dániel",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Tóth Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Kódor Tamás Olivér",
+            "Medvei Keve Károly",
+            "Tóth Balázs",
+            "Vincze Máté"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Tóth Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Kódor Tamás Olivér",
+            "Sziegl Gábor",
+            "Tóth Balázs",
+            "Vincze Máté"
+          ],
+          "min": 0.0,
+          "pf": 8,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
+}

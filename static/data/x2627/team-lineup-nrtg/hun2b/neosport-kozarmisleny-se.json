@@ -1,0 +1,915 @@
+{
+  "team": "NEOsport Kozármisleny SE",
+  "season": "x2627",
+  "match_count": 3,
+  "matches": [
+    {
+      "gamecode": "hun2b_136139",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-09",
+      "opponent": "PTE-PEAC",
+      "home": false,
+      "result": "W",
+      "our_score": 64,
+      "their_score": 56,
+      "has_pbp": true,
+      "starters": [
+        "Bíró Levente",
+        "Bíró Olivér",
+        "Fehér Benjamin",
+        "Kovács Barna",
+        "Tóth Botond"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 13.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Kövecs Martin"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Halász Ákos",
+            "László János",
+            "Tóth Botond"
+          ],
+          "min": 11.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Tóth Botond"
+          ],
+          "min": 6.0,
+          "pf": 10,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Kovács Barna",
+            "Tóth Botond"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Halász Ákos",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Kövecs Martin"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Kovács Barna",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Halász Ákos",
+            "Kovács Barna",
+            "Kövecs Martin",
+            "Szabó Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Halász Ákos",
+            "László János",
+            "Nagy Noel"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "László János",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Nagy Noel"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Kovács Barna",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Kovács Barna",
+            "Szabó Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Halász Ákos",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Halász Ákos",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fehér Benjamin",
+            "Halász Ákos",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Halász Ákos",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Halász Ákos",
+            "László János",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_136125",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-02",
+      "opponent": "TFSE",
+      "home": false,
+      "result": "W",
+      "our_score": 74,
+      "their_score": 64,
+      "has_pbp": true,
+      "starters": [
+        "Bíró Levente",
+        "Bíró Olivér",
+        "Fehér Benjamin",
+        "Kovács Barna",
+        "Tóth Botond"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 13.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Szabó Zoltán"
+          ],
+          "min": 12.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Szabó Zoltán",
+            "Tóth Botond"
+          ],
+          "min": 11.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Kovács Barna",
+            "Tóth Botond"
+          ],
+          "min": 8.0,
+          "pf": 15,
+          "pa": 7,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Szabó Zoltán"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Szabó Zoltán",
+            "Tóth Botond"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Szabó Zoltán",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Szabó Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Kövecs Martin",
+            "Szabó Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fehér Benjamin",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kövecs Martin"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Nagy Noel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Tóth Botond"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Szabó Zoltán"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Szabó Zoltán",
+            "Tóth Botond"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_136109",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-26",
+      "opponent": "SMTPlus-Nagykõrösi Sólymok KE",
+      "home": true,
+      "result": "L",
+      "our_score": 87,
+      "their_score": 96,
+      "has_pbp": true,
+      "starters": [
+        "Bíró Levente",
+        "Bíró Olivér",
+        "Fehér Benjamin",
+        "Kovács Barna",
+        "Tóth Botond"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Tóth Botond"
+          ],
+          "min": 20.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Kovács Barna",
+            "Tóth Botond"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 4.0,
+          "pf": 14,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Nagy Noel",
+            "Szabó Zoltán",
+            "Tóth Botond"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Nagy Noel"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Tóth Botond"
+          ],
+          "min": 3.0,
+          "pf": 16,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Nagy Noel"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Nagy Noel",
+            "Szabó Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "László János",
+            "Nagy Noel",
+            "Szabó Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kovács Barna"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kovács Barna",
+            "Kövecs Martin"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kövecs Martin"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Olivér",
+            "Fehér Benjamin",
+            "Fonyó Botond",
+            "Kövecs Martin",
+            "Szabó Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bíró Levente",
+            "Fehér Benjamin",
+            "Kövecs Martin",
+            "Nagy Noel",
+            "Tóth Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "team": "PTE-PEAC",
+  "season": "x2627",
+  "match_count": 3,
+  "matches": [
+    {
+      "gamecode": "hun2b_136107",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-26",
+      "opponent": "Eszterházy SC",
+      "home": true,
+      "result": "W",
+      "our_score": 69,
+      "their_score": 66,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 0,
+        "three_m": 8,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 8,
+        "mid_x": 3,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 19,
+        "fga": 54,
+        "fta": 23,
+        "oreb": 6,
+        "tov_total": 19
+      }
+    },
+    {
+      "gamecode": "hun2b_136123",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-04",
+      "opponent": "Százhalombattai KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 68,
+      "their_score": 89,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 2,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 16,
+        "mid_x": 11,
+        "three_x": 4,
+        "dunk_x": 0,
+        "tov": 15,
+        "fga": 68,
+        "fta": 16,
+        "oreb": 17,
+        "tov_total": 15
+      }
+    },
+    {
+      "gamecode": "hun2b_136139",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-09",
+      "opponent": "NEOsport Kozármisleny SE",
+      "home": true,
+      "result": "L",
+      "our_score": 56,
+      "their_score": 64,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 10,
+        "mid_m": 1,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 7,
+        "close_x": 7,
+        "mid_x": 4,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 27,
+        "fga": 51,
+        "fta": 13,
+        "oreb": 6,
+        "tov_total": 27
+      }
+    }
+  ]
+}

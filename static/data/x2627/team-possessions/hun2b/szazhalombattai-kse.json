@@ -1,0 +1,63 @@
+{
+  "team": "Százhalombattai KSE",
+  "season": "x2627",
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2b_136111",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-26",
+      "opponent": "TFSE",
+      "home": false,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 72,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 15,
+        "mid_m": 4,
+        "three_m": 1,
+        "dunk_m": 0,
+        "ft": 17,
+        "close_x": 14,
+        "mid_x": 9,
+        "three_x": 10,
+        "dunk_x": 1,
+        "tov": 16,
+        "fga": 66,
+        "fta": 31,
+        "oreb": 13,
+        "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2b_136123",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-04",
+      "opponent": "PTE-PEAC",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 68,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 7,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 7,
+        "close_x": 6,
+        "mid_x": 2,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 10,
+        "fga": 67,
+        "fta": 13,
+        "oreb": 10,
+        "tov_total": 10
+      }
+    }
+  ]
+}

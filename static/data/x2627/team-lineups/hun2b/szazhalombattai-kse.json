@@ -1,0 +1,344 @@
+{
+  "team": "Százhalombattai KSE",
+  "season": "x2627",
+  "match_count": 2,
+  "matches": [
+    {
+      "gamecode": "hun2b_136123",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-10-04",
+      "opponent": "PTE-PEAC",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 22,
+          "minutes": 30,
+          "points": 7,
+          "reb": 7,
+          "ast": 2,
+          "photo_filename": "szazhalombattai-kse-bago-martin.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Barócsi Ádám",
+              "jersey": 11,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg"
+            },
+            {
+              "name": "Kovács Marcell",
+              "jersey": 2,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg"
+            },
+            {
+              "name": "Fazekas Máté",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-fazekas-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Barócsi Ádám",
+          "jersey": 11,
+          "minutes": 19,
+          "points": 2,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Fazekas Máté",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-fazekas-mate.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 22,
+              "minutes": 30,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-bago-martin.jpg"
+            },
+            {
+              "name": "Kovács Marcell",
+              "jersey": 2,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 12,
+          "minutes": 31,
+          "points": 20,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "szazhalombattai-kse-kozari-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Seregély Balázs",
+              "jersey": 10,
+              "minutes": 12,
+              "count": 3,
+              "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg"
+            },
+            {
+              "name": "Habel Andrich Clemens",
+              "jersey": 17,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Seregély Balázs",
+          "jersey": 10,
+          "minutes": 12,
+          "points": 2,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kozári Gergő",
+              "jersey": 12,
+              "minutes": 31,
+              "count": 3,
+              "photo_filename": "szazhalombattai-kse-kozari-gergo.jpg"
+            },
+            {
+              "name": "Tichov Dominik",
+              "jersey": 25,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 4,
+          "minutes": 33,
+          "points": 23,
+          "reb": 6,
+          "ast": 7,
+          "photo_filename": "szazhalombattai-kse-toth-bence-miklos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": 7,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg"
+            },
+            {
+              "name": "Tichov Dominik",
+              "jersey": 25,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg"
+            },
+            {
+              "name": "Cseh Bence",
+              "jersey": 13,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-cseh-bence.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_136111",
+      "comp_code": "hun2b",
+      "phase": "hun2b",
+      "date": "2026-09-26",
+      "opponent": "TFSE",
+      "home": false,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 72,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 22,
+          "minutes": 30,
+          "points": 13,
+          "reb": 10,
+          "ast": 1,
+          "photo_filename": "szazhalombattai-kse-bago-martin.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Fazekas Máté",
+              "jersey": 15,
+              "minutes": 6,
+              "count": 3,
+              "photo_filename": "szazhalombattai-kse-fazekas-mate.jpg"
+            },
+            {
+              "name": "Habel Andrich Clemens",
+              "jersey": 17,
+              "minutes": 10,
+              "count": 3,
+              "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg"
+            },
+            {
+              "name": "Tichov Dominik",
+              "jersey": 25,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Barócsi Ádám",
+          "jersey": 11,
+          "minutes": 22,
+          "points": 9,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kovács Marcell",
+              "jersey": 2,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 22,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-bago-martin.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 5,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 12,
+          "minutes": 35,
+          "points": 13,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "szazhalombattai-kse-kozari-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Seregély Balázs",
+              "jersey": 10,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg"
+            },
+            {
+              "name": "Cseh Bence",
+              "jersey": 13,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-cseh-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Santiago Jordan Ismael",
+          "jersey": 7,
+          "minutes": 27,
+          "points": 12,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Tichov Dominik",
+              "jersey": 25,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg"
+            },
+            {
+              "name": "Kovács Marcell",
+              "jersey": 2,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 5,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 4,
+          "minutes": 22,
+          "points": 3,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "szazhalombattai-kse-toth-bence-miklos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Habel Andrich Clemens",
+              "jersey": 17,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 22,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-bago-martin.jpg"
+            },
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": 7,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
