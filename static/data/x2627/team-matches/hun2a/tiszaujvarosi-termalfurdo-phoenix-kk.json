@@ -81,7 +81,28 @@
       "our_score": 92,
       "their_score": 89,
       "result": "W",
-      "quarter_scores": null,
+      "quarter_scores": [
+        {
+          "our": 14,
+          "their": 21
+        },
+        {
+          "our": 31,
+          "their": 20
+        },
+        {
+          "our": 18,
+          "their": 18
+        },
+        {
+          "our": 13,
+          "their": 17
+        },
+        {
+          "our": 16,
+          "their": 13
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },

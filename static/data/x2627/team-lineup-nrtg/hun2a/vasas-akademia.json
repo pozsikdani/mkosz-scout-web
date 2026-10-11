@@ -1,8 +1,185 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 1,
+  "match_count": 2,
   "matches": [
+    {
+      "gamecode": "hun2a_135771",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-09",
+      "opponent": "ZTE KK",
+      "home": false,
+      "result": "L",
+      "our_score": 81,
+      "their_score": 95,
+      "has_pbp": true,
+      "starters": [
+        "Gáspár Mátyás",
+        "Homoki Donát László",
+        "Pleesz Ádám",
+        "Plézer Gábor",
+        "Zöldi Péter András"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Heimann Gerg?",
+            "Makkos Dávid",
+            "Pleesz Ádám"
+          ],
+          "min": 25.0,
+          "pf": 6,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Heimann Gerg?",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 10.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Heimann Gerg?",
+            "Homoki Donát László",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 7.0,
+          "pf": 8,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Gáspár Mátyás",
+            "Homoki Donát László",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 6.0,
+          "pf": 15,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Homoki Donát László",
+            "Makkos Dávid",
+            "Plézer Gábor"
+          ],
+          "min": 6.0,
+          "pf": 19,
+          "pa": 22,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Homoki Donát László",
+            "Pleesz Ádám",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Plézer Gábor"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Homoki Donát László",
+            "Makkos Dávid",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Gáspár Mátyás",
+            "Heimann Gerg?",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Heimann Gerg?",
+            "Homoki Donát László",
+            "Makkos Dávid",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Gáspár Mátyás",
+            "Heimann Gerg?",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Pleesz Ádám",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135759",
       "comp_code": "hun2a",

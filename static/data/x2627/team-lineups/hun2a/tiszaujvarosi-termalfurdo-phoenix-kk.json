@@ -16,6 +16,30 @@
       "has_subs": true,
       "starters": [
         {
+          "name": "Carlbe Lee Ervin",
+          "jersey": null,
+          "minutes": 39,
+          "points": 6,
+          "reb": 9,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Mester Márk",
+              "jersey": 8,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg"
+            },
+            {
+              "name": "Szabadfi Márk",
+              "jersey": 53,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-szabadfi-mark.jpg"
+            }
+          ]
+        },
+        {
           "name": "Ervin Carlbe Lee",
           "jersey": 5,
           "minutes": 0,
@@ -29,46 +53,73 @@
         {
           "name": "Lucey Ciarán József",
           "jersey": 44,
-          "minutes": 0,
+          "minutes": 38,
           "points": 5,
-          "reb": 0,
-          "ast": 0,
+          "reb": 7,
+          "ast": 7,
           "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg",
           "position": "1-2",
-          "subs": []
+          "subs": [
+            {
+              "name": "Pap Levente",
+              "jersey": 6,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-pap-levente.jpg"
+            }
+          ]
         },
         {
           "name": "Mester Márk",
           "jersey": 8,
-          "minutes": 0,
+          "minutes": 23,
           "points": 8,
-          "reb": 0,
-          "ast": 0,
+          "reb": 6,
+          "ast": 1,
           "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg",
           "position": "2-3",
-          "subs": []
+          "subs": [
+            {
+              "name": "Szabadfi Márk",
+              "jersey": 53,
+              "minutes": 36,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-szabadfi-mark.jpg"
+            },
+            {
+              "name": "Carlbe Lee Ervin",
+              "jersey": null,
+              "minutes": 39,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Mayer Ákos",
+              "jersey": 20,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mayer-akos.jpg"
+            }
+          ]
         },
         {
           "name": "Ormai Botond Gábor",
           "jersey": 22,
-          "minutes": 0,
+          "minutes": 25,
           "points": 7,
-          "reb": 0,
-          "ast": 0,
+          "reb": 11,
+          "ast": 3,
           "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ormai-botond-gabor.jpg",
           "position": "4-5",
-          "subs": []
-        },
-        {
-          "name": "Polster Attila",
-          "jersey": 7,
-          "minutes": 0,
-          "points": 16,
-          "reb": 0,
-          "ast": 0,
-          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-polster-attila.jpg",
-          "position": "3-4",
-          "subs": []
+          "subs": [
+            {
+              "name": "Gerőcs Roland Bálint",
+              "jersey": 13,
+              "minutes": 25,
+              "count": 4,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg"
+            }
+          ]
         }
       ]
     },

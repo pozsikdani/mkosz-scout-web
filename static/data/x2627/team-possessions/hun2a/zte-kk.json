@@ -1,7 +1,7 @@
 {
   "team": "ZTE KK",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -57,6 +57,34 @@
         "fta": 19,
         "oreb": 10,
         "tov_total": 12
+      }
+    },
+    {
+      "gamecode": "hun2a_135771",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-09",
+      "opponent": "Vasas Akadémia",
+      "home": true,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 81,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 19,
+        "mid_m": 1,
+        "three_m": 13,
+        "dunk_m": 2,
+        "ft": 8,
+        "close_x": 5,
+        "mid_x": 5,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 7,
+        "fga": 66,
+        "fta": 15,
+        "oreb": 8,
+        "tov_total": 7
       }
     }
   ]

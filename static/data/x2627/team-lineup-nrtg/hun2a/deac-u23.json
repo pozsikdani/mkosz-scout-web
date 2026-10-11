@@ -17,7 +17,7 @@
       "starters": [
         "Bankó Zoltán Martin",
         "Szafkó Márk",
-        "Ságodi Róbert",
+        "Ságódi Róbert",
         "Vadai Balázs",
         "Várszegi Ádám"
       ],
@@ -25,15 +25,314 @@
         {
           "players": [
             "Bankó Zoltán Martin",
+            "Kiss Tamás",
             "Szafkó Márk",
-            "Ságodi Róbert",
+            "Ságódi Róbert",
+            "Várszegi Ádám"
+          ],
+          "min": 12.0,
+          "pf": 9,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kiss Tamás",
+            "Székely Bence",
+            "Ságódi Róbert",
+            "Várszegi Ádám"
+          ],
+          "min": 12.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fekete Balázs",
+            "Szafkó Márk",
+            "Ságódi Róbert",
+            "Várszegi Ádám"
+          ],
+          "min": 11.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kiss Tamás",
+            "Székely Bence",
+            "Ságódi Róbert",
+            "Vadai Balázs"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Ságódi Róbert",
+            "Vadai Balázs"
+          ],
+          "min": 7.0,
+          "pf": 10,
+          "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szafkó Márk",
+            "Ságódi Róbert",
             "Vadai Balázs",
             "Várszegi Ádám"
           ],
-          "min": 40.0,
-          "pf": 0,
-          "pa": 0,
+          "min": 5.0,
+          "pf": 8,
+          "pa": 3,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Székely Bence",
+            "Ságódi Róbert",
+            "Vadai Balázs",
+            "Várszegi Ádám"
+          ],
+          "min": 5.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Ságódi Róbert",
+            "Várszegi Ádám"
+          ],
+          "min": 4.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fárbás Benjámin",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Vadai Balázs",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fárbás Benjámin",
+            "Kiss Tamás",
+            "Székely Bence",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fárbás Benjámin",
+            "Kiss Tamás",
+            "Ságódi Róbert",
+            "Vadai Balázs",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Ságódi Róbert",
+            "Vadai Balázs"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Vadai Balázs",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fekete Balázs",
+            "Fárbás Benjámin",
+            "Kiss Tamás",
+            "Szafkó Márk"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fárbás Benjámin",
+            "Kiss Tamás",
+            "Székely Bence",
+            "Ságódi Róbert",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Bősz Olivér",
+            "Székely Bence",
+            "Ságódi Róbert",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Bősz Olivér",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Székely Bence"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Ságódi Róbert"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Fárbás Benjámin",
+            "Kiss Tamás",
+            "Ságódi Róbert",
+            "Vadai Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fárbás Benjámin",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fárbás Benjámin",
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Ságódi Róbert",
+            "Vadai Balázs"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kiss Tamás",
+            "Szafkó Márk",
+            "Ságódi Róbert",
+            "Vadai Balázs",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 5,
+          "pa": 1,
+          "is_starter": false
         }
       ]
     },

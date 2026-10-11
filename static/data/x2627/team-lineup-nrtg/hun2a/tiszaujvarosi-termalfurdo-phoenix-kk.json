@@ -15,8 +15,8 @@
       "their_score": 89,
       "has_pbp": true,
       "starters": [
-        "Ervin Carlbe Lee",
-        "Lucey Ciarán József",
+        "Carlbe Lee Ervin",
+        "Lucey Ciaran József",
         "Mester Márk",
         "Ormai Botond Gábor",
         "Polster Attila"
@@ -24,16 +24,133 @@
       "lineups": [
         {
           "players": [
-            "Ervin Carlbe Lee",
-            "Lucey Ciarán József",
+            "Carlbe Lee Ervin",
+            "Lucey Ciaran József",
+            "Ormai Botond Gábor",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 15.0,
+          "pf": 10,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Lucey Ciaran József",
             "Mester Márk",
             "Ormai Botond Gábor",
             "Polster Attila"
           ],
-          "min": 40.0,
-          "pf": 0,
-          "pa": 0,
+          "min": 14.0,
+          "pf": 13,
+          "pa": 16,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Gerõcs Roland Bálint",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 14.0,
+          "pf": 11,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Gerõcs Roland Bálint",
+            "Mayer Ákos",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 13.0,
+          "pf": 2,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Mayer Ákos",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Gerõcs Roland Bálint",
+            "Lucey Ciaran József",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 35,
+          "pa": 26,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerõcs Roland Bálint",
+            "Mayer Ákos",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Lucey Ciaran József",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Szabadfi Márk"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Lucey Ciaran József",
+            "Mayer Ákos",
+            "Ormai Botond Gábor",
+            "Szabadfi Márk"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Lucey Ciaran József",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
         }
       ]
     },
