@@ -24,45 +24,6 @@
       "lineups": [
         {
           "players": [
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bán Tibor",
             "Gerőcs Roland Bálint",
             "Kozák Bertalan",
@@ -128,6 +89,19 @@
         },
         {
           "players": [
+            "Besenyei Bálint",
+            "Bán Tibor",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Lucey Ciarán József",
@@ -136,6 +110,19 @@
           ],
           "min": 2.0,
           "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 8,
           "pa": 4,
           "is_starter": false
         },
@@ -194,6 +181,19 @@
         {
           "players": [
             "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lucey Ciarán József"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
             "Kozák Márton",
             "Lucey Ciarán József",
             "Mayer Ákos",
@@ -232,6 +232,19 @@
         },
         {
           "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Besenyei Bálint",
             "Bán Tibor",
             "Kozák Bertalan",
@@ -241,19 +254,6 @@
           "min": 1.0,
           "pf": 2,
           "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Besenyei Bálint",
-            "Bán Tibor",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mayer Ákos"
-          ],
-          "min": 0.0,
-          "pf": 7,
-          "pa": 7,
           "is_starter": false
         }
       ]
@@ -285,35 +285,9 @@
             "Lucey Ciarán József",
             "Mester Márk"
           ],
-          "min": 16.0,
+          "min": 6.0,
           "pf": 9,
           "pa": 22,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerõcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerõcs Roland Bálint",
-            "Lakatos Máté",
-            "Mayer Ákos",
-            "Mészáros Ágoston"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 7,
           "is_starter": false
         },
         {
@@ -370,6 +344,45 @@
         },
         {
           "players": [
+            "Besenyei Bálint",
+            "Bán Tibor",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerõcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerõcs Roland Bálint",
+            "Lakatos Máté",
+            "Mayer Ákos",
+            "Mészáros Ágoston"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerõcs Roland Bálint",
             "Kozák Márton",
             "Lucey Ciarán József",
@@ -432,19 +445,6 @@
           "pf": 4,
           "pa": 3,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Besenyei Bálint",
-            "Bán Tibor",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mayer Ákos"
-          ],
-          "min": 0.0,
-          "pf": 7,
-          "pa": 4,
-          "is_starter": false
         }
       ]
     },
@@ -469,13 +469,26 @@
       "lineups": [
         {
           "players": [
+            "Bán Tibor",
+            "Kozák Márton",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 5.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": true
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Lakatos Máté",
             "Mester Márk",
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 15.0,
+          "min": 5.0,
           "pf": 18,
           "pa": 8,
           "is_starter": false
@@ -488,36 +501,10 @@
             "Kozák Márton",
             "Lucey Ciarán József"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 13,
           "pa": 5,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mayer Ákos",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 9,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 5.0,
-          "pf": 6,
-          "pa": 5,
-          "is_starter": true
         },
         {
           "players": [
@@ -573,6 +560,19 @@
         },
         {
           "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Tanyi Antal Áron"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Lakatos Máté",
@@ -582,6 +582,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 9,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -661,19 +674,6 @@
           "pf": 3,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Lucey Ciarán József",
-            "Mayer Ákos",
-            "Tanyi Antal Áron"
-          ],
-          "min": 0.0,
-          "pf": 4,
-          "pa": 15,
-          "is_starter": false
         }
       ]
     },
@@ -704,34 +704,8 @@
             "Lucey Ciarán József",
             "Mester Márk"
           ],
-          "min": 15.0,
+          "min": 5.0,
           "pf": 20,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerõcs Roland Bálint",
-            "Lakatos Máté",
-            "Mayer Ákos",
-            "Mészáros Ágoston"
-          ],
-          "min": 14.0,
-          "pf": 8,
-          "pa": 19,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerõcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 14.0,
-          "pf": 8,
           "pa": 3,
           "is_starter": false
         },
@@ -746,6 +720,32 @@
           "min": 4.0,
           "pf": 8,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerõcs Roland Bálint",
+            "Lakatos Máté",
+            "Mayer Ákos",
+            "Mészáros Ágoston"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 19,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerõcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -867,6 +867,19 @@
         },
         {
           "players": [
+            "Kozák Márton",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Schmera Gergely",
+            "Tanyi Antal Áron"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerõcs Roland Bálint",
             "Kozák Márton",
             "Lucey Ciarán József",
@@ -876,19 +889,6 @@
           "min": 0.0,
           "pf": 0,
           "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Márton",
-            "Lucey Ciarán József",
-            "Mayer Ákos",
-            "Schmera Gergely",
-            "Tanyi Antal Áron"
-          ],
-          "min": 0.0,
-          "pf": 4,
-          "pa": 0,
           "is_starter": false
         }
       ]
@@ -915,19 +915,6 @@
         {
           "players": [
             "Bán Tibor",
-            "Kozák Bertalan",
-            "Locure Tyreke Edwin",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 17.0,
-          "pf": 23,
-          "pa": 14,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
             "Mészáros Ágoston",
@@ -940,28 +927,28 @@
         },
         {
           "players": [
+            "Bán Tibor",
+            "Kozák Bertalan",
+            "Locure Tyreke Edwin",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 8.0,
+          "pf": 23,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Kozák Márton",
             "Locure Tyreke Edwin",
             "Mészáros Ágoston"
           ],
-          "min": 15.0,
+          "min": 5.0,
           "pf": 9,
           "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Locure Tyreke Edwin",
-            "Schmera Gergely",
-            "Tanyi Antal Áron"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -1028,6 +1015,19 @@
           "pf": 2,
           "pa": 4,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Bertalan",
+            "Locure Tyreke Edwin",
+            "Schmera Gergely",
+            "Tanyi Antal Áron"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
         }
       ]
     },
@@ -1052,32 +1052,6 @@
       "lineups": [
         {
           "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 19.0,
-          "pf": 15,
-          "pa": 19,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Locure Tyreke Edwin",
-            "Mészáros Ágoston"
-          ],
-          "min": 14.0,
-          "pf": 11,
-          "pa": 16,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bán Tibor",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
@@ -1091,15 +1065,28 @@
         },
         {
           "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
             "Kozák Márton",
-            "Locure Tyreke Edwin",
-            "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
+            "Mester Márk",
+            "Mészáros Ágoston"
           ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 0,
+          "min": 9.0,
+          "pf": 15,
+          "pa": 19,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Locure Tyreke Edwin",
+            "Mészáros Ágoston"
+          ],
+          "min": 4.0,
+          "pf": 11,
+          "pa": 16,
           "is_starter": false
         },
         {
@@ -1204,6 +1191,19 @@
           "min": 1.0,
           "pf": 3,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Márton",
+            "Locure Tyreke Edwin",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -1268,159 +1268,16 @@
       "lineups": [
         {
           "players": [
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 17.0,
-          "pf": 19,
-          "pa": 17,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József"
-          ],
-          "min": 11.0,
-          "pf": 5,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mészáros Ágoston"
-          ],
-          "min": 11.0,
-          "pf": 5,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mészáros Ágoston"
-          ],
-          "min": 9.0,
-          "pf": 32,
-          "pa": 31,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 4.0,
-          "pf": 13,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bán Tibor",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 3.0,
-          "pf": 5,
-          "pa": 3,
+          "min": 40.0,
+          "pf": 109,
+          "pa": 78,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József",
-            "Mester Márk",
-            "Schmera Gergely"
-          ],
-          "min": 3.0,
-          "pf": 6,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 3.0,
-          "pf": 3,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Locure Tyreke Edwin",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 2.0,
-          "pf": 11,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 2.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Locure Tyreke Edwin",
-            "Mészáros Ágoston"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 0.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
         }
       ]
     },
@@ -1445,198 +1302,16 @@
       "lineups": [
         {
           "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 0,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bán Tibor",
             "Kozák Márton",
             "Mayer Ákos",
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 10.0,
-          "pf": 18,
-          "pa": 21,
+          "min": 40.0,
+          "pf": 69,
+          "pa": 89,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 5.0,
-          "pf": 8,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mészáros Ágoston"
-          ],
-          "min": 4.0,
-          "pf": 14,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Lucey Ciarán József",
-            "Mayer Ákos",
-            "Mester Márk"
-          ],
-          "min": 3.0,
-          "pf": 7,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Mészáros Ágoston"
-          ],
-          "min": 3.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Locure Tyreke Edwin",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 2.0,
-          "pf": 3,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József",
-            "Schmera Gergely"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József",
-            "Schmera Gergely"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mészáros Ágoston"
-          ],
-          "min": 1.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Lucey Ciarán József",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Schmera Gergely"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Lucey Ciarán József",
-            "Mester Márk",
-            "Schmera Gergely"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mészáros Ágoston"
-          ],
-          "min": 0.0,
-          "pf": 3,
-          "pa": 1,
-          "is_starter": false
         }
       ]
     },
@@ -1667,22 +1342,9 @@
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 15.0,
+          "min": 25.0,
           "pf": 22,
           "pa": 17,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 4,
           "is_starter": false
         },
         {
@@ -1739,6 +1401,19 @@
         },
         {
           "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Lakatos Máté",
             "Locure Tyreke Edwin",
@@ -1786,32 +1461,6 @@
       "lineups": [
         {
           "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Márton",
-            "Locure Tyreke Edwin",
-            "Mayer Ákos",
-            "Mészáros Ágoston"
-          ],
-          "min": 14.0,
-          "pf": 14,
-          "pa": 14,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Kozák Márton",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
@@ -1825,15 +1474,15 @@
         },
         {
           "players": [
-            "Bán Tibor",
             "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József"
+            "Kozák Márton",
+            "Locure Tyreke Edwin",
+            "Mayer Ákos",
+            "Mészáros Ágoston"
           ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 5,
+          "min": 4.0,
+          "pf": 14,
+          "pa": 14,
           "is_starter": false
         },
         {
@@ -1864,6 +1513,19 @@
         },
         {
           "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lucey Ciarán József"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Locure Tyreke Edwin",
             "Mester Márk",
@@ -1886,6 +1548,19 @@
           "min": 3.0,
           "pf": 2,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Márton",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -1942,6 +1617,19 @@
         },
         {
           "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Locure Tyreke Edwin",
             "Mayer Ákos",
             "Mester Márk",
@@ -1964,19 +1652,6 @@
           "min": 0.0,
           "pf": 0,
           "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 0.0,
-          "pf": 8,
-          "pa": 2,
           "is_starter": false
         }
       ]
@@ -2002,13 +1677,26 @@
       "lineups": [
         {
           "players": [
+            "Kozák Márton",
+            "Lakatos Máté",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": true
+        },
+        {
+          "players": [
             "Bán Tibor",
             "Ger?cs Roland Bálint",
             "Kozák Márton",
             "Mester Márk",
             "Mészáros Ágoston"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 10,
           "pa": 10,
           "is_starter": false
@@ -2021,36 +1709,10 @@
             "Lakatos Máté",
             "Mészáros Ágoston"
           ],
-          "min": 13.0,
+          "min": 3.0,
           "pf": 7,
           "pa": 5,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Ger?cs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Tanyi Antal Áron"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 4.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": true
         },
         {
           "players": [
@@ -2076,6 +1738,19 @@
           "min": 3.0,
           "pf": 8,
           "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Ger?cs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Tanyi Antal Áron"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -2128,6 +1803,19 @@
           "min": 2.0,
           "pf": 4,
           "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Ger?cs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Molnár Bence",
+            "Tanyi Antal Áron"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 11,
           "is_starter": false
         },
         {
@@ -2259,19 +1947,6 @@
           "pf": 0,
           "pa": 2,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Ger?cs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Molnár Bence",
-            "Tanyi Antal Áron"
-          ],
-          "min": 0.0,
-          "pf": 2,
-          "pa": 11,
-          "is_starter": false
         }
       ]
     },
@@ -2296,41 +1971,15 @@
       "lineups": [
         {
           "players": [
+            "Ger?cs Roland Bálint",
             "Kozák Márton",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
+            "Mészáros Ágoston"
           ],
-          "min": 14.0,
-          "pf": 7,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 13.0,
+          "min": 6.0,
           "pf": 8,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Lakatos Máté",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 6,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -2348,15 +1997,15 @@
         },
         {
           "players": [
-            "Ger?cs Roland Bálint",
             "Kozák Márton",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
-            "Mészáros Ágoston"
+            "Mészáros Ágoston",
+            "Schmera Gergely"
           ],
-          "min": 5.0,
-          "pf": 8,
-          "pa": 9,
+          "min": 4.0,
+          "pf": 7,
+          "pa": 10,
           "is_starter": false
         },
         {
@@ -2383,6 +2032,19 @@
           "min": 4.0,
           "pf": 8,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Lakatos Máté",
+            "Locure Tyreke Edwin",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 11,
           "is_starter": false
         },
         {
@@ -2462,6 +2124,19 @@
           "pf": 3,
           "pa": 8,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Lakatos Máté",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 6,
+          "is_starter": false
         }
       ]
     },
@@ -2487,32 +2162,6 @@
         {
           "players": [
             "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Mészáros Ágoston"
-          ],
-          "min": 20.0,
-          "pf": 20,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Lakatos Máté",
-            "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
             "Kozák Márton",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
@@ -2525,15 +2174,15 @@
         },
         {
           "players": [
-            "Bán Tibor",
+            "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Lakatos Máté",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
+            "Locure Tyreke Edwin",
+            "Mészáros Ágoston"
           ],
           "min": 10.0,
-          "pf": 0,
-          "pa": 2,
+          "pf": 20,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -2586,6 +2235,19 @@
           "min": 3.0,
           "pf": 2,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Lakatos Máté",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -2664,6 +2326,19 @@
           "min": 0.0,
           "pf": 3,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -2702,45 +2377,6 @@
       "lineups": [
         {
           "players": [
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József",
-            "Schmera Gergely"
-          ],
-          "min": 18.0,
-          "pf": 18,
-          "pa": 14,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József"
-          ],
-          "min": 12.0,
-          "pf": 1,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Locure Tyreke Edwin",
-            "Mayer Ákos",
-            "Mészáros Ágoston"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Kozák Márton",
             "Lakatos Máté",
             "Mayer Ákos",
@@ -2751,6 +2387,19 @@
           "pf": 20,
           "pa": 12,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Locure Tyreke Edwin",
+            "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 8.0,
+          "pf": 18,
+          "pa": 14,
+          "is_starter": false
         },
         {
           "players": [
@@ -2802,6 +2451,32 @@
           "min": 2.0,
           "pf": 4,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Locure Tyreke Edwin",
+            "Lucey Ciarán József"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Locure Tyreke Edwin",
+            "Mayer Ákos",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 10,
           "is_starter": false
         },
         {
@@ -2931,45 +2606,6 @@
       "lineups": [
         {
           "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mayer Ákos"
-          ],
-          "min": 17.0,
-          "pf": 14,
-          "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Ferenczi Lajos",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk"
-          ],
-          "min": 11.0,
-          "pf": 6,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 11.0,
-          "pf": 5,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Kozák Márton",
             "Lakatos Máté",
             "Mayer Ákos",
@@ -2992,6 +2628,19 @@
           "min": 7.0,
           "pf": 16,
           "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos"
+          ],
+          "min": 7.0,
+          "pf": 14,
+          "pa": 13,
           "is_starter": false
         },
         {
@@ -3074,6 +2723,19 @@
         },
         {
           "players": [
+            "Ferenczi Lajos",
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Mester Márk"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Kozák Márton",
             "Mester Márk",
@@ -3083,6 +2745,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 7,
           "is_starter": false
         }
       ]
@@ -3118,58 +2793,6 @@
           "pf": 29,
           "pa": 27,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Schmera Gergely"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József",
-            "Schmera Gergely"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Mayer Ákos",
-            "Mészáros Ágoston"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
         },
         {
           "players": [
@@ -3225,6 +2848,19 @@
         },
         {
           "players": [
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Lakatos Máté",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
@@ -3247,6 +2883,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Lakatos Máté",
+            "Locure Tyreke Edwin",
+            "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -3312,6 +2961,19 @@
           "min": 1.0,
           "pf": 4,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Locure Tyreke Edwin",
+            "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -3395,36 +3057,10 @@
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 26.0,
+          "min": 16.0,
           "pf": 33,
           "pa": 30,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Márton",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József",
-            "Mayer Ákos"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
         },
         {
           "players": [
@@ -3445,6 +3081,19 @@
             "Lakatos Máté",
             "Locure Tyreke Edwin",
             "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 4.0,
+          "pf": 12,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Locure Tyreke Edwin",
+            "Mészáros Ágoston",
             "Schmera Gergely"
           ],
           "min": 4.0,
@@ -3506,6 +3155,32 @@
         },
         {
           "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Márton",
+            "Locure Tyreke Edwin",
+            "Lucey Ciarán József",
+            "Mayer Ákos"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Lakatos Máté",
             "Lucey Ciarán József",
@@ -3515,19 +3190,6 @@
           "min": 1.0,
           "pf": 0,
           "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 1.0,
-          "pf": 12,
-          "pa": 11,
           "is_starter": false
         },
         {
@@ -3572,23 +3234,10 @@
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 24.0,
+          "min": 14.0,
           "pf": 35,
           "pa": 18,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Mészáros Ágoston"
-          ],
-          "min": 22.0,
-          "pf": 8,
-          "pa": 6,
-          "is_starter": false
         },
         {
           "players": [
@@ -3644,6 +3293,19 @@
         },
         {
           "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Locure Tyreke Edwin",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Kozák Márton",
             "Locure Tyreke Edwin",
@@ -3696,6 +3358,19 @@
         },
         {
           "players": [
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 1.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Lakatos Máté",
@@ -3705,19 +3380,6 @@
           "min": 0.0,
           "pf": 1,
           "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 0.0,
-          "pf": 8,
-          "pa": 6,
           "is_starter": false
         }
       ]
@@ -3743,52 +3405,13 @@
       "lineups": [
         {
           "players": [
-            "Kozák Bertalan",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József",
-            "Mester Márk",
-            "Schmera Gergely"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerõcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Locure Tyreke Edwin",
-            "Lucey Ciarán József"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Kozák Márton",
             "Locure Tyreke Edwin",
             "Mayer Ákos",
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 5.0,
+          "min": 8.0,
           "pf": 14,
           "pa": 13,
           "is_starter": false
@@ -3817,6 +3440,19 @@
           "min": 3.0,
           "pf": 3,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Locure Tyreke Edwin",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -3869,6 +3505,32 @@
           "min": 2.0,
           "pf": 2,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lakatos Máté",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerõcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Locure Tyreke Edwin",
+            "Lucey Ciarán József"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -3985,41 +3647,15 @@
       "lineups": [
         {
           "players": [
-            "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Kozák Márton",
             "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 14.0,
-          "pf": 6,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 13.0,
-          "pf": 9,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József",
-            "Mészáros Ágoston"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 0,
+          "min": 7.0,
+          "pf": 24,
+          "pa": 19,
           "is_starter": false
         },
         {
@@ -4046,6 +3682,19 @@
           "min": 4.0,
           "pf": 12,
           "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -4089,6 +3738,19 @@
         },
         {
           "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Kozák Márton",
@@ -4115,15 +3777,15 @@
         },
         {
           "players": [
+            "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
+            "Lucey Ciarán József",
+            "Mészáros Ágoston"
           ],
-          "min": 2.0,
-          "pf": 24,
-          "pa": 19,
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -4188,45 +3850,6 @@
       "lineups": [
         {
           "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 14.0,
-          "pf": 8,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Lakatos Máté",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 11,
-          "pa": 12,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Kozák Márton",
             "Locure Tyreke Edwin",
             "Lucey Ciarán József",
@@ -4240,6 +3863,32 @@
         },
         {
           "players": [
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerőcs Roland Bálint",
             "Kozák Márton",
             "Lucey Ciarán József",
@@ -4249,6 +3898,19 @@
           "min": 4.0,
           "pf": 13,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Lakatos Máté",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -4443,45 +4105,6 @@
       "lineups": [
         {
           "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lucey Ciarán József",
-            "Tyreke Locure"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József",
-            "Schmera Gergely",
-            "Tyreke Locure"
-          ],
-          "min": 12.0,
-          "pf": 14,
-          "pa": 15,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Mészáros Ágoston"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Kozák Bertalan",
             "Kozák Márton",
             "Mészáros Ágoston",
@@ -4534,6 +4157,19 @@
         },
         {
           "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lucey Ciarán József",
+            "Tyreke Locure"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Lakatos Máté",
             "Mészáros Ágoston",
@@ -4582,6 +4218,32 @@
           "min": 2.0,
           "pf": 3,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lucey Ciarán József",
+            "Schmera Gergely",
+            "Tyreke Locure"
+          ],
+          "min": 2.0,
+          "pf": 14,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lakatos Máté",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -4717,35 +4379,9 @@
             "Mester Márk",
             "Tyreke Locure"
           ],
-          "min": 17.0,
+          "min": 7.0,
           "pf": 10,
           "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Tyreke Locure"
-          ],
-          "min": 13.0,
-          "pf": 6,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Lucey Ciarán József",
-            "Mester Márk",
-            "Schmera Gergely",
-            "Tyreke Locure"
-          ],
-          "min": 10.0,
-          "pf": 5,
-          "pa": 1,
           "is_starter": false
         },
         {
@@ -4790,6 +4426,19 @@
         {
           "players": [
             "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Tyreke Locure"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
             "Kozák Bertalan",
             "Kozák Márton",
             "Mészáros Ágoston",
@@ -4824,6 +4473,19 @@
           "min": 2.0,
           "pf": 3,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kovács Zoltán",
+            "Kozák Márton",
+            "Lakatos Máté",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 14,
           "is_starter": false
         },
         {
@@ -4880,15 +4542,15 @@
         },
         {
           "players": [
-            "Kovács Zoltán",
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
+            "Kozák Bertalan",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Schmera Gergely",
+            "Tyreke Locure"
           ],
           "min": 0.0,
-          "pf": 7,
-          "pa": 14,
+          "pf": 5,
+          "pa": 1,
           "is_starter": false
         }
       ]
@@ -4912,45 +4574,6 @@
         "Schmera Gergely"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 12.0,
-          "pf": 1,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Lakatos Máté",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
-        },
         {
           "players": [
             "Kozák Márton",
@@ -5072,6 +4695,32 @@
           "players": [
             "Bán Tibor",
             "Gerőcs Roland Bálint",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
             "Kozák Márton",
             "Mester Márk",
             "Mészáros Ágoston"
@@ -5114,6 +4763,19 @@
             "Lakatos Máté",
             "Mester Márk",
             "Mészáros Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk"
           ],
           "min": 1.0,
           "pf": 2,
@@ -5167,45 +4829,6 @@
         "Schmera Gergely"
       ],
       "lineups": [
-        {
-          "players": [
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
         {
           "players": [
             "Bán Tibor",
@@ -5274,6 +4897,32 @@
         {
           "players": [
             "Gerőcs Roland Bálint",
+            "Kozák Márton",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 4.0,
+          "pf": 13,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Márton",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Kozák Márton",
             "Mayer Ákos",
@@ -5282,6 +4931,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -5295,6 +4957,19 @@
           "min": 1.0,
           "pf": 4,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -5322,19 +4997,6 @@
           "pf": 0,
           "pa": 3,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 0.0,
-          "pf": 13,
-          "pa": 6,
-          "is_starter": false
         }
       ]
     },
@@ -5357,45 +5019,6 @@
         "Mészáros Ágoston"
       ],
       "lineups": [
-        {
-          "players": [
-            "Czimer László Adrián",
-            "Kovács Zoltán",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Mester Márk"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerõcs Roland Bálint",
-            "Kovács Zoltán",
-            "Lakatos Máté",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 12.0,
-          "pf": 7,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Czimer László Adrián",
-            "Kovács Zoltán",
-            "Lakatos Máté",
-            "Mayer Ákos"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
         {
           "players": [
             "Bán Tibor",
@@ -5437,6 +5060,19 @@
         },
         {
           "players": [
+            "Czimer László Adrián",
+            "Kovács Zoltán",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Mester Márk"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerõcs Roland Bálint",
             "Kozák Márton",
             "Mayer Ákos",
@@ -5450,6 +5086,19 @@
         },
         {
           "players": [
+            "Gerõcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lakatos Máté",
+            "Mészáros Ágoston"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Kozák Márton",
             "Mayer Ákos",
@@ -5459,6 +5108,19 @@
           "min": 2.0,
           "pf": 7,
           "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerõcs Roland Bálint",
+            "Kovács Zoltán",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -5569,25 +5231,25 @@
           "players": [
             "Bán Tibor",
             "Czimer László Adrián",
+            "Kovács Zoltán",
+            "Lakatos Máté",
+            "Mayer Ákos"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Czimer László Adrián",
             "Gerõcs Roland Bálint",
             "Kovács Zoltán",
             "Lakatos Máté"
           ],
           "min": 1.0,
           "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerõcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Mészáros Ágoston"
-          ],
-          "min": 0.0,
-          "pf": 9,
           "pa": 4,
           "is_starter": false
         }
@@ -5612,45 +5274,6 @@
         "Schmera Gergely"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerõcs Roland Bálint",
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lucey Ciarán József"
-          ],
-          "min": 14.0,
-          "pf": 7,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerõcs Roland Bálint",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 13.0,
-          "pf": 11,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerõcs Roland Bálint",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
         {
           "players": [
             "Bán Tibor",
@@ -5693,6 +5316,19 @@
         {
           "players": [
             "Bán Tibor",
+            "Gerõcs Roland Bálint",
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lucey Ciarán József"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
             "Kovács Zoltán",
             "Kozák Márton",
             "Mészáros Ágoston",
@@ -5720,6 +5356,19 @@
           "players": [
             "Bán Tibor",
             "Gerõcs Roland Bálint",
+            "Kozák Márton",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerõcs Roland Bálint",
             "Lakatos Máté",
             "Mester Márk",
             "Mészáros Ágoston"
@@ -5727,6 +5376,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Gerõcs Roland Bálint",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -5740,6 +5402,19 @@
           "min": 2.0,
           "pf": 4,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Márton",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -5819,19 +5494,6 @@
           "pf": 2,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Márton",
-            "Lucey Ciarán József",
-            "Mester Márk",
-            "Schmera Gergely"
-          ],
-          "min": 0.0,
-          "pf": 10,
-          "pa": 5,
-          "is_starter": false
         }
       ]
     },
@@ -5854,45 +5516,6 @@
         "Schmera Gergely"
       ],
       "lineups": [
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Kozák Márton",
-            "Lakatos Máté",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mayer Ákos"
-          ],
-          "min": 11.0,
-          "pf": 5,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 10.0,
-          "pf": 1,
-          "pa": 0,
-          "is_starter": false
-        },
         {
           "players": [
             "Kozák Márton",
@@ -5999,6 +5622,19 @@
         },
         {
           "players": [
+            "Kozák Bertalan",
+            "Kozák Márton",
+            "Lakatos Máté",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bán Tibor",
             "Gerőcs Roland Bálint",
             "Kozák Márton",
@@ -6064,6 +5700,19 @@
         },
         {
           "players": [
+            "Bán Tibor",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Bertalan",
             "Kozák Márton",
             "Lakatos Máté",
@@ -6086,6 +5735,19 @@
           "min": 1.0,
           "pf": 1,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -6130,35 +5792,9 @@
             "Mészáros Ágoston",
             "Schmera Gergely"
           ],
-          "min": 20.0,
+          "min": 10.0,
           "pf": 21,
           "pa": 19,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Gerőcs Roland Bálint",
-            "Kovács Zoltán",
-            "Lakatos Máté",
-            "Mészáros Ágoston"
-          ],
-          "min": 11.0,
-          "pf": 5,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kovács Zoltán",
-            "Kozák Márton",
-            "Lucey Ciarán József",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 3,
           "is_starter": false
         },
         {
@@ -6280,11 +5916,37 @@
         },
         {
           "players": [
+            "Bán Tibor",
+            "Gerőcs Roland Bálint",
+            "Kovács Zoltán",
+            "Lakatos Máté",
+            "Mészáros Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerőcs Roland Bálint",
             "Kovács Zoltán",
             "Kozák Márton",
             "Lucey Ciarán József",
             "Mészáros Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kovács Zoltán",
+            "Kozák Márton",
+            "Lucey Ciarán József",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
           ],
           "min": 1.0,
           "pf": 2,
@@ -6351,45 +6013,6 @@
         "Schmera Gergely"
       ],
       "lineups": [
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Márton",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kovács Zoltán",
-            "Lakatos Máté",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 12.0,
-          "pf": 1,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kovács Zoltán",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mester Márk"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
         {
           "players": [
             "Bán Tibor",
@@ -6471,6 +6094,19 @@
         {
           "players": [
             "Gerőcs Roland Bálint",
+            "Kozák Márton",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
             "Kovács Zoltán",
             "Kozák Márton",
             "Mester Márk",
@@ -6492,6 +6128,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kovács Zoltán",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -6518,6 +6167,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kovács Zoltán",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mester Márk"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -6561,6 +6223,19 @@
         },
         {
           "players": [
+            "Gerőcs Roland Bálint",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Mester Márk"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bán Tibor",
             "Gerőcs Roland Bálint",
             "Kovács Zoltán",
@@ -6570,19 +6245,6 @@
           "min": 0.0,
           "pf": 3,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mayer Ákos",
-            "Mester Márk"
-          ],
-          "min": 0.0,
-          "pf": 5,
-          "pa": 2,
           "is_starter": false
         }
       ]
@@ -6606,32 +6268,6 @@
         "Mayer Ákos"
       ],
       "lineups": [
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 22.0,
-          "pf": 5,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 6,
-          "is_starter": false
-        },
         {
           "players": [
             "Bán Tibor",
@@ -6712,6 +6348,32 @@
         },
         {
           "players": [
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Márton",
+            "Mayer Ákos",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 11,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gerőcs Roland Bálint",
             "Kozák Bertalan",
             "Kozák Márton",
@@ -6721,6 +6383,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gerőcs Roland Bálint",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Mester Márk",
+            "Mészáros Ágoston"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -6747,19 +6422,6 @@
           "min": 1.0,
           "pf": 2,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Márton",
-            "Mayer Ákos",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 1.0,
-          "pf": 11,
-          "pa": 8,
           "is_starter": false
         },
         {
@@ -6798,32 +6460,6 @@
       "lineups": [
         {
           "players": [
-            "Lakatos Máté",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Mészáros Ágoston",
-            "Schmera Gergely"
-          ],
-          "min": 15.0,
-          "pf": 5,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Mayer Ákos",
-            "Schmera Gergely"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bán Tibor",
             "Gerőcs Roland Bálint",
             "Kozák Bertalan",
@@ -6834,19 +6470,6 @@
           "pf": 20,
           "pa": 21,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Gerőcs Roland Bálint",
-            "Lakatos Máté",
-            "Mayer Ákos",
-            "Mester Márk",
-            "Mészáros Ágoston"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
         },
         {
           "players": [
@@ -6863,6 +6486,19 @@
         },
         {
           "players": [
+            "Lakatos Máté",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 5.0,
+          "pf": 5,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kozák Márton",
             "Mayer Ákos",
             "Mester Márk",
@@ -6872,6 +6508,19 @@
           "min": 2.0,
           "pf": 4,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Kozák Bertalan",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Schmera Gergely"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -6968,6 +6617,19 @@
         {
           "players": [
             "Bán Tibor",
+            "Lakatos Máté",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Schmera Gergely"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bán Tibor",
             "Gerőcs Roland Bálint",
             "Lucey Ciarán József",
             "Mayer Ákos",
@@ -7002,19 +6664,6 @@
           "min": 1.0,
           "pf": 0,
           "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bán Tibor",
-            "Kozák Bertalan",
-            "Lakatos Máté",
-            "Lucey Ciarán József",
-            "Schmera Gergely"
-          ],
-          "min": 0.0,
-          "pf": 7,
-          "pa": 6,
           "is_starter": false
         },
         {

@@ -30,36 +30,10 @@
             "Székely Bence",
             "Vadai Balázs"
           ],
-          "min": 25.0,
+          "min": 15.0,
           "pf": 31,
           "pa": 40,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Orbán Imre",
-            "Orvos Ádám",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Vadai Balázs"
-          ],
-          "min": 14.0,
-          "pf": 10,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kedvek László",
-            "Orbán Imre",
-            "Orvos Ádám",
-            "Szentkuti Ákos",
-            "Székely Bence"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 6,
-          "is_starter": false
         },
         {
           "players": [
@@ -89,6 +63,32 @@
         },
         {
           "players": [
+            "Orbán Imre",
+            "Orvos Ádám",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Vadai Balázs"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orbán Imre",
+            "Orvos Ádám",
+            "Szentkuti Ákos",
+            "Székely Bence"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kedvek László",
             "Orbán Imre",
             "Szentkuti Ákos",
@@ -110,6 +110,19 @@
           ],
           "min": 2.0,
           "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kedvek László",
+            "Orvos Ádám",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 2.0,
+          "pf": 6,
           "pa": 4,
           "is_starter": false
         },
@@ -151,19 +164,6 @@
           "pf": 2,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Kedvek László",
-            "Orvos Ádám",
-            "Szafkó Márk",
-            "Székely Bence",
-            "Vadai Balázs"
-          ],
-          "min": 0.0,
-          "pf": 6,
-          "pa": 4,
-          "is_starter": false
         }
       ]
     },
@@ -189,51 +189,12 @@
         {
           "players": [
             "Bankó Zoltán Martin",
-            "Orbán Imre",
-            "Vadai Balázs",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Kedvek László",
-            "Vadai Balázs",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Orbán Imre",
             "Szafkó Márk",
             "Ságodi Róbert",
             "Varga Sándor",
             "Várszegi Ádám"
           ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Szafkó Márk",
-            "Ságodi Róbert",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 8.0,
+          "min": 11.0,
           "pf": 21,
           "pa": 18,
           "is_starter": true
@@ -268,6 +229,19 @@
           "players": [
             "Bankó Zoltán Martin",
             "Orbán Imre",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Orbán Imre",
             "Szafkó Márk",
             "Ságodi Róbert",
             "Varga Sándor"
@@ -293,6 +267,19 @@
         {
           "players": [
             "Bankó Zoltán Martin",
+            "Kedvek László",
+            "Vadai Balázs",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
             "Orbán Imre",
             "Ságodi Róbert",
             "Varga Sándor",
@@ -301,6 +288,19 @@
           "min": 2.0,
           "pf": 4,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Ságodi Róbert",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -423,36 +423,10 @@
             "Varga Sándor",
             "Várszegi Ádám"
           ],
-          "min": 20.0,
+          "min": 10.0,
           "pf": 20,
           "pa": 23,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Orbán Imre",
-            "Szafkó Márk",
-            "Székely Bence",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Fórián Zsombor Zsolt",
-            "Székely Bence",
-            "Vadai Balázs",
-            "Varga Sándor"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 4,
-          "is_starter": false
         },
         {
           "players": [
@@ -586,6 +560,19 @@
         },
         {
           "players": [
+            "Fórián Zsombor Zsolt",
+            "Kedvek László",
+            "Orbán Imre",
+            "Székely Bence",
+            "Vadai Balázs"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bankó Zoltán Martin",
             "Szafkó Márk",
             "Székely Bence",
@@ -608,6 +595,19 @@
           "min": 1.0,
           "pf": 8,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Székely Bence",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -638,14 +638,14 @@
         },
         {
           "players": [
+            "Bankó Zoltán Martin",
             "Fórián Zsombor Zsolt",
-            "Kedvek László",
-            "Orbán Imre",
             "Székely Bence",
-            "Vadai Balázs"
+            "Vadai Balázs",
+            "Varga Sándor"
           ],
           "min": 0.0,
-          "pf": 7,
+          "pf": 0,
           "pa": 4,
           "is_starter": false
         }
@@ -678,36 +678,10 @@
             "Ságodi Róbert",
             "Várszegi Ádám"
           ],
-          "min": 24.0,
+          "min": 14.0,
           "pf": 34,
           "pa": 46,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Fórián Zsombor Zsolt",
-            "Szentkuti Ákos",
-            "Székely Bence",
-            "Ságodi Róbert"
-          ],
-          "min": 12.0,
-          "pf": 1,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Szentkuti Ákos",
-            "Szûcs Gellért",
-            "Ságodi Róbert",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 8,
-          "is_starter": false
         },
         {
           "players": [
@@ -776,6 +750,19 @@
         },
         {
           "players": [
+            "Bankó Zoltán Martin",
+            "Fórián Zsombor Zsolt",
+            "Szentkuti Ákos",
+            "Székely Bence",
+            "Ságodi Róbert"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Kedvek László",
             "Szentkuti Ákos",
             "Székely Bence",
@@ -785,6 +772,19 @@
           "min": 2.0,
           "pf": 3,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Szentkuti Ákos",
+            "Szûcs Gellért",
+            "Ságodi Róbert",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -834,7 +834,7 @@
             "Székely Bence",
             "Szûcs Gellért"
           ],
-          "min": 0.0,
+          "min": 1.0,
           "pf": 0,
           "pa": 2,
           "is_starter": false
@@ -863,171 +863,15 @@
         {
           "players": [
             "Bankó Zoltán Martin",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Szentkuti Ákos",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 3,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Vadai Balázs",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 6,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
             "Flasár Botond",
             "Gál Csongor",
             "Varga Ferenc",
             "Várszegi Ádám"
           ],
-          "min": 10.0,
-          "pf": 15,
-          "pa": 16,
+          "min": 40.0,
+          "pf": 55,
+          "pa": 61,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Várszegi Ádám"
-          ],
-          "min": 5.0,
-          "pf": 0,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 3.0,
-          "pf": 7,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk"
-          ],
-          "min": 2.0,
-          "pf": 11,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Vadai Balázs"
-          ],
-          "min": 2.0,
-          "pf": 6,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Vadai Balázs",
-            "Várszegi Ádám"
-          ],
-          "min": 2.0,
-          "pf": 3,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk"
-          ],
-          "min": 2.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Gál Csongor",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Orbán Imre",
-            "Szafkó Márk",
-            "Szentkuti Ákos"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szász-Veres Márk",
-            "Varga Ferenc"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
         }
       ]
     },
@@ -1052,185 +896,16 @@
       "lineups": [
         {
           "players": [
-            "Flasár Botond",
-            "Kovács Ákos Bence",
-            "Szafkó Márk",
-            "Varga Ferenc",
-            "Varga Sándor"
-          ],
-          "min": 15.0,
-          "pf": 12,
-          "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Varga Ferenc",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Szafkó Márk",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bankó Zoltán Martin",
             "Flasár Botond",
             "Gál Csongor",
             "Varga Ferenc",
             "Várszegi Ádám"
           ],
-          "min": 8.0,
-          "pf": 25,
-          "pa": 25,
+          "min": 40.0,
+          "pf": 99,
+          "pa": 88,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 4.0,
-          "pf": 8,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 3.0,
-          "pf": 6,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Szafkó Márk",
-            "Varga Sándor"
-          ],
-          "min": 3.0,
-          "pf": 7,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Kovács Ákos Bence",
-            "Vadai Balázs",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 3.0,
-          "pf": 9,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Kovács Ákos Bence",
-            "Vadai Balázs",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 2.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 2.0,
-          "pf": 9,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Varga Ferenc",
-            "Varga Sándor"
-          ],
-          "min": 2.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 1.0,
-          "pf": 9,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Vadai Balázs",
-            "Varga Sándor"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Kovács Ákos Bence",
-            "Varga Ferenc",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
         }
       ]
     },
@@ -1257,196 +932,14 @@
           "players": [
             "Bankó Zoltán Martin",
             "Flasár Botond",
-            "Szentkuti Ákos",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 14.0,
-          "pf": 7,
-          "pa": 15,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Kedvek László",
-            "Szentkuti Ákos",
-            "Vadai Balázs",
-            "Varga Ferenc"
-          ],
-          "min": 14.0,
-          "pf": 7,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 8,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
             "Gál Csongor",
             "Varga Ferenc",
             "Várszegi Ádám"
           ],
-          "min": 8.0,
-          "pf": 7,
-          "pa": 18,
+          "min": 40.0,
+          "pf": 71,
+          "pa": 98,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Vadai Balázs",
-            "Várszegi Ádám"
-          ],
-          "min": 5.0,
-          "pf": 10,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Kedvek László",
-            "Sz?cs Gellért",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 4.0,
-          "pf": 4,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Szentkuti Ákos",
-            "Vadai Balázs",
-            "Várszegi Ádám"
-          ],
-          "min": 3.0,
-          "pf": 4,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Orbán Imre",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 3.0,
-          "pf": 7,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 2.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Gál Csongor",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Vadai Balázs"
-          ],
-          "min": 2.0,
-          "pf": 5,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 1.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Kedvek László",
-            "Szentkuti Ákos",
-            "Vadai Balázs"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 0.0,
-          "pf": 1,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Vadai Balázs",
-            "Varga Ferenc"
-          ],
-          "min": 0.0,
-          "pf": 1,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Kedvek László",
-            "Sz?cs Gellért",
-            "Vadai Balázs",
-            "Varga Ferenc"
-          ],
-          "min": 0.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
         }
       ]
     },
@@ -1472,51 +965,12 @@
         {
           "players": [
             "Flasár Botond",
-            "Orbán Imre",
-            "Szafkó Márk",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Hõgye Patrik",
-            "Kovács Ákos Bence",
-            "Vadai Balázs",
-            "Varga Sándor"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Hõgye Patrik",
-            "Orbán Imre",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
             "Hõgye Patrik",
             "Kovács Ákos Bence",
             "Varga Sándor",
             "Várszegi Ádám"
           ],
-          "min": 6.0,
+          "min": 9.0,
           "pf": 14,
           "pa": 15,
           "is_starter": false
@@ -1627,6 +1081,19 @@
         },
         {
           "players": [
+            "Flasár Botond",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bankó Zoltán Martin",
             "Hõgye Patrik",
             "Kovács Ákos Bence",
@@ -1636,6 +1103,19 @@
           "min": 2.0,
           "pf": 3,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Hõgye Patrik",
+            "Kovács Ákos Bence",
+            "Vadai Balázs",
+            "Varga Sándor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
           "is_starter": false
         },
         {
@@ -1663,6 +1143,19 @@
           "pf": 2,
           "pa": 2,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Hõgye Patrik",
+            "Orbán Imre",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
         }
       ]
     },
@@ -1687,45 +1180,6 @@
       "lineups": [
         {
           "players": [
-            "Orbán Imre",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Vadai Balázs"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Vadai Balázs",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Orbán Imre",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bankó Zoltán Martin",
             "Gál Csongor",
             "Szentkuti Ákos",
@@ -1745,7 +1199,7 @@
             "Varga Ferenc",
             "Várszegi Ádám"
           ],
-          "min": 3.0,
+          "min": 5.0,
           "pf": 19,
           "pa": 14,
           "is_starter": false
@@ -1774,6 +1228,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Vadai Balázs"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -1882,6 +1349,19 @@
         },
         {
           "players": [
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Vadai Balázs",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bankó Zoltán Martin",
             "Gál Csongor",
             "Szentkuti Ákos",
@@ -1904,6 +1384,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -1968,32 +1461,6 @@
       "lineups": [
         {
           "players": [
-            "Bankó Zoltán Martin",
-            "Kovács Ákos Bence",
-            "Varga Ferenc",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 14.0,
-          "pf": 5,
-          "pa": 12,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bankó Zoltán Martin",
-            "Kovács Ákos Bence",
-            "Szász-Veres Márk",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Kovács Ákos Bence",
@@ -2007,15 +1474,15 @@
         },
         {
           "players": [
+            "Bankó Zoltán Martin",
+            "Flasár Botond",
+            "Gál Csongor",
             "Kovács Ákos Bence",
-            "Orbán Imre",
-            "Varga Ferenc",
-            "Varga Sándor",
-            "Várszegi Ádám"
+            "Varga Sándor"
           ],
           "min": 11.0,
-          "pf": 3,
-          "pa": 0,
+          "pf": 34,
+          "pa": 17,
           "is_starter": false
         },
         {
@@ -2029,6 +1496,32 @@
           "min": 5.0,
           "pf": 7,
           "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kovács Ákos Bence",
+            "Varga Ferenc",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bankó Zoltán Martin",
+            "Kovács Ákos Bence",
+            "Szász-Veres Márk",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -2098,15 +1591,15 @@
         },
         {
           "players": [
-            "Bankó Zoltán Martin",
-            "Flasár Botond",
-            "Gál Csongor",
             "Kovács Ákos Bence",
-            "Varga Sándor"
+            "Orbán Imre",
+            "Varga Ferenc",
+            "Varga Sándor",
+            "Várszegi Ádám"
           ],
-          "min": 0.0,
-          "pf": 34,
-          "pa": 17,
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
           "is_starter": false
         }
       ]
@@ -2141,45 +1634,6 @@
           "min": 13.0,
           "pf": 25,
           "pa": 21,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Balázs",
-            "Flasár Botond",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Varga Ferenc"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
           "is_starter": false
         },
         {
@@ -2236,6 +1690,19 @@
         },
         {
           "players": [
+            "Fekete Balázs",
+            "Flasár Botond",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Orbán Imre",
@@ -2245,6 +1712,19 @@
           "min": 2.0,
           "pf": 5,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Varga Ferenc"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -2349,45 +1829,6 @@
         {
           "players": [
             "Gál Csongor",
-            "Kedvek László",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Vadai Balázs"
-          ],
-          "min": 13.0,
-          "pf": 6,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gál Csongor",
-            "Kedvek László",
-            "Szentkuti Ákos",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 6,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Balázs",
-            "Gál Csongor",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gál Csongor",
             "Orbán Imre",
             "Szentkuti Ákos",
             "Szász-Veres Márk",
@@ -2409,6 +1850,19 @@
           "min": 3.0,
           "pf": 4,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gál Csongor",
+            "Kedvek László",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Vadai Balázs"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -2583,6 +2037,19 @@
         {
           "players": [
             "Gál Csongor",
+            "Kedvek László",
+            "Szentkuti Ákos",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gál Csongor",
             "Szafkó Márk",
             "Szász-Veres Márk",
             "Varga Ferenc",
@@ -2681,32 +2148,6 @@
       "lineups": [
         {
           "players": [
-            "Kovács Ákos Bence",
-            "Orbán Imre",
-            "Szafkó Márk",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 14.0,
-          "pf": 6,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 6,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Kovács Ákos Bence",
@@ -2721,14 +2162,27 @@
         {
           "players": [
             "Flasár Botond",
+            "Gál Csongor",
             "Kovács Ákos Bence",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 5.0,
+          "pf": 6,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kovács Ákos Bence",
+            "Orbán Imre",
             "Szafkó Márk",
             "Varga Sándor",
             "Várszegi Ádám"
           ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
+          "min": 4.0,
+          "pf": 6,
+          "pa": 11,
           "is_starter": false
         },
         {
@@ -2884,32 +2338,6 @@
       "lineups": [
         {
           "players": [
-            "Fekete Balázs",
-            "Flasár Botond",
-            "Orbán Imre",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 15.0,
-          "pf": 11,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Szentkuti Ákos",
-            "Vadai Balázs",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 14.0,
-          "pf": 4,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Orbán Imre",
             "Szentkuti Ákos",
@@ -2924,14 +2352,27 @@
         {
           "players": [
             "Fekete Balázs",
+            "Flasár Botond",
             "Orbán Imre",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Szentkuti Ákos",
             "Vadai Balázs",
             "Varga Ferenc",
             "Várszegi Ádám"
           ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 3,
+          "min": 4.0,
+          "pf": 4,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -3029,6 +2470,19 @@
           "players": [
             "Fekete Balázs",
             "Orbán Imre",
+            "Vadai Balázs",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Balázs",
+            "Orbán Imre",
             "Szentkuti Ákos",
             "Varga Ferenc",
             "Várszegi Ádám"
@@ -3072,45 +2526,6 @@
         "Várszegi Ádám"
       ],
       "lineups": [
-        {
-          "players": [
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Vadai Balázs",
-            "Varga Ferenc"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szász-Veres Márk",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Vadai Balázs",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
         {
           "players": [
             "Flasár Botond",
@@ -3165,6 +2580,19 @@
         },
         {
           "players": [
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Vadai Balázs",
+            "Varga Ferenc"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Szentkuti Ákos",
@@ -3217,6 +2645,32 @@
         },
         {
           "players": [
+            "Fekete Balázs",
+            "Orbán Imre",
+            "Vadai Balázs",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szász-Veres Márk",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gál Csongor",
             "Orbán Imre",
             "Szász-Veres Márk",
@@ -3256,6 +2710,19 @@
         },
         {
           "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Vadai Balázs",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Fekete Balázs",
             "Orbán Imre",
             "Szász-Veres Márk",
@@ -3265,19 +2732,6 @@
           "min": 1.0,
           "pf": 1,
           "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Balázs",
-            "Orbán Imre",
-            "Vadai Balázs",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 0.0,
-          "pf": 6,
-          "pa": 0,
           "is_starter": false
         }
       ]
@@ -3322,35 +2776,9 @@
             "Varga Ferenc",
             "Várszegi Ádám"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 5,
           "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Balázs",
-            "Szász-Veres Márk",
-            "Székely Bence",
-            "Vadai Balázs",
-            "Varga Ferenc"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Szász-Veres Márk",
-            "Székely Bence",
-            "Szûcs Gellért",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -3410,6 +2838,19 @@
             "Fekete Balázs",
             "Szász-Veres Márk",
             "Székely Bence",
+            "Vadai Balázs",
+            "Varga Ferenc"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Balázs",
+            "Szász-Veres Márk",
+            "Székely Bence",
             "Varga Sándor",
             "Várszegi Ádám"
           ],
@@ -3478,9 +2919,22 @@
             "Vadai Balázs",
             "Varga Sándor"
           ],
-          "min": 0.0,
+          "min": 1.0,
           "pf": 3,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Szász-Veres Márk",
+            "Székely Bence",
+            "Szûcs Gellért",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 2,
           "is_starter": false
         }
       ]
@@ -3516,45 +2970,6 @@
           "pf": 39,
           "pa": 48,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Vadai Balázs"
-          ],
-          "min": 11.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Orbán Imre",
-            "Szentkuti Ákos"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 1,
-          "is_starter": false
         },
         {
           "players": [
@@ -3613,12 +3028,38 @@
             "Balázsi Ákos Milán",
             "Flasár Botond",
             "Gál Csongor",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
             "Szász-Veres Márk",
             "Varga Ferenc"
           ],
           "min": 1.0,
           "pf": 2,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Vadai Balázs"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -3658,6 +3099,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Orbán Imre",
+            "Szentkuti Ákos"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
           "is_starter": false
         },
         {
@@ -3707,45 +3161,6 @@
         "Várszegi Ádám"
       ],
       "lineups": [
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Szász-Veres Márk",
-            "Varga Ferenc",
-            "Varga Sándor"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Orbán Imre",
-            "Szász-Veres Márk",
-            "Varga Ferenc",
-            "Varga Sándor"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gál Csongor",
-            "Orbán Imre",
-            "Szász-Veres Márk",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
         {
           "players": [
             "Flasár Botond",
@@ -3828,6 +3243,19 @@
           "players": [
             "Balázsi Ákos Milán",
             "Flasár Botond",
+            "Szász-Veres Márk",
+            "Varga Ferenc",
+            "Varga Sándor"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
             "Gál Csongor",
             "Varga Sándor",
             "Várszegi Ádám"
@@ -3855,12 +3283,38 @@
             "Flasár Botond",
             "Gál Csongor",
             "Szász-Veres Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szász-Veres Márk",
             "Varga Ferenc",
             "Varga Sándor"
           ],
           "min": 2.0,
           "pf": 0,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Orbán Imre",
+            "Szász-Veres Márk",
+            "Varga Ferenc",
+            "Varga Sándor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -3891,6 +3345,19 @@
         },
         {
           "players": [
+            "Gál Csongor",
+            "Orbán Imre",
+            "Szász-Veres Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Orbán Imre",
@@ -3900,19 +3367,6 @@
           "min": 1.0,
           "pf": 3,
           "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szász-Veres Márk",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 1.0,
-          "pf": 3,
-          "pa": 5,
           "is_starter": false
         },
         {
@@ -3951,54 +3405,15 @@
       "lineups": [
         {
           "players": [
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Szentkuti Ákos",
             "Szász-Veres Márk",
             "Várszegi Ádám"
           ],
-          "min": 12.0,
+          "min": 15.0,
           "pf": 47,
           "pa": 39,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Vadai Balázs",
-            "Varga Ferenc"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Vadai Balázs"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -4024,6 +3439,19 @@
           ],
           "min": 5.0,
           "pf": 8,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 4,
           "pa": 10,
           "is_starter": false
         },
@@ -4064,6 +3492,32 @@
           "min": 2.0,
           "pf": 2,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Vadai Balázs",
+            "Varga Ferenc"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Vadai Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -4102,45 +3556,6 @@
       "lineups": [
         {
           "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szafkó Márk",
-            "Varga Sándor"
-          ],
-          "min": 15.0,
-          "pf": 16,
-          "pa": 18,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Orbán Imre",
-            "Szász-Veres Márk",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Szász-Veres Márk",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Szász-Veres Márk",
@@ -4151,6 +3566,19 @@
           "pf": 11,
           "pa": 19,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szafkó Márk",
+            "Varga Sándor"
+          ],
+          "min": 5.0,
+          "pf": 16,
+          "pa": 18,
+          "is_starter": false
         },
         {
           "players": [
@@ -4189,6 +3617,19 @@
           "min": 2.0,
           "pf": 3,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Orbán Imre",
+            "Szász-Veres Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -4241,6 +3682,19 @@
           "min": 2.0,
           "pf": 4,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Szász-Veres Márk",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -4370,32 +3824,6 @@
       "lineups": [
         {
           "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Szentkuti Ákos"
-          ],
-          "min": 15.0,
-          "pf": 9,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Kovács Ákos Bence",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 15.0,
-          "pf": 15,
-          "pa": 14,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Kovács Ákos Bence",
@@ -4409,28 +3837,41 @@
         },
         {
           "players": [
-            "Balázsi Ákos Milán",
-            "Kovács Ákos Bence",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Varga Ferenc"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Kovács Ákos Bence",
             "Szentkuti Ákos",
             "Várszegi Ádám"
           ],
-          "min": 3.0,
+          "min": 7.0,
           "pf": 11,
           "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Kovács Ákos Bence",
+            "Szentkuti Ákos"
+          ],
+          "min": 5.0,
+          "pf": 9,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Kovács Ákos Bence",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 5.0,
+          "pf": 15,
+          "pa": 14,
           "is_starter": false
         },
         {
@@ -4497,6 +3938,19 @@
           "pf": 0,
           "pa": 2,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Kovács Ákos Bence",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Varga Ferenc"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
         }
       ]
     },
@@ -4527,35 +3981,9 @@
             "Szentkuti Ákos",
             "Várszegi Ádám"
           ],
-          "min": 16.0,
+          "min": 8.0,
           "pf": 20,
           "pa": 24,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Kovács Ákos Bence",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Varga Ferenc"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 8,
           "is_starter": false
         },
         {
@@ -4600,6 +4028,19 @@
         {
           "players": [
             "Balázsi Ákos Milán",
+            "Kovács Ákos Bence",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Varga Ferenc"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
             "Flasár Botond",
             "Hõgye Patrik",
             "Kovács Ákos Bence",
@@ -4621,6 +4062,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -4737,45 +4191,6 @@
       "lineups": [
         {
           "players": [
-            "Csécsei Gergő",
-            "Kovács Ákos Bence",
-            "Szász-Veres Márk",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 7,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kovács Ákos Bence",
-            "Orbán Imre",
-            "Szász-Veres Márk",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 8,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Csécsei Gergő",
-            "Orbán Imre",
-            "Szász-Veres Márk",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Hőgye Patrik",
             "Kovács Ákos Bence",
@@ -4842,6 +4257,19 @@
         {
           "players": [
             "Csécsei Gergő",
+            "Kovács Ákos Bence",
+            "Szász-Veres Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csécsei Gergő",
             "Flasár Botond",
             "Kovács Ákos Bence",
             "Varga Sándor",
@@ -4893,6 +4321,19 @@
         },
         {
           "players": [
+            "Csécsei Gergő",
+            "Orbán Imre",
+            "Varga Ferenc",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Flasár Botond",
             "Hőgye Patrik",
             "Kovács Ákos Bence",
@@ -4958,6 +4399,19 @@
         },
         {
           "players": [
+            "Kovács Ákos Bence",
+            "Orbán Imre",
+            "Szász-Veres Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 8,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Balázsi Ákos Milán",
             "Kovács Ákos Bence",
             "Orbán Imre",
@@ -4980,6 +4434,19 @@
           "min": 1.0,
           "pf": 4,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csécsei Gergő",
+            "Orbán Imre",
+            "Szász-Veres Márk",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -5032,19 +4499,6 @@
           "min": 0.0,
           "pf": 2,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Csécsei Gergő",
-            "Orbán Imre",
-            "Varga Ferenc",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 0.0,
-          "pf": 10,
-          "pa": 4,
           "is_starter": false
         }
       ]
@@ -5071,32 +4525,6 @@
         {
           "players": [
             "Balázsi Ákos Milán",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Varga Ferenc"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Orbán Imre",
-            "Szafkó Márk",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 8,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
             "Flasár Botond",
             "Szász-Veres Márk",
             "Varga Ferenc",
@@ -5109,19 +4537,6 @@
         },
         {
           "players": [
-            "Csécsei Gergő",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Flasár Botond",
             "Szentkuti Ákos",
             "Szász-Veres Márk",
@@ -5131,6 +4546,19 @@
           "min": 4.0,
           "pf": 7,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Orbán Imre",
+            "Orvos Ádám",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Varga Ferenc"
+          ],
+          "min": 4.0,
+          "pf": 18,
+          "pa": 12,
           "is_starter": false
         },
         {
@@ -5170,6 +4598,19 @@
           "min": 3.0,
           "pf": 2,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk",
+            "Varga Ferenc"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -5226,6 +4667,19 @@
         },
         {
           "players": [
+            "Flasár Botond",
+            "Orbán Imre",
+            "Szafkó Márk",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Balázsi Ákos Milán",
             "Flasár Botond",
             "Szentkuti Ákos",
@@ -5265,10 +4719,10 @@
         },
         {
           "players": [
-            "Balázsi Ákos Milán",
-            "Orbán Imre",
+            "Csécsei Gergő",
             "Szentkuti Ákos",
             "Szász-Veres Márk",
+            "Varga Ferenc",
             "Várszegi Ádám"
           ],
           "min": 0.0,
@@ -5278,15 +4732,15 @@
         },
         {
           "players": [
+            "Balázsi Ákos Milán",
             "Orbán Imre",
-            "Orvos Ádám",
-            "Szafkó Márk",
             "Szentkuti Ákos",
-            "Varga Ferenc"
+            "Szász-Veres Márk",
+            "Várszegi Ádám"
           ],
           "min": 0.0,
-          "pf": 18,
-          "pa": 12,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         }
       ]
@@ -5313,45 +4767,6 @@
         {
           "players": [
             "Flasár Botond",
-            "Gál Csongor",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Hõgye Patrik",
-            "Szentkuti Ákos"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gál Csongor",
-            "Hõgye Patrik",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
             "Hõgye Patrik",
             "Szász-Veres Márk",
             "Varga Ferenc",
@@ -5374,6 +4789,45 @@
           "pf": 8,
           "pa": 12,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Hõgye Patrik",
+            "Szentkuti Ákos"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Hõgye Patrik",
+            "Szentkuti Ákos",
+            "Szász-Veres Márk"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false
         },
         {
           "players": [
@@ -5481,19 +4935,6 @@
         },
         {
           "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Hõgye Patrik",
-            "Szentkuti Ákos",
-            "Szász-Veres Márk"
-          ],
-          "min": 1.0,
-          "pf": 7,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Gál Csongor",
             "Orbán Imre",
             "Szász-Veres Márk",
@@ -5543,6 +4984,19 @@
           "pf": 0,
           "pa": 1,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Gál Csongor",
+            "Hõgye Patrik",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
         }
       ]
     },
@@ -5565,45 +5019,6 @@
         "Várszegi Ádám"
       ],
       "lineups": [
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Orbán Imre",
-            "Turán Simon",
-            "Varga Ferenc",
-            "Varga Sándor"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Gál Csongor",
-            "Varga Ferenc",
-            "Varga Sándor"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gál Csongor",
-            "Orbán Imre",
-            "Szász-Veres Márk",
-            "Varga Ferenc",
-            "Varga Sándor"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 7,
-          "is_starter": false
-        },
         {
           "players": [
             "Flasár Botond",
@@ -5672,6 +5087,19 @@
         {
           "players": [
             "Balázsi Ákos Milán",
+            "Orbán Imre",
+            "Turán Simon",
+            "Varga Ferenc",
+            "Varga Sándor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
             "Flasár Botond",
             "Gál Csongor",
             "Orbán Imre",
@@ -5692,6 +5120,32 @@
           ],
           "min": 2.0,
           "pf": 10,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Gál Csongor",
+            "Varga Ferenc",
+            "Varga Sándor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gál Csongor",
+            "Orbán Imre",
+            "Szász-Veres Márk",
+            "Varga Ferenc",
+            "Varga Sándor"
+          ],
+          "min": 2.0,
+          "pf": 4,
           "pa": 7,
           "is_starter": false
         },
@@ -5828,35 +5282,9 @@
             "Kovács Ákos Bence",
             "Varga Ferenc"
           ],
-          "min": 30.0,
+          "min": 12.0,
           "pf": 29,
           "pa": 29,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balázsi Ákos Milán",
-            "Flasár Botond",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Flasár Botond",
-            "Gál Csongor",
-            "Kovács Ákos Bence",
-            "Varga Ferenc",
-            "Várszegi Ádám"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 1,
           "is_starter": false
         },
         {
@@ -5965,6 +5393,19 @@
         },
         {
           "players": [
+            "Balázsi Ákos Milán",
+            "Flasár Botond",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Flasár Botond",
             "Gál Csongor",
             "Orbán Imre",
@@ -6092,6 +5533,19 @@
           "pf": 2,
           "pa": 0,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Kovács Ákos Bence",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
         }
       ]
     },
@@ -6116,45 +5570,6 @@
       "lineups": [
         {
           "players": [
-            "Csécsei Gergõ",
-            "Gál Csongor",
-            "Hõgye Patrik",
-            "Kovács Ákos Bence",
-            "Varga Ferenc"
-          ],
-          "min": 14.0,
-          "pf": 6,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hõgye Patrik",
-            "Kovács Ákos Bence",
-            "Varga Ferenc",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Csécsei Gergõ",
-            "Orbán Imre",
-            "Varga Ferenc",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Gál Csongor",
             "Hõgye Patrik",
             "Kovács Ákos Bence",
@@ -6174,7 +5589,7 @@
             "Varga Ferenc",
             "Várszegi Ádám"
           ],
-          "min": 6.0,
+          "min": 7.0,
           "pf": 30,
           "pa": 12,
           "is_starter": false
@@ -6207,6 +5622,32 @@
         },
         {
           "players": [
+            "Csécsei Gergõ",
+            "Gál Csongor",
+            "Hõgye Patrik",
+            "Kovács Ákos Bence",
+            "Varga Ferenc"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hõgye Patrik",
+            "Kovács Ákos Bence",
+            "Varga Ferenc",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gál Csongor",
             "Orbán Imre",
             "Varga Ferenc",
@@ -6216,6 +5657,19 @@
           "min": 2.0,
           "pf": 5,
           "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csécsei Gergõ",
+            "Orbán Imre",
+            "Varga Ferenc",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -6296,49 +5750,10 @@
             "Gál Csongor",
             "Hõgye Patrik",
             "Kovács Ákos Bence",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 16.0,
-          "pf": 14,
-          "pa": 15,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gál Csongor",
-            "Hõgye Patrik",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Várszegi Ádám"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hõgye Patrik",
-            "Orbán Imre",
-            "Szentkuti Ákos",
-            "Turán Simon",
-            "Varga Ferenc"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gál Csongor",
-            "Hõgye Patrik",
-            "Kovács Ákos Bence",
             "Orbán Imre",
             "Szentkuti Ákos"
           ],
-          "min": 8.0,
+          "min": 10.0,
           "pf": 21,
           "pa": 18,
           "is_starter": true
@@ -6354,6 +5769,19 @@
           "min": 6.0,
           "pf": 2,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gál Csongor",
+            "Hõgye Patrik",
+            "Kovács Ákos Bence",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 6.0,
+          "pf": 14,
+          "pa": 15,
           "is_starter": false
         },
         {
@@ -6406,6 +5834,32 @@
           "min": 2.0,
           "pf": 6,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gál Csongor",
+            "Hõgye Patrik",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Várszegi Ádám"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hõgye Patrik",
+            "Orbán Imre",
+            "Szentkuti Ákos",
+            "Turán Simon",
+            "Varga Ferenc"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -6483,41 +5937,15 @@
       "lineups": [
         {
           "players": [
-            "Hőgye Patrik",
-            "Szász-Veres Márk",
+            "Csécsei Gergő",
+            "Gál Csongor",
             "Turán Simon",
             "Varga Sándor",
             "Várszegi Ádám"
           ],
-          "min": 13.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Csécsei Gergő",
-            "Hőgye Patrik",
-            "Orbán Imre",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Csécsei Gergő",
-            "Fekete Balázs",
-            "Hőgye Patrik",
-            "Varga Sándor",
-            "Várszegi Ádám"
-          ],
-          "min": 11.0,
-          "pf": 7,
-          "pa": 2,
+          "min": 6.0,
+          "pf": 11,
+          "pa": 17,
           "is_starter": false
         },
         {
@@ -6561,15 +5989,15 @@
         },
         {
           "players": [
-            "Csécsei Gergő",
-            "Gál Csongor",
+            "Hőgye Patrik",
+            "Szász-Veres Márk",
             "Turán Simon",
             "Varga Sándor",
             "Várszegi Ádám"
           ],
           "min": 3.0,
-          "pf": 11,
-          "pa": 17,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -6704,6 +6132,19 @@
         },
         {
           "players": [
+            "Csécsei Gergő",
+            "Hőgye Patrik",
+            "Orbán Imre",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Szász-Veres Márk",
             "Turán Simon",
             "Varga Ferenc",
@@ -6726,6 +6167,19 @@
           "min": 1.0,
           "pf": 5,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csécsei Gergő",
+            "Fekete Balázs",
+            "Hőgye Patrik",
+            "Varga Sándor",
+            "Várszegi Ádám"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 2,
           "is_starter": false
         },
         {

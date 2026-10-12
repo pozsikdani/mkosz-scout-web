@@ -37,45 +37,6 @@
         },
         {
           "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdős Artúr",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Fekete Viktor Norbert",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 5,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Halasy Örs",
@@ -124,6 +85,32 @@
           "min": 2.0,
           "pf": 6,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erdős Artúr",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -201,6 +188,19 @@
           ],
           "min": 1.0,
           "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Karosi Gergely",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 5,
           "pa": 0,
           "is_starter": false
         },
@@ -254,45 +254,6 @@
         {
           "players": [
             "Farkas Attila",
-            "Halasy Örs",
-            "Krasovec Ádám",
-            "Olasz Ádám Zsolt",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Krasovec Ádám"
-          ],
-          "min": 12.0,
-          "pf": 7,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 5,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
             "Krasovec Ádám",
             "Olasz Ádám Zsolt",
             "Takács Dániel",
@@ -339,6 +300,19 @@
           ],
           "min": 4.0,
           "pf": 11,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 7,
           "pa": 5,
           "is_starter": false
         },
@@ -409,6 +383,32 @@
         },
         {
           "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Krasovec Ádám"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Halasy Örs",
+            "Karosi Gergely",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Fekete Viktor Norbert",
             "Halasy Örs",
             "Krasovec Ádám",
@@ -418,6 +418,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -457,19 +470,6 @@
           "min": 0.0,
           "pf": 0,
           "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 2,
-          "pa": 7,
           "is_starter": false
         }
       ]
@@ -495,45 +495,6 @@
       "lineups": [
         {
           "players": [
-            "Erdős Artúr",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Krasovec Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 16.0,
-          "pf": 17,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Krasovec Ádám",
-            "Takács Dániel"
-          ],
-          "min": 13.0,
-          "pf": 12,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Halasy Örs",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Farkas Attila",
             "Olasz Ádám Zsolt",
             "Pleesz Ádám",
@@ -547,6 +508,19 @@
         },
         {
           "players": [
+            "Erdős Artúr",
+            "Halasy Örs",
+            "Karosi Gergely",
+            "Krasovec Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 6.0,
+          "pf": 17,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Andrássy Géza",
             "Farkas Attila",
             "Olasz Ádám Zsolt",
@@ -556,6 +530,19 @@
           "min": 5.0,
           "pf": 9,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 12,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -703,6 +690,19 @@
         },
         {
           "players": [
+            "Farkas Attila",
+            "Halasy Örs",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Erdős Artúr",
             "Halasy Örs",
             "Karosi Gergely",
@@ -717,6 +717,19 @@
         {
           "players": [
             "Erdős Artúr",
+            "Halasy Örs",
+            "Karosi Gergely",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erdős Artúr",
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Karosi Gergely",
@@ -725,19 +738,6 @@
           "min": 1.0,
           "pf": 0,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdős Artúr",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 1,
-          "pa": 4,
           "is_starter": false
         }
       ]
@@ -763,45 +763,6 @@
       "lineups": [
         {
           "players": [
-            "Andrássy Géza",
-            "Erd?s Artúr",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Karosi Gergely"
-          ],
-          "min": 14.0,
-          "pf": 6,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Erd?s Artúr",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Takács Dániel"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Karosi Gergely",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Farkas Attila",
             "Olasz Ádám Zsolt",
             "Pleesz Ádám",
@@ -811,6 +772,19 @@
           "min": 9.0,
           "pf": 17,
           "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 6.0,
+          "pf": 14,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -825,6 +799,19 @@
           "pf": 9,
           "pa": 6,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Karosi Gergely"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 7,
+          "is_starter": false
         },
         {
           "players": [
@@ -850,6 +837,19 @@
           "min": 3.0,
           "pf": 9,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -894,6 +894,19 @@
         {
           "players": [
             "Andrássy Géza",
+            "Karosi Gergely",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
             "Erd?s Artúr",
             "Fekete Viktor Norbert",
             "Karosi Gergely",
@@ -902,19 +915,6 @@
           "min": 0.0,
           "pf": 1,
           "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 14,
-          "pa": 9,
           "is_starter": false
         }
       ]
@@ -940,41 +940,15 @@
       "lineups": [
         {
           "players": [
-            "Andrássy Géza",
-            "Fekete Viktor Norbert",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Fekete Viktor Norbert",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
             "Zöldi Péter András"
           ],
           "min": 10.0,
-          "pf": 2,
-          "pa": 0,
+          "pf": 18,
+          "pa": 20,
           "is_starter": false
         },
         {
@@ -989,19 +963,6 @@
           "pf": 16,
           "pa": 7,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Olasz Ádám Zsolt",
-            "Zöldi Péter András"
-          ],
-          "min": 6.0,
-          "pf": 18,
-          "pa": 20,
-          "is_starter": false
         },
         {
           "players": [
@@ -1123,6 +1084,19 @@
         {
           "players": [
             "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Karosi Gergely",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
             "Farkas Attila",
             "Karosi Gergely",
             "Pleesz Ádám",
@@ -1144,6 +1118,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -1157,6 +1144,19 @@
           "min": 0.0,
           "pf": 1,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
           "is_starter": false
         }
       ]
@@ -1188,35 +1188,9 @@
             "Takács Dániel",
             "Zöldi Péter András"
           ],
-          "min": 20.0,
+          "min": 10.0,
           "pf": 21,
           "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Fekete Viktor Norbert",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Karosi Gergely",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 3,
           "is_starter": false
         },
         {
@@ -1230,6 +1204,19 @@
           "min": 5.0,
           "pf": 11,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -1269,6 +1256,19 @@
           "min": 2.0,
           "pf": 5,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Karosi Gergely",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -1377,6 +1377,19 @@
         },
         {
           "players": [
+            "Farkas Attila",
+            "Karosi Gergely",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Andrássy Géza",
             "Karosi Gergely",
             "Pleesz Ádám",
@@ -1399,19 +1412,6 @@
           "min": 0.0,
           "pf": 0,
           "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 1,
-          "pa": 0,
           "is_starter": false
         }
       ]
@@ -1437,198 +1437,16 @@
       "lineups": [
         {
           "players": [
-            "Karosi Gergely",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 0,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Karosi Gergely",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Andrássy Géza",
             "Farkas Attila",
             "Halasy Örs",
             "Krasovec Ádám",
             "Takács Dániel"
           ],
-          "min": 8.0,
-          "pf": 11,
-          "pa": 9,
+          "min": 40.0,
+          "pf": 61,
+          "pa": 55,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 7.0,
-          "pf": 15,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Halasy Örs",
-            "Krasovec Ádám",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel"
-          ],
-          "min": 5.0,
-          "pf": 9,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Halasy Örs",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 3.0,
-          "pf": 4,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Halasy Örs",
-            "Krasovec Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 2.0,
-          "pf": 2,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Krasovec Ádám",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Karosi Gergely",
-            "Krasovec Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 1.0,
-          "pf": 4,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Karosi Gergely",
-            "Krasovec Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 1.0,
-          "pf": 3,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Takács Dániel"
-          ],
-          "min": 0.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
         }
       ]
     },
@@ -1653,224 +1471,16 @@
       "lineups": [
         {
           "players": [
-            "Erdõs Artúr",
-            "Farkas Attila",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 17.0,
-          "pf": 15,
-          "pa": 14,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Zöldi Péter András"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Andrássy Géza",
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Halasy Örs",
             "Takács Dániel"
           ],
-          "min": 7.0,
-          "pf": 7,
-          "pa": 18,
+          "min": 40.0,
+          "pf": 69,
+          "pa": 96,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 4.0,
-          "pf": 7,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Farkas Attila",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 3.0,
-          "pf": 5,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Halasy Örs",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 3.0,
-          "pf": 4,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 2.0,
-          "pf": 6,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Takács Dániel"
-          ],
-          "min": 2.0,
-          "pf": 4,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Takács Dániel"
-          ],
-          "min": 2.0,
-          "pf": 0,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel"
-          ],
-          "min": 2.0,
-          "pf": 4,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 2.0,
-          "pf": 3,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 1.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Karosi Gergely",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Olasz Ádám Zsolt",
-            "Zöldi Péter András"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 7,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Karosi Gergely",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
         }
       ]
     },
@@ -1895,45 +1505,6 @@
       "lineups": [
         {
           "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Karosi Gergely",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Halasy Örs",
-            "Karosi Gergely",
-            "Krasovec Ádám",
-            "Olasz Ádám Zsolt"
-          ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Fekete Viktor Norbert",
             "Halasy Örs",
             "Karosi Gergely",
@@ -1956,6 +1527,19 @@
           "min": 5.0,
           "pf": 7,
           "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel"
+          ],
+          "min": 5.0,
+          "pf": 13,
+          "pa": 10,
           "is_starter": false
         },
         {
@@ -2053,6 +1637,19 @@
           "players": [
             "Bérces Dániel",
             "Farkas Attila",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
             "Fekete Viktor Norbert",
             "Pleesz Ádám",
             "Takács Dániel"
@@ -2099,6 +1696,19 @@
           "min": 1.0,
           "pf": 1,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Karosi Gergely",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -2208,14 +1818,14 @@
         {
           "players": [
             "Farkas Attila",
-            "Fekete Viktor Norbert",
             "Halasy Örs",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel"
+            "Karosi Gergely",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt"
           ],
           "min": 0.0,
-          "pf": 13,
-          "pa": 10,
+          "pf": 2,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -2260,23 +1870,10 @@
             "Olasz Ádám Zsolt",
             "Takács Dániel"
           ],
-          "min": 30.0,
+          "min": 10.0,
           "pf": 20,
           "pa": 15,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Halasy Örs",
-            "Krasovec Ádám",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
         },
         {
           "players": [
@@ -2424,6 +2021,19 @@
         {
           "players": [
             "Andrássy Géza",
+            "Farkas Attila",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
             "Fekete Viktor Norbert",
             "Halasy Örs",
             "Krasovec Ádám",
@@ -2457,6 +2067,19 @@
           ],
           "min": 1.0,
           "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 4,
           "pa": 0,
           "is_starter": false
         },
@@ -2524,19 +2147,6 @@
           "pf": 0,
           "pa": 2,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Takács Dániel"
-          ],
-          "min": 0.0,
-          "pf": 4,
-          "pa": 0,
-          "is_starter": false
         }
       ]
     },
@@ -2561,52 +2171,13 @@
       "lineups": [
         {
           "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Karosi Gergely",
-            "Takács Dániel"
-          ],
-          "min": 10.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Karosi Gergely",
-            "Krasovec Ádám",
-            "Pleesz Gergő"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Karosi Gergely"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bérces Dániel",
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
             "Takács Dániel"
           ],
-          "min": 9.0,
+          "min": 14.0,
           "pf": 25,
           "pa": 25,
           "is_starter": true
@@ -2835,6 +2406,32 @@
         {
           "players": [
             "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Karosi Gergely",
+            "Takács Dániel"
+          ],
+          "min": 0.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Karosi Gergely",
+            "Krasovec Ádám",
+            "Pleesz Gergő"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Halasy Örs",
@@ -2874,35 +2471,9 @@
             "Takács Dániel",
             "Zöldi Péter András"
           ],
-          "min": 16.0,
+          "min": 6.0,
           "pf": 10,
           "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 14.0,
-          "pf": 6,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Halasy Örs",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 4,
           "is_starter": false
         },
         {
@@ -2920,6 +2491,19 @@
         },
         {
           "players": [
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bérces Dániel",
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
@@ -2929,6 +2513,19 @@
           "min": 3.0,
           "pf": 3,
           "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Olasz Ádám Zsolt",
+            "Pleesz Gergõ",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -2998,6 +2595,19 @@
         },
         {
           "players": [
+            "Halasy Örs",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
@@ -3099,19 +2709,6 @@
           "pf": 0,
           "pa": 3,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Olasz Ádám Zsolt",
-            "Pleesz Gergõ",
-            "Takács Dániel"
-          ],
-          "min": 0.0,
-          "pf": 6,
-          "pa": 7,
-          "is_starter": false
         }
       ]
     },
@@ -3138,45 +2735,6 @@
           "players": [
             "Bérces Dániel",
             "Farkas Attila",
-            "Olasz Ádám Zsolt",
-            "Pleesz Gergő",
-            "Takács Dániel"
-          ],
-          "min": 14.0,
-          "pf": 12,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
             "Takács Dániel"
@@ -3185,6 +2743,19 @@
           "pf": 13,
           "pa": 14,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Pleesz Gergő",
+            "Takács Dániel"
+          ],
+          "min": 4.0,
+          "pf": 12,
+          "pa": 1,
+          "is_starter": false
         },
         {
           "players": [
@@ -3332,6 +2903,19 @@
         {
           "players": [
             "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
             "Pleesz Gergő",
@@ -3366,6 +2950,32 @@
           "min": 1.0,
           "pf": 0,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 8,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -3432,19 +3042,6 @@
           "pf": 4,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 0.0,
-          "pf": 8,
-          "pa": 4,
-          "is_starter": false
         }
       ]
     },
@@ -3467,45 +3064,6 @@
         "Takács Dániel"
       ],
       "lineups": [
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Pleesz Gergő"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Pleesz Gergő",
-            "Zöldi Péter András"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
         {
           "players": [
             "Bérces Dániel",
@@ -3612,6 +3170,19 @@
         },
         {
           "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Pleesz Gergő",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Andrássy Géza",
             "Bérces Dániel",
             "Farkas Attila",
@@ -3678,6 +3249,19 @@
         {
           "players": [
             "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Pleesz Gergő"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
             "Fekete Viktor Norbert",
             "Pleesz Gergő",
             "Pleesz Ádám",
@@ -3703,6 +3287,19 @@
         },
         {
           "players": [
+            "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bérces Dániel",
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
@@ -3711,19 +3308,6 @@
           ],
           "min": 0.0,
           "pf": 1,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Pleesz Gergő",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 6,
           "pa": 0,
           "is_starter": false
         }
@@ -3748,32 +3332,6 @@
         "Takács Dániel"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Takács Dániel"
-          ],
-          "min": 22.0,
-          "pf": 5,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Zöldi Péter András"
-          ],
-          "min": 14.0,
-          "pf": 8,
-          "pa": 5,
-          "is_starter": false
-        },
         {
           "players": [
             "Fekete Viktor Norbert",
@@ -3802,6 +3360,19 @@
         },
         {
           "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bérces Dániel",
             "Farkas Attila",
             "Krasovec Ádám",
@@ -3811,6 +3382,19 @@
           "min": 3.0,
           "pf": 2,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -4057,58 +3641,6 @@
       "lineups": [
         {
           "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Olasz Ádám Zsolt",
-            "Takács Dániel"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
             "Pleesz Ádám",
@@ -4175,6 +3707,32 @@
         {
           "players": [
             "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Olasz Ádám Zsolt",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
             "Takács Dániel",
@@ -4213,6 +3771,19 @@
         },
         {
           "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Farkas Attila",
             "Olasz Ádám Zsolt",
             "Pleesz Gergõ",
@@ -4252,13 +3823,26 @@
         },
         {
           "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bérces Dániel",
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Pleesz Ádám",
             "Takács Dániel"
           ],
-          "min": 0.0,
+          "min": 1.0,
           "pf": 7,
           "pa": 0,
           "is_starter": false
@@ -4284,32 +3868,6 @@
         "Pleesz Ádám"
       ],
       "lineups": [
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Takács Dániel"
-          ],
-          "min": 23.0,
-          "pf": 5,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Olasz Ádám Zsolt"
-          ],
-          "min": 16.0,
-          "pf": 5,
-          "pa": 13,
-          "is_starter": false
-        },
         {
           "players": [
             "Bérces Dániel",
@@ -4338,6 +3896,19 @@
         },
         {
           "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt"
+          ],
+          "min": 6.0,
+          "pf": 5,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Andrássy Géza",
             "Bérces Dániel",
             "Fekete Viktor Norbert",
@@ -4351,6 +3922,19 @@
         },
         {
           "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bérces Dániel",
             "Farkas Attila",
             "Olasz Ádám Zsolt",
@@ -4359,6 +3943,19 @@
           ],
           "min": 3.0,
           "pf": 8,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám"
+          ],
+          "min": 2.0,
+          "pf": 3,
           "pa": 4,
           "is_starter": false
         },
@@ -4399,19 +3996,6 @@
           "min": 1.0,
           "pf": 2,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdõs Artúr",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám"
-          ],
-          "min": 0.0,
-          "pf": 3,
-          "pa": 4,
           "is_starter": false
         }
       ]
@@ -4435,45 +4019,6 @@
         "Zöldi Péter András"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Olasz Ádám Zsolt"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Krasovec Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Halasy Örs",
-            "Krasovec Ádám",
-            "Pleesz Gergő"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 7,
-          "is_starter": false
-        },
         {
           "players": [
             "Bérces Dániel",
@@ -4608,6 +4153,19 @@
           "players": [
             "Bérces Dániel",
             "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Pleesz Gergő",
+            "Pleesz Ádám"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
             "Halasy Örs",
             "Olasz Ádám Zsolt",
             "Zöldi Péter András"
@@ -4628,6 +4186,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Olasz Ádám Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -4672,6 +4243,19 @@
         {
           "players": [
             "Bérces Dániel",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Krasovec Ádám",
@@ -4680,6 +4264,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Pleesz Gergő"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -4707,19 +4304,6 @@
           "pf": 0,
           "pa": 2,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Olasz Ádám Zsolt",
-            "Pleesz Gergő",
-            "Pleesz Ádám"
-          ],
-          "min": 0.0,
-          "pf": 7,
-          "pa": 6,
-          "is_starter": false
         }
       ]
     },
@@ -4742,71 +4326,6 @@
         "Takács Dániel"
       ],
       "lineups": [
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Pleesz Gergõ",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 6,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 6,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Pleesz Gergõ",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Viktor Norbert",
-            "Pleesz Gergõ",
-            "Pleesz Ádám",
-            "Takács Dániel",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
         {
           "players": [
             "Fekete Viktor Norbert",
@@ -4862,6 +4381,32 @@
         {
           "players": [
             "Andrássy Géza",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Pleesz Gergõ",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
             "Bérces Dániel",
             "Farkas Attila",
             "Fekete Viktor Norbert",
@@ -4883,6 +4428,19 @@
           "min": 3.0,
           "pf": 7,
           "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -4948,6 +4506,19 @@
           "min": 1.0,
           "pf": 4,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Pleesz Gergõ",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -5030,6 +4601,19 @@
         },
         {
           "players": [
+            "Fekete Viktor Norbert",
+            "Pleesz Gergõ",
+            "Pleesz Ádám",
+            "Takács Dániel",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Farkas Attila",
             "Krasovec Ádám",
             "Pleesz Gergõ",
@@ -5043,6 +4627,19 @@
         },
         {
           "players": [
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Pleesz Gergõ",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Andrássy Géza",
             "Bérces Dániel",
             "Fekete Viktor Norbert",
@@ -5052,19 +4649,6 @@
           "min": 0.0,
           "pf": 1,
           "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Pleesz Gergõ",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 3,
-          "pa": 3,
           "is_starter": false
         }
       ]
@@ -5088,45 +4672,6 @@
         "Pleesz Ádám"
       ],
       "lineups": [
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Takács Dániel"
-          ],
-          "min": 13.0,
-          "pf": 13,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 1,
-          "pa": 3,
-          "is_starter": false
-        },
         {
           "players": [
             "Farkas Attila",
@@ -5177,6 +4722,32 @@
           "min": 3.0,
           "pf": 6,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 13,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -5236,6 +4807,19 @@
             "Bérces Dániel",
             "Farkas Attila",
             "Krasovec Ádám",
+            "Makkos Dávid",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Krasovec Ádám",
             "Takács Dániel",
             "Zöldi Péter András"
           ],
@@ -5337,6 +4921,19 @@
         },
         {
           "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
             "Pleesz Gergõ",
@@ -5373,19 +4970,6 @@
           "pf": 5,
           "pa": 1,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Takács Dániel"
-          ],
-          "min": 0.0,
-          "pf": 4,
-          "pa": 3,
-          "is_starter": false
         }
       ]
     },
@@ -5408,45 +4992,6 @@
         "Pleesz Ádám"
       ],
       "lineups": [
-        {
-          "players": [
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Pleesz Gergő",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Makkos Dávid",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Takács Dániel"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
         {
           "players": [
             "Andrássy Géza",
@@ -5497,6 +5042,19 @@
           "min": 3.0,
           "pf": 4,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Pleesz Gergő",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -5592,6 +5150,19 @@
         },
         {
           "players": [
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Halasy Örs",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Fekete Viktor Norbert",
             "Makkos Dávid",
             "Olasz Ádám Zsolt",
@@ -5614,6 +5185,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -5717,45 +5301,6 @@
       "lineups": [
         {
           "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 3,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Halasy Örs",
-            "Makkos Dávid",
-            "Pleesz Gergõ"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Makkos Dávid",
-            "Pleesz Gergõ"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Andrássy Géza",
             "Fekete Viktor Norbert",
             "Makkos Dávid",
@@ -5790,6 +5335,19 @@
           ],
           "min": 4.0,
           "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Makkos Dávid",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 3,
           "pa": 6,
           "is_starter": false
         },
@@ -5940,6 +5498,19 @@
           "players": [
             "Andrássy Géza",
             "Farkas Attila",
+            "Halasy Örs",
+            "Makkos Dávid",
+            "Pleesz Gergõ"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
             "Fekete Viktor Norbert",
             "Halasy Örs",
             "Zöldi Péter András"
@@ -5947,6 +5518,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Makkos Dávid",
+            "Pleesz Gergõ",
+            "Pleesz Ádám"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -5998,13 +5582,26 @@
       "lineups": [
         {
           "players": [
+            "Andrássy Géza",
+            "Fekete Viktor Norbert",
+            "Makkos Dávid",
+            "Pleesz Gergő",
+            "Pleesz Ádám"
+          ],
+          "min": 8.0,
+          "pf": 11,
+          "pa": 11,
+          "is_starter": true
+        },
+        {
+          "players": [
             "Bérces Dániel",
             "Farkas Attila",
             "Krasovec Ádám",
             "Makkos Dávid",
             "Zöldi Péter András"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 5,
           "pa": 10,
           "is_starter": false
@@ -6017,36 +5614,10 @@
             "Pleesz Ádám",
             "Zöldi Péter András"
           ],
-          "min": 13.0,
+          "min": 3.0,
           "pf": 8,
           "pa": 3,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Makkos Dávid",
-            "Olasz Ádám Zsolt",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Fekete Viktor Norbert",
-            "Makkos Dávid",
-            "Pleesz Gergő",
-            "Pleesz Ádám"
-          ],
-          "min": 8.0,
-          "pf": 11,
-          "pa": 11,
-          "is_starter": true
         },
         {
           "players": [
@@ -6176,6 +5747,19 @@
           "min": 1.0,
           "pf": 7,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Makkos Dávid",
+            "Olasz Ádám Zsolt",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -6331,45 +5915,6 @@
       "lineups": [
         {
           "players": [
-            "Farkas Attila",
-            "Olasz Ádám Zsolt",
-            "Pleesz Gergõ",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 16.0,
-          "pf": 9,
-          "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Olasz Ádám Zsolt",
-            "Pleesz Gergõ",
-            "Zöldi Péter András"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Andrássy Géza",
             "Fekete Viktor Norbert",
             "Makkos Dávid",
@@ -6383,6 +5928,19 @@
         },
         {
           "players": [
+            "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Pleesz Gergõ",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 6.0,
+          "pf": 9,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Andrássy Géza",
             "Bérces Dániel",
             "Fekete Viktor Norbert",
@@ -6392,6 +5950,19 @@
           "min": 3.0,
           "pf": 7,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -6423,6 +5994,19 @@
         {
           "players": [
             "Andrássy Géza",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
             "Bérces Dániel",
             "Farkas Attila",
             "Krasovec Ádám",
@@ -6431,6 +6015,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Olasz Ádám Zsolt",
+            "Pleesz Gergõ",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -6614,19 +6211,6 @@
           "pf": 2,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 0.0,
-          "pf": 5,
-          "pa": 8,
-          "is_starter": false
         }
       ]
     },
@@ -6651,45 +6235,6 @@
       "lineups": [
         {
           "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 14.0,
-          "pf": 11,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Halasy Örs",
-            "Makkos Dávid",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Halasy Örs",
-            "Olasz Ádám Zsolt",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Andrássy Géza",
             "Bérces Dániel",
             "Fekete Viktor Norbert",
@@ -6700,6 +6245,32 @@
           "pf": 15,
           "pa": 8,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 5.0,
+          "pf": 8,
+          "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 11,
+          "pa": 2,
+          "is_starter": false
         },
         {
           "players": [
@@ -6847,14 +6418,14 @@
         {
           "players": [
             "Andrássy Géza",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
+            "Halasy Örs",
+            "Makkos Dávid",
+            "Olasz Ádám Zsolt",
+            "Pleesz Ádám"
           ],
           "min": 1.0,
-          "pf": 8,
-          "pa": 11,
+          "pf": 3,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -6958,45 +6529,6 @@
       "lineups": [
         {
           "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Pleesz Gergõ",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 0,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Makkos Dávid",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Pleesz Gergõ",
-            "Pleesz Ádám"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Fekete Viktor Norbert",
             "Makkos Dávid",
             "Olasz Ádám Zsolt",
@@ -7058,6 +6590,32 @@
           "min": 3.0,
           "pf": 3,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Pleesz Gergõ",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Halasy Örs",
+            "Krasovec Ádám",
+            "Makkos Dávid",
+            "Pleesz Ádám"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -7168,6 +6726,19 @@
           "players": [
             "Andrássy Géza",
             "Bérces Dániel",
+            "Fekete Viktor Norbert",
+            "Makkos Dávid",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Zöldi Péter András"
@@ -7202,19 +6773,6 @@
           "pf": 6,
           "pa": 2,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Halasy Örs",
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Pleesz Ádám"
-          ],
-          "min": 0.0,
-          "pf": 4,
-          "pa": 9,
-          "is_starter": false
         }
       ]
     },
@@ -7237,45 +6795,6 @@
         "Takács Dániel"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Pleesz Gergõ"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Makkos Dávid"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Pleesz Ádám"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 5,
-          "is_starter": false
-        },
         {
           "players": [
             "Farkas Attila",
@@ -7317,6 +6836,19 @@
         },
         {
           "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Pleesz Gergõ"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Andrássy Géza",
             "Bérces Dániel",
             "Farkas Attila",
@@ -7330,6 +6862,19 @@
         },
         {
           "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Makkos Dávid"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bérces Dániel",
             "Farkas Attila",
             "Fekete Viktor Norbert",
@@ -7339,6 +6884,19 @@
           "min": 2.0,
           "pf": 5,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Makkos Dávid",
+            "Pleesz Ádám"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -7527,6 +7085,19 @@
           "players": [
             "Farkas Attila",
             "Fekete Viktor Norbert",
+            "Makkos Dávid",
+            "Pleesz Gergõ",
+            "Pleesz Ádám"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
             "Pleesz Gergõ",
             "Pleesz Ádám"
@@ -7572,32 +7143,6 @@
       "lineups": [
         {
           "players": [
-            "Farkas Attila",
-            "Krasovec Ádám",
-            "Pleesz Gergő",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Makkos Dávid",
-            "Olasz Ádám Zsolt"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Fekete Viktor Norbert",
             "Olasz Ádám Zsolt",
             "Pleesz Gergő",
@@ -7608,19 +7153,6 @@
           "pf": 18,
           "pa": 8,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Pleesz Gergő",
-            "Zöldi Péter András"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
         },
         {
           "players": [
@@ -7767,6 +7299,19 @@
         },
         {
           "players": [
+            "Farkas Attila",
+            "Krasovec Ádám",
+            "Pleesz Gergő",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Fekete Viktor Norbert",
             "Krasovec Ádám",
             "Pleesz Gergő",
@@ -7789,6 +7334,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Makkos Dávid",
+            "Olasz Ádám Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -7858,6 +7416,19 @@
         },
         {
           "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Pleesz Gergő",
+            "Zöldi Péter András"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Farkas Attila",
             "Fekete Viktor Norbert",
             "Pleesz Gergő",
@@ -7892,45 +7463,6 @@
       "lineups": [
         {
           "players": [
-            "Andrássy Géza",
-            "Farkas Attila",
-            "Pleesz Gergő",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Makkos Dávid",
-            "Pleesz Ádám"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Fekete Viktor Norbert",
             "Krasovec Ádám",
             "Olasz Ádám Zsolt",
@@ -7958,6 +7490,19 @@
         {
           "players": [
             "Andrássy Géza",
+            "Farkas Attila",
+            "Pleesz Gergő",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
             "Bérces Dániel",
             "Farkas Attila",
             "Krasovec Ádám",
@@ -7966,6 +7511,19 @@
           "min": 3.0,
           "pf": 3,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Farkas Attila",
+            "Fekete Viktor Norbert",
+            "Pleesz Gergő",
+            "Takács Dániel"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -8165,15 +7723,15 @@
         },
         {
           "players": [
+            "Andrássy Géza",
             "Bérces Dániel",
             "Farkas Attila",
-            "Fekete Viktor Norbert",
-            "Pleesz Gergő",
-            "Takács Dániel"
+            "Makkos Dávid",
+            "Pleesz Ádám"
           ],
           "min": 0.0,
-          "pf": 4,
-          "pa": 4,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         }
       ]
@@ -8197,45 +7755,6 @@
         "Takács Dániel"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Olasz Ádám Zsolt"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
-            "Krasovec Ádám",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 10.0,
-          "pf": 3,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Farkas Attila",
-            "Pleesz Gergõ",
-            "Takács Dániel"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
         {
           "players": [
             "Andrássy Géza",
@@ -8368,6 +7887,19 @@
         },
         {
           "players": [
+            "Bérces Dániel",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Makkos Dávid",
+            "Olasz Ádám Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Andrássy Géza",
             "Bérces Dániel",
             "Farkas Attila",
@@ -8546,6 +8078,19 @@
           "min": 0.0,
           "pf": 0,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -8597,58 +8142,6 @@
       "lineups": [
         {
           "players": [
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Pleesz Gergõ",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 13.0,
-          "pf": 8,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Viktor Norbert",
-            "Makkos Dávid",
-            "Olasz Ádám Zsolt",
-            "Pleesz Gergõ",
-            "Pleesz Ádám"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Krasovec Ádám",
-            "Makkos Dávid",
-            "Pleesz Gergõ"
-          ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fekete Viktor Norbert",
-            "Makkos Dávid",
-            "Pleesz Gergõ",
-            "Pleesz Ádám",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Andrássy Géza",
             "Bérces Dániel",
             "Fekete Viktor Norbert",
@@ -8677,6 +8170,19 @@
           "players": [
             "Andrássy Géza",
             "Bérces Dániel",
+            "Fekete Viktor Norbert",
+            "Krasovec Ádám",
+            "Makkos Dávid"
+          ],
+          "min": 5.0,
+          "pf": 14,
+          "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
             "Krasovec Ádám",
             "Makkos Dávid",
             "Takács Dániel"
@@ -8688,15 +8194,15 @@
         },
         {
           "players": [
-            "Andrássy Géza",
-            "Bérces Dániel",
-            "Fekete Viktor Norbert",
             "Krasovec Ádám",
-            "Makkos Dávid"
+            "Makkos Dávid",
+            "Pleesz Gergõ",
+            "Pleesz Ádám",
+            "Takács Dániel"
           ],
-          "min": 4.0,
-          "pf": 14,
-          "pa": 14,
+          "min": 3.0,
+          "pf": 8,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -8727,6 +8233,19 @@
         },
         {
           "players": [
+            "Fekete Viktor Norbert",
+            "Makkos Dávid",
+            "Olasz Ádám Zsolt",
+            "Pleesz Gergõ",
+            "Pleesz Ádám"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bérces Dániel",
             "Fekete Viktor Norbert",
             "Krasovec Ádám",
@@ -8736,6 +8255,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Andrássy Géza",
+            "Bérces Dániel",
+            "Krasovec Ádám",
+            "Makkos Dávid",
+            "Pleesz Gergõ"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -8788,6 +8320,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Makkos Dávid",
+            "Pleesz Gergõ",
+            "Pleesz Ádám",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -8871,35 +8416,9 @@
             "Pleesz Gergõ",
             "Takács Dániel"
           ],
-          "min": 19.0,
+          "min": 9.0,
           "pf": 24,
           "pa": 20,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bérces Dániel",
-            "Krasovec Ádám",
-            "Olasz Ádám Zsolt",
-            "Pleesz Gergõ",
-            "Takács Dániel"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Makkos Dávid",
-            "Olasz Ádám Zsolt",
-            "Pleesz Gergõ",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
           "is_starter": false
         },
         {
@@ -8923,7 +8442,7 @@
             "Pleesz Ádám",
             "Takács Dániel"
           ],
-          "min": 3.0,
+          "min": 4.0,
           "pf": 7,
           "pa": 16,
           "is_starter": true
@@ -9069,6 +8588,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bérces Dániel",
+            "Krasovec Ádám",
+            "Olasz Ádám Zsolt",
+            "Pleesz Gergõ",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
           "is_starter": false
         },
         {

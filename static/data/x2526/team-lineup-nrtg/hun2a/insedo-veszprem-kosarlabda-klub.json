@@ -24,45 +24,6 @@
       "lineups": [
         {
           "players": [
-            "BONIFERT BENDEGÃºZ",
-            "Daniels Vionte Ramone",
-            "Frank Ãron",
-            "Kocsis Zalã¡n",
-            "Tã³th Dã¡niel"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdã¡n Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Ãron",
-            "Kocsis Zalã¡n",
-            "Simon Dã¡vid"
-          ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "BONIFERT BENDEGÃºZ",
-            "Bogdã¡n Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balã¡zs",
-            "Simon Dã¡vid"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bogdã¡n Benedek",
             "Daniels Vionte Ramone",
             "Kass Balã¡zs",
@@ -154,6 +115,19 @@
         },
         {
           "players": [
+            "BONIFERT BENDEGÃºZ",
+            "Daniels Vionte Ramone",
+            "Frank Ãron",
+            "Kocsis Zalã¡n",
+            "Tã³th Dã¡niel"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdã¡n Benedek",
             "Daniels Vionte Ramone",
             "Kass Balã¡zs",
@@ -163,6 +137,19 @@
           "min": 2.0,
           "pf": 5,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdã¡n Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Ãron",
+            "Kocsis Zalã¡n",
+            "Simon Dã¡vid"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -189,6 +176,19 @@
           "min": 2.0,
           "pf": 7,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "BONIFERT BENDEGÃºZ",
+            "Bogdã¡n Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balã¡zs",
+            "Simon Dã¡vid"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -227,52 +227,13 @@
       "lineups": [
         {
           "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
             "Kass Balázs",
+            "Kocsis Zalán",
             "Tóth Dániel"
-          ],
-          "min": 13.0,
-          "pf": 9,
-          "pa": 12,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Lintner Kristóf Barnabás",
-            "Simon Dávid"
           ],
           "min": 10.0,
-          "pf": 1,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 7.0,
           "pf": 26,
           "pa": 30,
           "is_starter": true
@@ -301,6 +262,32 @@
           "min": 5.0,
           "pf": 12,
           "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 12,
           "is_starter": false
         },
         {
@@ -383,6 +370,19 @@
         },
         {
           "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Lintner Kristóf Barnabás",
+            "Simon Dávid"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Kass Balázs",
@@ -449,36 +449,10 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 20.0,
+          "min": 10.0,
           "pf": 27,
           "pa": 11,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 11.0,
-          "pf": 12,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Benis Bence",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Lintner Kristóf Barnabás",
-            "Tóth Dániel"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
         },
         {
           "players": [
@@ -491,6 +465,19 @@
           "min": 8.0,
           "pf": 22,
           "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Benis Bence",
+            "Frank Áron",
+            "Kass Balázs",
+            "Lintner Kristóf Barnabás",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -573,19 +560,6 @@
         },
         {
           "players": [
-            "Benis Bence",
-            "Frank Áron",
-            "Kass Balázs",
-            "Lintner Kristóf Barnabás",
-            "Tóth Dániel"
-          ],
-          "min": 2.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Daniels Vionte Ramone",
             "Frank Áron",
             "Kocsis Zalán",
@@ -621,6 +595,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 12,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -704,36 +691,10 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 27.0,
+          "min": 20.0,
           "pf": 51,
           "pa": 25,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 9,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 11.0,
-          "pf": 1,
-          "pa": 2,
-          "is_starter": false
         },
         {
           "players": [
@@ -802,6 +763,19 @@
         },
         {
           "players": [
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 9,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
             "Frank Áron",
@@ -811,6 +785,19 @@
           "min": 2.0,
           "pf": 7,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -868,35 +855,9 @@
             "Kass Balázs",
             "Tóth Dániel"
           ],
-          "min": 19.0,
+          "min": 9.0,
           "pf": 24,
           "pa": 27,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 3,
           "is_starter": false
         },
         {
@@ -910,6 +871,19 @@
           "min": 6.0,
           "pf": 12,
           "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 6.0,
+          "pf": 15,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -936,6 +910,19 @@
           "min": 3.0,
           "pf": 9,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 11,
           "is_starter": false
         },
         {
@@ -1019,14 +1006,14 @@
         {
           "players": [
             "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
-            "Kass Balázs",
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
           "min": 0.0,
-          "pf": 15,
-          "pa": 9,
+          "pf": 2,
+          "pa": 3,
           "is_starter": false
         }
       ]
@@ -1054,39 +1041,13 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 15.0,
-          "pf": 15,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Simon Dávid"
-          ],
-          "min": 12.0,
-          "pf": 1,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
             "Daniels Vionte Ramone",
             "Kocsis Zalán",
-            "Kuttor Gergő",
-            "Simon Dávid"
+            "Tóth Dániel"
           ],
           "min": 11.0,
-          "pf": 2,
-          "pa": 0,
+          "pf": 25,
+          "pa": 37,
           "is_starter": false
         },
         {
@@ -1106,13 +1067,13 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
+            "Frank Áron",
             "Kocsis Zalán",
-            "Tóth Dániel"
+            "Simon Dávid"
           ],
-          "min": 8.0,
-          "pf": 25,
-          "pa": 37,
+          "min": 5.0,
+          "pf": 15,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -1145,6 +1106,19 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Simon Dávid"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Frank Áron",
             "Kocsis Zalán",
             "Tóth Dániel"
@@ -1192,6 +1166,19 @@
           "pf": 4,
           "pa": 6,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kocsis Zalán",
+            "Kuttor Gergő",
+            "Simon Dávid"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
         }
       ]
     },
@@ -1217,45 +1204,6 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Simon Dávid"
-          ],
-          "min": 15.0,
-          "pf": 8,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 13.0,
-          "pf": 6,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 11.0,
-          "pf": 1,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
             "Daniels Vionte Ramone",
             "Frank Áron",
             "Kocsis Zalán",
@@ -1277,6 +1225,19 @@
           "min": 6.0,
           "pf": 7,
           "pa": 18,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 5.0,
+          "pf": 8,
+          "pa": 11,
           "is_starter": false
         },
         {
@@ -1321,6 +1282,19 @@
         {
           "players": [
             "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Frank Áron",
             "Kocsis Zalán",
@@ -1342,6 +1316,19 @@
           "min": 2.0,
           "pf": 2,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -1381,236 +1368,15 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 20.0,
-          "pf": 15,
-          "pa": 21,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 15.0,
-          "pf": 12,
-          "pa": 15,
+          "min": 40.0,
+          "pf": 84,
+          "pa": 91,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 6.0,
-          "pf": 14,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kass Balázs",
-            "Tóth Dániel"
-          ],
-          "min": 4.0,
-          "pf": 5,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 3.0,
-          "pf": 7,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 2.0,
-          "pf": 8,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 2.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Simon Dávid"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 1.0,
-          "pf": 7,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Simon Dávid"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 1.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Kuttor Gergő",
-            "Tóth Dániel"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kuttor Gergő",
-            "Tóth Dániel"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Tóth Dániel"
-          ],
-          "min": 0.0,
-          "pf": 5,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 0.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 0.0,
-          "pf": 0,
-          "pa": 1,
-          "is_starter": false
         }
       ]
     },
@@ -1635,198 +1401,16 @@
       "lineups": [
         {
           "players": [
-            "Frank Áron",
-            "Kass Balázs",
-            "Kuttor Gergõ",
-            "Lintner Kristóf Barnabás",
-            "Simon Dávid"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kocsis Zalán",
-            "Kuttor Gergõ",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Simon Dávid",
-            "Tóth Dániel"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 7.0,
-          "pf": 21,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Tóth Dániel"
-          ],
-          "min": 6.0,
-          "pf": 13,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kuttor Gergõ",
-            "Simon Dávid"
-          ],
-          "min": 3.0,
-          "pf": 9,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kocsis Zalán"
-          ],
-          "min": 3.0,
-          "pf": 8,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 2.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kass Balázs",
-            "Simon Dávid"
-          ],
-          "min": 2.0,
-          "pf": 6,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kuttor Gergõ",
-            "Tóth Dániel"
-          ],
-          "min": 2.0,
-          "pf": 3,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bogdán Benedek",
             "Daniels Vionte Ramone",
             "Kocsis Zalán",
             "Simon Dávid",
             "Tóth Dániel"
           ],
-          "min": 1.0,
-          "pf": 5,
-          "pa": 0,
+          "min": 40.0,
+          "pf": 96,
+          "pa": 69,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Simon Dávid",
-            "Tóth Dániel"
-          ],
-          "min": 1.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Kuttor Gergõ",
-            "Simon Dávid"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Simon Dávid"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kuttor Gergõ",
-            "Lintner Kristóf Barnabás",
-            "Tóth Dániel"
-          ],
-          "min": 0.0,
-          "pf": 10,
-          "pa": 11,
-          "is_starter": false
         }
       ]
     },
@@ -1964,67 +1548,28 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 19.0,
-          "pf": 26,
-          "pa": 22,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kass Balázs",
-            "Simon Dávid"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
             "Kass Balázs",
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
           "min": 11.0,
-          "pf": 1,
-          "pa": 4,
-          "is_starter": false
+          "pf": 31,
+          "pa": 17,
+          "is_starter": true
         },
         {
           "players": [
             "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
-            "Kass Balázs",
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 10.0,
-          "pf": 31,
-          "pa": 17,
-          "is_starter": true
+          "min": 9.0,
+          "pf": 26,
+          "pa": 22,
+          "is_starter": false
         },
         {
           "players": [
@@ -2058,6 +1603,19 @@
             "Bonifert Bendegúz",
             "Frank Áron",
             "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kass Balázs",
             "Tóth Dániel"
           ],
           "min": 3.0,
@@ -2080,6 +1638,19 @@
         },
         {
           "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Benedek",
             "Daniels Vionte Ramone",
             "Kass Balázs",
@@ -2089,6 +1660,19 @@
           "min": 1.0,
           "pf": 3,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -2234,45 +1818,6 @@
             "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Tóth Dániel"
-          ],
-          "min": 14.0,
-          "pf": 7,
-          "pa": 6,
-          "is_starter": true
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 14.0,
-          "pf": 10,
-          "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Simon Dávid"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
             "Kass Balázs",
             "Tóth Dániel"
           ],
@@ -2292,6 +1837,32 @@
           "min": 6.0,
           "pf": 14,
           "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Tóth Dániel"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 6,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 13,
           "is_starter": false
         },
         {
@@ -2318,6 +1889,19 @@
           "min": 3.0,
           "pf": 8,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -2410,45 +1994,6 @@
           "players": [
             "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kuttor Gergõ",
-            "Tóth Dániel"
-          ],
-          "min": 18.0,
-          "pf": 13,
-          "pa": 20,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kuttor Gergõ",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kuttor Gergõ",
-            "Lintner Kristóf Barnabás",
-            "Simon Dávid"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
             "Frank Áron",
             "Kass Balázs",
             "Simon Dávid"
@@ -2457,6 +2002,19 @@
           "pf": 11,
           "pa": 16,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kuttor Gergõ",
+            "Tóth Dániel"
+          ],
+          "min": 8.0,
+          "pf": 13,
+          "pa": 20,
+          "is_starter": false
         },
         {
           "players": [
@@ -2512,6 +2070,19 @@
         },
         {
           "players": [
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Lintner Kristóf Barnabás",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 15,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Daniels Vionte Ramone",
             "Frank Áron",
             "Kass Balázs",
@@ -2520,6 +2091,19 @@
           ],
           "min": 2.0,
           "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kuttor Gergõ",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 2,
           "pa": 8,
           "is_starter": false
         },
@@ -2538,15 +2122,15 @@
         },
         {
           "players": [
-            "Bonifert Bendegúz",
             "Daniels Vionte Ramone",
             "Frank Áron",
+            "Kuttor Gergõ",
             "Lintner Kristóf Barnabás",
-            "Tóth Dániel"
+            "Simon Dávid"
           ],
           "min": 0.0,
-          "pf": 15,
-          "pa": 5,
+          "pf": 0,
+          "pa": 1,
           "is_starter": false
         }
       ]
@@ -2578,7 +2162,7 @@
             "Kass Balázs",
             "Tóth Dániel"
           ],
-          "min": 22.0,
+          "min": 12.0,
           "pf": 16,
           "pa": 28,
           "is_starter": true
@@ -2591,35 +2175,9 @@
             "Frank Áron",
             "Tóth Dániel"
           ],
-          "min": 19.0,
+          "min": 9.0,
           "pf": 21,
           "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Simon Dávid"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kuttor Gergő",
-            "Tóth Dániel"
-          ],
-          "min": 14.0,
-          "pf": 14,
-          "pa": 7,
           "is_starter": false
         },
         {
@@ -2646,6 +2204,32 @@
           "min": 5.0,
           "pf": 11,
           "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kuttor Gergő",
+            "Tóth Dániel"
+          ],
+          "min": 4.0,
+          "pf": 14,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -2742,35 +2326,9 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 22.0,
+          "min": 19.0,
           "pf": 38,
           "pa": 40,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kass Balázs",
-            "Simon Dávid"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Simon Dávid",
-            "Tóth Dániel"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -2814,6 +2372,19 @@
         },
         {
           "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kass Balázs",
+            "Simon Dávid"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Daniels Vionte Ramone",
             "Frank Áron",
             "Kass Balázs",
@@ -2835,6 +2406,19 @@
           ],
           "min": 1.0,
           "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Simon Dávid",
+            "Tóth Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
           "pa": 2,
           "is_starter": false
         }
@@ -2867,22 +2451,9 @@
             "Simon Dávid",
             "Tóth Dániel"
           ],
-          "min": 43.0,
+          "min": 23.0,
           "pf": 36,
           "pa": 36,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Kass Balázs",
-            "Lintner Kristóf Barnabás",
-            "Simon Dávid",
-            "Tóth Dániel"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -2893,7 +2464,7 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 10.0,
+          "min": 12.0,
           "pf": 22,
           "pa": 23,
           "is_starter": false
@@ -2910,6 +2481,19 @@
           "pf": 10,
           "pa": 11,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Kass Balázs",
+            "Lintner Kristóf Barnabás",
+            "Simon Dávid",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
         }
       ]
     },
@@ -2940,48 +2524,9 @@
             "Kocsis Zalán",
             "Simon Dávid"
           ],
-          "min": 21.0,
+          "min": 11.0,
           "pf": 14,
           "pa": 26,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 16.0,
-          "pf": 15,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Daniels Vionte Ramone",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Lintner Kristóf Barnabás",
-            "Simon Dávid"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Simon Dávid"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 0,
           "is_starter": false
         },
         {
@@ -2996,6 +2541,32 @@
           "pf": 25,
           "pa": 22,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Daniels Vionte Ramone",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 6.0,
+          "pf": 15,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Daniels Vionte Ramone",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Lintner Kristóf Barnabás",
+            "Simon Dávid"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 9,
+          "is_starter": false
         },
         {
           "players": [
@@ -3072,6 +2643,19 @@
           ],
           "min": 1.0,
           "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Simon Dávid"
+          ],
+          "min": 1.0,
+          "pf": 2,
           "pa": 0,
           "is_starter": false
         },
@@ -3117,36 +2701,10 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 16.0,
+          "min": 19.0,
           "pf": 39,
           "pa": 30,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 14.0,
-          "pf": 7,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Daniels Vionte Ramone",
-            "Frank Áron",
-            "Kass Balázs",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 8,
-          "is_starter": false
         },
         {
           "players": [
@@ -3164,14 +2722,14 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Kass Balázs",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
             "Kocsis Zalán",
-            "Lintner Kristóf Barnabás",
-            "Simon Dávid"
+            "Tóth Dániel"
           ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 4,
+          "min": 4.0,
+          "pf": 7,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -3192,12 +2750,38 @@
             "Bogdán Benedek",
             "Daniels Vionte Ramone",
             "Frank Áron",
+            "Kass Balázs",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Daniels Vionte Ramone",
+            "Frank Áron",
             "Kocsis Zalán",
             "Simon Dávid"
           ],
           "min": 1.0,
           "pf": 0,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Lintner Kristóf Barnabás",
+            "Simon Dávid"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -3242,7 +2826,7 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 23.0,
+          "min": 18.0,
           "pf": 33,
           "pa": 37,
           "is_starter": true
@@ -3255,7 +2839,7 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 23.0,
+          "min": 13.0,
           "pf": 30,
           "pa": 28,
           "is_starter": false
@@ -3268,7 +2852,7 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 19.0,
+          "min": 9.0,
           "pf": 10,
           "pa": 15,
           "is_starter": false
@@ -3310,40 +2894,27 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Tóth Dániel"
-          ],
-          "min": 19.0,
-          "pf": 20,
-          "pa": 16,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
+            "Frank Áron",
             "Kass Balázs",
             "Kocsis Zalán",
-            "Krkljes Vukasin",
             "Tóth Dániel"
           ],
-          "min": 13.0,
-          "pf": 13,
-          "pa": 5,
+          "min": 9.0,
+          "pf": 18,
+          "pa": 19,
           "is_starter": false
         },
         {
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
-            "Frank Áron",
             "Gera Ferenc",
-            "Kocsis Zalán"
+            "Kass Balázs",
+            "Tóth Dániel"
           ],
-          "min": 12.0,
-          "pf": 0,
-          "pa": 7,
+          "min": 9.0,
+          "pf": 20,
+          "pa": 16,
           "is_starter": false
         },
         {
@@ -3362,19 +2933,6 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 6.0,
-          "pf": 18,
-          "pa": 19,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Frank Áron",
             "Gera Ferenc",
@@ -3383,6 +2941,19 @@
           "min": 4.0,
           "pf": 8,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Krkljes Vukasin",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 13,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -3409,6 +2980,19 @@
           "min": 2.0,
           "pf": 0,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Kocsis Zalán"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -3462,11 +3046,24 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
+            "Gera Ferenc",
+            "Kass Balázs",
+            "Kocsis Zalán"
+          ],
+          "min": 16.0,
+          "pf": 46,
+          "pa": 42,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Frank Áron",
             "Gera Ferenc",
             "Kocsis Zalán"
           ],
-          "min": 16.0,
+          "min": 6.0,
           "pf": 8,
           "pa": 12,
           "is_starter": false
@@ -3479,35 +3076,9 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 15.0,
+          "min": 5.0,
           "pf": 3,
           "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kocsis Zalán"
-          ],
-          "min": 11.0,
-          "pf": 46,
-          "pa": 42,
-          "is_starter": true
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Krkljes Vukasin",
-            "Tóth Dániel"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 8,
           "is_starter": false
         },
         {
@@ -3547,6 +3118,19 @@
           "min": 1.0,
           "pf": 6,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Krkljes Vukasin",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -3617,7 +3201,7 @@
             "Kass Balázs",
             "Kocsis Zalán"
           ],
-          "min": 23.0,
+          "min": 13.0,
           "pf": 21,
           "pa": 22,
           "is_starter": false
@@ -3630,22 +3214,9 @@
             "Kass Balázs",
             "Kocsis Zalán"
           ],
-          "min": 17.0,
+          "min": 7.0,
           "pf": 18,
           "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Kocsis Zalán",
-            "Norman Jr Lamar Andre"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 4,
           "is_starter": false
         },
         {
@@ -3703,6 +3274,19 @@
         {
           "players": [
             "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Kass Balázs"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
             "Frank Áron",
             "Gera Ferenc",
             "Norman Jr Lamar Andre",
@@ -3710,6 +3294,19 @@
           ],
           "min": 1.0,
           "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Kocsis Zalán",
+            "Norman Jr Lamar Andre"
+          ],
+          "min": 1.0,
+          "pf": 0,
           "pa": 4,
           "is_starter": false
         },
@@ -3749,45 +3346,6 @@
       "lineups": [
         {
           "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Kocsis Zalán",
-            "Norman Jr Lamar Andre"
-          ],
-          "min": 14.0,
-          "pf": 10,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Norman Jr Lamar Andre"
-          ],
-          "min": 14.0,
-          "pf": 7,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Norman Jr Lamar Andre"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Kass Balázs",
@@ -3810,6 +3368,32 @@
           "min": 4.0,
           "pf": 11,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Kocsis Zalán",
+            "Norman Jr Lamar Andre"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Gera Ferenc",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Norman Jr Lamar Andre"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -4057,45 +3641,6 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Norman Jr. Lamar Andre"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Norman Jr. Lamar Andre",
-            "Tóth Dániel"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kocsis Zalán"
-          ],
-          "min": 11.0,
-          "pf": 1,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Frank Áron",
             "Kocsis Zalán",
@@ -4105,6 +3650,19 @@
           "pf": 5,
           "pa": 14,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Gera Ferenc",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Norman Jr. Lamar Andre"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 11,
+          "is_starter": false
         },
         {
           "players": [
@@ -4123,6 +3681,19 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
+            "Frank Áron",
+            "Norman Jr. Lamar Andre",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Kocsis Zalán",
             "Norman Jr. Lamar Andre",
             "Tóth Dániel"
@@ -4130,6 +3701,19 @@
           "min": 3.0,
           "pf": 5,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 10,
           "is_starter": false
         },
         {
@@ -4214,13 +3798,13 @@
           "players": [
             "Bonifert Bendegúz",
             "Frank Áron",
+            "Gera Ferenc",
             "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
+            "Kocsis Zalán"
           ],
           "min": 1.0,
-          "pf": 5,
-          "pa": 10,
+          "pf": 1,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -4312,45 +3896,6 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kuttor Gergő",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Kass Balázs",
-            "Krkljes Vukasin",
-            "Kuttor Gergő",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 1,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Kass Balázs",
-            "Krkljes Vukasin",
-            "Tóth Dániel"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Gera Ferenc",
             "Kass Balázs",
@@ -4398,6 +3943,32 @@
           "min": 3.0,
           "pf": 7,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kuttor Gergő",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Kass Balázs",
+            "Krkljes Vukasin",
+            "Kuttor Gergő",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -4541,6 +4112,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Krkljes Vukasin",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -4633,39 +4217,26 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
+            "Gera Ferenc",
             "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
+            "Kocsis Zalán"
           ],
-          "min": 15.0,
-          "pf": 12,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Krkljes Vukasin",
-            "Tóth Dániel"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
+          "min": 5.0,
+          "pf": 15,
+          "pa": 13,
           "is_starter": false
         },
         {
           "players": [
             "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Kass Balázs",
             "Kocsis Zalán",
-            "Kuttor Gergő",
             "Tóth Dániel"
           ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
+          "min": 5.0,
+          "pf": 12,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -4680,19 +4251,6 @@
           "pf": 9,
           "pa": 6,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kocsis Zalán"
-          ],
-          "min": 4.0,
-          "pf": 15,
-          "pa": 13,
-          "is_starter": false
         },
         {
           "players": [
@@ -4796,6 +4354,19 @@
           "min": 1.0,
           "pf": 3,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Krkljes Vukasin",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -4926,45 +4497,6 @@
         {
           "players": [
             "Bogdán Benedek",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kocsis Zalán"
-          ],
-          "min": 15.0,
-          "pf": 14,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Krkljes Vukasin",
-            "Tóth Dániel"
-          ],
-          "min": 14.0,
-          "pf": 12,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Kuttor Gergő",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Frank Áron",
             "Kass Balázs",
@@ -4973,6 +4505,19 @@
           "min": 6.0,
           "pf": 9,
           "pa": 11,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Kass Balázs",
+            "Kocsis Zalán"
+          ],
+          "min": 5.0,
+          "pf": 14,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -4987,6 +4532,19 @@
           "pf": 7,
           "pa": 5,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Krkljes Vukasin",
+            "Tóth Dániel"
+          ],
+          "min": 4.0,
+          "pf": 12,
+          "pa": 8,
+          "is_starter": false
         },
         {
           "players": [
@@ -5063,6 +4621,19 @@
           ],
           "min": 2.0,
           "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Kuttor Gergő",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 5,
           "pa": 4,
           "is_starter": false
         },
@@ -5173,35 +4744,9 @@
             "Krkljes Vukasin",
             "Tóth Dániel"
           ],
-          "min": 17.0,
+          "min": 7.0,
           "pf": 16,
           "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Krkljes Vukasin",
-            "Okoh Victor Kelechi",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Krkljes Vukasin",
-            "Kuttor Gergő"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -5254,6 +4799,19 @@
           "min": 3.0,
           "pf": 10,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Krkljes Vukasin",
+            "Okoh Victor Kelechi",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -5427,6 +4985,19 @@
         },
         {
           "players": [
+            "Gera Ferenc",
+            "Kuttor Gergő",
+            "Lintner Kristóf Barnabás",
+            "Okoh Victor Kelechi",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Kocsis Zalán",
@@ -5440,6 +5011,19 @@
         },
         {
           "players": [
+            "Bonifert Bendegúz",
+            "Gera Ferenc",
+            "Kass Balázs",
+            "Krkljes Vukasin",
+            "Kuttor Gergő"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gera Ferenc",
             "Kocsis Zalán",
             "Kuttor Gergő",
@@ -5449,19 +5033,6 @@
           "min": 0.0,
           "pf": 4,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Gera Ferenc",
-            "Kuttor Gergő",
-            "Lintner Kristóf Barnabás",
-            "Okoh Victor Kelechi",
-            "Tóth Dániel"
-          ],
-          "min": 0.0,
-          "pf": 0,
-          "pa": 1,
           "is_starter": false
         }
       ]
@@ -5493,23 +5064,10 @@
             "Kocsis Zalán",
             "Tóth Dániel"
           ],
-          "min": 20.0,
+          "min": 10.0,
           "pf": 25,
           "pa": 14,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Scheff Milán"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 1,
-          "is_starter": false
         },
         {
           "players": [
@@ -5522,32 +5080,6 @@
           "min": 10.0,
           "pf": 18,
           "pa": 16,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kass Balázs",
-            "Tóth Dániel"
-          ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Kocsis Zalán",
-            "Kuttor Gergő"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
           "is_starter": false
         },
         {
@@ -5723,6 +5255,32 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Scheff Milán"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kass Balázs",
+            "Tóth Dániel"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Frank Áron",
             "Gera Ferenc",
             "Krkljes Vukasin"
@@ -5792,45 +5350,6 @@
         "Kass Balázs"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 12.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Okoh Victor Kelechi",
-            "Tóth Dániel"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Kocsis Zalán",
-            "Okoh Victor Kelechi"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
         {
           "players": [
             "Bogdán Benedek",
@@ -5937,6 +5456,19 @@
         },
         {
           "players": [
+            "Bogdán Benedek",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bonifert Bendegúz",
             "Frank Áron",
             "Gera Ferenc",
@@ -5963,6 +5495,19 @@
         },
         {
           "players": [
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Okoh Victor Kelechi",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
             "Frank Áron",
@@ -5985,6 +5530,19 @@
           "min": 1.0,
           "pf": 3,
           "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Kocsis Zalán",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -6059,45 +5617,6 @@
           "pf": 30,
           "pa": 28,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Tóth Dániel"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kuttor Gergő"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Frank Áron",
-            "Kuttor Gergő",
-            "Okoh Victor Kelechi",
-            "Tóth Dániel"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
         },
         {
           "players": [
@@ -6244,11 +5763,37 @@
         },
         {
           "players": [
+            "Bonifert Bendegúz",
+            "Frank Áron",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Benedek",
             "Frank Áron",
             "Gera Ferenc",
             "Kass Balázs",
             "Tóth Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Kass Balázs",
+            "Kuttor Gergő"
           ],
           "min": 0.0,
           "pf": 0,
@@ -6266,6 +5811,19 @@
           "min": 0.0,
           "pf": 0,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Frank Áron",
+            "Kuttor Gergő",
+            "Okoh Victor Kelechi",
+            "Tóth Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
           "is_starter": false
         }
       ]
@@ -6289,45 +5847,6 @@
         "Tóth Dániel"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Krkljes Vukasin"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Bonifert Bendegúz",
-            "Frank Áron",
-            "Gera Ferenc",
-            "Kuttor Gergő"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Kocsis Zalán",
-            "Kuttor Gergő",
-            "Lintner Kristóf Barnabás",
-            "Valkó Ádám Gergő"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
         {
           "players": [
             "Bogdán Benedek",
@@ -6397,6 +5916,19 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Krkljes Vukasin"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Gera Ferenc",
             "Kass Balázs",
             "Kocsis Zalán"
@@ -6514,6 +6046,19 @@
           "players": [
             "Bogdán Benedek",
             "Bonifert Bendegúz",
+            "Frank Áron",
+            "Gera Ferenc",
+            "Kuttor Gergő"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Benedek",
+            "Bonifert Bendegúz",
             "Gera Ferenc",
             "Kass Balázs",
             "Kuttor Gergő"
@@ -6547,6 +6092,19 @@
           "min": 1.0,
           "pf": 5,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gera Ferenc",
+            "Kass Balázs",
+            "Kuttor Gergő",
+            "Lintner Kristóf Barnabás",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 1.0,
+          "pf": 8,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -6613,19 +6171,6 @@
           "pf": 1,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Gera Ferenc",
-            "Kass Balázs",
-            "Kuttor Gergő",
-            "Lintner Kristóf Barnabás",
-            "Okoh Victor Kelechi"
-          ],
-          "min": 0.0,
-          "pf": 8,
-          "pa": 5,
-          "is_starter": false
         }
       ]
     },
@@ -6656,35 +6201,9 @@
             "Kass Balázs",
             "Kocsis Zalán"
           ],
-          "min": 21.0,
+          "min": 11.0,
           "pf": 20,
           "pa": 16,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Benedek",
-            "Kass Balázs",
-            "Kocsis Zalán",
-            "Krkljes Vukasin",
-            "Valkó Ádám Gergő"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bonifert Bendegúz",
-            "Kass Balázs",
-            "Krkljes Vukasin",
-            "Okoh Victor Kelechi",
-            "Tóth Dániel"
-          ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 3,
           "is_starter": false
         },
         {
@@ -6741,6 +6260,19 @@
         },
         {
           "players": [
+            "Bogdán Benedek",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Krkljes Vukasin",
+            "Valkó Ádám Gergő"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bonifert Bendegúz",
             "Gera Ferenc",
             "Kass Balázs",
@@ -6864,9 +6396,22 @@
             "Krkljes Vukasin",
             "Valkó Ádám Gergő"
           ],
-          "min": 0.0,
+          "min": 1.0,
           "pf": 9,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Krkljes Vukasin",
+            "Okoh Victor Kelechi",
+            "Tóth Dániel"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 3,
           "is_starter": false
         }
       ]

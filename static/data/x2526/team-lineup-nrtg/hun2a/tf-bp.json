@@ -24,32 +24,6 @@
       "lineups": [
         {
           "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 28.0,
-          "pf": 9,
-          "pa": 22,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Sebők András"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergő",
@@ -60,6 +34,19 @@
           "pf": 15,
           "pa": 22,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 8.0,
+          "pf": 9,
+          "pa": 22,
+          "is_starter": false
         },
         {
           "players": [
@@ -85,6 +72,19 @@
           "min": 4.0,
           "pf": 6,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Sebők András"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -233,7 +233,7 @@
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 15.0,
+          "min": 5.0,
           "pf": 13,
           "pa": 8,
           "is_starter": false
@@ -246,7 +246,7 @@
             "Pilinszki Máté",
             "Polster Attila"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 6,
           "pa": 7,
           "is_starter": false
@@ -259,7 +259,7 @@
             "Pilinszki Máté",
             "Polster Attila"
           ],
-          "min": 13.0,
+          "min": 3.0,
           "pf": 5,
           "pa": 4,
           "is_starter": false
@@ -391,41 +391,15 @@
       "lineups": [
         {
           "players": [
-            "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
-            "Polster Attila"
-          ],
-          "min": 15.0,
-          "pf": 6,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Pantelic Dorde",
-            "Polster Attila"
-          ],
-          "min": 11.0,
-          "pf": 5,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kalmár Viktor Patrik",
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 1,
+          "min": 12.0,
+          "pf": 27,
+          "pa": 18,
           "is_starter": false
         },
         {
@@ -456,15 +430,15 @@
         },
         {
           "players": [
+            "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
             "Polster Attila"
           ],
           "min": 5.0,
-          "pf": 27,
-          "pa": 18,
+          "pf": 6,
+          "pa": 10,
           "is_starter": false
         },
         {
@@ -518,6 +492,32 @@
           "pf": 2,
           "pa": 5,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Pantelic Dorde",
+            "Polster Attila"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kalmár Viktor Patrik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
         }
       ]
     },
@@ -542,45 +542,6 @@
       "lineups": [
         {
           "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Sebők András"
-          ],
-          "min": 16.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Sebők András"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Pilinszki Máté"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
@@ -590,6 +551,19 @@
           "min": 6.0,
           "pf": 7,
           "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Sebők András"
+          ],
+          "min": 6.0,
+          "pf": 7,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -620,6 +594,19 @@
         },
         {
           "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Sebők András"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Hansági Kristóf Zalán",
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
@@ -642,6 +629,19 @@
           "min": 3.0,
           "pf": 7,
           "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Marcell József",
+            "Pilinszki Máté"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -724,15 +724,15 @@
         },
         {
           "players": [
-            "Hegedüs Brúnó",
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
             "Molnár Marcell József",
+            "Pantelic Dorde",
             "Pilinszki Máté"
           ],
           "min": 0.0,
-          "pf": 10,
-          "pa": 3,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         }
       ]
@@ -758,45 +758,6 @@
       "lineups": [
         {
           "players": [
-            "Heimann Gergõ",
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Pantelic Dorde",
-            "Sebõk András"
-          ],
-          "min": 13.0,
-          "pf": 3,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergõ",
-            "Kiss Dominik",
-            "Molnár Marcell József"
-          ],
-          "min": 11.0,
-          "pf": 1,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Sebõk András"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hegedüs Brúnó",
             "Heimann Gergõ",
             "Inalegwu Marcell Sámuel",
@@ -806,6 +767,19 @@
           "min": 7.0,
           "pf": 14,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergõ",
+            "Inalegwu Marcell Sámuel",
+            "Pantelic Dorde",
+            "Polster Attila",
+            "Sebõk András"
+          ],
+          "min": 5.0,
+          "pf": 10,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -838,13 +812,13 @@
           "players": [
             "Heimann Gergõ",
             "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
             "Pantelic Dorde",
-            "Polster Attila",
             "Sebõk András"
           ],
           "min": 3.0,
-          "pf": 10,
-          "pa": 9,
+          "pf": 3,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -975,6 +949,32 @@
           "min": 1.0,
           "pf": 4,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Heimann Gergõ",
+            "Kiss Dominik",
+            "Molnár Marcell József"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Sebõk András"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -1013,133 +1013,16 @@
       "lineups": [
         {
           "players": [
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Polster Attila"
-          ],
-          "min": 18.0,
-          "pf": 10,
-          "pa": 24,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Polster Attila"
-          ],
-          "min": 13.0,
-          "pf": 5,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pantelic Dorde"
-          ],
-          "min": 12.0,
-          "pf": 9,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Sebõk András"
-          ],
-          "min": 6.0,
-          "pf": 6,
-          "pa": 19,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 5.0,
-          "pf": 15,
-          "pa": 18,
+          "min": 40.0,
+          "pf": 78,
+          "pa": 109,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Polster Attila",
-            "Sebõk András"
-          ],
-          "min": 5.0,
-          "pf": 14,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Polster Attila",
-            "Sebõk András"
-          ],
-          "min": 4.0,
-          "pf": 10,
-          "pa": 21,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Sebõk András"
-          ],
-          "min": 2.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Polster Attila",
-            "Sebõk András"
-          ],
-          "min": 1.0,
-          "pf": 3,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Pantelic Dorde",
-            "Polster Attila",
-            "Sebõk András"
-          ],
-          "min": 0.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
         }
       ]
     },
@@ -1164,211 +1047,16 @@
       "lineups": [
         {
           "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Polster Attila"
-          ],
-          "min": 17.0,
-          "pf": 16,
-          "pa": 18,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Sebők András"
-          ],
-          "min": 13.0,
-          "pf": 0,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Sebők András"
-          ],
-          "min": 10.0,
-          "pf": 3,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
             "Polster Attila",
             "Sebők András"
           ],
-          "min": 8.0,
-          "pf": 12,
-          "pa": 19,
+          "min": 40.0,
+          "pf": 73,
+          "pa": 111,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 5.0,
-          "pf": 9,
-          "pa": 19,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Polster Attila"
-          ],
-          "min": 4.0,
-          "pf": 3,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Pilinszki Máté",
-            "Polster Attila"
-          ],
-          "min": 3.0,
-          "pf": 7,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Pantelic Dorde",
-            "Pilinszki Máté",
-            "Sebők András"
-          ],
-          "min": 2.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Pantelic Dorde",
-            "Polster Attila",
-            "Sebők András"
-          ],
-          "min": 2.0,
-          "pf": 5,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Pantelic Dorde"
-          ],
-          "min": 2.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Pilinszki Máté",
-            "Polster Attila"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Inalegwu Marcell Sámuel",
-            "Pilinszki Máté",
-            "Polster Attila",
-            "Sebők András"
-          ],
-          "min": 1.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Pantelic Dorde",
-            "Polster Attila"
-          ],
-          "min": 1.0,
-          "pf": 1,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Pantelic Dorde",
-            "Polster Attila",
-            "Sebők András"
-          ],
-          "min": 0.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Sebők András"
-          ],
-          "min": 0.0,
-          "pf": 2,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József"
-          ],
-          "min": 0.0,
-          "pf": 7,
-          "pa": 10,
-          "is_starter": false
         }
       ]
     },
@@ -1393,185 +1081,16 @@
       "lineups": [
         {
           "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pilinszki Máté"
-          ],
-          "min": 20.0,
-          "pf": 18,
-          "pa": 31,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Pilinszki Máté"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Pilinszki Máté"
-          ],
-          "min": 10.0,
-          "pf": 1,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Molnár Marcell József"
-          ],
-          "min": 6.0,
-          "pf": 19,
-          "pa": 18,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
             "Kiss Dominik",
             "Molnár Marcell József",
             "Pilinszki Máté"
           ],
-          "min": 5.0,
-          "pf": 15,
-          "pa": 18,
+          "min": 40.0,
+          "pf": 99,
+          "pa": 143,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Molnár Marcell József"
-          ],
-          "min": 3.0,
-          "pf": 9,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József"
-          ],
-          "min": 2.0,
-          "pf": 6,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József"
-          ],
-          "min": 2.0,
-          "pf": 2,
-          "pa": 12,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József",
-            "Pilinszki Máté"
-          ],
-          "min": 2.0,
-          "pf": 0,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József"
-          ],
-          "min": 2.0,
-          "pf": 7,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Pilinszki Máté"
-          ],
-          "min": 2.0,
-          "pf": 1,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Molnár Marcell József"
-          ],
-          "min": 1.0,
-          "pf": 7,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Pilinszki Máté"
-          ],
-          "min": 1.0,
-          "pf": 4,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Pilinszki Máté"
-          ],
-          "min": 0.0,
-          "pf": 6,
-          "pa": 12,
-          "is_starter": false
         }
       ]
     },
@@ -1597,40 +1116,14 @@
         {
           "players": [
             "Hegedüs Brúnó",
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Pilinszki Máté"
-          ],
-          "min": 16.0,
-          "pf": 16,
-          "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
             "Kiss Dominik",
-            "Molnár Marcell József",
-            "Vértes Zsombor"
+            "Molnár Marcell József"
           ],
-          "min": 14.0,
-          "pf": 6,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Heimann Gergő",
-            "Inalegwu Marcell Sámuel",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 6,
+          "min": 8.0,
+          "pf": 10,
+          "pa": 15,
           "is_starter": false
         },
         {
@@ -1649,14 +1142,27 @@
         {
           "players": [
             "Hegedüs Brúnó",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Pilinszki Máté"
+          ],
+          "min": 6.0,
+          "pf": 16,
+          "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Heimann Gergő",
             "Inalegwu Marcell Sámuel",
             "Kiss Dominik",
-            "Molnár Marcell József"
+            "Molnár Marcell József",
+            "Vértes Zsombor"
           ],
-          "min": 7.0,
-          "pf": 10,
-          "pa": 15,
+          "min": 4.0,
+          "pf": 6,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -1683,6 +1189,19 @@
           "min": 3.0,
           "pf": 5,
           "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Inalegwu Marcell Sámuel",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -1818,22 +1337,9 @@
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 18.0,
+          "min": 13.0,
           "pf": 24,
           "pa": 24,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 9,
           "is_starter": false
         },
         {
@@ -1852,14 +1358,14 @@
         {
           "players": [
             "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
             "Heimann Gergő",
-            "Kiss Dominik",
-            "Polster Attila",
-            "Vértes Zsombor"
+            "Molnár Marcell József",
+            "Polster Attila"
           ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 4,
+          "min": 3.0,
+          "pf": 7,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -1916,6 +1422,19 @@
         },
         {
           "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Dávid Bence",
             "Heimann Gergő",
             "Kiss Dominik",
@@ -1963,45 +1482,6 @@
       "lineups": [
         {
           "players": [
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Matolcsi Tamás",
-            "Molnár Marcell József",
-            "Pilinszki Máté"
-          ],
-          "min": 15.0,
-          "pf": 13,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Pilinszki Máté"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Matolcsi Tamás",
-            "Molnár Marcell József"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hansági Kristóf Zalán",
             "Hegedüs Brúnó",
             "Heimann Gergő",
@@ -2011,6 +1491,19 @@
           "min": 7.0,
           "pf": 7,
           "pa": 22,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Matolcsi Tamás",
+            "Molnár Marcell József",
+            "Pilinszki Máté"
+          ],
+          "min": 5.0,
+          "pf": 13,
+          "pa": 5,
           "is_starter": false
         },
         {
@@ -2067,6 +1560,19 @@
         },
         {
           "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Vértes Zsombor"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Matolcsi Tamás",
@@ -2106,6 +1612,19 @@
         },
         {
           "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Pilinszki Máté"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Hansági Kristóf Zalán",
             "Hegedüs Brúnó",
             "Heimann Gergő",
@@ -2120,14 +1639,14 @@
         {
           "players": [
             "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
             "Heimann Gergő",
             "Kiss Dominik",
-            "Vértes Zsombor"
+            "Matolcsi Tamás",
+            "Molnár Marcell József"
           ],
-          "min": 0.0,
-          "pf": 10,
-          "pa": 4,
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
           "is_starter": false
         }
       ]
@@ -2153,19 +1672,6 @@
       "lineups": [
         {
           "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 22.0,
-          "pf": 30,
-          "pa": 20,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hansági Kristóf Zalán",
             "Hegedüs Brúnó",
             "Heimann Gergő",
@@ -2179,28 +1685,15 @@
         },
         {
           "players": [
-            "Hansági Kristóf Zalán",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Pilinszki Máté",
-            "Polster Attila"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
             "Heimann Gergő",
-            "Kiss Dominik",
             "Molnár Marcell József",
             "Polster Attila"
           ],
           "min": 12.0,
-          "pf": 4,
-          "pa": 11,
+          "pf": 30,
+          "pa": 20,
           "is_starter": false
         },
         {
@@ -2218,6 +1711,19 @@
         },
         {
           "players": [
+            "Hansági Kristóf Zalán",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Pilinszki Máté",
+            "Polster Attila"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Molnár Marcell József",
@@ -2227,6 +1733,19 @@
           "min": 3.0,
           "pf": 2,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 11,
           "is_starter": false
         },
         {
@@ -2278,19 +1797,6 @@
       "lineups": [
         {
           "players": [
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Matolcsi Tamás",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 15.0,
-          "pf": 11,
-          "pa": 15,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hansági Kristóf Zalán",
             "Hegedüs Brúnó",
             "Heimann Gergő",
@@ -2304,32 +1810,6 @@
         },
         {
           "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 12.0,
-          "pf": 7,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Pilinszki Máté",
-            "Polster Attila"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Heimann Gergő",
             "Kiss Dominik",
             "Matolcsi Tamás",
@@ -2339,6 +1819,19 @@
           "min": 7.0,
           "pf": 11,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Matolcsi Tamás",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 15,
           "is_starter": false
         },
         {
@@ -2384,7 +1877,33 @@
           "players": [
             "Hansági Kristóf Zalán",
             "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
             "Molnár Marcell József",
+            "Pilinszki Máté",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Kiss Dominik",
             "Pilinszki Máté",
             "Polster Attila"
           ],
@@ -2399,11 +1918,11 @@
             "Hegedüs Brúnó",
             "Molnár Marcell József",
             "Pilinszki Máté",
-            "Vértes Zsombor"
+            "Polster Attila"
           ],
           "min": 0.0,
-          "pf": 3,
-          "pa": 3,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         }
       ]
@@ -2431,32 +1950,6 @@
           "players": [
             "Hansági Kristóf Zalán",
             "Hegedüs Brúnó",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Vértes Zsombor"
-          ],
-          "min": 11.0,
-          "pf": 1,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
             "Heimann Gergő",
             "Molnár Marcell József",
             "Polster Attila"
@@ -2464,19 +1957,6 @@
           "min": 10.0,
           "pf": 27,
           "pa": 27,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Szentgyörgyi Zsombor",
-            "Vértes Zsombor"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -2513,7 +1993,7 @@
             "Polster Attila",
             "Szentgyörgyi Zsombor"
           ],
-          "min": 4.0,
+          "min": 5.0,
           "pf": 13,
           "pa": 10,
           "is_starter": false
@@ -2585,6 +2065,32 @@
         },
         {
           "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Vértes Zsombor"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Molnár Marcell József",
@@ -2594,6 +2100,19 @@
           "min": 0.0,
           "pf": 2,
           "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Szentgyörgyi Zsombor",
+            "Vértes Zsombor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         }
       ]
@@ -2617,45 +2136,6 @@
         "Polster Attila"
       ],
       "lineups": [
-        {
-          "players": [
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Szentgyörgyi Zsombor"
-          ],
-          "min": 12.0,
-          "pf": 7,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Pilinszki Máté"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Vértes Zsombor"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
         {
           "players": [
             "Bogdán Dávid Bence",
@@ -2713,12 +2193,64 @@
             "Heimann Gergő",
             "Kiss Dominik",
             "Molnár Marcell József",
+            "Polster Attila",
+            "Szentgyörgyi Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
             "Szentgyörgyi Zsombor",
             "Vértes Zsombor"
           ],
           "min": 2.0,
           "pf": 0,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Pilinszki Máté"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Szentgyörgyi Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -2772,19 +2304,6 @@
           "pf": 4,
           "pa": 2,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Szentgyörgyi Zsombor"
-          ],
-          "min": 0.0,
-          "pf": 4,
-          "pa": 2,
-          "is_starter": false
         }
       ]
     },
@@ -2809,52 +2328,13 @@
       "lineups": [
         {
           "players": [
-            "Hansági Kristóf Zalán",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 14.0,
-          "pf": 4,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 14.0,
-          "pf": 8,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergõ",
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 9.0,
+          "min": 12.0,
           "pf": 24,
           "pa": 24,
           "is_starter": true
@@ -2870,6 +2350,32 @@
           "min": 8.0,
           "pf": 16,
           "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 4.0,
+          "pf": 4,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 4.0,
+          "pf": 8,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -2909,6 +2415,19 @@
           "min": 2.0,
           "pf": 0,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -2979,35 +2498,9 @@
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 20.0,
+          "min": 15.0,
           "pf": 40,
           "pa": 24,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 16.0,
-          "pf": 12,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 4,
           "is_starter": false
         },
         {
@@ -3022,6 +2515,19 @@
           "pf": 12,
           "pa": 13,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 6.0,
+          "pf": 12,
+          "pa": 10,
+          "is_starter": false
         },
         {
           "players": [
@@ -3060,6 +2566,19 @@
           "min": 2.0,
           "pf": 4,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -3117,7 +2636,7 @@
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 23.0,
+          "min": 13.0,
           "pf": 25,
           "pa": 30,
           "is_starter": true
@@ -3125,27 +2644,14 @@
         {
           "players": [
             "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kalmár Viktor Patrik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
             "Heimann Gergő",
-            "Kalmár Viktor Patrik",
-            "Kiss Dominik",
-            "Polster Attila"
+            "Molnár Marcell József"
           ],
-          "min": 12.0,
-          "pf": 0,
-          "pa": 7,
+          "min": 5.0,
+          "pf": 13,
+          "pa": 15,
           "is_starter": false
         },
         {
@@ -3163,6 +2669,19 @@
         },
         {
           "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kalmár Viktor Patrik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Heimann Gergő",
             "Kiss Dominik",
             "Molnár Marcell József",
@@ -3171,6 +2690,19 @@
           ],
           "min": 3.0,
           "pf": 11,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Kalmár Viktor Patrik",
+            "Kiss Dominik",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 0,
           "pa": 7,
           "is_starter": false
         },
@@ -3264,19 +2796,6 @@
           "pf": 0,
           "pa": 3,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József"
-          ],
-          "min": 0.0,
-          "pf": 13,
-          "pa": 15,
-          "is_starter": false
         }
       ]
     },
@@ -3301,26 +2820,13 @@
       "lineups": [
         {
           "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 17.0,
-          "pf": 17,
-          "pa": 14,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hansági Kristóf Zalán",
             "Heimann Gergő",
             "Kalmár Viktor Patrik",
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 15.0,
+          "min": 7.0,
           "pf": 8,
           "pa": 16,
           "is_starter": false
@@ -3328,14 +2834,14 @@
         {
           "players": [
             "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
             "Heimann Gergő",
             "Kiss Dominik",
+            "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 7,
+          "min": 7.0,
+          "pf": 17,
+          "pa": 14,
           "is_starter": false
         },
         {
@@ -3418,6 +2924,19 @@
         },
         {
           "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Hansági Kristóf Zalán",
             "Heimann Gergő",
             "Kiss Dominik",
@@ -3466,45 +2985,6 @@
         {
           "players": [
             "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 16.0,
-          "pf": 16,
-          "pa": 19,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 14.0,
-          "pf": 6,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Kalmár Viktor Patrik",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Polster Attila",
@@ -3531,6 +3011,32 @@
         {
           "players": [
             "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 6.0,
+          "pf": 16,
+          "pa": 19,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Vértes Zsombor"
+          ],
+          "min": 6.0,
+          "pf": 18,
+          "pa": 21,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Molnár Marcell József",
@@ -3544,14 +3050,14 @@
         {
           "players": [
             "Bogdán Dávid Bence",
-            "Heimann Gergő",
             "Kiss Dominik",
             "Molnár Marcell József",
+            "Polster Attila",
             "Vértes Zsombor"
           ],
           "min": 4.0,
-          "pf": 18,
-          "pa": 21,
+          "pf": 6,
+          "pa": 1,
           "is_starter": false
         },
         {
@@ -3578,6 +3084,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Kalmár Viktor Patrik",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -3642,32 +3161,6 @@
       "lineups": [
         {
           "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 23.0,
-          "pf": 10,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 15.0,
-          "pf": 17,
-          "pa": 16,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergő",
@@ -3677,6 +3170,19 @@
           "min": 7.0,
           "pf": 14,
           "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 5.0,
+          "pf": 17,
+          "pa": 16,
           "is_starter": false
         },
         {
@@ -3720,6 +3226,32 @@
         },
         {
           "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Dávid Bence",
             "Heimann Gergő",
             "Kiss Dominik",
@@ -3808,19 +3340,6 @@
           "pf": 2,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 1.0,
-          "pf": 8,
-          "pa": 10,
-          "is_starter": false
         }
       ]
     },
@@ -3846,19 +3365,6 @@
         {
           "players": [
             "Bogdán Dávid Bence",
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Kiss Dominik"
-          ],
-          "min": 14.0,
-          "pf": 6,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Polster Attila",
@@ -3871,28 +3377,15 @@
         },
         {
           "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Pilinszki Máté",
-            "Vértes Zsombor"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 11,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
+            "Bene Máté",
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Kiss Dominik",
-            "Vértes Zsombor"
+            "Reményi Levente"
           ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 11,
+          "min": 5.0,
+          "pf": 8,
+          "pa": 19,
           "is_starter": false
         },
         {
@@ -3906,6 +3399,32 @@
           "min": 4.0,
           "pf": 5,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Pilinszki Máté",
+            "Vértes Zsombor"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 11,
           "is_starter": false
         },
         {
@@ -3932,6 +3451,19 @@
           "min": 2.0,
           "pf": 0,
           "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 11,
           "is_starter": false
         },
         {
@@ -3998,19 +3530,6 @@
           "pf": 2,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bene Máté",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Reményi Levente"
-          ],
-          "min": 0.0,
-          "pf": 8,
-          "pa": 19,
-          "is_starter": false
         }
       ]
     },
@@ -4041,35 +3560,9 @@
             "Polster Attila",
             "Vértes Zsombor"
           ],
-          "min": 18.0,
+          "min": 8.0,
           "pf": 12,
           "pa": 18,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Pilinszki Máté",
-            "Vértes Zsombor"
-          ],
-          "min": 16.0,
-          "pf": 17,
-          "pa": 15,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Pilinszki Máté",
-            "Polster Attila",
-            "Szentgyörgyi Zsombor"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -4096,6 +3589,32 @@
           "min": 7.0,
           "pf": 13,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Pilinszki Máté",
+            "Vértes Zsombor"
+          ],
+          "min": 6.0,
+          "pf": 17,
+          "pa": 15,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 5.0,
+          "pf": 14,
+          "pa": 17,
           "is_starter": false
         },
         {
@@ -4129,25 +3648,25 @@
             "Bogdán Dávid Bence",
             "Heimann Gergő",
             "Kiss Dominik",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 1.0,
-          "pf": 14,
-          "pa": 17,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Kiss Dominik",
             "Szentgyörgyi Zsombor",
             "Vértes Zsombor"
           ],
           "min": 1.0,
           "pf": 2,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Pilinszki Máté",
+            "Polster Attila",
+            "Szentgyörgyi Zsombor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -4192,35 +3711,9 @@
             "Reményi Levente",
             "Vértes Zsombor"
           ],
-          "min": 20.0,
+          "min": 10.0,
           "pf": 31,
           "pa": 31,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Polster Attila"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Pilinszki Máté",
-            "Polster Attila",
-            "Reményi Levente"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 4,
           "is_starter": false
         },
         {
@@ -4290,6 +3783,19 @@
         },
         {
           "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Heimann Gergő",
             "Kiss Dominik",
             "Polster Attila",
@@ -4303,6 +3809,19 @@
         },
         {
           "players": [
+            "Hansági Kristóf Zalán",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Pilinszki Máté",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Dávid Bence",
             "Heimann Gergő",
             "Kiss Dominik",
@@ -4312,6 +3831,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Pilinszki Máté",
+            "Polster Attila",
+            "Reményi Levente"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -4338,19 +3870,6 @@
           "min": 0.0,
           "pf": 0,
           "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Pilinszki Máté",
-            "Vértes Zsombor"
-          ],
-          "min": 0.0,
-          "pf": 5,
-          "pa": 5,
           "is_starter": false
         }
       ]
@@ -4382,35 +3901,22 @@
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 15.0,
+          "min": 5.0,
           "pf": 5,
           "pa": 7,
           "is_starter": false
         },
         {
           "players": [
-            "Bogdán Dávid Bence",
+            "Bene Máté",
             "Hegedüs Brúnó",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
             "Heimann Gergő",
             "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
+            "Vértes Zsombor"
           ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 8,
+          "min": 5.0,
+          "pf": 9,
+          "pa": 17,
           "is_starter": false
         },
         {
@@ -4534,6 +4040,19 @@
           "players": [
             "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
             "Heimann Gergő",
             "Kiss Dominik",
             "Vértes Zsombor"
@@ -4558,6 +4077,19 @@
         },
         {
           "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bogdán Dávid Bence",
             "Kiss Dominik",
             "Molnár Marcell József",
@@ -4567,19 +4099,6 @@
           "min": 1.0,
           "pf": 2,
           "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bene Máté",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Vértes Zsombor"
-          ],
-          "min": 0.0,
-          "pf": 9,
-          "pa": 17,
           "is_starter": false
         }
       ]
@@ -4611,22 +4130,9 @@
             "Molnár Marcell József",
             "Polster Attila"
           ],
-          "min": 35.0,
+          "min": 15.0,
           "pf": 38,
           "pa": 35,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergõ",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 15.0,
-          "pf": 11,
-          "pa": 17,
           "is_starter": false
         },
         {
@@ -4640,6 +4146,19 @@
           "min": 7.0,
           "pf": 18,
           "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hansági Kristóf Zalán",
+            "Heimann Gergõ",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 17,
           "is_starter": false
         },
         {
@@ -4743,19 +4262,6 @@
       "lineups": [
         {
           "players": [
-            "Hansági Kristóf Zalán",
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 15.0,
-          "pf": 5,
-          "pa": 16,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bogdán Dávid Bence",
             "Hegedüs Brúnó",
             "Heimann Gergő",
@@ -4765,19 +4271,6 @@
           "min": 12.0,
           "pf": 21,
           "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Pilinszki Máté",
-            "Polster Attila"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 5,
           "is_starter": false
         },
         {
@@ -4795,15 +4288,15 @@
         },
         {
           "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
+            "Hansági Kristóf Zalán",
             "Heimann Gergő",
             "Kiss Dominik",
-            "Molnár Marcell József"
+            "Molnár Marcell József",
+            "Polster Attila"
           ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 3,
+          "min": 5.0,
+          "pf": 5,
+          "pa": 16,
           "is_starter": false
         },
         {
@@ -4830,6 +4323,32 @@
           "min": 4.0,
           "pf": 3,
           "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Molnár Marcell József",
+            "Pilinszki Máté",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -4868,45 +4387,6 @@
       "lineups": [
         {
           "players": [
-            "Hegedüs Brúnó",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Reményi Levente",
-            "Vértes Zsombor"
-          ],
-          "min": 15.0,
-          "pf": 4,
-          "pa": 10,
-          "is_starter": true
-        },
-        {
-          "players": [
-            "Bene Máté",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 13.0,
-          "pf": 2,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Pilinszki Máté",
-            "Reményi Levente"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Kalmár Viktor Patrik",
             "Molnár Marcell József",
             "Polster Attila",
@@ -4917,6 +4397,19 @@
           "pf": 13,
           "pa": 15,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Reményi Levente",
+            "Vértes Zsombor"
+          ],
+          "min": 5.0,
+          "pf": 4,
+          "pa": 10,
+          "is_starter": true
         },
         {
           "players": [
@@ -4960,6 +4453,19 @@
         {
           "players": [
             "Bene Máté",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bene Máté",
             "Heimann Gergő",
             "Kalmár Viktor Patrik",
             "Pilinszki Máté",
@@ -4968,6 +4474,32 @@
           "min": 3.0,
           "pf": 7,
           "pa": 14,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Molnár Marcell József",
+            "Pilinszki Máté",
+            "Reményi Levente"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Polster Attila",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -5060,19 +4592,6 @@
           "pf": 0,
           "pa": 1,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Polster Attila",
-            "Vértes Zsombor"
-          ],
-          "min": 0.0,
-          "pf": 1,
-          "pa": 2,
-          "is_starter": false
         }
       ]
     },
@@ -5097,41 +4616,28 @@
       "lineups": [
         {
           "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergõ",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Reményi Levente"
+          ],
+          "min": 9.0,
+          "pf": 22,
+          "pa": 22,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bene Máté",
             "Hegedüs Brúnó",
             "Molnár Marcell József",
             "Polster Attila",
             "Vértes Zsombor"
           ],
-          "min": 16.0,
+          "min": 6.0,
           "pf": 12,
           "pa": 15,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bene Máté",
-            "Heimann Gergõ",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergõ",
-            "Molnár Marcell József",
-            "Reményi Levente",
-            "Vértes Zsombor"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 3,
           "is_starter": false
         },
         {
@@ -5175,19 +4681,6 @@
         },
         {
           "players": [
-            "Hegedüs Brúnó",
-            "Heimann Gergõ",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Reményi Levente"
-          ],
-          "min": 4.0,
-          "pf": 22,
-          "pa": 22,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Bene Máté",
             "Hegedüs Brúnó",
             "Heimann Gergõ",
@@ -5210,6 +4703,32 @@
           "min": 3.0,
           "pf": 7,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bene Máté",
+            "Heimann Gergõ",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hegedüs Brúnó",
+            "Heimann Gergõ",
+            "Molnár Marcell József",
+            "Reményi Levente",
+            "Vértes Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -5274,45 +4793,6 @@
       "lineups": [
         {
           "players": [
-            "Heimann Gergő",
-            "Kalmár Viktor Patrik",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Reményi Levente"
-          ],
-          "min": 19.0,
-          "pf": 13,
-          "pa": 21,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Heimann Gergő",
-            "Kiss Dominik",
-            "Molnár Marcell József",
-            "Polster Attila",
-            "Reményi Levente"
-          ],
-          "min": 12.0,
-          "pf": 1,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bene Máté",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Kalmár Viktor Patrik",
-            "Polster Attila"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Molnár Marcell József",
@@ -5323,6 +4803,19 @@
           "pf": 12,
           "pa": 18,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Heimann Gergő",
+            "Kalmár Viktor Patrik",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Reményi Levente"
+          ],
+          "min": 9.0,
+          "pf": 13,
+          "pa": 21,
+          "is_starter": false
         },
         {
           "players": [
@@ -5404,6 +4897,19 @@
         },
         {
           "players": [
+            "Heimann Gergő",
+            "Kiss Dominik",
+            "Molnár Marcell József",
+            "Polster Attila",
+            "Reményi Levente"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bene Máté",
             "Kalmár Viktor Patrik",
             "Molnár Marcell József",
@@ -5440,6 +4946,19 @@
           "pf": 1,
           "pa": 3,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Bene Máté",
+            "Hegedüs Brúnó",
+            "Heimann Gergő",
+            "Kalmár Viktor Patrik",
+            "Polster Attila"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
         }
       ]
     },
@@ -5470,35 +4989,9 @@
             "Polster Attila",
             "Reményi Levente"
           ],
-          "min": 16.0,
+          "min": 6.0,
           "pf": 16,
           "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Pilinszki Máté",
-            "Vértes Zsombor"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bogdán Dávid Bence",
-            "Hegedüs Brúnó",
-            "Heimann Gergő",
-            "Molnár Marcell József",
-            "Vértes Zsombor"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
           "is_starter": false
         },
         {
@@ -5568,6 +5061,19 @@
         },
         {
           "players": [
+            "Bogdán Dávid Bence",
+            "Heimann Gergő",
+            "Kalmár Viktor Patrik",
+            "Molnár Marcell József",
+            "Vértes Zsombor"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Hegedüs Brúnó",
             "Heimann Gergő",
             "Kalmár Viktor Patrik",
@@ -5673,14 +5179,14 @@
         {
           "players": [
             "Bogdán Dávid Bence",
+            "Hegedüs Brúnó",
             "Heimann Gergő",
-            "Kalmár Viktor Patrik",
             "Molnár Marcell József",
-            "Polster Attila"
+            "Vértes Zsombor"
           ],
           "min": 0.0,
           "pf": 0,
-          "pa": 3,
+          "pa": 2,
           "is_starter": false
         },
         {
@@ -5689,11 +5195,11 @@
             "Heimann Gergő",
             "Kalmár Viktor Patrik",
             "Molnár Marcell József",
-            "Vértes Zsombor"
+            "Polster Attila"
           ],
           "min": 0.0,
-          "pf": 2,
-          "pa": 8,
+          "pf": 0,
+          "pa": 3,
           "is_starter": false
         }
       ]
