@@ -28,34 +28,89 @@
 			matches.slice(0, Math.min(8, matches.length)).every((m) => selectedSet.has(m.gamecode))
 	);
 
-	type Agg = { players: string[]; min: number; pf: number; pa: number; gp: number; is_starter: boolean };
+	// Opponent context: how many opponent starters were on court during the stint
+	type OppFilter = 'all' | 'starters' | 'mixed' | 'bench';
+	let oppFilter = $state<OppFilter>('all');
+	const OPP_BUCKETS: Record<Exclude<OppFilter, 'all'>, number[]> = {
+		starters: [4, 5],
+		mixed: [3],
+		bench: [0, 1, 2]
+	};
+	const OPP_LABELS: Record<OppFilter, string> = {
+		all: 'Mind',
+		starters: 'Kezdők ellen (4–5)',
+		mixed: 'Vegyes (3)',
+		bench: 'Cserék ellen (0–2)'
+	};
+
+	type Agg = {
+		players: string[];
+		min: number;
+		pf: number;
+		pa: number;
+		gp: number;
+		is_starter: boolean;
+		oppMin: number; // minutes with known opponent context
+		oppStarterMin: number; // Σ (opponent starters × minutes) → weighted average
+	};
 
 	const aggregated = $derived.by((): Agg[] => {
 		const map = new Map<string, Agg>();
+		const buckets = oppFilter === 'all' ? null : OPP_BUCKETS[oppFilter];
 		for (const m of selectedMatches) {
 			for (const lu of m.lineups) {
+				let min = lu.min;
+				let pf = lu.pf;
+				let pa = lu.pa;
+				if (buckets) {
+					if (!lu.opp) continue;
+					min = pf = pa = 0;
+					for (const b of buckets) {
+						min += lu.opp[b][0];
+						pf += lu.opp[b][1];
+						pa += lu.opp[b][2];
+					}
+					if (min <= 0 && pf === 0 && pa === 0) continue;
+				}
+				let oppMin = 0;
+				let oppStarterMin = 0;
+				if (lu.opp) {
+					lu.opp.forEach(([bm], i) => {
+						if (buckets && !buckets.includes(i)) return;
+						oppMin += bm;
+						oppStarterMin += bm * i;
+					});
+				}
 				const key = lu.players.slice().sort().join('|');
 				const existing = map.get(key);
 				if (existing) {
-					existing.min += lu.min;
-					existing.pf += lu.pf;
-					existing.pa += lu.pa;
+					existing.min += min;
+					existing.pf += pf;
+					existing.pa += pa;
 					existing.gp += 1;
+					existing.oppMin += oppMin;
+					existing.oppStarterMin += oppStarterMin;
 					if (lu.is_starter) existing.is_starter = true;
 				} else {
 					map.set(key, {
 						players: lu.players,
-						min: lu.min,
-						pf: lu.pf,
-						pa: lu.pa,
+						min,
+						pf,
+						pa,
 						gp: 1,
-						is_starter: lu.is_starter
+						is_starter: lu.is_starter,
+						oppMin,
+						oppStarterMin
 					});
 				}
 			}
 		}
 		return Array.from(map.values()).sort((a, b) => b.min - a.min);
 	});
+
+	function avgOppStarters(lu: Agg): string {
+		return lu.oppMin > 0 ? (lu.oppStarterMin / lu.oppMin).toFixed(1) : '—';
+	}
 
 	const filteredLineups = $derived(aggregated.filter((a) => a.min >= minMinutes));
 	const topLineups = $derived(filteredLineups.slice(0, 12));
@@ -269,6 +324,25 @@
 	</div>
 {/if}
 
+<!-- Opponent context filter -->
+<div class="mb-3 flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-muted">
+	<span title="Hány ellenfél-kezdő volt a pályán az adott percekben">Ellenfél a pályán:</span>
+	{#each ['all', 'starters', 'mixed', 'bench'] as f (f)}
+		{@const key = f as OppFilter}
+		<button
+			type="button"
+			onclick={() => (oppFilter = key)}
+			class="rounded border px-2.5 py-1 font-semibold"
+			class:bg-accent={oppFilter === key}
+			class:text-fg={oppFilter === key}
+			class:border-accent={oppFilter === key}
+			class:border-border={oppFilter !== key}
+		>
+			{OPP_LABELS[key]}
+		</button>
+	{/each}
+</div>
+
 <!-- Min minutes filter -->
 <div class="mb-3 flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-muted">
 	<span>Minimum perc:</span>
@@ -294,7 +368,9 @@
 	</div>
 {:else if topLineups.length === 0}
 	<div class="rounded-lg border border-border bg-card p-6 text-center text-sm text-muted">
-		Nincs ötös {minMinutes}+ perccel a kiválasztott meccseken.
+		Nincs ötös {minMinutes}+ perccel a kiválasztott meccseken{oppFilter !== 'all'
+			? ` (${OPP_LABELS[oppFilter].toLowerCase()})`
+			: ''}.
 	</div>
 {:else}
 	<div class="overflow-x-auto rounded-lg border border-border">
@@ -308,6 +384,12 @@
 					<th class="w-12 px-2 py-2 text-right">PTS-</th>
 					<th class="w-12 px-2 py-2 text-right">NET</th>
 					<th class="w-16 px-2 py-2 text-right">NRTG/40</th>
+					<th
+						class="w-16 whitespace-nowrap px-2 py-2 text-right"
+						title="Átlagosan hány ellenfél-kezdő volt a pályán (percekkel súlyozva)"
+					>
+						Ø ELL. K
+					</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -343,6 +425,7 @@
 						>
 							{nrtg > 0 ? '+' : ''}{nrtg.toFixed(1)}
 						</td>
+						<td class="px-2 py-2 text-right font-mono text-muted">{avgOppStarters(lu)}</td>
 					</tr>
 				{/each}
 			</tbody>
@@ -352,5 +435,7 @@
 
 <p class="mt-4 text-xs text-muted">
 	[S5] = projected starting five (kezdőötös) · NRTG/40 = net pontkülönbség 40 perces vetítésben ·
-	Forrás: PBP események (csere + scoring) lineup-szintű attribúcióval
+	Ø ELL. K = átlagosan hány ellenfél-kezdő volt a pályán (0–5, percekkel súlyozva); a „Kezdők
+	ellen / Cserék ellen" szűrő csak az adott ellenfél-összetétel melletti perceket és pontokat
+	számolja · Forrás: PBP események (csere + scoring) lineup-szintű attribúcióval
 </p>

@@ -219,6 +219,8 @@ export interface LineupRow {
 	pf: number;
 	pa: number;
 	is_starter: boolean;
+	/** [min, pf, pa] indexed by opponent starters on court (0..5); null if unknown */
+	opp?: [number, number, number][] | null;
 }
 
 export interface LineupNRtgMatch {

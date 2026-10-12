@@ -24,7 +24,8 @@ Output: static/data/team-lineup-nrtg/{slug}.json
             "has_pbp": true,
             "starters": ["Bérces", "Farkas", ...],   // sorted canonical names
             "lineups": [
-                {"players": ["A","B","C","D","E"], "min": 12.5, "pf": 24, "pa": 18, "is_starter": true}
+                {"players": ["A","B","C","D","E"], "min": 12.5, "pf": 24, "pa": 18, "is_starter": true,
+                 "opp": [[min, pf, pa] × 6]}  // index = opponent starters on court (0..5), null if unknown
             ]
         }
     ]
@@ -190,25 +191,28 @@ def compute_match_lineups(
     starters = get_starters(conn, gamecode, team_side)
     if starters is None:
         return None
+    opp_side = "B" if team_side == "A" else "A"
+    opp_starters = get_starters(conn, gamecode, opp_side)
 
-    # Subs (deduped by event_seq)
+    # Subs for both teams (deduped by event_seq per team)
     sub_rows = conn.execute(
         """
-        SELECT event_seq, quarter, minute, player_in_name, player_out_name
+        SELECT event_seq, quarter, minute, team, player_in_name, player_out_name
         FROM substitutions
-        WHERE gamecode=? AND team=?
+        WHERE gamecode=?
         ORDER BY event_seq
         """,
-        (gamecode, team_side),
+        (gamecode,),
     ).fetchall()
-    seen_subs: set[int] = set()
+    seen_subs: set[tuple[int, str]] = set()
     sub_events = []
-    for seq, q, mn, in_n, out_n in sub_rows:
-        if seq in seen_subs or not (in_n and out_n):
+    for seq, q, mn, tm, in_n, out_n in sub_rows:
+        if (seq, tm) in seen_subs or not (in_n and out_n):
             continue
-        seen_subs.add(seq)
+        seen_subs.add((seq, tm))
         gt = mn or 0  # minute is cumulative game time (1-40, OT 41+)
-        sub_events.append((seq, "sub", gt, name_key(in_n), name_key(out_n), 0, None))
+        kind = "sub" if tm == team_side else "osub"
+        sub_events.append((seq, kind, gt, name_key(in_n), name_key(out_n), 0, None))
 
     # Scoring events for both teams
     score_rows = conn.execute(
@@ -241,24 +245,43 @@ def compute_match_lineups(
         end_time = 40 + (max_q - 4) * 5
 
     on_court = set(starters)
+    opp_on = set(opp_starters) if opp_starters else set()
     last_t = 0.0
-    stats: dict[frozenset, dict] = defaultdict(lambda: {"min": 0.0, "pf": 0, "pa": 0})
+    stats: dict[frozenset, dict] = defaultdict(
+        lambda: {"min": 0.0, "pf": 0, "pa": 0, "opp": [[0.0, 0, 0] for _ in range(6)]}
+    )
+
+    def opp_bucket() -> int:
+        return min(len(opp_on & opp_starters), 5) if opp_starters else 0
+
+    def add_time(t: float) -> None:
+        nonlocal last_t
+        dt = max(t - last_t, 0)
+        s = stats[frozenset(on_court)]
+        s["min"] += dt
+        s["opp"][opp_bucket()][0] += dt
+        last_t = max(last_t, t)
 
     for seq, typ, gt, in_k, out_k, pts, tm in all_ev:
-        lk = frozenset(on_court)
         if typ == "sub":
-            stats[lk]["min"] += max(gt - last_t, 0)
-            last_t = gt
+            add_time(gt)
             on_court.discard(out_k)
             on_court.add(in_k)
+        elif typ == "osub":
+            add_time(gt)
+            opp_on.discard(out_k)
+            opp_on.add(in_k)
         else:  # score
+            s = stats[frozenset(on_court)]
+            b = s["opp"][opp_bucket()]
             if tm == team_side:
-                stats[lk]["pf"] += pts
+                s["pf"] += pts
+                b[1] += pts
             else:
-                stats[lk]["pa"] += pts
+                s["pa"] += pts
+                b[2] += pts
 
-    lk = frozenset(on_court)
-    stats[lk]["min"] += max(end_time - last_t, 0)
+    add_time(end_time)
 
     # Filter degenerate lineups (less than 5 — happens with foul-outs / data gaps)
     rows = []
@@ -272,6 +295,9 @@ def compute_match_lineups(
             "min": round(s["min"], 1),
             "pf": s["pf"],
             "pa": s["pa"],
+            # [min, pf, pa] by number of opponent starters on court (index 0..5);
+            # None when the opponent's starting five is unknown.
+            "opp": [[round(m, 1), pf, pa] for m, pf, pa in s["opp"]] if opp_starters else None,
         })
     return starters, rows
 
@@ -361,6 +387,7 @@ def main() -> int:
                     "pf": r["pf"],
                     "pa": r["pa"],
                     "is_starter": r["players_keys"] == starter_keys,
+                    "opp": r["opp"],
                 })
             # Sort by minutes desc for stable output
             out_lineups.sort(key=lambda x: -x["min"])
