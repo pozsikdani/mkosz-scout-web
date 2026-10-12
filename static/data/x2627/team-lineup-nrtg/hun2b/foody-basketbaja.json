@@ -30,7 +30,7 @@
             "Orgona Gerg? Milán",
             "Szugyiczki Máté"
           ],
-          "min": 15.0,
+          "min": 20.0,
           "pf": 45,
           "pa": 38,
           "is_starter": true
@@ -43,7 +43,7 @@
             "Szugyiczki Máté",
             "Szücs Attila Zoltán"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 1,
           "pa": 4,
           "is_starter": false
@@ -56,7 +56,7 @@
             "Lakatos Máté",
             "Szugyiczki Máté"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 9,
           "pa": 9,
           "is_starter": false
@@ -69,7 +69,7 @@
             "Szugyiczki Máté",
             "Szücs Attila Zoltán"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 10,
           "pa": 4,
           "is_starter": false
@@ -177,45 +177,6 @@
           "players": [
             "Cseresznyés Csoma",
             "Goldring József Bence",
-            "Hódos Patrik",
-            "Simon Dávid",
-            "Szugyiczki Máté"
-          ],
-          "min": 13.0,
-          "pf": 9,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bohner Áron",
-            "Goldring József Bence",
-            "Hódos Patrik",
-            "Lakatos Máté",
-            "Simon Dávid"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bohner Áron",
-            "Goldring József Bence",
-            "Hódos Patrik",
-            "Lakatos Máté",
-            "Orgona Gerg? Milán"
-          ],
-          "min": 12.0,
-          "pf": 7,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Cseresznyés Csoma",
-            "Goldring József Bence",
             "Lakatos Máté",
             "Orgona Gerg? Milán",
             "Szugyiczki Máté"
@@ -229,6 +190,32 @@
           "players": [
             "Cseresznyés Csoma",
             "Goldring József Bence",
+            "Hódos Patrik",
+            "Simon Dávid",
+            "Szugyiczki Máté"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohner Áron",
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Simon Dávid"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cseresznyés Csoma",
+            "Goldring József Bence",
             "Lakatos Máté",
             "Orgona Gerg? Milán",
             "Simon Dávid"
@@ -236,6 +223,19 @@
           "min": 2.0,
           "pf": 7,
           "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohner Áron",
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -368,19 +368,6 @@
             "Goldring József Bence",
             "Hódos Patrik",
             "Lakatos Máté",
-            "Simon Dávid",
-            "Szugyiczki Máté"
-          ],
-          "min": 26.0,
-          "pf": 12,
-          "pa": 17,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Goldring József Bence",
-            "Hódos Patrik",
-            "Lakatos Máté",
             "Orgona Gerg? Milán",
             "Szugyiczki Máté"
           ],
@@ -391,13 +378,26 @@
         },
         {
           "players": [
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Simon Dávid",
+            "Szugyiczki Máté"
+          ],
+          "min": 6.0,
+          "pf": 12,
+          "pa": 17,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bohner Áron",
             "Goldring József Bence",
             "Hódos Patrik",
             "Lakatos Máté",
             "Simon Dávid"
           ],
-          "min": 14.0,
+          "min": 4.0,
           "pf": 12,
           "pa": 8,
           "is_starter": false
@@ -431,6 +431,19 @@
         {
           "players": [
             "Bohner Áron",
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán"
+          ],
+          "min": 2.0,
+          "pf": 11,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohner Áron",
             "Cseresznyés Csoma",
             "Hódos Patrik",
             "Lakatos Máté",
@@ -452,19 +465,6 @@
           "min": 1.0,
           "pf": 0,
           "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bohner Áron",
-            "Goldring József Bence",
-            "Hódos Patrik",
-            "Lakatos Máté",
-            "Orgona Gerg? Milán"
-          ],
-          "min": 0.0,
-          "pf": 11,
-          "pa": 8,
           "is_starter": false
         }
       ]

@@ -24,28 +24,15 @@
       "lineups": [
         {
           "players": [
-            "Erd?s Artúr",
             "Farkas Attila",
-            "Heimann Gerg?",
-            "Makkos Dávid",
-            "Pleesz Ádám"
-          ],
-          "min": 25.0,
-          "pf": 6,
-          "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erd?s Artúr",
-            "Farkas Attila",
-            "Heimann Gerg?",
+            "Gáspár Mátyás",
+            "Homoki Donát László",
             "Plézer Gábor",
             "Zöldi Péter András"
           ],
-          "min": 10.0,
-          "pf": 3,
-          "pa": 0,
+          "min": 7.0,
+          "pf": 15,
+          "pa": 18,
           "is_starter": false
         },
         {
@@ -63,19 +50,6 @@
         },
         {
           "players": [
-            "Farkas Attila",
-            "Gáspár Mátyás",
-            "Homoki Donát László",
-            "Plézer Gábor",
-            "Zöldi Péter András"
-          ],
-          "min": 6.0,
-          "pf": 15,
-          "pa": 18,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Erd?s Artúr",
             "Farkas Attila",
             "Homoki Donát László",
@@ -85,6 +59,19 @@
           "min": 6.0,
           "pf": 19,
           "pa": 22,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Heimann Gerg?",
+            "Makkos Dávid",
+            "Pleesz Ádám"
+          ],
+          "min": 5.0,
+          "pf": 6,
+          "pa": 10,
           "is_starter": false
         },
         {
@@ -177,6 +164,19 @@
           "pf": 2,
           "pa": 0,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Erd?s Artúr",
+            "Farkas Attila",
+            "Heimann Gerg?",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
         }
       ]
     },
@@ -216,45 +216,6 @@
           "players": [
             "Erdős Artúr",
             "Farkas Attila",
-            "Makkos Dávid",
-            "Pleesz Ádám",
-            "Zöldi Péter András"
-          ],
-          "min": 13.0,
-          "pf": 7,
-          "pa": 13,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdős Artúr",
-            "Farkas Attila",
-            "Makkos Dávid",
-            "Pleesz Ádám",
-            "Plézer Gábor"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdős Artúr",
-            "Kis Botond",
-            "Pleesz Ádám",
-            "Plézer Gábor",
-            "Zöldi Péter András"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Erdős Artúr",
-            "Farkas Attila",
             "Heimann Gerg?",
             "Homoki Donát László",
             "Plézer Gábor"
@@ -262,6 +223,19 @@
           "min": 3.0,
           "pf": 5,
           "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erdős Artúr",
+            "Farkas Attila",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 13,
           "is_starter": false
         },
         {
@@ -359,6 +333,19 @@
           "players": [
             "Erdős Artúr",
             "Farkas Attila",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Plézer Gábor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erdős Artúr",
+            "Farkas Attila",
             "Heimann Gerg?",
             "Homoki Donát László",
             "Makkos Dávid"
@@ -378,6 +365,19 @@
           ],
           "min": 1.0,
           "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Erdős Artúr",
+            "Kis Botond",
+            "Pleesz Ádám",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 0,
           "pa": 2,
           "is_starter": false
         },

@@ -25,32 +25,6 @@
         {
           "players": [
             "Fehér Péter József",
-            "Gera Ferenc",
-            "György Julian",
-            "Mészáros Bence",
-            "Okoh Victor Kelechi"
-          ],
-          "min": 16.0,
-          "pf": 15,
-          "pa": 16,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Béres Benedek",
-            "Fehér Péter József",
-            "Gera Ferenc",
-            "György Julian",
-            "Lakosa Ákos"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fehér Péter József",
             "György Julian",
             "Lakosa Ákos",
             "Mészáros Bence",
@@ -59,19 +33,6 @@
           "min": 10.0,
           "pf": 14,
           "pa": 10,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Béres Benedek",
-            "Fehér Péter József",
-            "György Julian",
-            "Mészáros Bence",
-            "Okoh Victor Kelechi"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 1,
           "is_starter": false
         },
         {
@@ -86,6 +47,32 @@
           "pf": 9,
           "pa": 10,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 6.0,
+          "pf": 15,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 6.0,
+          "pf": 13,
+          "pa": 22,
+          "is_starter": false
         },
         {
           "players": [
@@ -115,15 +102,28 @@
         },
         {
           "players": [
+            "Béres Benedek",
             "Fehér Péter József",
             "Gera Ferenc",
             "György Julian",
-            "Lakosa Ákos",
-            "Mészáros Bence"
+            "Lakosa Ákos"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Fehér Péter József",
+            "György Julian",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
           ],
           "min": 0.0,
-          "pf": 13,
-          "pa": 22,
+          "pf": 0,
+          "pa": 1,
           "is_starter": false
         }
       ]
@@ -149,45 +149,6 @@
       "lineups": [
         {
           "players": [
-            "Béres Benedek",
-            "Fehér Péter József",
-            "Mészáros Bence",
-            "Okoh Victor Kelechi",
-            "Szokonya Gerg?"
-          ],
-          "min": 13.0,
-          "pf": 6,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "György Julian",
-            "Kocsis Attila",
-            "Lakosa Ákos",
-            "Mészáros Bence",
-            "Okoh Victor Kelechi"
-          ],
-          "min": 13.0,
-          "pf": 3,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Béres Benedek",
-            "Lakosa Ákos",
-            "Mészáros Bence",
-            "Okoh Victor Kelechi",
-            "Szokonya Gerg?"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Csorvási Milán",
             "Fehér Péter József",
             "Gera Ferenc",
@@ -202,6 +163,32 @@
         {
           "players": [
             "Béres Benedek",
+            "Fehér Péter József",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi",
+            "Szokonya Gerg?"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "György Julian",
+            "Kocsis Attila",
+            "Lakosa Ákos",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Béres Benedek",
             "Csorvási Milán",
             "Fehér Péter József",
             "György Julian",
@@ -210,6 +197,19 @@
           "min": 3.0,
           "pf": 2,
           "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csorvási Milán",
+            "Fehér Péter József",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 9,
           "is_starter": false
         },
         {
@@ -236,6 +236,19 @@
           "min": 2.0,
           "pf": 5,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Lakosa Ákos",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi",
+            "Szokonya Gerg?"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -380,19 +393,6 @@
           "pf": 2,
           "pa": 0,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Csorvási Milán",
-            "Fehér Péter József",
-            "György Julian",
-            "Lakosa Ákos",
-            "Mészáros Bence"
-          ],
-          "min": 0.0,
-          "pf": 2,
-          "pa": 9,
-          "is_starter": false
         }
       ]
     },
@@ -430,41 +430,15 @@
         },
         {
           "players": [
-            "Béres Benedek",
-            "Gera Ferenc",
-            "György Julian",
-            "Molnár Bence",
-            "Okoh Victor Kelechi"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
+            "Csorvási Milán",
             "Fehér Péter József",
             "Gera Ferenc",
             "György Julian",
-            "Mészáros Bence",
-            "Okoh Victor Kelechi"
+            "Lakosa Ákos"
           ],
-          "min": 12.0,
-          "pf": 8,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Fehér Péter József",
-            "György Julian",
-            "Lakosa Ákos",
-            "Mészáros Bence",
-            "Okoh Victor Kelechi"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 3,
+          "min": 7.0,
+          "pf": 24,
+          "pa": 20,
           "is_starter": false
         },
         {
@@ -508,6 +482,19 @@
         },
         {
           "players": [
+            "Béres Benedek",
+            "Gera Ferenc",
+            "György Julian",
+            "Molnár Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Csorvási Milán",
             "Lakosa Ákos",
             "Lintner Kristóf Barnabás",
@@ -534,6 +521,32 @@
         },
         {
           "players": [
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fehér Péter József",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Béres Benedek",
             "Gera Ferenc",
             "György Julian",
@@ -543,19 +556,6 @@
           "min": 1.0,
           "pf": 3,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Csorvási Milán",
-            "Fehér Péter József",
-            "Gera Ferenc",
-            "György Julian",
-            "Lakosa Ákos"
-          ],
-          "min": 0.0,
-          "pf": 24,
-          "pa": 20,
           "is_starter": false
         }
       ]

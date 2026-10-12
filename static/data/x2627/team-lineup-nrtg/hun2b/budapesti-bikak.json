@@ -25,45 +25,6 @@
         {
           "players": [
             "Bohunicky Olivér",
-            "Bucskó Zalán",
-            "Lajsz Gergely",
-            "Szabó Dániel",
-            "Szántó Dániel"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Baki Sándor",
-            "Csapai Péter Zsolt",
-            "Lajsz Gergely",
-            "Ménesi Miklós",
-            "Szántó Dániel"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Baki Sándor",
-            "Bucskó Zalán",
-            "Lajsz Gergely",
-            "Pleesz Gerg?",
-            "Szántó Dániel"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bohunicky Olivér",
             "Csapai Péter Zsolt",
             "Lajsz Gergely",
             "Ménesi Miklós",
@@ -73,6 +34,19 @@
           "pf": 15,
           "pa": 18,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Lajsz Gergely",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 4,
+          "is_starter": false
         },
         {
           "players": [
@@ -115,6 +89,19 @@
         },
         {
           "players": [
+            "Baki Sándor",
+            "Csapai Péter Zsolt",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szántó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Bohunicky Olivér",
             "Csapai Péter Zsolt",
             "Horvat Olivér Márk",
@@ -155,6 +142,19 @@
         {
           "players": [
             "Baki Sándor",
+            "Bucskó Zalán",
+            "Lajsz Gergely",
+            "Pleesz Gerg?",
+            "Szántó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Baki Sándor",
             "Bohunicky Olivér",
             "Bucskó Zalán",
             "Lajsz Gergely",
@@ -199,7 +199,7 @@
             "Ménesi Miklós",
             "Pleesz Gerg?"
           ],
-          "min": 0.0,
+          "min": 1.0,
           "pf": 2,
           "pa": 0,
           "is_starter": false
@@ -225,45 +225,6 @@
         "Szántó Dániel"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bohunicky Olivér",
-            "Horvat Olivér Márk",
-            "Lajsz Gergely",
-            "Ménesi Miklós",
-            "Szántó Dániel"
-          ],
-          "min": 12.0,
-          "pf": 4,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Baki Sándor",
-            "Bohunicky Olivér",
-            "Lajsz Gergely",
-            "Ménesi Miklós",
-            "Pleesz Gerg?"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bucskó Zalán",
-            "Novák Patrik",
-            "Pleesz Gerg?",
-            "Szabó Dániel",
-            "Szántó Dániel"
-          ],
-          "min": 10.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
         {
           "players": [
             "Bohunicky Olivér",
@@ -387,6 +348,19 @@
             "Horvat Olivér Márk",
             "Lajsz Gergely",
             "Ménesi Miklós",
+            "Szántó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Horvat Olivér Márk",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
             "Szabó Dániel"
           ],
           "min": 2.0,
@@ -480,9 +454,22 @@
             "Pleesz Gerg?",
             "Szántó Dániel"
           ],
-          "min": 0.0,
+          "min": 1.0,
           "pf": 6,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bucskó Zalán",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 2,
           "is_starter": false
         }
       ]
@@ -508,26 +495,13 @@
       "lineups": [
         {
           "players": [
-            "Baki Sándor",
-            "Bohunicky Olivér",
-            "Bucskó Zalán",
-            "Horvat Olivér Márk",
-            "Novák Patrik"
-          ],
-          "min": 28.0,
-          "pf": 10,
-          "pa": 15,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Lajsz Gergely",
             "Ménesi Miklós",
             "Pleesz Gerg?",
             "Szabó Dániel",
             "Szántó Dániel"
           ],
-          "min": 16.0,
+          "min": 20.0,
           "pf": 31,
           "pa": 28,
           "is_starter": true
@@ -535,14 +509,14 @@
         {
           "players": [
             "Baki Sándor",
+            "Bohunicky Olivér",
             "Bucskó Zalán",
-            "Lajsz Gergely",
-            "Novák Patrik",
-            "Szántó Dániel"
+            "Horvat Olivér Márk",
+            "Novák Patrik"
           ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
+          "min": 8.0,
+          "pf": 10,
+          "pa": 15,
           "is_starter": false
         },
         {

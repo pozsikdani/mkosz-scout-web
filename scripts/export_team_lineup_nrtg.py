@@ -207,7 +207,7 @@ def compute_match_lineups(
         if seq in seen_subs or not (in_n and out_n):
             continue
         seen_subs.add(seq)
-        gt = (q - 1) * 10 + (mn or 0)
+        gt = mn or 0  # minute is cumulative game time (1-40, OT 41+)
         sub_events.append((seq, "sub", gt, name_key(in_n), name_key(out_n), 0, None))
 
     # Scoring events for both teams
@@ -222,7 +222,7 @@ def compute_match_lineups(
     ).fetchall()
     score_events = []
     for seq, q, mn, tm, pts in score_rows:
-        gt = (q - 1) * 10 + (mn or 0)
+        gt = mn or 0  # minute is cumulative game time (1-40, OT 41+)
         score_events.append((seq, "score", gt, None, None, pts, tm))
 
     all_ev = sorted(sub_events + score_events, key=lambda x: x[0])
@@ -236,8 +236,7 @@ def compute_match_lineups(
         ).fetchone()
         if max_q_row and max_q_row[0]:
             max_q = max(4, int(max_q_row[0]))
-    end_time = max_q * 10  # OT periods are 5 min, but treat as 10 for simplicity? No - 5 min
-    # Actually OT = 5 min; 4 reg + n OT
+    end_time = 40
     if max_q > 4:
         end_time = 40 + (max_q - 4) * 5
 

@@ -24,19 +24,6 @@
       "lineups": [
         {
           "players": [
-            "Aradi Atilla",
-            "Czermann Máté",
-            "Kertész Dávid",
-            "Szita Márton Tibor",
-            "Werner Viktor"
-          ],
-          "min": 13.0,
-          "pf": 4,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Balogh Szilárd",
             "Bunos Oleksandr",
             "Csaba György",
@@ -47,32 +34,6 @@
           "pf": 23,
           "pa": 21,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Csaba György",
-            "Czermann Máté",
-            "Kertész Dávid",
-            "Molnár Mátyás",
-            "Szita Márton Tibor"
-          ],
-          "min": 12.0,
-          "pf": 5,
-          "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balogh Szilárd",
-            "Bunos Oleksandr",
-            "Csaba György",
-            "Czermann Máté",
-            "Dordevic Nemanja"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
         },
         {
           "players": [
@@ -98,6 +59,19 @@
           "min": 3.0,
           "pf": 13,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Aradi Atilla",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Szita Márton Tibor",
+            "Werner Viktor"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 7,
           "is_starter": false
         },
         {
@@ -154,6 +128,32 @@
         },
         {
           "players": [
+            "Csaba György",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Szita Márton Tibor"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Csaba György",
+            "Czermann Máté",
+            "Dordevic Nemanja"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Balogh Szilárd",
             "Czermann Máté",
             "Dordevic Nemanja",
@@ -206,6 +206,19 @@
         },
         {
           "players": [
+            "Aradi Atilla",
+            "Bodonyi Barnabás",
+            "Czermann Máté",
+            "Hadnagy Csanád",
+            "Szita Márton Tibor"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Czermann Máté",
             "Dordevic Nemanja",
             "Kertész Dávid",
@@ -228,19 +241,6 @@
           "min": 0.0,
           "pf": 1,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Aradi Atilla",
-            "Bodonyi Barnabás",
-            "Czermann Máté",
-            "Hadnagy Csanád",
-            "Szita Márton Tibor"
-          ],
-          "min": 0.0,
-          "pf": 2,
-          "pa": 5,
           "is_starter": false
         }
       ]
@@ -272,23 +272,10 @@
             "Dordevic Nemanja",
             "Molnár Mátyás"
           ],
-          "min": 33.0,
+          "min": 13.0,
           "pf": 14,
           "pa": 43,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Bunos Oleksandr",
-            "Czermann Máté",
-            "Dordevic Nemanja",
-            "Kertész Dávid",
-            "Molnár Mátyás"
-          ],
-          "min": 11.0,
-          "pf": 2,
-          "pa": 2,
-          "is_starter": false
         },
         {
           "players": [
@@ -435,6 +422,19 @@
         },
         {
           "players": [
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Balogh Szilárd",
             "Czermann Máté",
             "Dordevic Nemanja",
@@ -487,6 +487,19 @@
         },
         {
           "players": [
+            "Aradi Atilla",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Szita Márton Tibor",
+            "Werner Viktor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Balogh Szilárd",
             "Csaba György",
             "Czermann Máté",
@@ -496,19 +509,6 @@
           "min": 0.0,
           "pf": 0,
           "pa": 2,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Aradi Atilla",
-            "Czermann Máté",
-            "Kertész Dávid",
-            "Szita Márton Tibor",
-            "Werner Viktor"
-          ],
-          "min": 0.0,
-          "pf": 3,
-          "pa": 5,
           "is_starter": false
         }
       ]
@@ -532,45 +532,6 @@
         "Werner Viktor"
       ],
       "lineups": [
-        {
-          "players": [
-            "Bunos Oleksandr",
-            "Csaba György",
-            "Kertész Dávid",
-            "Molnár Mátyás",
-            "Szita Márton Tibor"
-          ],
-          "min": 10.0,
-          "pf": 2,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balogh Szilárd",
-            "Csaba György",
-            "Kertész Dávid",
-            "Szita Márton Tibor",
-            "Werner Viktor"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 1,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Balogh Szilárd",
-            "Bunos Oleksandr",
-            "Czermann Máté",
-            "Dordevic Nemanja",
-            "Molnár Mátyás"
-          ],
-          "min": 10.0,
-          "pf": 3,
-          "pa": 2,
-          "is_starter": false
-        },
         {
           "players": [
             "Balogh Szilárd",
@@ -846,6 +807,19 @@
         },
         {
           "players": [
+            "Bunos Oleksandr",
+            "Csaba György",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Szita Márton Tibor"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Balogh Szilárd",
             "Czermann Máté",
             "Kertész Dávid",
@@ -868,6 +842,32 @@
           "min": 0.0,
           "pf": 3,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Csaba György",
+            "Kertész Dávid",
+            "Szita Márton Tibor",
+            "Werner Viktor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Molnár Mátyás"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 2,
           "is_starter": false
         },
         {

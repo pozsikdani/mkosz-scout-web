@@ -24,45 +24,6 @@
       "lineups": [
         {
           "players": [
-            "Bakon Csanád",
-            "Gadácsi Dávid",
-            "Góbi Marcell",
-            "Sólyom László",
-            "Sövegjártó Ábel György"
-          ],
-          "min": 12.0,
-          "pf": 10,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bakon Csanád",
-            "Dani Balázs Dominik",
-            "Gadácsi Dávid",
-            "Góbi Marcell",
-            "Sólyom László"
-          ],
-          "min": 11.0,
-          "pf": 4,
-          "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bakon Csanád",
-            "Gadácsi Dávid",
-            "Gaál Bence",
-            "Góbi Marcell",
-            "Sövegjártó Ábel György"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Gadácsi Dávid",
             "Góbi Marcell",
             "Sólyom László",
@@ -137,6 +98,19 @@
           "min": 2.0,
           "pf": 6,
           "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Gadácsi Dávid",
+            "Góbi Marcell",
+            "Sólyom László",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 0,
           "is_starter": false
         },
         {
@@ -233,6 +207,19 @@
         {
           "players": [
             "Bakon Csanád",
+            "Dani Balázs Dominik",
+            "Gadácsi Dávid",
+            "Góbi Marcell",
+            "Sólyom László"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bakon Csanád",
             "Gaál Bence",
             "Rácz Gábor",
             "Sólyom László",
@@ -254,6 +241,19 @@
           "min": 1.0,
           "pf": 2,
           "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Csicsely Márton",
+            "Dani Balázs Dominik",
+            "Gombos Bálint Zalán",
+            "Karácsonyi Dániel",
+            "Rácz Gábor"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 3,
           "is_starter": false
         },
         {
@@ -280,19 +280,6 @@
           "min": 0.0,
           "pf": 1,
           "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Csicsely Márton",
-            "Dani Balázs Dominik",
-            "Gombos Bálint Zalán",
-            "Karácsonyi Dániel",
-            "Rácz Gábor"
-          ],
-          "min": 0.0,
-          "pf": 1,
-          "pa": 3,
           "is_starter": false
         }
       ]
@@ -324,35 +311,9 @@
             "Sólyom László",
             "Tóth Dániel"
           ],
-          "min": 19.0,
+          "min": 9.0,
           "pf": 14,
           "pa": 19,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bakon Csanád",
-            "Gombos Bálint Zalán",
-            "Góbi Marcell",
-            "Sólyom László",
-            "Tóth Dániel"
-          ],
-          "min": 17.0,
-          "pf": 21,
-          "pa": 20,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Bakon Csanád",
-            "Gaál Bence",
-            "Karácsonyi Dániel",
-            "Rácz Gábor",
-            "Sólyom László"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 8,
           "is_starter": false
         },
         {
@@ -366,6 +327,19 @@
           "min": 8.0,
           "pf": 22,
           "pa": 13,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Gombos Bálint Zalán",
+            "Góbi Marcell",
+            "Sólyom László",
+            "Tóth Dániel"
+          ],
+          "min": 7.0,
+          "pf": 21,
+          "pa": 20,
           "is_starter": false
         },
         {
@@ -392,6 +366,19 @@
           "min": 2.0,
           "pf": 7,
           "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Gaál Bence",
+            "Karácsonyi Dániel",
+            "Rácz Gábor",
+            "Sólyom László"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 8,
           "is_starter": false
         },
         {

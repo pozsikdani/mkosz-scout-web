@@ -30,36 +30,10 @@
             "Német Ákos",
             "Szicsák Bence"
           ],
-          "min": 21.0,
+          "min": 11.0,
           "pf": 17,
           "pa": 24,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Botka Botond",
-            "Gazibegovic Vanja",
-            "Kiss Kolos",
-            "Német Ákos",
-            "Szicsák Bence"
-          ],
-          "min": 17.0,
-          "pf": 16,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Botka Botond",
-            "Cvijin Patrik",
-            "Gazibegovic Vanja",
-            "Német Ákos",
-            "Vágner Áron"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 2,
-          "is_starter": false
         },
         {
           "players": [
@@ -72,6 +46,19 @@
           "min": 7.0,
           "pf": 12,
           "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 7.0,
+          "pf": 16,
+          "pa": 8,
           "is_starter": false
         },
         {
@@ -190,6 +177,19 @@
           "pf": 1,
           "pa": 0,
           "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Német Ákos",
+            "Vágner Áron"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
         }
       ]
     },
@@ -220,35 +220,9 @@
             "Német Ákos",
             "Vanja Gazibegovic"
           ],
-          "min": 20.0,
+          "min": 10.0,
           "pf": 19,
           "pa": 14,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Botka Botond",
-            "Kiss Kolos",
-            "Molnár Bálint",
-            "Német Ákos",
-            "Vanja Gazibegovic"
-          ],
-          "min": 12.0,
-          "pf": 3,
-          "pa": 5,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Botka Botond",
-            "Cvijin Patrik",
-            "Kerekes Hunor Ákos",
-            "Kiss Kolos",
-            "Német Ákos"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 3,
           "is_starter": false
         },
         {
@@ -359,6 +333,19 @@
           "players": [
             "Botka Botond",
             "Kiss Kolos",
+            "Molnár Bálint",
+            "Német Ákos",
+            "Vanja Gazibegovic"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Kiss Kolos",
             "Szicsák Bence",
             "Vanja Gazibegovic",
             "Vágner Áron"
@@ -367,6 +354,19 @@
           "pf": 2,
           "pa": 2,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos",
+            "Német Ákos"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
         },
         {
           "players": [

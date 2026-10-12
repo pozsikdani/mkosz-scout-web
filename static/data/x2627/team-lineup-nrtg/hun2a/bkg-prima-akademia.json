@@ -24,32 +24,6 @@
       "lineups": [
         {
           "players": [
-            "Dokmanovic Milán",
-            "Kovács Leonárd",
-            "Nagy Benedek Ágost",
-            "Nagy Botond Ágoston",
-            "Szanyi Róbert"
-          ],
-          "min": 12.0,
-          "pf": 2,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Kovács Leonárd",
-            "Nagy Benedek Ágost",
-            "Nagy Botond Ágoston",
-            "Reiber Dean Thomas",
-            "Szanyi Róbert"
-          ],
-          "min": 12.0,
-          "pf": 6,
-          "pa": 6,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Csécsei Gergő",
             "Nagy Benedek Ágost",
             "Nagy Botond Ágoston",
@@ -60,19 +34,6 @@
           "pf": 25,
           "pa": 20,
           "is_starter": true
-        },
-        {
-          "players": [
-            "Büki Lóránt",
-            "Csécsei Gergő",
-            "Nagy Benedek Ágost",
-            "Nagy Botond Ágoston",
-            "Reiber Dean Thomas"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
         },
         {
           "players": [
@@ -116,6 +77,45 @@
         {
           "players": [
             "Büki Lóránt",
+            "Csécsei Gergő",
+            "Nagy Benedek Ágost",
+            "Reiber Dean Thomas",
+            "Szanyi Róbert"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Dokmanovic Milán",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Szanyi Róbert"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas",
+            "Szanyi Róbert"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Büki Lóránt",
             "Demeter Levente",
             "Nagy Benedek Ágost",
             "Nagy Botond Ágoston",
@@ -151,19 +151,6 @@
           "pf": 0,
           "pa": 6,
           "is_starter": false
-        },
-        {
-          "players": [
-            "Büki Lóránt",
-            "Csécsei Gergő",
-            "Nagy Benedek Ágost",
-            "Reiber Dean Thomas",
-            "Szanyi Róbert"
-          ],
-          "min": 0.0,
-          "pf": 11,
-          "pa": 12,
-          "is_starter": false
         }
       ]
     },
@@ -188,19 +175,6 @@
       "lineups": [
         {
           "players": [
-            "Csécsei Gergő",
-            "Dokmanovic Milán",
-            "Nagy Benedek Ágost",
-            "Nagy Botond Ágoston",
-            "Reiber Dean Thomas"
-          ],
-          "min": 19.0,
-          "pf": 18,
-          "pa": 16,
-          "is_starter": false
-        },
-        {
-          "players": [
             "Galambos Árpád",
             "Kovács Leonárd",
             "Nagy Benedek Ágost",
@@ -214,28 +188,28 @@
         },
         {
           "players": [
-            "Büki Lóránt",
             "Csécsei Gergő",
+            "Dokmanovic Milán",
             "Nagy Benedek Ágost",
             "Nagy Botond Ágoston",
             "Reiber Dean Thomas"
           ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
+          "min": 9.0,
+          "pf": 18,
+          "pa": 16,
           "is_starter": false
         },
         {
           "players": [
-            "Büki Lóránt",
             "Dokmanovic Milán",
             "Kovács Leonárd",
             "Nagy Benedek Ágost",
-            "Nagy Botond Ágoston"
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
           ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
+          "min": 5.0,
+          "pf": 8,
+          "pa": 6,
           "is_starter": false
         },
         {
@@ -275,19 +249,6 @@
           "min": 3.0,
           "pf": 2,
           "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Dokmanovic Milán",
-            "Kovács Leonárd",
-            "Nagy Benedek Ágost",
-            "Nagy Botond Ágoston",
-            "Reiber Dean Thomas"
-          ],
-          "min": 2.0,
-          "pf": 8,
-          "pa": 6,
           "is_starter": false
         },
         {

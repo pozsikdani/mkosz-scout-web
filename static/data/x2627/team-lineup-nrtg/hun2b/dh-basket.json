@@ -25,45 +25,6 @@
         {
           "players": [
             "Herendic Dominik",
-            "Joó Tamás",
-            "Pafféri Péter",
-            "Tóth Barnabás",
-            "Váits Olivér"
-          ],
-          "min": 14.0,
-          "pf": 11,
-          "pa": 7,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Balázs Dániel",
-            "Gyimes Áron",
-            "Joó Tamás",
-            "Pafféri Csaba",
-            "Váits Olivér"
-          ],
-          "min": 11.0,
-          "pf": 0,
-          "pa": 8,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Balázs Dániel",
-            "Herendic Dominik",
-            "Joó Tamás",
-            "Pafféri Csaba",
-            "Simonics Olivér Márk"
-          ],
-          "min": 11.0,
-          "pf": 3,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Herendic Dominik",
             "Olasz Ádám Zsolt",
             "Pafféri Péter",
             "Tóth Barnabás",
@@ -86,6 +47,19 @@
           "pf": 15,
           "pa": 16,
           "is_starter": true
+        },
+        {
+          "players": [
+            "Herendic Dominik",
+            "Joó Tamás",
+            "Pafféri Péter",
+            "Tóth Barnabás",
+            "Váits Olivér"
+          ],
+          "min": 4.0,
+          "pf": 11,
+          "pa": 7,
+          "is_starter": false
         },
         {
           "players": [
@@ -207,6 +181,32 @@
         {
           "players": [
             "Farkas Balázs Dániel",
+            "Gyimes Áron",
+            "Joó Tamás",
+            "Pafféri Csaba",
+            "Váits Olivér"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Balázs Dániel",
+            "Herendic Dominik",
+            "Joó Tamás",
+            "Pafféri Csaba",
+            "Simonics Olivér Márk"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Farkas Balázs Dániel",
             "Hajdu Gergely",
             "Olasz Ádám Zsolt",
             "Pafféri Csaba",
@@ -215,6 +215,19 @@
           "min": 1.0,
           "pf": 0,
           "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hajdu Gergely",
+            "Joó Tamás",
+            "Pafféri Csaba",
+            "Takács Levente",
+            "Tóth Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
           "is_starter": false
         },
         {
@@ -254,19 +267,6 @@
           "min": 0.0,
           "pf": 0,
           "pa": 3,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Hajdu Gergely",
-            "Joó Tamás",
-            "Pafféri Csaba",
-            "Takács Levente",
-            "Tóth Barnabás"
-          ],
-          "min": 0.0,
-          "pf": 3,
-          "pa": 1,
           "is_starter": false
         }
       ]
@@ -290,45 +290,6 @@
         "Simonics Levente Dávid"
       ],
       "lineups": [
-        {
-          "players": [
-            "Gyimes Áron",
-            "Olasz Ádám Zsolt",
-            "Pafféri Csaba",
-            "Pafféri Péter",
-            "Váits Olivér"
-          ],
-          "min": 14.0,
-          "pf": 9,
-          "pa": 9,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Joó Tamás",
-            "Pafféri Péter",
-            "Simonics Olivér Márk",
-            "Tóth Barnabás",
-            "Váits Olivér"
-          ],
-          "min": 12.0,
-          "pf": 0,
-          "pa": 4,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Farkas Balázs Dániel",
-            "Hajdu Gergely",
-            "Joó Tamás",
-            "Pafféri Péter",
-            "Váits Olivér"
-          ],
-          "min": 10.0,
-          "pf": 0,
-          "pa": 0,
-          "is_starter": false
-        },
         {
           "players": [
             "Farkas Balázs Dániel",
@@ -359,6 +320,19 @@
           "players": [
             "Gyimes Áron",
             "Olasz Ádám Zsolt",
+            "Pafféri Csaba",
+            "Pafféri Péter",
+            "Váits Olivér"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Gyimes Áron",
+            "Olasz Ádám Zsolt",
             "Pafféri Péter",
             "Tóth Barnabás",
             "Váits Olivér"
@@ -379,6 +353,19 @@
           "min": 3.0,
           "pf": 5,
           "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Joó Tamás",
+            "Pafféri Péter",
+            "Simonics Olivér Márk",
+            "Tóth Barnabás",
+            "Váits Olivér"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
           "is_starter": false
         },
         {
@@ -552,6 +539,19 @@
         },
         {
           "players": [
+            "Olasz Ádám Zsolt",
+            "Pafféri Csaba",
+            "Pafféri Péter",
+            "Simonics Olivér Márk",
+            "Váits Olivér"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
             "Gyimes Áron",
             "Joó Tamás",
             "Olasz Ádám Zsolt",
@@ -586,19 +586,6 @@
           ],
           "min": 0.0,
           "pf": 1,
-          "pa": 0,
-          "is_starter": false
-        },
-        {
-          "players": [
-            "Olasz Ádám Zsolt",
-            "Pafféri Csaba",
-            "Pafféri Péter",
-            "Simonics Olivér Márk",
-            "Váits Olivér"
-          ],
-          "min": 0.0,
-          "pf": 3,
           "pa": 0,
           "is_starter": false
         }
