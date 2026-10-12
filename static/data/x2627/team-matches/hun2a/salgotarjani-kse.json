@@ -45,10 +45,27 @@
       "time": "17:30",
       "home": false,
       "opponent": "ÚJBUDA MAFC",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 87,
+      "their_score": 83,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 26,
+          "their": 17
+        },
+        {
+          "our": 17,
+          "their": 14
+        },
+        {
+          "our": 17,
+          "their": 26
+        },
+        {
+          "our": 27,
+          "their": 26
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },

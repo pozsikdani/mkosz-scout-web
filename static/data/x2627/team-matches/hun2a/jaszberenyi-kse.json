@@ -78,10 +78,27 @@
       "time": "17:00",
       "home": false,
       "opponent": "PEKA BAU-MEAFC WOLVES",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 82,
+      "their_score": 86,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 22,
+          "their": 19
+        },
+        {
+          "our": 14,
+          "their": 23
+        },
+        {
+          "our": 32,
+          "their": 23
+        },
+        {
+          "our": 14,
+          "their": 21
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },

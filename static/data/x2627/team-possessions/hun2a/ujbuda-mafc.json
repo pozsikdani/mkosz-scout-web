@@ -1,7 +1,7 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135743",
@@ -56,6 +56,34 @@
         "fga": 65,
         "fta": 34,
         "oreb": 9,
+        "tov_total": 14
+      }
+    },
+    {
+      "gamecode": "hun2a_135775",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": true,
+      "result": "L",
+      "our_score": 83,
+      "their_score": 87,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 19,
+        "mid_m": 2,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 18,
+        "close_x": 11,
+        "mid_x": 4,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 69,
+        "fta": 36,
+        "oreb": 17,
         "tov_total": 14
       }
     }

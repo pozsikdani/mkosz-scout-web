@@ -1,8 +1,211 @@
 {
   "team": "Békéscsabai KK",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136129",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "Budapesti Bikák",
+      "home": true,
+      "result": "L",
+      "our_score": 55,
+      "their_score": 72,
+      "has_pbp": true,
+      "starters": [
+        "Balikó György",
+        "Hajdu Márton",
+        "Horváth Ákos",
+        "Kurtucz Ferenc Krisztián",
+        "Vágvölgyi Ákos"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Balikó György",
+            "Hajdu Márton",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 14.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon"
+          ],
+          "min": 12.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botta-dukát Károly",
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon"
+          ],
+          "min": 11.0,
+          "pf": 1,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 10.0,
+          "pf": 19,
+          "pa": 19,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 8.0,
+          "pf": 13,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Reisz Nándor",
+            "Turán Simon",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botta-dukát Károly",
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Turán Simon",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Reisz Nándor",
+            "Turán Simon"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Reisz Nándor",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Faragó Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Reisz Nándor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136113",
       "comp_code": "hun2b",

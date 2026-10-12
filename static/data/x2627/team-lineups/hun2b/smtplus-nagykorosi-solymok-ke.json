@@ -1,8 +1,144 @@
 {
   "team": "SMTPlus-Nagykőrösi Sólymok KE",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136133",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "BUDAFOK",
+      "home": true,
+      "result": "L",
+      "our_score": 69,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Fehér Péter József",
+          "jersey": 13,
+          "minutes": 33,
+          "points": 15,
+          "reb": 4,
+          "ast": 8,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 21,
+          "minutes": 28,
+          "points": 14,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Lakosa Ákos",
+              "jersey": 1,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-lakosa-akos.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 23,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "György Julian",
+          "jersey": 26,
+          "minutes": 40,
+          "points": 13,
+          "reb": 13,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gyorgy-julian.jpg",
+          "position": "1",
+          "subs": []
+        },
+        {
+          "name": "Lakosa Ákos",
+          "jersey": 1,
+          "minutes": 34,
+          "points": 9,
+          "reb": 10,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-lakosa-akos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 29,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 21,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 23,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Okoh Victor Kelechi",
+          "jersey": 23,
+          "minutes": 27,
+          "points": 1,
+          "reb": 9,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Gera Ferenc",
+              "jersey": 21,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Lakosa Ákos",
+              "jersey": 1,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-lakosa-akos.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136121",
       "comp_code": "hun2b",

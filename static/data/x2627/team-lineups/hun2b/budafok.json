@@ -1,8 +1,159 @@
 {
   "team": "BUDAFOK",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136133",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": false,
+      "result": "W",
+      "our_score": 70,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Katona József Bence",
+          "jersey": null,
+          "minutes": 27,
+          "points": 14,
+          "reb": 2,
+          "ast": 5,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Kiss Benedek Péter",
+              "jersey": 6,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-kiss-benedek-peter.jpg"
+            },
+            {
+              "name": "Szántó Levente",
+              "jersey": 18,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "budafok-szanto-levente.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sziegl Gábor",
+          "jersey": 16,
+          "minutes": 10,
+          "points": 3,
+          "reb": 1,
+          "ast": 5,
+          "photo_filename": "budafok-sziegl-gabor.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            },
+            {
+              "name": "Biber Zsigmond",
+              "jersey": 10,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-biber-zsigmond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szántó Levente",
+          "jersey": 18,
+          "minutes": 29,
+          "points": 17,
+          "reb": 22,
+          "ast": 1,
+          "photo_filename": "budafok-szanto-levente.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 18,
+              "count": 3,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 14,
+          "minutes": 25,
+          "points": 9,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "budafok-toth-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Katona József Bence",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 18,
+          "points": 8,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Szántó Levente",
+              "jersey": 18,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "budafok-szanto-levente.jpg"
+            },
+            {
+              "name": "Kiss Benedek Péter",
+              "jersey": 6,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-kiss-benedek-peter.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136117",
       "comp_code": "hun2b",

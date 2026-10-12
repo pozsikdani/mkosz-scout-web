@@ -1,8 +1,250 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2a_135767",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 100,
+      "their_score": 85,
+      "has_pbp": true,
+      "starters": [
+        "Balogh Szilárd",
+        "Bunos Oleksandr",
+        "Csaba György",
+        "Dordevic Nemanja",
+        "Molnár Mátyás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Aradi Atilla",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Szita Márton Tibor",
+            "Werner Viktor"
+          ],
+          "min": 13.0,
+          "pf": 4,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Csaba György",
+            "Dordevic Nemanja",
+            "Molnár Mátyás"
+          ],
+          "min": 12.0,
+          "pf": 23,
+          "pa": 21,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Csaba György",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Szita Márton Tibor"
+          ],
+          "min": 12.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Csaba György",
+            "Czermann Máté",
+            "Dordevic Nemanja"
+          ],
+          "min": 11.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás"
+          ],
+          "min": 3.0,
+          "pf": 13,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Szita Márton Tibor",
+            "Werner Viktor"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Aradi Atilla",
+            "Czermann Máté",
+            "Hadnagy Csanád",
+            "Kertész Dávid",
+            "Szita Márton Tibor"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Szita Márton Tibor",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Szita Márton Tibor",
+            "Werner Viktor"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Szita Márton Tibor"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Csaba György",
+            "Dordevic Nemanja",
+            "Kertész Dávid"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bunos Oleksandr",
+            "Csaba György",
+            "Czermann Máté",
+            "Kertész Dávid",
+            "Molnár Mátyás"
+          ],
+          "min": 1.0,
+          "pf": 8,
+          "pa": 6,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Molnár Mátyás"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás",
+            "Szita Márton Tibor"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Czermann Máté",
+            "Dordevic Nemanja",
+            "Kertész Dávid",
+            "Molnár Mátyás"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Aradi Atilla",
+            "Bodonyi Barnabás",
+            "Czermann Máté",
+            "Hadnagy Csanád",
+            "Szita Márton Tibor"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135755",
       "comp_code": "hun2a",

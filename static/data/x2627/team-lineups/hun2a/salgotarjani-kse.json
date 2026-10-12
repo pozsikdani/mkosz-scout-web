@@ -1,8 +1,166 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 1,
+  "match_count": 2,
   "matches": [
+    {
+      "gamecode": "hun2a_135775",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "W",
+      "our_score": 87,
+      "their_score": 83,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Cserényi Marcell",
+          "jersey": 4,
+          "minutes": 18,
+          "points": 8,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "salgotarjani-kse-cserenyi-marcell.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Németh Atilla Gergő",
+              "jersey": 80,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "salgotarjani-kse-nemeth-atilla-gergo.jpg"
+            },
+            {
+              "name": "Hargitai Krisztián",
+              "jersey": 99,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-hargitai-krisztian.jpg"
+            },
+            {
+              "name": "Williams Jr Eric Leval",
+              "jersey": 34,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-williams-jr-eric-leval.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fekete Viktor Norbert",
+          "jersey": 7,
+          "minutes": 26,
+          "points": 16,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "salgotarjani-kse-fekete-viktor-norbert.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 0,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "salgotarjani-kse-boka-mago-aron-istvan.jpg"
+            },
+            {
+              "name": "Németh Atilla Gergő",
+              "jersey": 80,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-nemeth-atilla-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mucza Tamás",
+          "jersey": 13,
+          "minutes": 24,
+          "points": 12,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "salgotarjani-kse-mucza-tamas.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Németh Atilla Gergő",
+              "jersey": 80,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-nemeth-atilla-gergo.jpg"
+            },
+            {
+              "name": "Hargitai Krisztián",
+              "jersey": 99,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-hargitai-krisztian.jpg"
+            },
+            {
+              "name": "Kámán Bálint",
+              "jersey": 6,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-kaman-balint.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Takács Dániel",
+          "jersey": 11,
+          "minutes": 31,
+          "points": 17,
+          "reb": 4,
+          "ast": 7,
+          "photo_filename": "salgotarjani-kse-takacs-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kámán Bálint",
+              "jersey": 6,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-kaman-balint.jpg"
+            },
+            {
+              "name": "Fekete Viktor Norbert",
+              "jersey": 7,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-fekete-viktor-norbert.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Williams Jr Eric Leval",
+          "jersey": 34,
+          "minutes": 16,
+          "points": 1,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "salgotarjani-kse-williams-jr-eric-leval.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Osztoics Milán",
+              "jersey": 9,
+              "minutes": 11,
+              "count": 2,
+              "photo_filename": "salgotarjani-kse-osztoics-milan.jpg"
+            },
+            {
+              "name": "Nagy Ádám Béla",
+              "jersey": 41,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-nagy-adam-bela.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135745",
       "comp_code": "hun2a",

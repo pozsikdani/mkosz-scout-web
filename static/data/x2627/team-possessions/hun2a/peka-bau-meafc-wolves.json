@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -57,6 +57,34 @@
         "fta": 15,
         "oreb": 17,
         "tov_total": 15
+      }
+    },
+    {
+      "gamecode": "hun2a_135765",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "JÁSZBERÉNYI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 82,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 22,
+        "mid_m": 1,
+        "three_m": 7,
+        "dunk_m": 1,
+        "ft": 16,
+        "close_x": 11,
+        "mid_x": 2,
+        "three_x": 9,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 62,
+        "fta": 22,
+        "oreb": 9,
+        "tov_total": 11
       }
     }
   ]

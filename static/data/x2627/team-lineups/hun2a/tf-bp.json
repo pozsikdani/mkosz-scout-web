@@ -1,8 +1,173 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2a_135767",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "PVSK-PANTHERS",
+      "home": true,
+      "result": "L",
+      "our_score": 85,
+      "their_score": 100,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Czermann Patrik Ákos",
+          "jersey": 28,
+          "minutes": 20,
+          "points": 5,
+          "reb": 8,
+          "ast": 0,
+          "photo_filename": "tf-bp-czermann-patrik-akos.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 31,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "tf-bp-antoni-csanad-zoltan.jpg"
+            },
+            {
+              "name": "Boros Márk",
+              "jersey": 7,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "tf-bp-boros-mark.jpg"
+            },
+            {
+              "name": "Swanson Kevin Wade",
+              "jersey": 33,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "tf-bp-swanson-kevin-wade.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Horváth Botond",
+          "jersey": 23,
+          "minutes": 18,
+          "points": 2,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "tf-bp-horvath-botond.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Inalegwu Marcell Sámuel",
+              "jersey": 9,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg"
+            },
+            {
+              "name": "Boros Márk",
+              "jersey": 7,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "tf-bp-boros-mark.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Dániel",
+          "jersey": 5,
+          "minutes": 21,
+          "points": 3,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "tf-bp-molnar-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Czermann Patrik Ákos",
+              "jersey": 28,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "tf-bp-czermann-patrik-akos.jpg"
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 31,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "tf-bp-antoni-csanad-zoltan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Marcell József",
+          "jersey": 3,
+          "minutes": 19,
+          "points": 10,
+          "reb": 0,
+          "ast": 2,
+          "photo_filename": "tf-bp-molnar-marcell-jozsef.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Fábián Szabolcs",
+              "jersey": 88,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "tf-bp-fabian-szabolcs.jpg"
+            },
+            {
+              "name": "Swanson Kevin Wade",
+              "jersey": 33,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "tf-bp-swanson-kevin-wade.jpg"
+            },
+            {
+              "name": "Inalegwu Marcell Sámuel",
+              "jersey": 9,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Swanson Kevin Wade",
+          "jersey": 33,
+          "minutes": 28,
+          "points": 20,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "tf-bp-swanson-kevin-wade.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 31,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "tf-bp-antoni-csanad-zoltan.jpg"
+            },
+            {
+              "name": "Lőrincz Boldizsár Zalán",
+              "jersey": 17,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "tf-bp-lorincz-boldizsar-zalan.jpg"
+            },
+            {
+              "name": "Fábián Szabolcs",
+              "jersey": 88,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "tf-bp-fabian-szabolcs.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135751",
       "comp_code": "hun2a",

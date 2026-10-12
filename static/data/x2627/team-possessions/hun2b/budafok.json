@@ -1,7 +1,7 @@
 {
   "team": "BUDAFOK",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2b_136101",
@@ -57,6 +57,34 @@
         "fta": 30,
         "oreb": 13,
         "tov_total": 18
+      }
+    },
+    {
+      "gamecode": "hun2b_136133",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": false,
+      "result": "W",
+      "our_score": 70,
+      "their_score": 69,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 24,
+        "mid_m": 4,
+        "three_m": 2,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 13,
+        "mid_x": 3,
+        "three_x": 14,
+        "dunk_x": 0,
+        "tov": 20,
+        "fga": 73,
+        "fta": 16,
+        "oreb": 13,
+        "tov_total": 20
       }
     }
   ]

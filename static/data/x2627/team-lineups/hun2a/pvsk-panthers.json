@@ -1,8 +1,173 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2a_135767",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 100,
+      "their_score": 85,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Balogh Szilárd",
+          "jersey": 11,
+          "minutes": 28,
+          "points": 14,
+          "reb": 13,
+          "ast": 5,
+          "photo_filename": "pvsk-panthers-balogh-szilard.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Czermann Máté",
+              "jersey": 2,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "pvsk-panthers-czermann-mate.jpg"
+            },
+            {
+              "name": "Szita Márton Tibor",
+              "jersey": 17,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-szita-marton-tibor.jpg"
+            },
+            {
+              "name": "Hadnagy Csanád",
+              "jersey": 10,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Bunos Oleksandr",
+          "jersey": 15,
+          "minutes": 23,
+          "points": 1,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "pvsk-panthers-bunos-oleksandr.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Szita Márton Tibor",
+              "jersey": 17,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "pvsk-panthers-szita-marton-tibor.jpg"
+            },
+            {
+              "name": "Werner Viktor",
+              "jersey": 9,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "pvsk-panthers-werner-viktor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csaba György",
+          "jersey": 33,
+          "minutes": 17,
+          "points": 2,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "pvsk-panthers-csaba-gyorgy.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Kertész Dávid",
+              "jersey": 5,
+              "minutes": 25,
+              "count": 3,
+              "photo_filename": "pvsk-panthers-kertesz-david.jpg"
+            },
+            {
+              "name": "Dordevic Nemanja",
+              "jersey": 3,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-dordevic-nemanja.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Dordevic Nemanja",
+          "jersey": 3,
+          "minutes": 23,
+          "points": 20,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "pvsk-panthers-dordevic-nemanja.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Szita Márton Tibor",
+              "jersey": 17,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "pvsk-panthers-szita-marton-tibor.jpg"
+            },
+            {
+              "name": "Werner Viktor",
+              "jersey": 9,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-werner-viktor.jpg"
+            },
+            {
+              "name": "Csaba György",
+              "jersey": 33,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-csaba-gyorgy.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Mátyás",
+          "jersey": 27,
+          "minutes": 23,
+          "points": 32,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "pvsk-panthers-molnar-matyas.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Czermann Máté",
+              "jersey": 2,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "pvsk-panthers-czermann-mate.jpg"
+            },
+            {
+              "name": "Aradi Atilla",
+              "jersey": 13,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-aradi-atilla.jpg"
+            },
+            {
+              "name": "Balogh Szilárd",
+              "jersey": 11,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-balogh-szilard.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135755",
       "comp_code": "hun2a",

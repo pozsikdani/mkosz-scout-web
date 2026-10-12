@@ -1,8 +1,198 @@
 {
   "team": "Eszterházy SC",
   "season": "x2627",
-  "match_count": 1,
+  "match_count": 2,
   "matches": [
+    {
+      "gamecode": "hun2b_136131",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "Foody-BasketBaja",
+      "home": false,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 83,
+      "has_pbp": true,
+      "starters": [
+        "Botka Botond",
+        "Cvijin Patrik",
+        "Gazibegovic Vanja",
+        "Német Ákos",
+        "Szicsák Bence"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 21.0,
+          "pf": 17,
+          "pa": 24,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 17.0,
+          "pf": 16,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Német Ákos",
+            "Vágner Áron"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos"
+          ],
+          "min": 7.0,
+          "pf": 12,
+          "pa": 12,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 4.0,
+          "pf": 17,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Szicsák Bence",
+            "Vágner Áron"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Kiss Kolos",
+            "Szicsák Bence"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kiss Kolos"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Szicsák Bence",
+            "Vágner Áron"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Kerekes Hunor Ákos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kerekes Hunor Ákos",
+            "Molnár Bálint",
+            "Vágner Áron"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136107",
       "comp_code": "hun2b",

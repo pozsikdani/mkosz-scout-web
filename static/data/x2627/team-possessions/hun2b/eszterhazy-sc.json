@@ -1,7 +1,7 @@
 {
   "team": "Eszterházy SC",
   "season": "x2627",
-  "match_count": 1,
+  "match_count": 2,
   "matches": [
     {
       "gamecode": "hun2b_136107",
@@ -28,6 +28,34 @@
         "fga": 69,
         "fta": 15,
         "oreb": 13,
+        "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2b_136131",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "Foody-BasketBaja",
+      "home": false,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 83,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 21,
+        "mid_m": 3,
+        "three_m": 5,
+        "dunk_m": 2,
+        "ft": 8,
+        "close_x": 8,
+        "mid_x": 4,
+        "three_x": 11,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 64,
+        "fta": 15,
+        "oreb": 11,
         "tov_total": 17
       }
     }

@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135743",
@@ -56,6 +56,34 @@
         "fga": 60,
         "fta": 24,
         "oreb": 9,
+        "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2a_135767",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 100,
+      "their_score": 85,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 21,
+        "mid_m": 0,
+        "three_m": 14,
+        "dunk_m": 1,
+        "ft": 9,
+        "close_x": 7,
+        "mid_x": 2,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 74,
+        "fta": 18,
+        "oreb": 17,
         "tov_total": 17
       }
     }

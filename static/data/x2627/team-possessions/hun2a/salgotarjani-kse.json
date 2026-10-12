@@ -1,7 +1,7 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 1,
+  "match_count": 2,
   "matches": [
     {
       "gamecode": "hun2a_135745",
@@ -29,6 +29,34 @@
         "fta": 14,
         "oreb": 6,
         "tov_total": 23
+      }
+    },
+    {
+      "gamecode": "hun2a_135775",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "W",
+      "our_score": 87,
+      "their_score": 83,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 1,
+        "three_m": 12,
+        "dunk_m": 0,
+        "ft": 15,
+        "close_x": 9,
+        "mid_x": 1,
+        "three_x": 19,
+        "dunk_x": 0,
+        "tov": 15,
+        "fga": 61,
+        "fta": 28,
+        "oreb": 4,
+        "tov_total": 15
       }
     }
   ]

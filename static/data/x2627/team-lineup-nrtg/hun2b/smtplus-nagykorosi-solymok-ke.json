@@ -1,8 +1,133 @@
 {
   "team": "SMTPlus-Nagykőrösi Sólymok KE",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136133",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "BUDAFOK",
+      "home": true,
+      "result": "L",
+      "our_score": 69,
+      "their_score": 70,
+      "has_pbp": true,
+      "starters": [
+        "Fehér Péter József",
+        "Gera Ferenc",
+        "György Julian",
+        "Lakosa Ákos",
+        "Okoh Victor Kelechi"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 16.0,
+          "pf": 15,
+          "pa": 16,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Lakosa Ákos"
+          ],
+          "min": 12.0,
+          "pf": 6,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fehér Péter József",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 10.0,
+          "pf": 14,
+          "pa": 10,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Fehér Péter József",
+            "György Julian",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 10.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Lakosa Ákos",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 9.0,
+          "pf": 9,
+          "pa": 10,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Gera Ferenc",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 5.0,
+          "pf": 9,
+          "pa": 7,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 2,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 0.0,
+          "pf": 13,
+          "pa": 22,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136121",
       "comp_code": "hun2b",

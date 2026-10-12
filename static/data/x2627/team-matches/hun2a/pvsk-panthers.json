@@ -78,10 +78,27 @@
       "time": "16:30",
       "home": false,
       "opponent": "TF-BP",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 100,
+      "their_score": 85,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 30,
+          "their": 18
+        },
+        {
+          "our": 14,
+          "their": 21
+        },
+        {
+          "our": 27,
+          "their": 18
+        },
+        {
+          "our": 29,
+          "their": 28
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },

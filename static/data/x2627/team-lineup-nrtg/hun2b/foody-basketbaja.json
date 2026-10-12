@@ -1,8 +1,146 @@
 {
   "team": "Foody-BasketBaja",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136131",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-10",
+      "opponent": "Eszterházy SC",
+      "home": true,
+      "result": "W",
+      "our_score": 83,
+      "their_score": 78,
+      "has_pbp": true,
+      "starters": [
+        "Goldring József Bence",
+        "Hódos Patrik",
+        "Lakatos Máté",
+        "Orgona Gerg? Milán",
+        "Szugyiczki Máté"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Szugyiczki Máté"
+          ],
+          "min": 15.0,
+          "pf": 45,
+          "pa": 38,
+          "is_starter": true
+        },
+        {
+          "players": [
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Szugyiczki Máté",
+            "Szücs Attila Zoltán"
+          ],
+          "min": 14.0,
+          "pf": 1,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohner Bálint",
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Szugyiczki Máté"
+          ],
+          "min": 14.0,
+          "pf": 9,
+          "pa": 9,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cseresznyés Csoma",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Szugyiczki Máté",
+            "Szücs Attila Zoltán"
+          ],
+          "min": 14.0,
+          "pf": 10,
+          "pa": 4,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cseresznyés Csoma",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Szugyiczki Máté"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cseresznyés Csoma",
+            "Goldring József Bence",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Szücs Attila Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Cseresznyés Csoma",
+            "Goldring József Bence",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Szugyiczki Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Szücs Attila Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 8,
+          "is_starter": false
+        },
+        {
+          "players": [
+            "Bohner Bálint",
+            "Cseresznyés Csoma",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Szugyiczki Máté"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136115",
       "comp_code": "hun2b",

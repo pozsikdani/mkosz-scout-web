@@ -78,10 +78,27 @@
       "time": "16:30",
       "home": true,
       "opponent": "PVSK-PANTHERS",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 85,
+      "their_score": 100,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 18,
+          "their": 30
+        },
+        {
+          "our": 21,
+          "their": 14
+        },
+        {
+          "our": 18,
+          "their": 27
+        },
+        {
+          "our": 28,
+          "their": 29
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
