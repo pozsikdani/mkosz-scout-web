@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -56,6 +56,34 @@
         "fga": 72,
         "fta": 14,
         "oreb": 14,
+        "tov_total": 12
+      }
+    },
+    {
+      "gamecode": "hun2a_135763",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-11",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 76,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 1,
+        "three_m": 8,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 13,
+        "mid_x": 1,
+        "three_x": 9,
+        "dunk_x": 0,
+        "tov": 12,
+        "fga": 67,
+        "fta": 16,
+        "oreb": 18,
         "tov_total": 12
       }
     }

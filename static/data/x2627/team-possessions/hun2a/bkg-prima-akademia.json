@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -57,6 +57,34 @@
         "fta": 22,
         "oreb": 9,
         "tov_total": 10
+      }
+    },
+    {
+      "gamecode": "hun2a_135763",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-11",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "W",
+      "our_score": 76,
+      "their_score": 73,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 11,
+        "mid_m": 4,
+        "three_m": 9,
+        "dunk_m": 4,
+        "ft": 7,
+        "close_x": 10,
+        "mid_x": 4,
+        "three_x": 10,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 62,
+        "fta": 13,
+        "oreb": 11,
+        "tov_total": 13
       }
     }
   ]

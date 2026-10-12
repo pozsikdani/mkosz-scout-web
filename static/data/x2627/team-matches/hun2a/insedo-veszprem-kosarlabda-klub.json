@@ -78,10 +78,27 @@
       "time": "17:00",
       "home": false,
       "opponent": "BKG PRIMA AKADÉMIA",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 73,
+      "their_score": 76,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 16,
+          "their": 16
+        },
+        {
+          "our": 26,
+          "their": 24
+        },
+        {
+          "our": 16,
+          "their": 23
+        },
+        {
+          "our": 15,
+          "their": 13
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },

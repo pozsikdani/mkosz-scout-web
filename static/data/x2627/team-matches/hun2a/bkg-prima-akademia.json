@@ -78,10 +78,27 @@
       "time": "17:00",
       "home": true,
       "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 76,
+      "their_score": 73,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 16,
+          "their": 16
+        },
+        {
+          "our": 24,
+          "their": 26
+        },
+        {
+          "our": 23,
+          "their": 16
+        },
+        {
+          "our": 13,
+          "their": 15
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },
