@@ -107,6 +107,9 @@ def main() -> int:
           AND m.season = ?
           AND m.score_a > 0
           AND e.event_type != 'UNKNOWN'
+          -- Team-level events (csapat-lepattanó, csapat-eladott labda) are not
+          -- in the official MKOSZ box score totals; count player events only.
+          AND e.player_name IS NOT NULL
         GROUP BY team_name
         """,
         (args.comp, args.season),
