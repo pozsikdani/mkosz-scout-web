@@ -104,11 +104,12 @@ def main() -> int:
         FROM pbp_events e
         JOIN matches m ON e.gamecode = m.gamecode
         WHERE m.comp_code = ?
+          AND m.season = ?
           AND m.score_a > 0
           AND e.event_type != 'UNKNOWN'
         GROUP BY team_name
         """,
-        (args.comp,),
+        (args.comp, args.season),
     ).fetchall()]
     conn.close()
 
