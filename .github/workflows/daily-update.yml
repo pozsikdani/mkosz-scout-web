@@ -83,6 +83,9 @@ jobs:
             python3 scripts/export_league_comparison.py --db "$DB_PATH" --season "$SEASON" --comp "$COMP"
           done
 
+      - name: Szezon-izoláció ellenőrzés (idegen szezon adata → nincs commit/deploy)
+        run: python3 scripts/check_season_isolation.py --db /tmp/mkosz-stats/mkosz_stats.sqlite --season "$SEASON" --comps $COMPS
+
       - name: Commit és push ha változott
         run: |
           git config user.name "github-actions[bot]"
