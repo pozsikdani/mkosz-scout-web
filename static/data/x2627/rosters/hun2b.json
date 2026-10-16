@@ -1,9 +1,9 @@
 {
   "season": "x2627",
   "comp": "hun2b",
-  "scraped_at": "2026-10-15T12:48:13+00:00",
+  "scraped_at": "2026-10-16T12:39:58+00:00",
   "team_count": 13,
-  "player_count": 204,
+  "player_count": 207,
   "photo_count": 199,
   "teams": {
     "budafok": {
@@ -884,6 +884,15 @@
           "photo_filename": "dh-basket-gyimes-aron.jpg"
         },
         {
+          "name": "Halász Kende",
+          "jersey": null,
+          "position": "1",
+          "height_cm": 192,
+          "birth_year": 2009,
+          "photo_url": null,
+          "photo_filename": null
+        },
+        {
           "name": "Herendic Dominik",
           "jersey": null,
           "position": "1-3",
@@ -893,11 +902,29 @@
           "photo_filename": "dh-basket-herendic-dominik.jpg"
         },
         {
+          "name": "Nagy Benedek",
+          "jersey": null,
+          "position": "1",
+          "height_cm": 190,
+          "birth_year": 2008,
+          "photo_url": null,
+          "photo_filename": null
+        },
+        {
           "name": "Pafféri Csaba",
           "jersey": null,
           "position": "1-2",
           "height_cm": 187,
           "birth_year": 2007,
+          "photo_url": null,
+          "photo_filename": null
+        },
+        {
+          "name": "Szük Huba Barnabás",
+          "jersey": null,
+          "position": "4",
+          "height_cm": 195,
+          "birth_year": 2009,
           "photo_url": null,
           "photo_filename": null
         },
@@ -1238,15 +1265,6 @@
           "photo_filename": "foody-basketbaja-szucs-attila-zoltan.jpg"
         },
         {
-          "name": "Bohner Áron",
-          "jersey": 15,
-          "position": "5",
-          "height_cm": 205,
-          "birth_year": 2009,
-          "photo_url": "https://15th.webpont.com/art/player/photo/A842645.png",
-          "photo_filename": "foody-basketbaja-bohner-aron.jpg"
-        },
-        {
           "name": "Bohner Bálint",
           "jersey": 15,
           "position": "5",
@@ -1254,6 +1272,15 @@
           "birth_year": 2006,
           "photo_url": "https://15th.webpont.com/art/player/photo/A859679.png",
           "photo_filename": "foody-basketbaja-bohner-balint.jpg"
+        },
+        {
+          "name": "Bohner Áron",
+          "jersey": 15,
+          "position": "5",
+          "height_cm": 205,
+          "birth_year": 2009,
+          "photo_url": "https://15th.webpont.com/art/player/photo/A842645.png",
+          "photo_filename": "foody-basketbaja-bohner-aron.jpg"
         },
         {
           "name": "Goldring József Bence",
@@ -1538,15 +1565,6 @@
           "photo_filename": "pte-peac-teszarik-marton.jpg"
         },
         {
-          "name": "Zalay Zsombor",
-          "jersey": null,
-          "position": "1-2",
-          "height_cm": 188,
-          "birth_year": 2002,
-          "photo_url": "https://15th.webpont.com/art/player/photo/A845170.png",
-          "photo_filename": "pte-peac-zalay-zsombor.jpg"
-        },
-        {
           "name": "Zalay Botond",
           "jersey": null,
           "position": "1-2",
@@ -1554,6 +1572,15 @@
           "birth_year": 2004,
           "photo_url": "https://15th.webpont.com/art/player/photo/A801390.png",
           "photo_filename": "pte-peac-zalay-botond.jpg"
+        },
+        {
+          "name": "Zalay Zsombor",
+          "jersey": null,
+          "position": "1-2",
+          "height_cm": 188,
+          "birth_year": 2002,
+          "photo_url": "https://15th.webpont.com/art/player/photo/A845170.png",
+          "photo_filename": "pte-peac-zalay-zsombor.jpg"
         },
         {
           "name": "Teszárik Péter",
