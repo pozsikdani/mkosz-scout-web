@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -85,6 +85,34 @@
         "fta": 13,
         "oreb": 11,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_135777",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-16",
+      "opponent": "Jászberényi KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 67,
+      "their_score": 62,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 2,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 8,
+        "close_x": 10,
+        "mid_x": 8,
+        "three_x": 10,
+        "dunk_x": 0,
+        "tov": 8,
+        "fga": 60,
+        "fta": 14,
+        "oreb": 11,
+        "tov_total": 8
       }
     }
   ]

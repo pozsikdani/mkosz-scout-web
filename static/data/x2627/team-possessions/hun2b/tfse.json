@@ -1,7 +1,7 @@
 {
   "team": "TFSE",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2b_136111",
@@ -85,6 +85,34 @@
         "fta": 17,
         "oreb": 22,
         "tov_total": 23
+      }
+    },
+    {
+      "gamecode": "hun2b_136149",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-16",
+      "opponent": "BUDAFOK",
+      "home": false,
+      "result": "L",
+      "our_score": 86,
+      "their_score": 103,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 5,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 13,
+        "close_x": 13,
+        "mid_x": 6,
+        "three_x": 10,
+        "dunk_x": 0,
+        "tov": 19,
+        "fga": 69,
+        "fta": 20,
+        "oreb": 15,
+        "tov_total": 19
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2b_136107",
@@ -85,6 +85,34 @@
         "fta": 13,
         "oreb": 6,
         "tov_total": 27
+      }
+    },
+    {
+      "gamecode": "hun2b_136153",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-16",
+      "opponent": "Vásárhelyi Kosársuli",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 103,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 4,
+        "three_m": 7,
+        "dunk_m": 1,
+        "ft": 6,
+        "close_x": 11,
+        "mid_x": 8,
+        "three_x": 21,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 76,
+        "fta": 12,
+        "oreb": 13,
+        "tov_total": 13
       }
     }
   ]

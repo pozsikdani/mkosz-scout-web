@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -85,6 +85,34 @@
         "fta": 16,
         "oreb": 18,
         "tov_total": 12
+      }
+    },
+    {
+      "gamecode": "hun2a_135779",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-16",
+      "opponent": "PVSK-PANTHERS",
+      "home": false,
+      "result": "L",
+      "our_score": 91,
+      "their_score": 92,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 0,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 21,
+        "close_x": 3,
+        "mid_x": 3,
+        "three_x": 19,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 66,
+        "fta": 42,
+        "oreb": 15,
+        "tov_total": 13
       }
     }
   ]
