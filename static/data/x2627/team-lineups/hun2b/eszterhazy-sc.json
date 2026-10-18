@@ -1,8 +1,151 @@
 {
   "team": "Eszterházy SC",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136143",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "W",
+      "our_score": 77,
+      "their_score": 75,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Botka Botond",
+          "jersey": 25,
+          "minutes": 35,
+          "points": 17,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "eszterhazy-sc-botka-botond.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kiss Kolos",
+              "jersey": 16,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-kiss-kolos.jpg"
+            },
+            {
+              "name": "Kerekes Hunor Ákos",
+              "jersey": 33,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-kerekes-hunor-akos.jpg"
+            },
+            {
+              "name": "Szicsák Bence",
+              "jersey": 7,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-szicsak-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Cvijin Patrik",
+          "jersey": 10,
+          "minutes": 36,
+          "points": 13,
+          "reb": 8,
+          "ast": 3,
+          "photo_filename": "eszterhazy-sc-cvijin-patrik.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Szicsák Bence",
+              "jersey": 7,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-szicsak-bence.jpg"
+            },
+            {
+              "name": "Molnár Bálint",
+              "jersey": 8,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-molnar-balint.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gazibegovic Vanja",
+          "jersey": 14,
+          "minutes": 33,
+          "points": 18,
+          "reb": 14,
+          "ast": 1,
+          "photo_filename": "eszterhazy-sc-gazibegovic-vanja.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Cvijin Patrik",
+              "jersey": 10,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-cvijin-patrik.jpg"
+            },
+            {
+              "name": "Kiss Kolos",
+              "jersey": 16,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-kiss-kolos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Német Ákos",
+          "jersey": 1,
+          "minutes": 40,
+          "points": 17,
+          "reb": 4,
+          "ast": 5,
+          "photo_filename": "eszterhazy-sc-nemet-akos.jpg",
+          "position": "1",
+          "subs": []
+        },
+        {
+          "name": "Szicsák Bence",
+          "jersey": 7,
+          "minutes": 24,
+          "points": 7,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "eszterhazy-sc-szicsak-bence.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Botka Botond",
+              "jersey": 25,
+              "minutes": 35,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-botka-botond.jpg"
+            },
+            {
+              "name": "Kiss Kolos",
+              "jersey": 16,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-kiss-kolos.jpg"
+            },
+            {
+              "name": "Gazibegovic Vanja",
+              "jersey": 14,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-gazibegovic-vanja.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136131",
       "comp_code": "hun2b",

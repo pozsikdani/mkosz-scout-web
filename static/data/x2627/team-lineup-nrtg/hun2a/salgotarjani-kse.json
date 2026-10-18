@@ -1,8 +1,614 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2a_135787",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "ZTE KK",
+      "home": true,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 86,
+      "has_pbp": true,
+      "starters": [
+        "Cserényi Marcell",
+        "Fekete Viktor Norbert",
+        "Mucza Tamás",
+        "Takács Dániel",
+        "Williams Jr Eric Leval"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Mucza Tamás",
+            "Németh Atilla Gergő",
+            "Takács Dániel",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 8.0,
+          "pf": 14,
+          "pa": 15,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              4.0,
+              5,
+              10
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              4.0,
+              9,
+              5
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Hargitai Krisztián",
+            "Mucza Tamás",
+            "Takács Dániel"
+          ],
+          "min": 5.0,
+          "pf": 12,
+          "pa": 15,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              6
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              7,
+              9
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Németh Atilla Gergő",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 5.0,
+          "pf": 22,
+          "pa": 11,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              5.0,
+              22,
+              11
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Mucza Tamás",
+            "Takács Dániel",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 4.0,
+          "pf": 1,
+          "pa": 10,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              4.0,
+              1,
+              10
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fekete Viktor Norbert",
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Németh Atilla Gergő",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 7,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              7,
+              7
+            ],
+            [
+              1.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Boka-magó Áron István",
+            "Fekete Viktor Norbert",
+            "Hargitai Krisztián",
+            "Kámán Bálint"
+          ],
+          "min": 4.0,
+          "pf": 1,
+          "pa": 2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              4.0,
+              1,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Kámán Bálint",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 8,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              9,
+              8
+            ],
+            [
+              1.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Mucza Tamás",
+            "Németh Atilla Gergő",
+            "Osztoics Milán",
+            "Takács Dániel",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 1,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Németh Atilla Gergő",
+            "Osztoics Milán",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Németh Atilla Gergő",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Takács Dániel",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              1
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Hargitai Krisztián",
+            "Mucza Tamás",
+            "Németh Atilla Gergő",
+            "Takács Dániel",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              5,
+              6
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Fekete Viktor Norbert",
+            "Kámán Bálint",
+            "Németh Atilla Gergő",
+            "Williams Jr Eric Leval"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              4,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135775",
       "comp_code": "hun2a",

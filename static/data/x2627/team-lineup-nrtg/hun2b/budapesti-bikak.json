@@ -1,8 +1,524 @@
 {
   "team": "Budapesti Bikák",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2b_136141",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "GYKC UNI Győr",
+      "home": true,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 76,
+      "has_pbp": true,
+      "starters": [
+        "Baki Sándor",
+        "Csapai Péter Zsolt",
+        "Lajsz Gergely",
+        "Ménesi Miklós",
+        "Szántó Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Baki Sándor",
+            "Bucskó Zalán",
+            "Csapai Péter Zsolt",
+            "Novák Patrik",
+            "Szántó Dániel"
+          ],
+          "min": 7.0,
+          "pf": 16,
+          "pa": 9,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              3,
+              4
+            ],
+            [
+              2.0,
+              2,
+              0
+            ],
+            [
+              4.0,
+              11,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Csapai Péter Zsolt",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szántó Dániel"
+          ],
+          "min": 6.0,
+          "pf": 6,
+          "pa": 9,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              3
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              5.0,
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csapai Péter Zsolt",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Pleesz Gerg?",
+            "Szántó Dániel"
+          ],
+          "min": 6.0,
+          "pf": 9,
+          "pa": 13,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              6
+            ],
+            [
+              1.0,
+              0,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              4,
+              5
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Csapai Péter Zsolt",
+            "Szabó Dániel",
+            "Szántó Dániel"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 10,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              0,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Csapai Péter Zsolt",
+            "Szántó Dániel"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 9,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              4,
+              2
+            ],
+            [
+              3.0,
+              5,
+              7
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Csapai Péter Zsolt",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Pleesz Gerg?"
+          ],
+          "min": 3.0,
+          "pf": 0,
+          "pa": 5,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              0,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Baki Sándor",
+            "Bucskó Zalán",
+            "Novák Patrik",
+            "Pleesz Gerg?",
+            "Szántó Dániel"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 9,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              5,
+              9
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Csapai Péter Zsolt",
+            "Lajsz Gergely",
+            "Szántó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              2,
+              4
+            ],
+            [
+              0.0,
+              3,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Lajsz Gergely",
+            "Pleesz Gerg?",
+            "Szabó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              3,
+              6
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Bucskó Zalán",
+            "Csapai Péter Zsolt",
+            "Novák Patrik",
+            "Szántó Dániel"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bohunicky Olivér",
+            "Csapai Péter Zsolt",
+            "Lajsz Gergely",
+            "Ménesi Miklós",
+            "Szántó Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136129",
       "comp_code": "hun2b",

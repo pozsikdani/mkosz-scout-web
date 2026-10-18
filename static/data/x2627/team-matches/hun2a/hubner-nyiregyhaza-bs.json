@@ -77,12 +77,29 @@
       "date": "2026-10-17",
       "time": "17:00",
       "home": true,
-      "opponent": "Újbuda MAFC",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "ÚJBUDA MAFC",
+      "our_score": 79,
+      "their_score": 109,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 28,
+          "their": 28
+        },
+        {
+          "our": 19,
+          "their": 29
+        },
+        {
+          "our": 18,
+          "their": 19
+        },
+        {
+          "our": 14,
+          "their": 33
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

@@ -1,8 +1,704 @@
 {
   "team": "GYKC UNI Győr",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136141",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "Budapesti Bikák",
+      "home": false,
+      "result": "W",
+      "our_score": 76,
+      "their_score": 65,
+      "has_pbp": true,
+      "starters": [
+        "Gaál Bence",
+        "Góbi Marcell",
+        "Rácz Gábor",
+        "Sólyom László",
+        "Tóth Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Gaál Bence",
+            "Góbi Marcell",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Tóth Dániel"
+          ],
+          "min": 8.0,
+          "pf": 11,
+          "pa": 8,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              5,
+              4
+            ],
+            [
+              5.0,
+              6,
+              4
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 7.0,
+          "pf": 11,
+          "pa": 9,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              7.0,
+              11,
+              9
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gaál Bence",
+            "Góbi Marcell",
+            "Rácz Gábor",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 6.0,
+          "pf": 13,
+          "pa": 12,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              9,
+              5
+            ],
+            [
+              3.0,
+              4,
+              7
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gombos Bálint Zalán",
+            "Góbi Marcell",
+            "Rácz Gábor",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Dani Balázs Dominik",
+            "Gombos Bálint Zalán",
+            "Góbi Marcell",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Dani Balázs Dominik",
+            "Gaál Bence",
+            "Rácz Gábor",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              6,
+              3
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Góbi Marcell",
+            "Karácsonyi Dániel",
+            "Sólyom László",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 5,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              6,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Gombos Bálint Zalán",
+            "Góbi Marcell",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 5,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              4,
+              3
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              3,
+              2
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Dani Balázs Dominik",
+            "Gombos Bálint Zalán",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              2,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Dani Balázs Dominik",
+            "Gaál Bence",
+            "Gombos Bálint Zalán",
+            "Góbi Marcell"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gaál Bence",
+            "Gombos Bálint Zalán",
+            "Góbi Marcell",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Góbi Marcell",
+            "Karácsonyi Dániel",
+            "Sólyom László",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Gaál Bence",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Tóth Dániel"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              1,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bakon Csanád",
+            "Dani Balázs Dominik",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Góbi Marcell",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              3
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136127",
       "comp_code": "hun2b",

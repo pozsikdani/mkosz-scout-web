@@ -1,7 +1,7 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135745",
@@ -57,6 +57,34 @@
         "fta": 28,
         "oreb": 4,
         "tov_total": 15
+      }
+    },
+    {
+      "gamecode": "hun2a_135787",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "ZTE KK",
+      "home": true,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 86,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 1,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 12,
+        "close_x": 11,
+        "mid_x": 5,
+        "three_x": 14,
+        "dunk_x": 0,
+        "tov": 12,
+        "fga": 63,
+        "fta": 22,
+        "oreb": 8,
+        "tov_total": 12
       }
     }
   ]

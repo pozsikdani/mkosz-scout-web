@@ -1,8 +1,159 @@
 {
   "team": "GYKC UNI Győr",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136141",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "Budapesti Bikák",
+      "home": false,
+      "result": "W",
+      "our_score": 76,
+      "their_score": 65,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gaál Bence",
+          "jersey": 13,
+          "minutes": 21,
+          "points": 10,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "gykc-uni-gyor-gaal-bence.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Sövegjártó Ábel György",
+              "jersey": 12,
+              "minutes": 27,
+              "count": 3,
+              "photo_filename": "gykc-uni-gyor-sovegjarto-abel-gyorgy.jpg"
+            },
+            {
+              "name": "Sólyom László",
+              "jersey": 9,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "gykc-uni-gyor-solyom-laszlo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Góbi Marcell",
+          "jersey": 10,
+          "minutes": 27,
+          "points": 12,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "gykc-uni-gyor-gobi-marcell.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Bakon Csanád",
+              "jersey": 5,
+              "minutes": 21,
+              "count": 3,
+              "photo_filename": "gykc-uni-gyor-bakon-csanad.jpg"
+            },
+            {
+              "name": "Rácz Gábor",
+              "jersey": 2,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "gykc-uni-gyor-racz-gabor.jpg"
+            },
+            {
+              "name": "Dani Balázs Dominik",
+              "jersey": 1,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "gykc-uni-gyor-dani-balazs-dominik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Rácz Gábor",
+          "jersey": 2,
+          "minutes": 27,
+          "points": 2,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "gykc-uni-gyor-racz-gabor.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Bakon Csanád",
+              "jersey": 5,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "gykc-uni-gyor-bakon-csanad.jpg"
+            },
+            {
+              "name": "Karácsonyi Dániel",
+              "jersey": 8,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "gykc-uni-gyor-karacsonyi-daniel.jpg"
+            },
+            {
+              "name": "Góbi Marcell",
+              "jersey": 10,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "gykc-uni-gyor-gobi-marcell.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sólyom László",
+          "jersey": 9,
+          "minutes": 20,
+          "points": 4,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "gykc-uni-gyor-solyom-laszlo.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Gombos Bálint Zalán",
+              "jersey": 33,
+              "minutes": 12,
+              "count": 3,
+              "photo_filename": "gykc-uni-gyor-gombos-balint-zalan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Dániel",
+          "jersey": 5,
+          "minutes": 31,
+          "points": 11,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "gykc-uni-gyor-toth-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Dani Balázs Dominik",
+              "jersey": 1,
+              "minutes": 11,
+              "count": 3,
+              "photo_filename": "gykc-uni-gyor-dani-balazs-dominik.jpg"
+            },
+            {
+              "name": "Bakon Csanád",
+              "jersey": 5,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "gykc-uni-gyor-bakon-csanad.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136127",
       "comp_code": "hun2b",

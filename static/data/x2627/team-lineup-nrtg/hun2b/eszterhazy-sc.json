@@ -1,8 +1,344 @@
 {
   "team": "Eszterházy SC",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136143",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "W",
+      "our_score": 77,
+      "their_score": 75,
+      "has_pbp": true,
+      "starters": [
+        "Botka Botond",
+        "Cvijin Patrik",
+        "Gazibegovic Vanja",
+        "Német Ákos",
+        "Szicsák Bence"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos"
+          ],
+          "min": 16.0,
+          "pf": 31,
+          "pa": 30,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              8,
+              0
+            ],
+            [
+              5.0,
+              5,
+              11
+            ],
+            [
+              3.0,
+              4,
+              8
+            ],
+            [
+              6.0,
+              14,
+              11
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 12.0,
+          "pf": 29,
+          "pa": 25,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              7,
+              4
+            ],
+            [
+              4.0,
+              6,
+              6
+            ],
+            [
+              7.0,
+              16,
+              15
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Cvijin Patrik",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 5.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              2,
+              3
+            ],
+            [
+              2.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              3,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Botka Botond",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 8,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              2
+            ],
+            [
+              0.0,
+              0,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              4
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos",
+            "Molnár Bálint",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              3,
+              3
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cvijin Patrik",
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136131",
       "comp_code": "hun2b",

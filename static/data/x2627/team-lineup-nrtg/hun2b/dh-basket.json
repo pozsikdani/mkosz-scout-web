@@ -1,8 +1,479 @@
 {
   "team": "DH BASKET",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2b_136143",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "Eszterházy SC",
+      "home": false,
+      "result": "L",
+      "our_score": 75,
+      "their_score": 77,
+      "has_pbp": true,
+      "starters": [
+        "Herendic Dominik",
+        "Olasz Ádám Zsolt",
+        "Pafféri Péter",
+        "Tóth Barnabás",
+        "Váits Olivér"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Herendic Dominik",
+            "Olasz Ádám Zsolt",
+            "Pafféri Péter",
+            "Tóth Barnabás",
+            "Váits Olivér"
+          ],
+          "min": 16.0,
+          "pf": 30,
+          "pa": 37,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              9.0,
+              15,
+              21
+            ],
+            [
+              7.0,
+              15,
+              16
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gyimes Áron",
+            "Olasz Ádám Zsolt",
+            "Pafféri Csaba",
+            "Pafféri Péter",
+            "Váits Olivér"
+          ],
+          "min": 6.0,
+          "pf": 11,
+          "pa": 7,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              5.0,
+              7,
+              3
+            ],
+            [
+              1.0,
+              4,
+              4
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gyimes Áron",
+            "Olasz Ádám Zsolt",
+            "Pafféri Péter",
+            "Tóth Barnabás",
+            "Váits Olivér"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              8,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gyimes Áron",
+            "Joó Tamás",
+            "Pafféri Csaba",
+            "Pafféri Péter",
+            "Váits Olivér"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 7,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              2,
+              7
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Herendic Dominik",
+            "Joó Tamás",
+            "Pafféri Csaba",
+            "Pafféri Péter",
+            "Tóth Barnabás"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 5,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              10,
+              2
+            ],
+            [
+              0.0,
+              0,
+              3
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gyimes Áron",
+            "Herendic Dominik",
+            "Joó Tamás",
+            "Pafféri Csaba",
+            "Pafféri Péter"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              3,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Herendic Dominik",
+            "Olasz Ádám Zsolt",
+            "Pafféri Csaba",
+            "Pafféri Péter",
+            "Váits Olivér"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              3
+            ],
+            [
+              1.0,
+              2,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gyimes Áron",
+            "Herendic Dominik",
+            "Olasz Ádám Zsolt",
+            "Pafféri Péter",
+            "Tóth Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              4,
+              3
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Herendic Dominik",
+            "Joó Tamás",
+            "Pafféri Csaba",
+            "Tóth Barnabás",
+            "Váits Olivér"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              3,
+              3
+            ],
+            [
+              0.0,
+              2,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Herendic Dominik",
+            "Joó Tamás",
+            "Pafféri Péter",
+            "Tóth Barnabás",
+            "Váits Olivér"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              3
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136127",
       "comp_code": "hun2b",

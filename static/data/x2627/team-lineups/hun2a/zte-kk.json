@@ -1,8 +1,124 @@
 {
   "team": "ZTE KK",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2a_135787",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 77,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Cardet Jr Wesley Elijah",
+          "jersey": 11,
+          "minutes": 29,
+          "points": 17,
+          "reb": 8,
+          "ast": 6,
+          "photo_filename": "zte-kk-cardet-jr-wesley-elijah.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Kucsora Csaba Ákos",
+              "jersey": 13,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "zte-kk-kucsora-csaba-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gerencsér Botond",
+          "jersey": 4,
+          "minutes": 39,
+          "points": 10,
+          "reb": 12,
+          "ast": 1,
+          "photo_filename": "zte-kk-gerencser-botond.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Török-Papp Benedek",
+              "jersey": 8,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "zte-kk-torok-papp-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Attila Raul",
+          "jersey": 1,
+          "minutes": 10,
+          "points": 2,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "zte-kk-kis-attila-raul.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Glatz Gábor Soma",
+              "jersey": 33,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "zte-kk-glatz-gabor-soma.jpg"
+            },
+            {
+              "name": "Szalay Domonkos",
+              "jersey": 2,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "zte-kk-szalay-domonkos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pongó Máté",
+          "jersey": 22,
+          "minutes": 38,
+          "points": 20,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "zte-kk-pongo-mate.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Cardet Jr Wesley Elijah",
+              "jersey": 11,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "zte-kk-cardet-jr-wesley-elijah.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Ádám",
+          "jersey": 15,
+          "minutes": 17,
+          "points": 10,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "zte-kk-toth-adam.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Mokánszki Máté",
+              "jersey": 6,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "zte-kk-mokanszki-mate.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135771",
       "comp_code": "hun2a",

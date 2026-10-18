@@ -1,7 +1,7 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2a_135741",
@@ -57,6 +57,34 @@
         "fta": 16,
         "oreb": 16,
         "tov_total": 25
+      }
+    },
+    {
+      "gamecode": "hun2a_135789",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "ÚJBUDA MAFC",
+      "home": true,
+      "result": "L",
+      "our_score": 79,
+      "their_score": 109,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 1,
+        "three_m": 13,
+        "dunk_m": 0,
+        "ft": 7,
+        "close_x": 6,
+        "mid_x": 5,
+        "three_x": 20,
+        "dunk_x": 0,
+        "tov": 19,
+        "fga": 68,
+        "fta": 14,
+        "oreb": 10,
+        "tov_total": 19
       }
     }
   ]

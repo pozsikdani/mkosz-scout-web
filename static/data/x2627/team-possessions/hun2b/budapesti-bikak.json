@@ -1,7 +1,7 @@
 {
   "team": "Budapesti Bikák",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2b_136105",
@@ -85,6 +85,34 @@
         "fta": 19,
         "oreb": 12,
         "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2b_136141",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "GYKC UNI Győr",
+      "home": true,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 76,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 0,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 9,
+        "mid_x": 2,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 60,
+        "fta": 16,
+        "oreb": 8,
+        "tov_total": 14
       }
     }
   ]

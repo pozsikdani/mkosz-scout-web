@@ -1,8 +1,159 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2a_135789",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-17",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": false,
+      "result": "W",
+      "our_score": 109,
+      "their_score": 79,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bordács Gábor Soma",
+          "jersey": 13,
+          "minutes": 30,
+          "points": 12,
+          "reb": 18,
+          "ast": 3,
+          "photo_filename": "ujbuda-mafc-bordacs-gabor-soma.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Orbán Imre",
+              "jersey": 25,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "ujbuda-mafc-orban-imre.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Tamás",
+          "jersey": 18,
+          "minutes": 26,
+          "points": 17,
+          "reb": 7,
+          "ast": 2,
+          "photo_filename": "ujbuda-mafc-molnar-tamas.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Geiger Bálint József",
+              "jersey": 2,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-geiger-balint-jozsef.jpg"
+            },
+            {
+              "name": "Viola Dávid Zsolt",
+              "jersey": 51,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-viola-david-zsolt.jpg"
+            },
+            {
+              "name": "Pápai Máté Barnabás",
+              "jersey": 27,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pintér Dávid",
+          "jersey": 24,
+          "minutes": 20,
+          "points": 3,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "ujbuda-mafc-pinter-david.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kovács Levente Hetény",
+              "jersey": 7,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "ujbuda-mafc-kovacs-levente-heteny.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Polgárdy Ádám",
+          "jersey": 1,
+          "minutes": 27,
+          "points": 20,
+          "reb": 1,
+          "ast": 6,
+          "photo_filename": "ujbuda-mafc-polgardy-adam.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Molnár Tamás",
+              "jersey": 18,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-molnar-tamas.jpg"
+            },
+            {
+              "name": "Geiger Bálint József",
+              "jersey": 2,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-geiger-balint-jozsef.jpg"
+            },
+            {
+              "name": "Solomon Márk",
+              "jersey": 52,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-solomon-mark.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pápai Máté Barnabás",
+          "jersey": 27,
+          "minutes": 32,
+          "points": 17,
+          "reb": 9,
+          "ast": 5,
+          "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Balázs Barnabás",
+              "jersey": 14,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "ujbuda-mafc-balazs-barnabas.jpg"
+            },
+            {
+              "name": "Bordács Gábor Soma",
+              "jersey": 13,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-bordacs-gabor-soma.jpg"
+            },
+            {
+              "name": "Viola Dávid Zsolt",
+              "jersey": 51,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-viola-david-zsolt.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135775",
       "comp_code": "hun2a",
