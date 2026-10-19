@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -85,6 +85,34 @@
         "fta": 22,
         "oreb": 9,
         "tov_total": 11
+      }
+    },
+    {
+      "gamecode": "hun2a_135781",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-18",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 80,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 2,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 10,
+        "close_x": 11,
+        "mid_x": 3,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 70,
+        "fta": 18,
+        "oreb": 13,
+        "tov_total": 14
       }
     }
   ]

@@ -1,8 +1,166 @@
 {
   "team": "Békéscsabai KK",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2b_136145",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-18",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": false,
+      "result": "L",
+      "our_score": 58,
+      "their_score": 85,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Balog Gábor",
+          "jersey": 9,
+          "minutes": 25,
+          "points": 8,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "bekescsabai-kk-balog-gabor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Turán Simon",
+              "jersey": null,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-turan-simon.jpg"
+            },
+            {
+              "name": "Vágvölgyi Ákos",
+              "jersey": 3,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-vagvolgyi-akos.jpg"
+            },
+            {
+              "name": "Botta-Dukát Károly",
+              "jersey": 11,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-botta-dukat-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Hajdu Márton",
+          "jersey": 6,
+          "minutes": 36,
+          "points": 9,
+          "reb": 10,
+          "ast": 0,
+          "photo_filename": "bekescsabai-kk-hajdu-marton.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Horváth Ákos",
+              "jersey": 10,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-horvath-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Horváth Ákos",
+          "jersey": 10,
+          "minutes": 30,
+          "points": 7,
+          "reb": 0,
+          "ast": 2,
+          "photo_filename": "bekescsabai-kk-horvath-akos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Reisz Nándor",
+              "jersey": 23,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-reisz-nandor.jpg"
+            },
+            {
+              "name": "Faragó Márton",
+              "jersey": 13,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-farago-marton.jpg"
+            },
+            {
+              "name": "Turán Simon",
+              "jersey": null,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-turan-simon.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kurtucz Ferenc Krisztián",
+          "jersey": null,
+          "minutes": 23,
+          "points": 4,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "bekescsabai-kk-kurtucz-ferenc-krisztian.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Balikó György",
+              "jersey": null,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-baliko-gyorgy.jpg"
+            },
+            {
+              "name": "Reisz Nándor",
+              "jersey": 23,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-reisz-nandor.jpg"
+            },
+            {
+              "name": "Hajdu Márton",
+              "jersey": 6,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-hajdu-marton.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vágvölgyi Ákos",
+          "jersey": 3,
+          "minutes": 10,
+          "points": 0,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "bekescsabai-kk-vagvolgyi-akos.jpg",
+          "position": "1-4",
+          "subs": [
+            {
+              "name": "Balog Gábor",
+              "jersey": 9,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-balog-gabor.jpg"
+            },
+            {
+              "name": "Turán Simon",
+              "jersey": null,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "bekescsabai-kk-turan-simon.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136129",
       "comp_code": "hun2b",

@@ -1,8 +1,152 @@
 {
   "team": "SMTPlus-Nagykőrösi Sólymok KE",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2b_136145",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-18",
+      "opponent": "Békéscsabai KK",
+      "home": true,
+      "result": "W",
+      "our_score": 85,
+      "their_score": 58,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 28,
+          "points": 5,
+          "reb": 7,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 23,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fehér Péter József",
+          "jersey": 13,
+          "minutes": 26,
+          "points": 10,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 11,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 21,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            }
+          ]
+        },
+        {
+          "name": "György Julian",
+          "jersey": 26,
+          "minutes": 34,
+          "points": 9,
+          "reb": 13,
+          "ast": 8,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gyorgy-julian.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Szokonya Gergő",
+              "jersey": 10,
+              "minutes": 6,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-szokonya-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lakosa Ákos",
+          "jersey": 1,
+          "minutes": 26,
+          "points": 25,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-lakosa-akos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 21,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lintner Kristóf Barnabás",
+          "jersey": 9,
+          "minutes": 6,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-lintner-kristof-barnabas.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Gera Ferenc",
+              "jersey": 21,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136133",
       "comp_code": "hun2b",

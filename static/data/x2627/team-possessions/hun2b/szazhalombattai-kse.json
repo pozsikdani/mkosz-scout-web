@@ -1,7 +1,7 @@
 {
   "team": "Százhalombattai KSE",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
     {
       "gamecode": "hun2b_136111",
@@ -57,6 +57,34 @@
         "fta": 13,
         "oreb": 10,
         "tov_total": 10
+      }
+    },
+    {
+      "gamecode": "hun2b_136147",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-18",
+      "opponent": "Foody-BasketBaja",
+      "home": true,
+      "result": "W",
+      "our_score": 98,
+      "their_score": 61,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 29,
+        "mid_m": 5,
+        "three_m": 5,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 8,
+        "mid_x": 6,
+        "three_x": 11,
+        "dunk_x": 0,
+        "tov": 6,
+        "fga": 71,
+        "fta": 17,
+        "oreb": 8,
+        "tov_total": 6
       }
     }
   ]

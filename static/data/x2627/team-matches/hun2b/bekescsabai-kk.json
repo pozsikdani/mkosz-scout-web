@@ -111,10 +111,27 @@
       "time": "17:00",
       "home": false,
       "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 58,
+      "their_score": 85,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 13,
+          "their": 19
+        },
+        {
+          "our": 13,
+          "their": 15
+        },
+        {
+          "our": 22,
+          "their": 27
+        },
+        {
+          "our": 10,
+          "their": 24
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

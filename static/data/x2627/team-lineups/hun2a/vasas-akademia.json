@@ -1,8 +1,152 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2a_135783",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-18",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 62,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gáspár Mátyás",
+          "jersey": 17,
+          "minutes": 17,
+          "points": 2,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "vasas-akademia-gaspar-matyas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Erdős Artúr",
+              "jersey": 19,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "vasas-akademia-erdos-artur.jpg"
+            },
+            {
+              "name": "Makkos Dávid",
+              "jersey": 3,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Heimann Gergő",
+          "jersey": 13,
+          "minutes": 26,
+          "points": 14,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "vasas-akademia-heimann-gergo.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Farkas Attila",
+              "jersey": 9,
+              "minutes": 20,
+              "count": 3,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
+            },
+            {
+              "name": "Kis Botond",
+              "jersey": 25,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "vasas-akademia-kis-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Homoki Donát László",
+          "jersey": 4,
+          "minutes": 28,
+          "points": 20,
+          "reb": 12,
+          "ast": 2,
+          "photo_filename": "vasas-akademia-homoki-donat-laszlo.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Pleesz Ádám",
+              "jersey": 20,
+              "minutes": 12,
+              "count": 3,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Plézer Gábor",
+          "jersey": 8,
+          "minutes": 21,
+          "points": 12,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "vasas-akademia-plezer-gabor.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kis Botond",
+              "jersey": 25,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "vasas-akademia-kis-botond.jpg"
+            },
+            {
+              "name": "Heimann Gergő",
+              "jersey": 13,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "vasas-akademia-heimann-gergo.jpg"
+            },
+            {
+              "name": "Farkas Attila",
+              "jersey": 9,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "vasas-akademia-farkas-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zöldi Péter András",
+          "jersey": 1,
+          "minutes": 24,
+          "points": 10,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Makkos Dávid",
+              "jersey": 3,
+              "minutes": 14,
+              "count": 3,
+              "photo_filename": "vasas-akademia-makkos-david.jpg"
+            },
+            {
+              "name": "Erdős Artúr",
+              "jersey": 19,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "vasas-akademia-erdos-artur.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135771",
       "comp_code": "hun2a",

@@ -1,8 +1,614 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 2,
+  "match_count": 3,
   "matches": [
+    {
+      "gamecode": "hun2a_135783",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-18",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 62,
+      "has_pbp": true,
+      "starters": [
+        "Gáspár Mátyás",
+        "Heimann Gergõ",
+        "Homoki Donát László",
+        "Plézer Gábor",
+        "Zöldi Péter András"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Heimann Gergõ",
+            "Homoki Donát László",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 13.0,
+          "pf": 17,
+          "pa": 22,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              5,
+              4
+            ],
+            [
+              3.0,
+              2,
+              7
+            ],
+            [
+              1.0,
+              3,
+              0
+            ],
+            [
+              7.0,
+              7,
+              11
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Gáspár Mátyás",
+            "Heimann Gergõ",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              1,
+              0
+            ],
+            [
+              2.0,
+              5,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Heimann Gergõ",
+            "Homoki Donát László",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 15,
+          "pa": 13,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              10,
+              11
+            ],
+            [
+              1.0,
+              5,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Homoki Donát László",
+            "Kis Botond",
+            "Makkos Dávid"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              7,
+              0
+            ],
+            [
+              2.0,
+              2,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Kis Botond",
+            "Makkos Dávid",
+            "Pleesz Ádám"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              6,
+              3
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Homoki Donát László",
+            "Makkos Dávid",
+            "Plézer Gábor"
+          ],
+          "min": 2.0,
+          "pf": 11,
+          "pa": 6,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              2,
+              0
+            ],
+            [
+              1.0,
+              7,
+              4
+            ],
+            [
+              0.0,
+              0,
+              2
+            ],
+            [
+              1.0,
+              2,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Heimann Gergõ",
+            "Homoki Donát László",
+            "Makkos Dávid"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              3
+            ],
+            [
+              1.0,
+              5,
+              1
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Heimann Gergõ",
+            "Makkos Dávid",
+            "Pleesz Ádám"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 6,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              4,
+              4
+            ],
+            [
+              1.0,
+              2,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Homoki Donát László",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              2
+            ],
+            [
+              1.0,
+              5,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Kis Botond",
+            "Pichovszky Bertalan",
+            "Pleesz Ádám",
+            "Saincaize Dániel Noel"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              4,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Farkas Attila",
+            "Heimann Gergõ",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Homoki Donát László",
+            "Kis Botond",
+            "Makkos Dávid",
+            "Saincaize Dániel Noel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Erdõs Artúr",
+            "Kis Botond",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Saincaize Dániel Noel"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              1,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135771",
       "comp_code": "hun2a",

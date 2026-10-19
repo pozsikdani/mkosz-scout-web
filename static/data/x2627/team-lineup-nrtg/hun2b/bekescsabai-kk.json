@@ -1,8 +1,794 @@
 {
   "team": "Békéscsabai KK",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2b_136145",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-18",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": false,
+      "result": "L",
+      "our_score": 58,
+      "their_score": 85,
+      "has_pbp": true,
+      "starters": [
+        "Balog Gábor",
+        "Hajdu Márton",
+        "Horváth Ákos",
+        "Kurtucz Ferenc Krisztián",
+        "Vágvölgyi Ákos"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Balog Gábor",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 6.0,
+          "pf": 6,
+          "pa": 9,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              6.0,
+              6,
+              9
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Botta-dukát Károly",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Reisz Nándor",
+            "Turán Simon"
+          ],
+          "min": 6.0,
+          "pf": 8,
+          "pa": 12,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              3,
+              7
+            ],
+            [
+              3.0,
+              5,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon"
+          ],
+          "min": 4.0,
+          "pf": 7,
+          "pa": 2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              4,
+              0
+            ],
+            [
+              1.0,
+              3,
+              2
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Balog Gábor",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Turán Simon"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 9,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              4,
+              9
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Botta-dukát Károly",
+            "Hajdu Márton",
+            "Kurtucz Ferenc Krisztián",
+            "Latorcai Levente"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 10,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              3.0,
+              2,
+              10
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Balog Gábor",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              0,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Balog Gábor",
+            "Hajdu Márton",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              1,
+              0
+            ],
+            [
+              1.0,
+              0,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balog Gábor",
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              2,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Balog Gábor",
+            "Faragó Márton",
+            "Hajdu Márton",
+            "Turán Simon"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              2,
+              5
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balog Gábor",
+            "Faragó Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              10,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balog Gábor",
+            "Botta-dukát Károly",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Turán Simon"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              2.0,
+              3,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Balog Gábor",
+            "Hajdu Márton",
+            "Reisz Nándor",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              2,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balikó György",
+            "Hajdu Márton",
+            "Reisz Nándor",
+            "Turán Simon",
+            "Vágvölgyi Ákos"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 6,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              5,
+              6
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Botta-dukát Károly",
+            "Faragó Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              3,
+              1
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balog Gábor",
+            "Botta-dukát Károly",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Turán Simon"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balog Gábor",
+            "Hajdu Márton",
+            "Horváth Ákos",
+            "Kurtucz Ferenc Krisztián",
+            "Latorcai Levente"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              0,
+              3
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balog Gábor",
+            "Hajdu Márton",
+            "Kurtucz Ferenc Krisztián",
+            "Latorcai Levente",
+            "Turán Simon"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              1.0,
+              3,
+              4
+            ],
+            [
+              0.0,
+              0,
+              0
+            ],
+            [
+              0.0,
+              0,
+              0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136129",
       "comp_code": "hun2b",

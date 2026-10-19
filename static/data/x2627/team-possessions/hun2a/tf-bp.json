@@ -1,7 +1,7 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -85,6 +85,34 @@
         "fta": 26,
         "oreb": 5,
         "tov_total": 7
+      }
+    },
+    {
+      "gamecode": "hun2a_135783",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-18",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 62,
+      "their_score": 89,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 3,
+        "three_m": 5,
+        "dunk_m": 0,
+        "ft": 12,
+        "close_x": 6,
+        "mid_x": 12,
+        "three_x": 16,
+        "dunk_x": 0,
+        "tov": 16,
+        "fga": 62,
+        "fta": 22,
+        "oreb": 10,
+        "tov_total": 16
       }
     }
   ]
