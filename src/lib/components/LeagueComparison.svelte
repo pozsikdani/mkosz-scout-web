@@ -13,10 +13,12 @@
 	};
 
 	const categories: Category[] = [
-		{ title: 'Net Rating', key: 'nrtg', fmt: (v) => (v > 0 ? '+' : '') + v.toFixed(1), ascending: false },
-		{ title: 'Offensive Rtg (PPG)', key: 'ppg', fmt: (v) => v.toFixed(1), ascending: false },
-		{ title: 'Defensive Rtg (OPPG)', key: 'oppg', fmt: (v) => v.toFixed(1), ascending: true },
+		{ title: 'Net Rating (/100 poss)', key: 'nrtg', fmt: (v) => (v > 0 ? '+' : '') + v.toFixed(1), ascending: false },
+		{ title: 'Offensive Rtg (/100 poss)', key: 'ortg', fmt: (v) => v.toFixed(1), ascending: false },
+		{ title: 'Defensive Rtg (/100 poss)', key: 'drtg', fmt: (v) => v.toFixed(1), ascending: true },
 		{ title: 'Pace (Poss/G)', key: 'pace', fmt: (v) => v.toFixed(1), ascending: false },
+		{ title: 'Points / G', key: 'ppg', fmt: (v) => v.toFixed(1), ascending: false },
+		{ title: 'Opp. Points / G', key: 'oppg', fmt: (v) => v.toFixed(1), ascending: true },
 		{ title: '3PT%', key: 'tp_pct', fmt: (v) => v.toFixed(1) + '%', ascending: false },
 		{ title: 'FT%', key: 'ft_pct', fmt: (v) => v.toFixed(1) + '%', ascending: false },
 		{ title: 'Rebounds / G', key: 'rpg', fmt: (v) => v.toFixed(1), ascending: false },
@@ -72,7 +74,7 @@
 <div class="mb-4">
 	<h2 class="text-xl font-bold tracking-tight">Liga összehasonlítás</h2>
 	<p class="mt-1 text-xs text-muted">
-		{data.team_count} csapat · 12 statisztikai kategória rangsora · piros sor = {ourTeam}
+		{data.team_count} csapat · {categories.length} statisztikai kategória rangsora · piros sor = {ourTeam}
 	</p>
 </div>
 
@@ -99,7 +101,7 @@
 	</div>
 {/if}
 
-<!-- 12 mini-tables in a responsive grid -->
+<!-- mini-tables in a responsive grid -->
 <div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
 	{#each categories as cat (cat.key)}
 		{@const ranked = rankedFor(cat)}
@@ -135,6 +137,10 @@
 </div>
 
 <p class="mt-4 text-xs text-muted">
-	Forrás: PBP események aggregálva (alapszakasz). Pace = FGA + 0.44·FTA + TOV − OREB. PPG/OPPG az
-	hivatalos MKOSZ tabellából.
+	Forrás: PBP események aggregálva (alapszakasz, a PBP-vel rendelkező meccsek). Labdabirtoklás = FGA
+	+ 0,44·FTA + TOV − OREB (csapat-eladott labdával és csapat-lepattanóval együtt). Offensive Rtg = 100 ×
+	dobott pont / saját labdabirtoklás; Defensive Rtg = 100 × kapott pont / ellenfél labdabirtoklása;
+	a pontok a meccsek hivatalos végeredményéből. Pace = a két csapat átlagos labdabirtoklása meccsenként.
+	Points / G és Opp. Points / G a hivatalos MKOSZ tabellából; a többi box-statisztika csak játékoshoz
+	rögzített eseményekből (egyezik a hivatalos box score-ral).
 </p>

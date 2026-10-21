@@ -13,8 +13,9 @@ Output: static/data/league-comparison/hun2a.json
         {
             "team": "Vasas Akadémia",
             "gp": 26,
-            "ppg": 78.4, "oppg": 82.1, "nrtg": -3.7,
-            "pace": 73.2,
+            "ppg": 78.4, "oppg": 82.1,            // hivatalos tabella
+            "ortg": 104.2, "drtg": 109.1, "nrtg": -4.9,  // 100 labdabirtoklásra (PBP-s meccsek)
+            "pace": 73.2,                          // átlagos labdabirtoklás / meccs (két csapat átlaga)
             "fg_pct": 43.1, "tp_pct": 31.8, "ft_pct": 68.4,
             "rpg": 35.2, "oreb_pg": 11.4, "dreb_pg": 23.8,
             "apg": 14.1, "topg": 13.6, "spg": 7.8, "bpg": 1.2
@@ -37,6 +38,9 @@ DEFAULT_DB = REPO_ROOT.parent / "mkosz-stats" / "mkosz_stats.sqlite"
 DEFAULT_STANDINGS = REPO_ROOT / "static" / "data" / "standings" / "hun2a.json"
 DEFAULT_OUT_DIR = REPO_ROOT / "static" / "data" / "league-comparison"
 DEFAULT_COMP = "hun2a"
+
+BOX_COLS = ("fgm", "fga", "tpm", "tpa", "ftm", "fta", "oreb", "reb", "ast", "tov", "stl", "blk")
+SUM_COLS = ("gp", *BOX_COLS, "pts", "opp_pts", "poss", "opp_poss")
 
 
 def norm_full(name: str) -> str:
@@ -83,38 +87,63 @@ def main() -> int:
     conn = sqlite3.connect(args.db)
     conn.row_factory = sqlite3.Row
 
-    # Aggregate PBP team stats (alapszakasz only — no playoff comps)
-    rows = [dict(r) for r in conn.execute(
-        """
+    # Per-game, per-side PBP aggregates (alapszakasz only — no playoff comps).
+    # Box stats count player events only (matches the official MKOSZ box score);
+    # possessions use all events, since team turnovers / team offensive rebounds
+    # also end or extend possessions.
+    P = "e.player_name IS NOT NULL"
+    game_rows = [dict(r) for r in conn.execute(
+        f"""
         SELECT
+            e.gamecode, e.team AS side,
             CASE WHEN e.team='A' THEN m.team_a_name ELSE m.team_b_name END AS team_name,
-            COUNT(DISTINCT m.gamecode) AS gp,
-            SUM(CASE WHEN e.event_type IN ('CLOSE_MADE','MID_MADE','DUNK_MADE','THREE_MADE') THEN 1 ELSE 0 END) AS fgm,
-            SUM(CASE WHEN e.event_type IN ('CLOSE_MADE','CLOSE_MISS','MID_MADE','MID_MISS','DUNK_MADE','DUNK_MISS','THREE_MADE','THREE_MISS') THEN 1 ELSE 0 END) AS fga,
-            SUM(CASE WHEN e.event_type='THREE_MADE' THEN 1 ELSE 0 END) AS tpm,
-            SUM(CASE WHEN e.event_type IN ('THREE_MADE','THREE_MISS') THEN 1 ELSE 0 END) AS tpa,
-            SUM(CASE WHEN e.event_type='FT_MADE' THEN 1 ELSE 0 END) AS ftm,
-            SUM(CASE WHEN e.event_type IN ('FT_MADE','FT_MISS') THEN 1 ELSE 0 END) AS fta,
-            SUM(CASE WHEN e.event_type='OREB' THEN 1 ELSE 0 END) AS oreb,
-            SUM(CASE WHEN e.event_type IN ('OREB','DREB') THEN 1 ELSE 0 END) AS reb,
-            SUM(CASE WHEN e.event_type='AST' THEN 1 ELSE 0 END) AS ast,
-            SUM(CASE WHEN e.event_type='TOV' THEN 1 ELSE 0 END) AS tov,
-            SUM(CASE WHEN e.event_type='STL' THEN 1 ELSE 0 END) AS stl,
-            SUM(CASE WHEN e.event_type='BLK' THEN 1 ELSE 0 END) AS blk
+            m.score_a, m.score_b,
+            SUM(CASE WHEN {P} AND e.event_type IN ('CLOSE_MADE','MID_MADE','DUNK_MADE','THREE_MADE') THEN 1 ELSE 0 END) AS fgm,
+            SUM(CASE WHEN {P} AND e.event_type IN ('CLOSE_MADE','CLOSE_MISS','MID_MADE','MID_MISS','DUNK_MADE','DUNK_MISS','THREE_MADE','THREE_MISS') THEN 1 ELSE 0 END) AS fga,
+            SUM(CASE WHEN {P} AND e.event_type='THREE_MADE' THEN 1 ELSE 0 END) AS tpm,
+            SUM(CASE WHEN {P} AND e.event_type IN ('THREE_MADE','THREE_MISS') THEN 1 ELSE 0 END) AS tpa,
+            SUM(CASE WHEN {P} AND e.event_type='FT_MADE' THEN 1 ELSE 0 END) AS ftm,
+            SUM(CASE WHEN {P} AND e.event_type IN ('FT_MADE','FT_MISS') THEN 1 ELSE 0 END) AS fta,
+            SUM(CASE WHEN {P} AND e.event_type='OREB' THEN 1 ELSE 0 END) AS oreb,
+            SUM(CASE WHEN {P} AND e.event_type IN ('OREB','DREB') THEN 1 ELSE 0 END) AS reb,
+            SUM(CASE WHEN {P} AND e.event_type='AST' THEN 1 ELSE 0 END) AS ast,
+            SUM(CASE WHEN {P} AND e.event_type='TOV' THEN 1 ELSE 0 END) AS tov,
+            SUM(CASE WHEN {P} AND e.event_type='STL' THEN 1 ELSE 0 END) AS stl,
+            SUM(CASE WHEN {P} AND e.event_type='BLK' THEN 1 ELSE 0 END) AS blk,
+            SUM(CASE WHEN e.event_type='OREB' THEN 1 ELSE 0 END) AS oreb_all,
+            SUM(CASE WHEN e.event_type='TOV' THEN 1 ELSE 0 END) AS tov_all
         FROM pbp_events e
         JOIN matches m ON e.gamecode = m.gamecode
         WHERE m.comp_code = ?
           AND m.season = ?
           AND m.score_a > 0
           AND e.event_type != 'UNKNOWN'
-          -- Team-level events (csapat-lepattanó, csapat-eladott labda) are not
-          -- in the official MKOSZ box score totals; count player events only.
-          AND e.player_name IS NOT NULL
-        GROUP BY team_name
+        GROUP BY e.gamecode, e.team
         """,
         (args.comp, args.season),
     ).fetchall()]
     conn.close()
+
+    def possessions(r: dict) -> float:
+        return (r["fga"] or 0) + 0.44 * (r["fta"] or 0) + (r["tov_all"] or 0) - (r["oreb_all"] or 0)
+
+    by_game: dict[str, dict[str, dict]] = {}
+    for r in game_rows:
+        by_game.setdefault(r["gamecode"], {})[r["side"]] = r
+
+    # Per-team totals; points come from the official final score of the same games
+    rows: list[dict] = []
+    for sides in by_game.values():
+        if len(sides) != 2:
+            continue
+        for side, r in sides.items():
+            opp = sides["B" if side == "A" else "A"]
+            own_pts = r["score_a"] if side == "A" else r["score_b"]
+            opp_pts = r["score_b"] if side == "A" else r["score_a"]
+            row = {k: r[k] for k in BOX_COLS}
+            row.update(team_name=r["team_name"], gp=1, pts=own_pts, opp_pts=opp_pts,
+                       poss=possessions(r), opp_poss=possessions(opp))
+            rows.append(row)
 
     # Merge encoding/name variants
     merged: dict[str, dict] = {}
@@ -125,8 +154,7 @@ def main() -> int:
         k = merge_key(tn)
         if k in merged:
             ex = merged[k]
-            for col in ("gp", "fgm", "fga", "tpm", "tpa", "ftm", "fta",
-                        "oreb", "reb", "ast", "tov", "stl", "blk"):
+            for col in SUM_COLS:
                 ex[col] = (ex[col] or 0) + (r[col] or 0)
             if len(tn) > len(ex["team_name"]):
                 ex["team_name"] = tn
@@ -153,8 +181,7 @@ def main() -> int:
         ck = canon["team"]
         if ck in by_canon:
             ex = by_canon[ck]
-            for col in ("gp", "fgm", "fga", "tpm", "tpa", "ftm", "fta",
-                        "oreb", "reb", "ast", "tov", "stl", "blk"):
+            for col in SUM_COLS:
                 ex[col] = (ex[col] or 0) + (r[col] or 0)
         else:
             by_canon[ck] = dict(r)
@@ -170,14 +197,19 @@ def main() -> int:
         else:
             ppg = oppg = 0.0
 
-        poss = (r["fga"] or 0) + 0.44 * (r["fta"] or 0) + (r["tov"] or 0) - (r["oreb"] or 0)
+        poss = r["poss"] or 0
+        opp_poss = r["opp_poss"] or 0
+        ortg = round(100 * r["pts"] / poss, 1) if poss else 0.0
+        drtg = round(100 * r["opp_pts"] / opp_poss, 1) if opp_poss else 0.0
         out_teams.append({
             "team": canon["team"],
             "gp": int(r["gp"] or 0),
             "ppg": ppg,
             "oppg": oppg,
-            "nrtg": round(ppg - oppg, 1),
-            "pace": round(poss / gp, 1),
+            "ortg": ortg,
+            "drtg": drtg,
+            "nrtg": round(ortg - drtg, 1),
+            "pace": round((poss + opp_poss) / (2 * gp), 1),
             "fg_pct": round((r["fgm"] or 0) * 100 / r["fga"], 1) if r["fga"] else 0.0,
             "tp_pct": round((r["tpm"] or 0) * 100 / r["tpa"], 1) if r["tpa"] else 0.0,
             "ft_pct": round((r["ftm"] or 0) * 100 / r["fta"], 1) if r["fta"] else 0.0,

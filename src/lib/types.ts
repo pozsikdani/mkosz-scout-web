@@ -250,6 +250,8 @@ export interface LeagueComparisonTeam {
 	gp: number;
 	ppg: number;
 	oppg: number;
+	ortg: number;
+	drtg: number;
 	nrtg: number;
 	pace: number;
 	fg_pct: number;
