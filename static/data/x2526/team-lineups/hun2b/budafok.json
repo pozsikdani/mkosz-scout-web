@@ -1,0 +1,4451 @@
+{
+  "team": "BUDAFOK",
+  "season": "x2526",
+  "match_count": 32,
+  "matches": [
+    {
+      "gamecode": "hun2b_ply_134663",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-20",
+      "opponent": "DH BASKET",
+      "home": false,
+      "result": "L",
+      "our_score": 75,
+      "their_score": 94,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Czepanecz Tamás",
+          "jersey": 9,
+          "minutes": 9,
+          "points": 0,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "budafok-czepanecz-tamas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 38,
+          "points": 14,
+          "reb": 9,
+          "ast": 5,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 22,
+          "points": 7,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 24,
+          "minutes": 26,
+          "points": 14,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "budafok-toth-balazs.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 31,
+          "points": 12,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            },
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134661",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-15",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "L",
+      "our_score": 62,
+      "their_score": 104,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 13,
+          "points": 6,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 27,
+          "points": 10,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 16,
+          "points": 7,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 29,
+          "points": 10,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 24,
+          "minutes": 24,
+          "points": 9,
+          "reb": 11,
+          "ast": 2,
+          "photo_filename": "budafok-toth-balazs.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134231",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-08",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": true,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 83,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 25,
+          "points": 6,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 19,
+              "count": 3,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 30,
+          "points": 6,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 19,
+          "points": 0,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 33,
+          "points": 12,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Piukovics Bálint Branko",
+          "jersey": 21,
+          "minutes": 17,
+          "points": 6,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "budafok-piukovics-balint-branko.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134229",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-05",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": false,
+      "result": "L",
+      "our_score": 71,
+      "their_score": 79,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 32,
+          "points": 16,
+          "reb": 15,
+          "ast": 0,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            },
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 36,
+          "points": 8,
+          "reb": 7,
+          "ast": 5,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 30,
+          "points": 17,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 32,
+          "points": 9,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 12,
+          "points": 7,
+          "reb": 0,
+          "ast": 2,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134227",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-02",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": true,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 33,
+          "points": 18,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 33,
+          "points": 15,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 28,
+          "points": 5,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 27,
+          "points": 11,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 29,
+          "points": 15,
+          "reb": 4,
+          "ast": 6,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kozári Gergő",
+              "jersey": 10,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "budafok-kozari-gergo.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134225",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-30",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": false,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 59,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 32,
+          "points": 18,
+          "reb": 9,
+          "ast": 4,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 29,
+          "points": 12,
+          "reb": 1,
+          "ast": 6,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            },
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 27,
+          "points": 13,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 37,
+          "points": 10,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 21,
+          "points": 10,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134201",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-24",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 66,
+      "their_score": 59,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 33,
+          "points": 26,
+          "reb": 8,
+          "ast": 2,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 32,
+          "points": 12,
+          "reb": 11,
+          "ast": 3,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 23,
+          "points": 5,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 35,
+          "points": 0,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 17,
+          "points": 5,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134199",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-21",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 28,
+          "points": 9,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 32,
+          "points": 29,
+          "reb": 8,
+          "ast": 2,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 22,
+          "points": 9,
+          "reb": 7,
+          "ast": 6,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 28,
+          "points": 21,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 20,
+          "points": 11,
+          "reb": 0,
+          "ast": 3,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134197",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-18",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 72,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 32,
+          "points": 6,
+          "reb": 11,
+          "ast": 3,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 30,
+          "points": 19,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 29,
+              "count": 2,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 30,
+          "points": 9,
+          "reb": 9,
+          "ast": 3,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": "budafok-bago-martin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 37,
+          "points": 5,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 29,
+          "points": 10,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 30,
+              "count": 2,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134195",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-15",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 106,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 18,
+          "points": 14,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 26,
+          "points": 19,
+          "reb": 3,
+          "ast": 6,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kozári Gergő",
+              "jersey": 10,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "budafok-kozari-gergo.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 15,
+          "points": 4,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 24,
+          "points": 14,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 16,
+          "points": 10,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124435",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-04-02",
+      "opponent": "VÁSÁRHELYI KOSÁRSULI",
+      "home": true,
+      "result": "W",
+      "our_score": 109,
+      "their_score": 84,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 25,
+          "points": 13,
+          "reb": 8,
+          "ast": 3,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            },
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 27,
+          "points": 14,
+          "reb": 4,
+          "ast": 8,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 27,
+          "points": 20,
+          "reb": 15,
+          "ast": 6,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 19,
+          "points": 12,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            },
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 24,
+          "minutes": 20,
+          "points": 12,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "budafok-toth-balazs.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124419",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-29",
+      "opponent": "DH BASKET",
+      "home": false,
+      "result": "L",
+      "our_score": 66,
+      "their_score": 79,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 34,
+          "points": 22,
+          "reb": 15,
+          "ast": 3,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 34,
+          "points": 5,
+          "reb": 4,
+          "ast": 7,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 27,
+          "points": 9,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 17,
+          "points": 0,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 6,
+          "points": 3,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124409",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-20",
+      "opponent": "NEOSPORT KOZÁRMISLENY SE",
+      "home": true,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 26,
+          "points": 13,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 14,
+              "count": 3,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 24,
+          "points": 14,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 33,
+              "count": 2,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely Soma",
+          "jersey": 27,
+          "minutes": 35,
+          "points": 8,
+          "reb": 7,
+          "ast": 3,
+          "photo_filename": "budafok-kovacs-gergely-soma.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 40,
+          "points": 4,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": []
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 33,
+          "points": 27,
+          "reb": 3,
+          "ast": 7,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124399",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-06",
+      "opponent": "BÉKÉSCSABAI KK",
+      "home": false,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 32,
+          "points": 18,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 29,
+          "points": 8,
+          "reb": 8,
+          "ast": 6,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 23,
+          "points": 10,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            },
+            {
+              "name": "Hamza Huba Madocsa",
+              "jersey": 74,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "budafok-hamza-huba-madocsa.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 24,
+          "points": 15,
+          "reb": 5,
+          "ast": 8,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Piukovics Bálint Branko",
+          "jersey": 21,
+          "minutes": 20,
+          "points": 0,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "budafok-piukovics-balint-branko.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124387",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-02-27",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 78,
+      "their_score": 65,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 26,
+          "points": 3,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 22,
+              "count": 3,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Kovács Gergely Soma",
+              "jersey": 27,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-kovacs-gergely-soma.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 28,
+          "points": 8,
+          "reb": 7,
+          "ast": 8,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 40,
+          "points": 7,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": []
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 28,
+          "points": 19,
+          "reb": 5,
+          "ast": 4,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 22,
+          "points": 8,
+          "reb": 10,
+          "ast": 1,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124375",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-02-13",
+      "opponent": "PTE-PEAC",
+      "home": false,
+      "result": "W",
+      "our_score": 80,
+      "their_score": 59,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 29,
+          "points": 26,
+          "reb": 14,
+          "ast": 3,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 34,
+          "points": 12,
+          "reb": 11,
+          "ast": 5,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Kozári Gergő",
+              "jersey": 10,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-kozari-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 21,
+          "points": 0,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 32,
+          "points": 13,
+          "reb": 8,
+          "ast": 5,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 26,
+          "points": 10,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124365",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-02-06",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": true,
+      "result": "L",
+      "our_score": 57,
+      "their_score": 83,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 27,
+          "points": 9,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 26,
+          "points": 5,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 35,
+          "points": 13,
+          "reb": 2,
+          "ast": 7,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 24,
+          "minutes": 21,
+          "points": 9,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "budafok-toth-balazs.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 34,
+          "points": 11,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124345",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-30",
+      "opponent": "ESZTERHÁZY SC",
+      "home": true,
+      "result": "W",
+      "our_score": 100,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 21,
+          "points": 9,
+          "reb": 5,
+          "ast": 9,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 18,
+          "points": 8,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 18,
+          "points": 10,
+          "reb": 4,
+          "ast": 9,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 24,
+          "minutes": 25,
+          "points": 10,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "budafok-toth-balazs.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 23,
+          "points": 18,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124331",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-24",
+      "opponent": "SMTPLUS-NAGYKŐRÖSI SÓLYMOK KE",
+      "home": false,
+      "result": "L",
+      "our_score": 81,
+      "their_score": 94,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 32,
+          "points": 8,
+          "reb": 10,
+          "ast": 4,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 37,
+          "points": 29,
+          "reb": 5,
+          "ast": 6,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 38,
+          "points": 2,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 33,
+          "points": 17,
+          "reb": 2,
+          "ast": 5,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 24,
+          "minutes": 15,
+          "points": 7,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "budafok-toth-balazs.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124325",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-16",
+      "opponent": "PÉNZÜGYŐR SPORTEGYESÜLET",
+      "home": true,
+      "result": "W",
+      "our_score": 85,
+      "their_score": 64,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 25,
+          "points": 8,
+          "reb": 8,
+          "ast": 3,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            },
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 25,
+          "points": 17,
+          "reb": 5,
+          "ast": 4,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Varga Dániel Géza",
+              "jersey": 13,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-varga-daniel-geza.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 32,
+          "points": 15,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 30,
+          "points": 14,
+          "reb": 4,
+          "ast": 6,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Piukovics Bálint Branko",
+          "jersey": 21,
+          "minutes": 18,
+          "points": 9,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "budafok-piukovics-balint-branko.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Kozári Gergő",
+              "jersey": 10,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "budafok-kozari-gergo.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124311",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-09",
+      "opponent": "GYKC UNI GYŐR",
+      "home": false,
+      "result": "W",
+      "our_score": 81,
+      "their_score": 72,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 30,
+          "points": 27,
+          "reb": 13,
+          "ast": 2,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 30,
+          "points": 14,
+          "reb": 6,
+          "ast": 6,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kozári Gergő",
+              "jersey": 10,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "budafok-kozari-gergo.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 27,
+          "points": 9,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 21,
+          "points": 1,
+          "reb": 4,
+          "ast": 6,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Piukovics Bálint Branko",
+          "jersey": 21,
+          "minutes": 15,
+          "points": 5,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "budafok-piukovics-balint-branko.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124303",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-19",
+      "opponent": "VÁSÁRHELYI KOSÁRSULI",
+      "home": false,
+      "result": "W",
+      "our_score": 82,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 38,
+          "points": 26,
+          "reb": 19,
+          "ast": 3,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Czepanecz Tamás",
+              "jersey": 9,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "budafok-czepanecz-tamas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 35,
+          "points": 16,
+          "reb": 7,
+          "ast": 6,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 22,
+          "points": 4,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 31,
+          "points": 11,
+          "reb": 11,
+          "ast": 7,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Piukovics Bálint Branko",
+          "jersey": 21,
+          "minutes": 20,
+          "points": 7,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "budafok-piukovics-balint-branko.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124287",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-12",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "W",
+      "our_score": 105,
+      "their_score": 103,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 48,
+          "points": 24,
+          "reb": 13,
+          "ast": 5,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Czepanecz Tamás",
+              "jersey": 9,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "budafok-czepanecz-tamas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Czepanecz Tamás",
+          "jersey": 9,
+          "minutes": 28,
+          "points": 0,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "budafok-czepanecz-tamas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 48,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 60,
+          "points": 24,
+          "reb": 10,
+          "ast": 11,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": []
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 60,
+          "points": 19,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 36,
+          "points": 24,
+          "reb": 4,
+          "ast": 7,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 31,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Czepanecz Tamás",
+              "jersey": 9,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "budafok-czepanecz-tamas.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124277",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-05",
+      "opponent": "NEOSPORT KOZÁRMISLENY SE",
+      "home": false,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 94,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 37,
+          "points": 13,
+          "reb": 18,
+          "ast": 1,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Czepanecz Tamás",
+              "jersey": 9,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "budafok-czepanecz-tamas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Czepanecz Tamás",
+          "jersey": 9,
+          "minutes": 13,
+          "points": 2,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "budafok-czepanecz-tamas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 35,
+          "points": 22,
+          "reb": 8,
+          "ast": 3,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Medvei Keve Károly",
+              "jersey": 68,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "budafok-medvei-keve-karoly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 31,
+          "points": 9,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 19,
+          "points": 5,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124267",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-21",
+      "opponent": "BÉKÉSCSABAI KK",
+      "home": true,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 76,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 36,
+          "points": 26,
+          "reb": 17,
+          "ast": 5,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Czepanecz Tamás",
+              "jersey": 9,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-czepanecz-tamas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 37,
+          "points": 21,
+          "reb": 6,
+          "ast": 10,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 33,
+          "points": 16,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 21,
+          "points": 2,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 29,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 24,
+          "minutes": 23,
+          "points": 7,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "budafok-toth-balazs.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Czepanecz Tamás",
+              "jersey": 9,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-czepanecz-tamas.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124255",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-16",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 80,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 36,
+          "points": 17,
+          "reb": 15,
+          "ast": 2,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 38,
+          "points": 28,
+          "reb": 11,
+          "ast": 8,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 32,
+          "points": 7,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 16,
+          "points": 9,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 14,
+          "points": 0,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124243",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-07",
+      "opponent": "PTE-PEAC",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 77,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Czepanecz Tamás",
+          "jersey": 9,
+          "minutes": 14,
+          "points": 0,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "budafok-czepanecz-tamas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 20,
+          "points": 9,
+          "reb": 3,
+          "ast": 8,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 16,
+          "points": 10,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kódor Tamás Olivér",
+          "jersey": 30,
+          "minutes": 21,
+          "points": 8,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "budafok-kodor-tamas-oliver.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lados Erik Botond",
+          "jersey": 33,
+          "minutes": 20,
+          "points": 21,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "budafok-lados-erik-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124233",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-31",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": false,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 84,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 32,
+          "points": 17,
+          "reb": 8,
+          "ast": 2,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 9,
+              "count": 3,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 29,
+          "points": 14,
+          "reb": 7,
+          "ast": 5,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Moravcsik Áron",
+          "jersey": 6,
+          "minutes": 32,
+          "points": 12,
+          "reb": 4,
+          "ast": 9,
+          "photo_filename": "budafok-moravcsik-aron.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            },
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 9,
+          "points": 4,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vincze Máté",
+          "jersey": 17,
+          "minutes": 18,
+          "points": 2,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "budafok-vincze-mate.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kozári Gergő",
+              "jersey": 10,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "budafok-kozari-gergo.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124213",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-18",
+      "opponent": "ESZTERHÁZY SC",
+      "home": false,
+      "result": "W",
+      "our_score": 81,
+      "their_score": 67,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 34,
+          "points": 15,
+          "reb": 9,
+          "ast": 4,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 26,
+          "points": 7,
+          "reb": 10,
+          "ast": 10,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 30,
+          "points": 11,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 20,
+          "points": 6,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Lados Erik Botond",
+              "jersey": 33,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "budafok-lados-erik-botond.jpg"
+            },
+            {
+              "name": "Czepanecz Tamás",
+              "jersey": 9,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "budafok-czepanecz-tamas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 35,
+          "points": 25,
+          "reb": 9,
+          "ast": 4,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124199",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-10",
+      "opponent": "SMTPLUS-NAGYKŐRÖSI SÓLYMOK",
+      "home": true,
+      "result": "W",
+      "our_score": 92,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 27,
+          "points": 16,
+          "reb": 6,
+          "ast": 4,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            },
+            {
+              "name": "Katona József Bence",
+              "jersey": 16,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "budafok-katona-jozsef-bence.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 30,
+          "points": 23,
+          "reb": 8,
+          "ast": 4,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 13,
+          "points": 5,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 27,
+              "count": 4,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 19,
+          "points": 0,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 34,
+          "points": 18,
+          "reb": 11,
+          "ast": 5,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124193",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-03",
+      "opponent": "PÉNZÜGYŐR SPORTEGYESÜLET",
+      "home": false,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 25,
+          "points": 22,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kódor Tamás Olivér",
+              "jersey": 30,
+              "minutes": 6,
+              "count": 2,
+              "photo_filename": "budafok-kodor-tamas-oliver.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 26,
+          "points": 11,
+          "reb": 7,
+          "ast": 5,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            },
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 21,
+          "points": 12,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 25,
+          "points": 7,
+          "reb": 5,
+          "ast": 9,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Horváth Áron",
+              "jersey": 45,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "budafok-horvath-aron.jpg"
+            },
+            {
+              "name": "Kozári Gergő",
+              "jersey": 10,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-kozari-gergo.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 29,
+          "points": 22,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "budafok-bago-martin.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124179",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-09-26",
+      "opponent": "GYKC UNI GYŐR",
+      "home": true,
+      "result": "W",
+      "our_score": 78,
+      "their_score": 74,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 20,
+          "minutes": 17,
+          "points": 9,
+          "reb": 7,
+          "ast": 0,
+          "photo_filename": "budafok-bago-martin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            },
+            {
+              "name": "Siklós Olivér Balázs",
+              "jersey": 12,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "budafok-siklos-oliver-balazs.jpg"
+            },
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Katona József Bence",
+          "jersey": 16,
+          "minutes": 35,
+          "points": 20,
+          "reb": 11,
+          "ast": 3,
+          "photo_filename": "budafok-katona-jozsef-bence.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Piukovics Bálint Branko",
+              "jersey": 21,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "budafok-piukovics-balint-branko.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 10,
+          "minutes": 27,
+          "points": 3,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "budafok-kozari-gergo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Vincze Máté",
+              "jersey": 17,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "budafok-vincze-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Siklós Olivér Balázs",
+          "jersey": 12,
+          "minutes": 19,
+          "points": 4,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "budafok-siklos-oliver-balazs.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Moravcsik Áron",
+              "jersey": 6,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": "budafok-moravcsik-aron.jpg"
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": 24,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "budafok-toth-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Varga Dániel Géza",
+          "jersey": 13,
+          "minutes": 49,
+          "points": 15,
+          "reb": 13,
+          "ast": 2,
+          "photo_filename": "budafok-varga-daniel-geza.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bagó Martin",
+              "jersey": 20,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "budafok-bago-martin.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

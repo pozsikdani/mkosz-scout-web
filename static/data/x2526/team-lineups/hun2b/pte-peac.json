@@ -1,0 +1,3792 @@
+{
+  "team": "PTE-PEAC",
+  "season": "x2526",
+  "match_count": 27,
+  "matches": [
+    {
+      "gamecode": "hun2b_plya_134263",
+      "comp_code": "hun2b_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-14",
+      "opponent": "GYKC UNI GYŐR",
+      "home": false,
+      "result": "W",
+      "our_score": 103,
+      "their_score": 82,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 34,
+          "points": 25,
+          "reb": 4,
+          "ast": 6,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 32,
+          "points": 34,
+          "reb": 9,
+          "ast": 1,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 37,
+          "points": 11,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Németh Zsombor",
+              "jersey": 8,
+              "minutes": 3,
+              "count": 2,
+              "photo_filename": "pte-peac-nemeth-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 31,
+          "points": 19,
+          "reb": 9,
+          "ast": 6,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zalay Botond",
+          "jersey": 4,
+          "minutes": 13,
+          "points": 7,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "pte-peac-zalay-botond.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Teszárik Márton",
+              "jersey": 77,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_plya_134261",
+      "comp_code": "hun2b_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-05-07",
+      "opponent": "GYKC UNI GYŐR",
+      "home": true,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 90,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Kelemen Benjámin",
+          "jersey": 0,
+          "minutes": 22,
+          "points": 13,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "pte-peac-kelemen-benjamin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 18,
+              "count": 3,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 30,
+          "points": 20,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 35,
+              "count": 2,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 26,
+          "points": 13,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 19,
+          "points": 11,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 3,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 35,
+          "points": 23,
+          "reb": 8,
+          "ast": 8,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_plya_134253",
+      "comp_code": "hun2b_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-28",
+      "opponent": "ESZTERHÁZY SC",
+      "home": false,
+      "result": "L",
+      "our_score": 69,
+      "their_score": 95,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Kelemen Benjámin",
+          "jersey": 0,
+          "minutes": 27,
+          "points": 4,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "pte-peac-kelemen-benjamin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 33,
+          "points": 27,
+          "reb": 16,
+          "ast": 0,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 38,
+          "points": 19,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 17,
+          "points": 0,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 32,
+          "points": 16,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_plya_134251",
+      "comp_code": "hun2b_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-23",
+      "opponent": "ESZTERHÁZY SC",
+      "home": true,
+      "result": "W",
+      "our_score": 91,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 28,
+          "points": 11,
+          "reb": 6,
+          "ast": 2,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 29,
+          "points": 18,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 4,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 26,
+          "points": 9,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 23,
+          "points": 8,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 40,
+          "points": 22,
+          "reb": 8,
+          "ast": 8,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_plya_134249",
+      "comp_code": "hun2b_plya",
+      "phase": "rajatszas_also",
+      "date": "2026-04-18",
+      "opponent": "ESZTERHÁZY SC",
+      "home": false,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 82,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Győr Bálint Gergely",
+          "jersey": 6,
+          "minutes": 17,
+          "points": 6,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "pte-peac-gyor-balint-gergely.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 31,
+              "count": 3,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kelemen Benjámin",
+          "jersey": 0,
+          "minutes": 31,
+          "points": 2,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "pte-peac-kelemen-benjamin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 34,
+          "points": 17,
+          "reb": 6,
+          "ast": 4,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Ersoz Berke",
+              "jersey": 31,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 26,
+          "points": 15,
+          "reb": 7,
+          "ast": 2,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 31,
+          "points": 27,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Teszárik Márton",
+              "jersey": 77,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124433",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-04-02",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": true,
+      "result": "L",
+      "our_score": 89,
+      "their_score": 97,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 8,
+          "points": 5,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kelemen Benjámin",
+          "jersey": 0,
+          "minutes": 18,
+          "points": 6,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "pte-peac-kelemen-benjamin.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 22,
+          "points": 6,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 14,
+          "points": 0,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 28,
+          "points": 15,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124423",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-27",
+      "opponent": "BÉKÉSCSABAI KK",
+      "home": true,
+      "result": "L",
+      "our_score": 88,
+      "their_score": 90,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Jolsvai András Gábor",
+          "jersey": 23,
+          "minutes": 5,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 13,
+          "points": 5,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 32,
+          "points": 17,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Ersoz Berke",
+              "jersey": 31,
+              "minutes": 1,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 24,
+          "points": 5,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 37,
+          "points": 22,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124411",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-22",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 98,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Győr Bálint Gergely",
+          "jersey": 6,
+          "minutes": 14,
+          "points": 2,
+          "reb": 10,
+          "ast": 0,
+          "photo_filename": "pte-peac-gyor-balint-gergely.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Jolsvai András Gábor",
+          "jersey": 23,
+          "minutes": 22,
+          "points": 2,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 18,
+          "points": 6,
+          "reb": 9,
+          "ast": 2,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": 0,
+              "minutes": 22,
+              "count": 5,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 34,
+          "points": 9,
+          "reb": 7,
+          "ast": 6,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 37,
+          "points": 34,
+          "reb": 2,
+          "ast": 8,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124307",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-13",
+      "opponent": "SMTPLUS-NAGYKŐRÖSI SÓLYMOK",
+      "home": true,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 82,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antal Donát Gergő",
+          "jersey": 12,
+          "minutes": 12,
+          "points": 3,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "pte-peac-antal-donat-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Ersoz Berke",
+          "jersey": 31,
+          "minutes": 26,
+          "points": 9,
+          "reb": 2,
+          "ast": 2,
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 7,
+              "count": 3,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 21,
+          "points": 2,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 19,
+              "count": 3,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 34,
+          "points": 26,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 38,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Teszárik Márton",
+              "jersey": 77,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 38,
+          "points": 18,
+          "reb": 9,
+          "ast": 0,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Ersoz Berke",
+              "jersey": 31,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124395",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-06",
+      "opponent": "GYKC UNI GYŐR",
+      "home": true,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 80,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 20,
+          "points": 0,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Ersoz Berke",
+              "jersey": 31,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Jolsvai András Gábor",
+          "jersey": 23,
+          "minutes": 18,
+          "points": 2,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 18,
+              "count": 3,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            },
+            {
+              "name": "Czink László Gábor",
+              "jersey": 13,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-czink-laszlo-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 22,
+          "points": 10,
+          "reb": 5,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 34,
+          "points": 26,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Ersoz Berke",
+              "jersey": 31,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 38,
+          "points": 28,
+          "reb": 5,
+          "ast": 5,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124385",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-01",
+      "opponent": "PÉNZÜGYŐR SPORTEGYESÜLET",
+      "home": false,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 86,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antal Donát Gergő",
+          "jersey": 12,
+          "minutes": 26,
+          "points": 0,
+          "reb": 10,
+          "ast": 2,
+          "photo_filename": "pte-peac-antal-donat-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Czink László Gábor",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "pte-peac-czink-laszlo-gabor.jpg"
+            },
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": null,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 23,
+          "points": 11,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": null,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            },
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 17,
+          "points": 7,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Czink László Gábor",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "pte-peac-czink-laszlo-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 35,
+          "points": 14,
+          "reb": 4,
+          "ast": 5,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 40,
+          "points": 29,
+          "reb": 2,
+          "ast": 10,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124375",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-02-13",
+      "opponent": "BUDAFOK",
+      "home": true,
+      "result": "L",
+      "our_score": 59,
+      "their_score": 80,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 23,
+          "points": 8,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 21,
+          "points": 3,
+          "reb": 9,
+          "ast": 2,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 38,
+          "points": 20,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 31,
+          "points": 11,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 38,
+              "count": 2,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 31,
+          "points": 4,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 9,
+              "count": 3,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124363",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-02-06",
+      "opponent": "VÁSÁRHELYI KOSÁRSULI",
+      "home": false,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 83,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 26,
+          "points": 8,
+          "reb": 9,
+          "ast": 0,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 24,
+          "points": 8,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Teszárik Márton",
+              "jersey": 77,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 17,
+          "points": 4,
+          "reb": 6,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            },
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": null,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 27,
+          "points": 17,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 32,
+          "points": 6,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Teszárik Márton",
+              "jersey": 77,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124353",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-30",
+      "opponent": "NEOSPORT KOZÁRMISLENY SE",
+      "home": true,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 97,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 14,
+          "points": 2,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 14,
+          "points": 6,
+          "reb": 4,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Kelemen Benjámin",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "pte-peac-kelemen-benjamin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 28,
+          "points": 17,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 28,
+          "points": 15,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 30,
+          "points": 20,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124339",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-25",
+      "opponent": "DH BASKET",
+      "home": false,
+      "result": "L",
+      "our_score": 85,
+      "their_score": 87,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 28,
+          "points": 17,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 31,
+          "points": 10,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Jolsvai András Gábor",
+          "jersey": 23,
+          "minutes": 18,
+          "points": 3,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 25,
+          "points": 11,
+          "reb": 11,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 15,
+              "count": 4,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 36,
+          "points": 20,
+          "reb": 2,
+          "ast": 7,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124321",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-16",
+      "opponent": "ESZTERHÁZY SC",
+      "home": true,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 80,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 26,
+          "points": 6,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 8,
+              "count": 3,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 26,
+          "points": 19,
+          "reb": 15,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 35,
+          "points": 19,
+          "reb": 8,
+          "ast": 7,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Teszárik Márton",
+              "jersey": 77,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 34,
+          "points": 16,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 6,
+              "count": 2,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 33,
+          "points": 14,
+          "reb": 3,
+          "ast": 6,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124301",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-19",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": false,
+      "result": "L",
+      "our_score": 66,
+      "their_score": 67,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dorotic Patrik",
+          "jersey": 30,
+          "minutes": 16,
+          "points": 0,
+          "reb": 8,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 21,
+          "points": 5,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 38,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 17,
+          "points": 1,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 37,
+          "points": 17,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 38,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 38,
+          "points": 19,
+          "reb": 1,
+          "ast": 4,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124291",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-12",
+      "opponent": "BÉKÉSCSABAI KK",
+      "home": false,
+      "result": "L",
+      "our_score": 67,
+      "their_score": 79,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dorotic Patrik",
+          "jersey": 30,
+          "minutes": 30,
+          "points": 14,
+          "reb": 10,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 32,
+          "points": 8,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 28,
+          "points": 16,
+          "reb": 11,
+          "ast": 2,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 12,
+              "count": 3,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 25,
+          "points": 14,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 34,
+          "points": 5,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124279",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-05",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": true,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 84,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 20,
+          "points": 4,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 20,
+              "count": 3,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 22,
+          "points": 5,
+          "reb": 4,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            },
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 25,
+          "points": 7,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 21,
+              "count": 4,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 21,
+          "points": 2,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 25,
+              "count": 3,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 31,
+          "points": 16,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 9,
+              "count": 3,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124263",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-21",
+      "opponent": "GYKC UNI GYŐR",
+      "home": false,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 7,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 32,
+          "points": 18,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Teszárik Márton",
+              "jersey": 77,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 11,
+          "points": 4,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 30,
+          "points": 7,
+          "reb": 8,
+          "ast": 2,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 29,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 37,
+          "points": 8,
+          "reb": 6,
+          "ast": 13,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124253",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-14",
+      "opponent": "PÉNZÜGYŐR SPORTEGYESÜLET",
+      "home": true,
+      "result": "L",
+      "our_score": 76,
+      "their_score": 79,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dorotic Patrik",
+          "jersey": 30,
+          "minutes": 15,
+          "points": 7,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 29,
+          "points": 13,
+          "reb": 12,
+          "ast": 3,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 6,
+              "count": 3,
+              "photo_filename": null
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 26,
+          "points": 9,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 29,
+              "count": 2,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 23,
+          "points": 5,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 34,
+          "points": 17,
+          "reb": 4,
+          "ast": 7,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124243",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-07",
+      "opponent": "BUDAFOK",
+      "home": false,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 89,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dorotic Patrik",
+          "jersey": 30,
+          "minutes": 31,
+          "points": 19,
+          "reb": 12,
+          "ast": 4,
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 8,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 22,
+          "points": 7,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 20,
+              "count": 3,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 26,
+          "points": 11,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": 12,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 26,
+          "points": 5,
+          "reb": 3,
+          "ast": 5,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124231",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-31",
+      "opponent": "VÁSÁRHELYI KOSÁRSULI",
+      "home": true,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 7,
+          "points": 2,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 15,
+          "points": 3,
+          "reb": 7,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 27,
+          "points": 25,
+          "reb": 6,
+          "ast": 4,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 32,
+          "points": 13,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 30,
+          "points": 17,
+          "reb": 6,
+          "ast": 6,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 12,
+              "count": 5,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124175",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-25",
+      "opponent": "SMTPLUS-NAGYKŐRÖSI SÓLYMOK KE",
+      "home": false,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 87,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dorotic Patrik",
+          "jersey": 30,
+          "minutes": 26,
+          "points": 11,
+          "reb": 8,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Füzesi András",
+          "jersey": 2,
+          "minutes": 23,
+          "points": 5,
+          "reb": 0,
+          "ast": 2,
+          "photo_filename": "pte-peac-fuzesi-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Teszárik Márton",
+              "jersey": 77,
+              "minutes": 16,
+              "count": 3,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 21,
+          "points": 1,
+          "reb": 2,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 21,
+          "points": 8,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            },
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 32,
+          "points": 18,
+          "reb": 5,
+          "ast": 7,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124221",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-17",
+      "opponent": "NEOSPORT KOZÁRMISLENY SE",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 87,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dorotic Patrik",
+          "jersey": 30,
+          "minutes": 29,
+          "points": 8,
+          "reb": 9,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Bánfi Balázs",
+              "jersey": 15,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "pte-peac-banfi-balazs.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Barna",
+          "jersey": 34,
+          "minutes": 23,
+          "points": 2,
+          "reb": 3,
+          "ast": 1,
+          "subs": [
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 29,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 26,
+          "points": 19,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": 77,
+          "minutes": 17,
+          "points": 2,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Jolsvai András Gábor",
+              "jersey": 23,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-jolsvai-andras-gabor.jpg"
+            },
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 33,
+          "points": 23,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124207",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-12",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 83,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antal Donát Gergő",
+          "jersey": 12,
+          "minutes": 4,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pte-peac-antal-donat-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 14,
+          "points": 2,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": null
+            },
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Kevin Krisztián",
+          "jersey": 11,
+          "minutes": 27,
+          "points": 11,
+          "reb": 0,
+          "ast": 2,
+          "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": 9,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": 32,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 26,
+          "points": 10,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Dorotic Patrik",
+              "jersey": 30,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 27,
+          "points": 16,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 8,
+              "count": 4,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 11,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "pte-peac-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124189",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-05",
+      "opponent": "ESZTERHÁZY SC",
+      "home": false,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 94,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antal Donát Gergő",
+          "jersey": 12,
+          "minutes": 5,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "pte-peac-antal-donat-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": 2,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bánfi Balázs",
+          "jersey": 15,
+          "minutes": 25,
+          "points": 9,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "pte-peac-banfi-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": 6,
+              "minutes": 14,
+              "count": 3,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": 32,
+          "minutes": 11,
+          "points": 2,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Barna",
+              "jersey": 34,
+              "minutes": 29,
+              "count": 3,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": 9,
+          "minutes": 34,
+          "points": 17,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Váits Olivér",
+              "jersey": 7,
+              "minutes": 34,
+              "count": 2,
+              "photo_filename": "pte-peac-vaits-oliver.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 7,
+          "minutes": 34,
+          "points": 21,
+          "reb": 2,
+          "ast": 8,
+          "photo_filename": "pte-peac-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": 31,
+              "minutes": 9,
+              "count": 3,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": 4,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

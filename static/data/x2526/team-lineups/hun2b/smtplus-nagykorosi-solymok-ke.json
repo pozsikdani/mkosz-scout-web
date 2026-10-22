@@ -1,0 +1,4421 @@
+{
+  "team": "SMTPlus-Nagykőrösi Sólymok KE",
+  "season": "x2526",
+  "match_count": 29,
+  "matches": [
+    {
+      "gamecode": "hun2b_ply_134669",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-18",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 79,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 26,
+          "points": 27,
+          "reb": 14,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 31,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Bence",
+          "jersey": 7,
+          "minutes": 17,
+          "points": 4,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 31,
+          "points": 7,
+          "reb": 6,
+          "ast": 6,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Okoh Victor Kelechi",
+          "jersey": 1,
+          "minutes": 24,
+          "points": 6,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Szokonya Gergő",
+              "jersey": 20,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-szokonya-gergo.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 27,
+          "points": 12,
+          "reb": 0,
+          "ast": 7,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134667",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-14",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 91,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 27,
+          "points": 22,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kocsis Attila",
+          "jersey": 15,
+          "minutes": 20,
+          "points": 3,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 23,
+          "points": 3,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Okoh Victor Kelechi",
+          "jersey": 1,
+          "minutes": 22,
+          "points": 2,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 29,
+          "points": 15,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134237",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-10",
+      "opponent": "BÉKÉSCSABAI KK",
+      "home": true,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 74,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 31,
+          "points": 27,
+          "reb": 13,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 22,
+          "points": 7,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 32,
+          "points": 15,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Okoh Victor Kelechi",
+          "jersey": 1,
+          "minutes": 26,
+          "points": 2,
+          "reb": 14,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 27,
+          "points": 13,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134235",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-05-06",
+      "opponent": "BÉKÉSCSABAI KK",
+      "home": false,
+      "result": "W",
+      "our_score": 92,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Fehér Péter József",
+          "jersey": 13,
+          "minutes": 21,
+          "points": 5,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 26,
+          "points": 25,
+          "reb": 11,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 14,
+              "count": 4,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 18,
+          "points": 6,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Okoh Victor Kelechi",
+          "jersey": 1,
+          "minutes": 20,
+          "points": 5,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 21,
+          "points": 3,
+          "reb": 5,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134209",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-21",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "L",
+      "our_score": 72,
+      "their_score": 77,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 26,
+          "points": 9,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Szokonya Gergő",
+              "jersey": 20,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-szokonya-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 26,
+          "points": 4,
+          "reb": 10,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 26,
+          "points": 5,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Okoh Victor Kelechi",
+          "jersey": 1,
+          "minutes": 22,
+          "points": 6,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 28,
+          "points": 19,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134207",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-19",
+      "opponent": "DH BASKET",
+      "home": false,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Fehér Péter József",
+          "jersey": 13,
+          "minutes": 25,
+          "points": 11,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 27,
+          "points": 20,
+          "reb": 9,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 21,
+          "points": 8,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 30,
+          "points": 11,
+          "reb": 2,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 27,
+          "points": 7,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_ply_134205",
+      "comp_code": "hun2b_ply",
+      "phase": "rajatszas_felso",
+      "date": "2026-04-15",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 31,
+          "points": 12,
+          "reb": 8,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 18,
+          "points": 9,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 29,
+          "points": 11,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Okoh Victor Kelechi",
+          "jersey": 1,
+          "minutes": 16,
+          "points": 2,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 33,
+          "points": 9,
+          "reb": 1,
+          "ast": 6,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124427",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-04-02",
+      "opponent": "ESZTERHÁZY SC",
+      "home": true,
+      "result": "W",
+      "our_score": 92,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 28,
+          "points": 18,
+          "reb": 8,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 34,
+          "points": 26,
+          "reb": 8,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 17,
+          "points": 6,
+          "reb": 1,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 21,
+          "points": 7,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 19,
+          "points": 16,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124415",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-27",
+      "opponent": "GYKC UNI GYŐR",
+      "home": false,
+      "result": "W",
+      "our_score": 76,
+      "their_score": 55,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 19,
+          "points": 8,
+          "reb": 8,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fehér Péter József",
+          "jersey": 13,
+          "minutes": 25,
+          "points": 7,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 30,
+          "points": 11,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 23,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Molnár Bence",
+              "jersey": 7,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 26,
+          "points": 20,
+          "reb": 5,
+          "ast": 6,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124403",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-21",
+      "opponent": "PÉNZÜGYŐR SPORTEGYESÜLET",
+      "home": true,
+      "result": "W",
+      "our_score": 85,
+      "their_score": 72,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 29,
+          "points": 16,
+          "reb": 12,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 31,
+          "points": 25,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 24,
+          "points": 7,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 32,
+          "points": 16,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 32,
+          "points": 13,
+          "reb": 5,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124307",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-13",
+      "opponent": "PTE-PEAC",
+      "home": false,
+      "result": "W",
+      "our_score": 82,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Béres Benedek",
+          "jersey": 3,
+          "minutes": 20,
+          "points": 4,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 34,
+          "points": 13,
+          "reb": 12,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 6,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 34,
+          "points": 27,
+          "reb": 9,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 24,
+          "points": 3,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 26,
+          "points": 14,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124391",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-03-07",
+      "opponent": "DH BASKET",
+      "home": false,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 74,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 32,
+          "points": 32,
+          "reb": 16,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fehér Péter József",
+          "jersey": 13,
+          "minutes": 39,
+          "points": 16,
+          "reb": 15,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 0,
+          "points": 16,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": []
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 27,
+          "points": 9,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 31,
+          "points": 9,
+          "reb": 3,
+          "ast": 7,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 31,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124379",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-02-28",
+      "opponent": "NEOSPORT KOZÁRMISLENY SE",
+      "home": true,
+      "result": "L",
+      "our_score": 64,
+      "their_score": 78,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Béres Benedek",
+          "jersey": 3,
+          "minutes": 22,
+          "points": 3,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 30,
+          "points": 20,
+          "reb": 9,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 24,
+          "points": 11,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 31,
+          "points": 10,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 23,
+          "points": 4,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124367",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-02-11",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 100,
+      "their_score": 94,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Béres Benedek",
+          "jersey": 3,
+          "minutes": 25,
+          "points": 6,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 31,
+          "points": 8,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Okoh Victor Kelechi",
+              "jersey": 1,
+              "minutes": 9,
+              "count": 4,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gera Ferenc",
+          "jersey": 22,
+          "minutes": 35,
+          "points": 19,
+          "reb": 11,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 37,
+          "points": 21,
+          "reb": 3,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 30,
+          "points": 10,
+          "reb": 2,
+          "ast": 7,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 16,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124355",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-02-08",
+      "opponent": "BÉKÉSCSABAI KK",
+      "home": true,
+      "result": "L",
+      "our_score": 71,
+      "their_score": 83,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Béres Benedek",
+          "jersey": 3,
+          "minutes": 16,
+          "points": 5,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 35,
+          "points": 19,
+          "reb": 12,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 25,
+          "points": 6,
+          "reb": 7,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 38,
+          "points": 12,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 33,
+          "points": 7,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 38,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124343",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-30",
+      "opponent": "VÁSÁRHELYI KOSÁRSULI",
+      "home": false,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 80,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Béres Benedek",
+          "jersey": 3,
+          "minutes": 13,
+          "points": 4,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 37,
+          "points": 16,
+          "reb": 19,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 19,
+          "points": 4,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 30,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 33,
+          "points": 16,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 28,
+          "points": 11,
+          "reb": 2,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 33,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124331",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-24",
+      "opponent": "BUDAFOK",
+      "home": true,
+      "result": "W",
+      "our_score": 94,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Béres Benedek",
+          "jersey": 3,
+          "minutes": 22,
+          "points": 4,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 27,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 40,
+          "points": 13,
+          "reb": 16,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": []
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 20,
+          "points": 10,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Gera Ferenc",
+              "jersey": 22,
+              "minutes": 27,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 32,
+          "points": 14,
+          "reb": 2,
+          "ast": 6,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 19,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 32,
+          "points": 10,
+          "reb": 5,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124319",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-01-17",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 85,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 36,
+          "points": 19,
+          "reb": 12,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 39,
+          "points": 5,
+          "reb": 9,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 1,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 28,
+          "points": 9,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 39,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 35,
+          "points": 11,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 22,
+          "points": 12,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 35,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124295",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-20",
+      "opponent": "ESZTERHÁZY SC",
+      "home": false,
+      "result": "L",
+      "our_score": 58,
+      "their_score": 89,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 38,
+          "points": 22,
+          "reb": 15,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kónya Levente",
+          "jersey": 4,
+          "minutes": 4,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-konya-levente.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Márton Ákos",
+          "jersey": 5,
+          "minutes": 40,
+          "points": 5,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg",
+          "position": "4",
+          "subs": []
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 25,
+          "points": 9,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 38,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 36,
+          "points": 10,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 30,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124283",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-13",
+      "opponent": "GYKC UNI GYŐR",
+      "home": true,
+      "result": "W",
+      "our_score": 75,
+      "their_score": 45,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Béres Benedek",
+          "jersey": 3,
+          "minutes": 24,
+          "points": 9,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 23,
+          "points": 10,
+          "reb": 14,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 22,
+          "points": 11,
+          "reb": 9,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            },
+            {
+              "name": "Szokonya Gergő",
+              "jersey": 20,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-szokonya-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 30,
+          "points": 5,
+          "reb": 7,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 33,
+          "points": 10,
+          "reb": 10,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124271",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-12-06",
+      "opponent": "PÉNZÜGYŐR SPORTEGYESÜLET",
+      "home": false,
+      "result": "L",
+      "our_score": 81,
+      "their_score": 83,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Béres Benedek",
+          "jersey": 3,
+          "minutes": 32,
+          "points": 14,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 40,
+          "points": 20,
+          "reb": 19,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": []
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 40,
+          "points": 8,
+          "reb": 8,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": []
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 34,
+          "points": 17,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 33,
+          "points": 14,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 34,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124259",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-22",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "W",
+      "our_score": 73,
+      "their_score": 60,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 40,
+          "points": 22,
+          "reb": 22,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": []
+        },
+        {
+          "name": "Kocsis Attila",
+          "jersey": 15,
+          "minutes": 24,
+          "points": 12,
+          "reb": 7,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Kovács Gergely",
+              "jersey": 22,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 34,
+          "points": 6,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Sárai- Szabó Zsolt",
+              "jersey": 10,
+              "minutes": 6,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-sarai-szabo-zsolt.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 34,
+          "points": 13,
+          "reb": 0,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 22,
+          "points": 11,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124247",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-14",
+      "opponent": "NEOSPORT KOZÁRMISLENY SE",
+      "home": false,
+      "result": "L",
+      "our_score": 59,
+      "their_score": 77,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 40,
+          "points": 16,
+          "reb": 18,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": []
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 34,
+          "points": 4,
+          "reb": 5,
+          "ast": 6,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 6,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 33,
+          "points": 8,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 34,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 36,
+          "points": 18,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 34,
+          "points": 6,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 36,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124235",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-11-08",
+      "opponent": "SZÁZHALOMBATTAI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 104,
+      "their_score": 96,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 48,
+          "points": 30,
+          "reb": 19,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 45,
+          "points": 11,
+          "reb": 10,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 45,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Sárai- Szabó Zsolt",
+              "jersey": 10,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-sarai-szabo-zsolt.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 11,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 39,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 48,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 45,
+          "points": 24,
+          "reb": 6,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 33,
+          "points": 8,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 45,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124223",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-31",
+      "opponent": "BÉKÉSCSABAI KK",
+      "home": false,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 35,
+          "points": 18,
+          "reb": 12,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kocsis Attila",
+          "jersey": 15,
+          "minutes": 20,
+          "points": 9,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 25,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 30,
+          "points": 15,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            },
+            {
+              "name": "Szokonya Gergő",
+              "jersey": 20,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-szokonya-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 17,
+          "points": 12,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 25,
+          "points": 19,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124175",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-25",
+      "opponent": "PTE-PEAC",
+      "home": true,
+      "result": "W",
+      "our_score": 87,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 34,
+          "points": 22,
+          "reb": 12,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 23,
+          "points": 10,
+          "reb": 7,
+          "ast": 5,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Miklós",
+          "jersey": 11,
+          "minutes": 13,
+          "points": 6,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 34,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 26,
+          "points": 12,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 23,
+          "points": 4,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124211",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-17",
+      "opponent": "VÁSÁRHELYI KOSÁRSULI",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 34,
+          "points": 38,
+          "reb": 20,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fehér Péter József",
+          "jersey": 13,
+          "minutes": 28,
+          "points": 10,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 28,
+          "points": 3,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 30,
+          "points": 11,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 31,
+          "points": 14,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124199",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-10",
+      "opponent": "BUDAFOK",
+      "home": false,
+      "result": "L",
+      "our_score": 68,
+      "their_score": 92,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 33,
+          "points": 13,
+          "reb": 14,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Mári György József",
+              "jersey": 99,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-mari-gyorgy-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 25,
+          "points": 0,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 15,
+              "count": 3,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mári György József",
+          "jersey": 99,
+          "minutes": 13,
+          "points": 0,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-mari-gyorgy-jozsef.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 31,
+          "points": 18,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            },
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence",
+          "jersey": 8,
+          "minutes": 26,
+          "points": 11,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Fehér Péter József",
+              "jersey": 13,
+              "minutes": 29,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gamecode": "hun2b_124187",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2025-10-05",
+      "opponent": "FOODY-BASKETBAJA SE",
+      "home": true,
+      "result": "W",
+      "our_score": 85,
+      "their_score": 82,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csorvási Milán",
+          "jersey": 12,
+          "minutes": 37,
+          "points": 22,
+          "reb": 13,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Béres Benedek",
+              "jersey": 3,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg"
+            },
+            {
+              "name": "Mári György József",
+              "jersey": 99,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-mari-gyorgy-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fehér Péter József",
+          "jersey": 13,
+          "minutes": 31,
+          "points": 14,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Mári György József",
+              "jersey": 99,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-mari-gyorgy-jozsef.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Gergely",
+          "jersey": 22,
+          "minutes": 27,
+          "points": 5,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            },
+            {
+              "name": "Tóth Bence",
+              "jersey": 8,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-toth-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mári György József",
+          "jersey": 99,
+          "minutes": 12,
+          "points": 4,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-mari-gyorgy-jozsef.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Márton Ákos",
+              "jersey": 5,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg"
+            },
+            {
+              "name": "Mészáros Bence",
+              "jersey": 2,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg"
+            },
+            {
+              "name": "Csorvási Milán",
+              "jersey": 12,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mészáros Bence",
+          "jersey": 2,
+          "minutes": 29,
+          "points": 8,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Molnár Miklós",
+              "jersey": 11,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-miklos.jpg"
+            },
+            {
+              "name": "Kocsis Attila",
+              "jersey": 15,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
