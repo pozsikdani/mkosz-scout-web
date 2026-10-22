@@ -19,6 +19,7 @@
 		{ title: 'Pace (Poss/G)', key: 'pace', fmt: (v) => v.toFixed(1), ascending: false },
 		{ title: 'Points / G', key: 'ppg', fmt: (v) => v.toFixed(1), ascending: false },
 		{ title: 'Opp. Points / G', key: 'oppg', fmt: (v) => v.toFixed(1), ascending: true },
+		{ title: '2PT%', key: 'two_pct', fmt: (v) => v.toFixed(1) + '%', ascending: false },
 		{ title: '3PT%', key: 'tp_pct', fmt: (v) => v.toFixed(1) + '%', ascending: false },
 		{ title: 'FT%', key: 'ft_pct', fmt: (v) => v.toFixed(1) + '%', ascending: false },
 		{ title: 'Rebounds / G', key: 'rpg', fmt: (v) => v.toFixed(1), ascending: false },

@@ -16,7 +16,7 @@ Output: static/data/league-comparison/hun2a.json
             "ppg": 78.4, "oppg": 82.1,            // hivatalos tabella
             "ortg": 104.2, "drtg": 109.1, "nrtg": -4.9,  // 100 labdabirtoklásra (PBP-s meccsek)
             "pace": 73.2,                          // átlagos labdabirtoklás / meccs (két csapat átlaga)
-            "fg_pct": 43.1, "tp_pct": 31.8, "ft_pct": 68.4,
+            "fg_pct": 43.1, "two_pct": 50.2, "tp_pct": 31.8, "ft_pct": 68.4,
             "rpg": 35.2, "oreb_pg": 11.4, "dreb_pg": 23.8,
             "apg": 14.1, "topg": 13.6, "spg": 7.8, "bpg": 1.2
         }
@@ -211,6 +211,8 @@ def main() -> int:
             "nrtg": round(ortg - drtg, 1),
             "pace": round((poss + opp_poss) / (2 * gp), 1),
             "fg_pct": round((r["fgm"] or 0) * 100 / r["fga"], 1) if r["fga"] else 0.0,
+            "two_pct": round(((r["fgm"] or 0) - (r["tpm"] or 0)) * 100 / ((r["fga"] or 0) - (r["tpa"] or 0)), 1)
+            if (r["fga"] or 0) > (r["tpa"] or 0) else 0.0,
             "tp_pct": round((r["tpm"] or 0) * 100 / r["tpa"], 1) if r["tpa"] else 0.0,
             "ft_pct": round((r["ftm"] or 0) * 100 / r["fta"], 1) if r["fta"] else 0.0,
             "rpg": round((r["reb"] or 0) / gp, 1),

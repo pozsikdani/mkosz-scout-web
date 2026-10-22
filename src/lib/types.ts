@@ -258,6 +258,7 @@ export interface LeagueComparisonTeam {
 	nrtg: number;
 	pace: number;
 	fg_pct: number;
+	two_pct: number;
 	tp_pct: number;
 	ft_pct: number;
 	rpg: number;
