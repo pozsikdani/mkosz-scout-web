@@ -218,9 +218,12 @@ export interface LineupRow {
 	min: number;
 	pf: number;
 	pa: number;
+	/** estimated possessions (FGA + 0.44·FTA + TOV − OREB) for us / for the opponent */
+	poss: number;
+	oposs: number;
 	is_starter: boolean;
-	/** [min, pf, pa] indexed by opponent starters on court (0..5); null if unknown */
-	opp?: [number, number, number][] | null;
+	/** [min, pf, pa, poss, oposs] indexed by opponent starters on court (0..5); null if unknown */
+	opp?: [number, number, number, number, number][] | null;
 }
 
 export interface LineupNRtgMatch {

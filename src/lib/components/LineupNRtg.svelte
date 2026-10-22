@@ -48,6 +48,8 @@
 		min: number;
 		pf: number;
 		pa: number;
+		poss: number;
+		oposs: number;
 		gp: number;
 		is_starter: boolean;
 		oppMin: number; // minutes with known opponent context
@@ -62,13 +64,17 @@
 				let min = lu.min;
 				let pf = lu.pf;
 				let pa = lu.pa;
+				let poss = lu.poss;
+				let oposs = lu.oposs;
 				if (buckets) {
 					if (!lu.opp) continue;
-					min = pf = pa = 0;
+					min = pf = pa = poss = oposs = 0;
 					for (const b of buckets) {
 						min += lu.opp[b][0];
 						pf += lu.opp[b][1];
 						pa += lu.opp[b][2];
+						poss += lu.opp[b][3];
+						oposs += lu.opp[b][4];
 					}
 					if (min <= 0 && pf === 0 && pa === 0) continue;
 				}
@@ -87,6 +93,8 @@
 					existing.min += min;
 					existing.pf += pf;
 					existing.pa += pa;
+					existing.poss += poss;
+					existing.oposs += oposs;
 					existing.gp += 1;
 					existing.oppMin += oppMin;
 					existing.oppStarterMin += oppStarterMin;
@@ -97,6 +105,8 @@
 						min,
 						pf,
 						pa,
+						poss,
+						oposs,
 						gp: 1,
 						is_starter: lu.is_starter,
 						oppMin,
@@ -108,6 +118,23 @@
 		return Array.from(map.values()).sort((a, b) => b.min - a.min);
 	});
 
+	// Ratings per 100 possessions (same definition as the league comparison)
+	function ortg(lu: Agg): number | null {
+		return lu.poss >= 1 ? (100 * lu.pf) / lu.poss : null;
+	}
+	function drtg(lu: Agg): number | null {
+		return lu.oposs >= 1 ? (100 * lu.pa) / lu.oposs : null;
+	}
+	function nrtg100(lu: Agg): number | null {
+		const o = ortg(lu);
+		const d = drtg(lu);
+		return o === null || d === null ? null : o - d;
+	}
+	function fmtRtg(v: number | null, signed = false): string {
+		if (v === null) return '—';
+		return (signed && v > 0 ? '+' : '') + v.toFixed(1);
+	}
+
 	function avgOppStarters(lu: Agg): string {
 		return lu.oppMin > 0 ? (lu.oppStarterMin / lu.oppMin).toFixed(1) : '—';
 	}
@@ -116,7 +143,7 @@
 	const topLineups = $derived(filteredLineups.slice(0, 12));
 
 	function nrtgColor(nrtg: number): string {
-		const intensity = Math.min(Math.abs(nrtg) / 50, 1);
+		const intensity = Math.min(Math.abs(nrtg) / 60, 1);
 		if (nrtg >= 0) {
 			const a = 0.08 + intensity * 0.32;
 			return `rgba(0, 184, 148, ${a.toFixed(3)})`;
@@ -184,7 +211,8 @@
 <div class="mb-4">
 	<h2 class="text-xl font-bold tracking-tight">Lineup Net Rating</h2>
 	<p class="mt-1 text-xs text-muted">
-		Ötösök perceken, dobott/kapott pontokon és NRTG/40-en számolva · PBP esemény-követéssel
+		Ötösök perceken, labdabirtokláson, dobott/kapott pontokon és 100 labdabirtoklásra vetített
+		ratingen számolva · PBP esemény-követéssel
 	</p>
 </div>
 
@@ -383,7 +411,10 @@
 					<th class="w-12 px-2 py-2 text-right">PTS+</th>
 					<th class="w-12 px-2 py-2 text-right">PTS-</th>
 					<th class="w-12 px-2 py-2 text-right">NET</th>
-					<th class="w-16 px-2 py-2 text-right">NRTG/40</th>
+					<th class="w-12 px-2 py-2 text-right" title="Becsült saját labdabirtoklás">POSS</th>
+					<th class="w-14 px-2 py-2 text-right" title="Offensive Rating: 100 × dobott pont / saját labdabirtoklás">ORTG</th>
+					<th class="w-14 px-2 py-2 text-right" title="Defensive Rating: 100 × kapott pont / ellenfél labdabirtoklása">DRTG</th>
+					<th class="w-16 px-2 py-2 text-right" title="Net Rating: ORTG − DRTG (100 labdabirtoklásra)">NRTG</th>
 					<th
 						class="w-16 whitespace-nowrap px-2 py-2 text-right"
 						title="Átlagosan hány ellenfél-kezdő volt a pályán (percekkel súlyozva)"
@@ -395,7 +426,8 @@
 			<tbody>
 				{#each topLineups as lu (lu.players.join('|'))}
 					{@const net = lu.pf - lu.pa}
-					{@const nrtg = lu.min > 0 ? (net / lu.min) * 40 : 0}
+					{@const nr = nrtg100(lu)}
+					{@const nrtg = nr ?? 0}
 					<tr style:background-color={nrtgColor(nrtg)} class:font-bold={lu.is_starter}>
 						<td class="px-3 py-2">
 							<span class:font-bold={lu.is_starter} class="text-xs">
@@ -418,12 +450,15 @@
 						>
 							{net > 0 ? '+' : ''}{net}
 						</td>
+						<td class="px-2 py-2 text-right font-mono text-muted">{lu.poss.toFixed(0)}</td>
+						<td class="px-2 py-2 text-right font-mono">{fmtRtg(ortg(lu))}</td>
+						<td class="px-2 py-2 text-right font-mono">{fmtRtg(drtg(lu))}</td>
 						<td
 							class="px-2 py-2 text-right font-mono font-bold"
 							class:text-positive={nrtg > 0}
 							class:text-negative={nrtg < 0}
 						>
-							{nrtg > 0 ? '+' : ''}{nrtg.toFixed(1)}
+							{fmtRtg(nr, true)}
 						</td>
 						<td class="px-2 py-2 text-right font-mono text-muted">{avgOppStarters(lu)}</td>
 					</tr>
@@ -434,7 +469,9 @@
 {/if}
 
 <p class="mt-4 text-xs text-muted">
-	[S5] = projected starting five (kezdőötös) · NRTG/40 = net pontkülönbség 40 perces vetítésben ·
+	[S5] = projected starting five (kezdőötös) · POSS = becsült saját labdabirtoklás (FGA + 0,44·FTA +
+	TOV − OREB) · ORTG / DRTG = dobott / kapott pont 100 saját / ellenfél-labdabirtoklásra · NRTG =
+	ORTG − DRTG (ugyanaz a definíció, mint a Liga összehasonlításban) ·
 	Ø ELL. K = átlagosan hány ellenfél-kezdő volt a pályán (0–5, percekkel súlyozva); a „Kezdők
 	ellen / Cserék ellen" szűrő csak az adott ellenfél-összetétel melletti perceket és pontokat
 	számolja · Forrás: PBP események (csere + scoring) lineup-szintű attribúcióval

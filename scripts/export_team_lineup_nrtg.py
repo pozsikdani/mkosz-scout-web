@@ -24,8 +24,9 @@ Output: static/data/team-lineup-nrtg/{slug}.json
             "has_pbp": true,
             "starters": ["Bérces", "Farkas", ...],   // sorted canonical names
             "lineups": [
-                {"players": ["A","B","C","D","E"], "min": 12.5, "pf": 24, "pa": 18, "is_starter": true,
-                 "opp": [[min, pf, pa] × 6]}  // index = opponent starters on court (0..5), null if unknown
+                {"players": ["A","B","C","D","E"], "min": 12.5, "pf": 24, "pa": 18,
+                 "poss": 25.3, "oposs": 24.8, "is_starter": true,
+                 "opp": [[min, pf, pa, poss, oposs] × 6]}  // index = opponent starters on court (0..5), null if unknown
             ]
         }
     ]
@@ -55,6 +56,13 @@ PHASE_MAP = {
     "hun2b": "alapszakasz",
     "hun2b_ply": "rajatszas_felso",
     "hun2b_plya": "rajatszas_also",
+}
+
+# Possession estimate weights: FGA + 0.44·FTA + TOV − OREB
+POSS_WEIGHT: dict[str, float] = {
+    **{t: 1.0 for t in ("CLOSE_MADE", "CLOSE_MISS", "MID_MADE", "MID_MISS",
+                        "DUNK_MADE", "DUNK_MISS", "THREE_MADE", "THREE_MISS")},
+    "FT_MADE": 0.44, "FT_MISS": 0.44, "TOV": 1.0, "OREB": -1.0,
 }
 
 TEAM_ALIASES: dict[str, list[str]] = {
@@ -214,20 +222,22 @@ def compute_match_lineups(
         kind = "sub" if tm == team_side else "osub"
         sub_events.append((seq, kind, gt, name_key(in_n), name_key(out_n), 0, None))
 
-    # Scoring events for both teams
+    # Scoring + possession events for both teams. Possessions are estimated the
+    # same way as in the league comparison: FGA + 0.44·FTA + TOV − OREB, with
+    # team-level turnovers / offensive rebounds included.
     score_rows = conn.execute(
-        """
-        SELECT event_seq, quarter, minute, team, points
+        f"""
+        SELECT event_seq, quarter, minute, team, points, event_type
         FROM pbp_events
-        WHERE gamecode=? AND points > 0
+        WHERE gamecode=? AND (points > 0 OR event_type IN ({",".join("?" * len(POSS_WEIGHT))}))
         ORDER BY event_seq
         """,
-        (gamecode,),
+        (gamecode, *POSS_WEIGHT),
     ).fetchall()
     score_events = []
-    for seq, q, mn, tm, pts in score_rows:
+    for seq, q, mn, tm, pts, etype in score_rows:
         gt = mn or 0  # minute is cumulative game time (1-40, OT 41+)
-        score_events.append((seq, "score", gt, None, None, pts, tm))
+        score_events.append((seq, "score", gt, POSS_WEIGHT.get(etype, 0.0), None, pts or 0, tm))
 
     all_ev = sorted(sub_events + score_events, key=lambda x: x[0])
 
@@ -248,7 +258,8 @@ def compute_match_lineups(
     opp_on = set(opp_starters) if opp_starters else set()
     last_t = 0.0
     stats: dict[frozenset, dict] = defaultdict(
-        lambda: {"min": 0.0, "pf": 0, "pa": 0, "opp": [[0.0, 0, 0] for _ in range(6)]}
+        lambda: {"min": 0.0, "pf": 0, "pa": 0, "poss": 0.0, "oposs": 0.0,
+                 "opp": [[0.0, 0, 0, 0.0, 0.0] for _ in range(6)]}
     )
 
     def opp_bucket() -> int:
@@ -271,15 +282,19 @@ def compute_match_lineups(
             add_time(gt)
             opp_on.discard(out_k)
             opp_on.add(in_k)
-        else:  # score
+        else:  # score / possession event (in_k carries the possession weight)
             s = stats[frozenset(on_court)]
             b = s["opp"][opp_bucket()]
             if tm == team_side:
                 s["pf"] += pts
                 b[1] += pts
+                s["poss"] += in_k
+                b[3] += in_k
             else:
                 s["pa"] += pts
                 b[2] += pts
+                s["oposs"] += in_k
+                b[4] += in_k
 
     add_time(end_time)
 
@@ -288,16 +303,19 @@ def compute_match_lineups(
     for lk, s in stats.items():
         if len(lk) != 5:
             continue
-        if s["min"] <= 0 and s["pf"] == 0 and s["pa"] == 0:
+        if s["min"] <= 0 and s["pf"] == 0 and s["pa"] == 0 and s["poss"] == 0 and s["oposs"] == 0:
             continue
         rows.append({
             "players_keys": lk,
             "min": round(s["min"], 1),
             "pf": s["pf"],
             "pa": s["pa"],
-            # [min, pf, pa] by number of opponent starters on court (index 0..5);
-            # None when the opponent's starting five is unknown.
-            "opp": [[round(m, 1), pf, pa] for m, pf, pa in s["opp"]] if opp_starters else None,
+            "poss": round(s["poss"], 2),
+            "oposs": round(s["oposs"], 2),
+            # [min, pf, pa, poss, oposs] by number of opponent starters on court
+            # (index 0..5); None when the opponent's starting five is unknown.
+            "opp": [[round(m, 1), pf, pa, round(po, 2), round(opo, 2)] for m, pf, pa, po, opo in s["opp"]]
+            if opp_starters else None,
         })
     return starters, rows
 
@@ -386,6 +404,8 @@ def main() -> int:
                     "min": r["min"],
                     "pf": r["pf"],
                     "pa": r["pa"],
+                    "poss": r["poss"],
+                    "oposs": r["oposs"],
                     "is_starter": r["players_keys"] == starter_keys,
                     "opp": r["opp"],
                 })
