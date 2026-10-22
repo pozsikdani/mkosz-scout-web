@@ -260,6 +260,7 @@ export interface LeagueComparisonTeam {
 	fg_pct: number;
 	two_pct: number;
 	tp_pct: number;
+	three_rate: number;
 	ft_pct: number;
 	rpg: number;
 	oreb_pg: number;

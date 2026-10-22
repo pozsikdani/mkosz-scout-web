@@ -10,6 +10,7 @@
 		key: StatKey;
 		fmt: (v: number) => string;
 		ascending: boolean; // true = lower is better
+		neutral?: boolean; // style metric, not better/worse → no green/red rank colouring
 	};
 
 	const categories: Category[] = [
@@ -20,6 +21,13 @@
 		{ title: 'Points / G', key: 'ppg', fmt: (v) => v.toFixed(1), ascending: false },
 		{ title: 'Opp. Points / G', key: 'oppg', fmt: (v) => v.toFixed(1), ascending: true },
 		{ title: '2PT%', key: 'two_pct', fmt: (v) => v.toFixed(1) + '%', ascending: false },
+		{
+			title: '3PA arány (3PA/FGA)',
+			key: 'three_rate',
+			fmt: (v) => v.toFixed(1) + '%',
+			ascending: false,
+			neutral: true
+		},
 		{ title: '3PT%', key: 'tp_pct', fmt: (v) => v.toFixed(1) + '%', ascending: false },
 		{ title: 'FT%', key: 'ft_pct', fmt: (v) => v.toFixed(1) + '%', ascending: false },
 		{ title: 'Rebounds / G', key: 'rpg', fmt: (v) => v.toFixed(1), ascending: false },
@@ -91,7 +99,7 @@
 				{#if rank !== null}
 					<div class="rounded border border-border bg-bg px-2 py-2 text-center">
 						<p class="text-[9px] font-semibold uppercase tracking-wider text-muted">{cat.title}</p>
-						<p class="mt-1 font-mono text-lg font-bold {rankColor(rank, data.team_count)}">
+						<p class="mt-1 font-mono text-lg font-bold {cat.neutral ? 'text-fg' : rankColor(rank, data.team_count)}">
 							#{rank}
 						</p>
 						<p class="font-mono text-[10px] text-muted">{cat.fmt(ourRow[cat.key])}</p>
@@ -143,5 +151,7 @@
 	dobott pont / saját labdabirtoklás; Defensive Rtg = 100 × kapott pont / ellenfél labdabirtoklása;
 	a pontok a meccsek hivatalos végeredményéből. Pace = a két csapat átlagos labdabirtoklása meccsenként.
 	Points / G és Opp. Points / G a hivatalos MKOSZ tabellából; a többi box-statisztika csak játékoshoz
-	rögzített eseményekből (egyezik a hivatalos box score-ral).
+	rögzített eseményekből (egyezik a hivatalos box score-ral). 3PA arány = a mezőnydobás-kísérletek
+	hány %-a hárompontos — játékstílust mutat (magas = távoli dobásra épít), ezért nem kap zöld/piros
+	színezést.
 </p>
