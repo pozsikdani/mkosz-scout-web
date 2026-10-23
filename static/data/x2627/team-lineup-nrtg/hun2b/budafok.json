@@ -1,8 +1,973 @@
 {
   "team": "BUDAFOK",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2b_136165",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-22",
+      "opponent": "PTE-PEAC",
+      "home": true,
+      "result": "W",
+      "our_score": 70,
+      "their_score": 67,
+      "has_pbp": true,
+      "starters": [
+        "Biber Zsigmond",
+        "Katona József Bence",
+        "Szántó Levente",
+        "Tóth Balázs",
+        "Varga Dániel Géza"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Katona József Bence",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Varga Dániel Géza"
+          ],
+          "min": 12.0,
+          "pf": 13,
+          "pa": 20,
+          "poss": 21.0,
+          "oposs": 23.32,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              1.0,
+              2.0
+            ],
+            [
+              11.0,
+              13,
+              18,
+              20.0,
+              21.32
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Medvei Keve Károly",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Vincze Máté"
+          ],
+          "min": 7.0,
+          "pf": 18,
+          "pa": 9,
+          "poss": 13.84,
+          "oposs": 12.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              5.0,
+              18,
+              5,
+              11.84,
+              9.88
+            ],
+            [
+              2.0,
+              0,
+              4,
+              2.0,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Kódor Tamás Olivér",
+            "Tóth Balázs"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 10,
+          "poss": 4.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              1.0,
+              1.0
+            ],
+            [
+              3.0,
+              3,
+              7,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 3.0,
+          "pf": 1,
+          "pa": 7,
+          "poss": 5.88,
+          "oposs": 6.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              1,
+              7,
+              5.88,
+              6.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Szántó Levente",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 0,
+          "poss": 4.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              2.0,
+              2,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              0,
+              1.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 8,
+          "poss": 6.0,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              5,
+              4.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              2.0,
+              1.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Kódor Tamás Olivér",
+            "Siklós Olivér Balázs",
+            "Vincze Máté"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 4,
+          "poss": 3.88,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              4,
+              3.88,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Szántó Levente",
+            "Tóth Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 1,
+          "poss": 4.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              3.0,
+              1.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              1,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Horváth Áron",
+            "Kiss Benedek Péter",
+            "Siklós Olivér Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 0,
+          "poss": 2.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              0,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              0,
+              2.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Katona József Bence",
+            "Siklós Olivér Balázs",
+            "Szántó Levente",
+            "Varga Dániel Géza"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 0,
+          "poss": 4.88,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              7,
+              0,
+              4.88,
+              4.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kiss Benedek Péter",
+            "Kódor Tamás Olivér",
+            "Siklós Olivér Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 2.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              1.0,
+              2.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Tóth Balázs",
+            "Varga Dániel Géza"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "poss": 1.76,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Horváth Áron",
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Varga Dániel Géza"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 0,
+          "poss": 2.76,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              2.76,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Medvei Keve Károly",
+            "Siklós Olivér Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 2.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              3,
+              2.0,
+              1.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Biber Zsigmond",
+            "Katona József Bence",
+            "Kiss Benedek Péter",
+            "Medvei Keve Károly",
+            "Varga Dániel Géza"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              1.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Katona József Bence",
+            "Szántó Levente",
+            "Tóth Balázs",
+            "Varga Dániel Géza",
+            "Vincze Máté"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 1,
+          "poss": 1.88,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              1,
+              1.88,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136149",
       "comp_code": "hun2b",

@@ -1,8 +1,855 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2b_136165",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-22",
+      "opponent": "BUDAFOK",
+      "home": false,
+      "result": "L",
+      "our_score": 67,
+      "their_score": 70,
+      "has_pbp": true,
+      "starters": [
+        "Czink László Gábor",
+        "Kis Milán Bence",
+        "Korszunszkij Bohdan",
+        "Schuj Márton János",
+        "Zalay Zsombor"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Czink László Gábor",
+            "Kis Milán Bence",
+            "Korszunszkij Bohdan",
+            "Schuj Márton János",
+            "Zalay Zsombor"
+          ],
+          "min": 15.0,
+          "pf": 24,
+          "pa": 27,
+          "poss": 30.08,
+          "oposs": 31.88,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              2,
+              2.88,
+              4.0
+            ],
+            [
+              1.0,
+              3,
+              5,
+              1.88,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              7,
+              4.0,
+              4.88
+            ],
+            [
+              11.0,
+              18,
+              13,
+              21.32,
+              20.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Kis Milán Bence",
+            "Zalay Botond",
+            "Zalay Zsombor"
+          ],
+          "min": 11.0,
+          "pf": 19,
+          "pa": 17,
+          "poss": 17.76,
+          "oposs": 18.4,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              7,
+              1,
+              6.88,
+              5.88
+            ],
+            [
+              8.0,
+              12,
+              16,
+              10.88,
+              12.52
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Kis Milán Bence",
+            "Schuj Márton János",
+            "Zalay Zsombor"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 3,
+          "poss": 4.88,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              3,
+              2.88,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Füzesi András",
+            "Kis Milán Bence",
+            "Schuj Márton János"
+          ],
+          "min": 4.0,
+          "pf": 0,
+          "pa": 10,
+          "poss": 7.0,
+          "oposs": 5.64,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              2,
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              0,
+              6,
+              5.0,
+              3.76
+            ],
+            [
+              1.0,
+              0,
+              2,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Korszunszkij Bohdan",
+            "Schuj Márton János",
+            "Zalay Zsombor"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 3,
+          "poss": 5.44,
+          "oposs": 5.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              7,
+              3,
+              5.44,
+              5.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Gurzó Róbert",
+            "Kis Milán Bence",
+            "Zalay Botond",
+            "Zalay Zsombor"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              0,
+              2.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Czink László Gábor",
+            "Füzesi András",
+            "Kis Milán Bence",
+            "Korszunszkij Bohdan",
+            "Zalay Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 0.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Czink László Gábor",
+            "Füzesi András",
+            "Kis Milán Bence",
+            "Korszunszkij Bohdan",
+            "Schuj Márton János"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 2,
+          "poss": 4.88,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              1.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              1.0,
+              0.88
+            ],
+            [
+              1.0,
+              2,
+              0,
+              2.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Füzesi András",
+            "Gy?r Bálint Gergely",
+            "Schuj Márton János"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Czink László Gábor",
+            "Kis Milán Bence",
+            "Korszunszkij Bohdan",
+            "Zalay Botond",
+            "Zalay Zsombor"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "poss": 0.88,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Kis Milán Bence",
+            "Schuj Márton János",
+            "Zalay Botond"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 2,
+          "poss": 2.88,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              2,
+              2.88,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Gy?r Bálint Gergely",
+            "Schuj Márton János",
+            "Zalay Botond"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "poss": 1.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              1,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Korszunszkij Bohdan",
+            "Zalay Botond",
+            "Zalay Zsombor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 0.0,
+          "oposs": 1.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              0.0,
+              1.32
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Czink László Gábor",
+            "Kis Milán Bence",
+            "Schuj Márton János",
+            "Zalay Botond",
+            "Zalay Zsombor"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 0.88,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136153",
       "comp_code": "hun2b",

@@ -1,7 +1,7 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2b_136107",
@@ -113,6 +113,34 @@
         "fta": 12,
         "oreb": 13,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2b_136165",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-22",
+      "opponent": "BUDAFOK",
+      "home": false,
+      "result": "L",
+      "our_score": 67,
+      "their_score": 70,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 7,
+        "mid_m": 4,
+        "three_m": 10,
+        "dunk_m": 1,
+        "ft": 11,
+        "close_x": 18,
+        "mid_x": 3,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 15,
+        "fga": 68,
+        "fta": 22,
+        "oreb": 13,
+        "tov_total": 15
       }
     }
   ]

@@ -1,9 +1,9 @@
 {
   "season": "x2627",
   "comp": "hun2a",
-  "scraped_at": "2026-10-22T14:00:27+00:00",
+  "scraped_at": "2026-10-23T12:48:03+00:00",
   "team_count": 13,
-  "player_count": 203,
+  "player_count": 204,
   "photo_count": 198,
   "teams": {
     "zte-kk": {
@@ -1634,6 +1634,15 @@
       "team_url": "https://mkosz.hu/csapat/x2627/hun2a/9011/hubner-nyiregyhaza-bs",
       "players": [
         {
+          "name": "Vascsák Noel",
+          "jersey": null,
+          "position": "3",
+          "height_cm": 195,
+          "birth_year": 2010,
+          "photo_url": null,
+          "photo_filename": null
+        },
+        {
           "name": "Verebélyi Áron",
           "jersey": 2,
           "position": "1-2-3",
@@ -1883,15 +1892,6 @@
           "photo_filename": "tf-bp-lorincz-boldizsar-zalan.jpg"
         },
         {
-          "name": "Molnár Dániel",
-          "jersey": null,
-          "position": "1-2",
-          "height_cm": 198,
-          "birth_year": 2008,
-          "photo_url": "https://15th.webpont.com/art/player/photo/A821517.png",
-          "photo_filename": "tf-bp-molnar-daniel.jpg"
-        },
-        {
           "name": "Molnár Marcell József",
           "jersey": null,
           "position": "1-2",
@@ -1899,6 +1899,15 @@
           "birth_year": 1994,
           "photo_url": "https://15th.webpont.com/art/player/photo/A65029.png",
           "photo_filename": "tf-bp-molnar-marcell-jozsef.jpg"
+        },
+        {
+          "name": "Molnár Dániel",
+          "jersey": null,
+          "position": "1-2",
+          "height_cm": 198,
+          "birth_year": 2008,
+          "photo_url": "https://15th.webpont.com/art/player/photo/A821517.png",
+          "photo_filename": "tf-bp-molnar-daniel.jpg"
         },
         {
           "name": "Swanson Kevin Wade",

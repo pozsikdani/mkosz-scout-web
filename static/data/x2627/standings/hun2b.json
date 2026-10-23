@@ -2,21 +2,21 @@
   "season": "x2627",
   "comp": "hun2b",
   "display_name": "NB1 B Zöld",
-  "scraped_at": "2026-10-22T14:00:28+00:00",
+  "scraped_at": "2026-10-23T12:48:04+00:00",
   "source_url": "https://mkosz.hu/bajnoksag/x2627/hun2b",
   "teams": [
     {
       "rank": 1,
       "team": "BUDAFOK",
-      "gp": 4,
-      "w": 4,
+      "gp": 5,
+      "w": 5,
       "l": 0,
-      "scored": 373,
-      "allowed": 282,
-      "streak": "W4",
-      "home": "3-0",
+      "scored": 443,
+      "allowed": 349,
+      "streak": "W5",
+      "home": "4-0",
       "away": "1-0",
-      "last5": "4-0",
+      "last5": "5-0",
       "team_url": "https://mkosz.hu/csapat/x2627/hun2b/9241/budafok"
     },
     {
@@ -161,20 +161,6 @@
     },
     {
       "rank": 12,
-      "team": "PTE-PEAC",
-      "gp": 4,
-      "w": 1,
-      "l": 3,
-      "scored": 256,
-      "allowed": 322,
-      "streak": "L3",
-      "home": "1-1",
-      "away": "0-2",
-      "last5": "1-3",
-      "team_url": "https://mkosz.hu/csapat/x2627/hun2b/40012/pte-peac"
-    },
-    {
-      "rank": 13,
       "team": "Békéscsabai KK",
       "gp": 4,
       "w": 1,
@@ -186,6 +172,20 @@
       "away": "0-2",
       "last5": "1-3",
       "team_url": "https://mkosz.hu/csapat/x2627/hun2b/40005/bekescsabai-kk"
+    },
+    {
+      "rank": 13,
+      "team": "PTE-PEAC",
+      "gp": 5,
+      "w": 1,
+      "l": 4,
+      "scored": 323,
+      "allowed": 392,
+      "streak": "L4",
+      "home": "1-1",
+      "away": "0-3",
+      "last5": "1-4",
+      "team_url": "https://mkosz.hu/csapat/x2627/hun2b/40012/pte-peac"
     }
   ]
 }
