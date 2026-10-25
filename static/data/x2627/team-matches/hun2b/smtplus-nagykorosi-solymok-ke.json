@@ -144,10 +144,27 @@
       "time": "16:00",
       "home": false,
       "opponent": "Budapesti Bikák",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 76,
+      "their_score": 68,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 12,
+          "their": 22
+        },
+        {
+          "our": 17,
+          "their": 10
+        },
+        {
+          "our": 24,
+          "their": 18
+        },
+        {
+          "our": 23,
+          "their": 18
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

@@ -143,12 +143,29 @@
       "date": "2026-10-24",
       "time": "16:30",
       "home": true,
-      "opponent": "Salgótarjáni KSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "SALGÓTARJÁNI KSE",
+      "our_score": 66,
+      "their_score": 58,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 15,
+          "their": 11
+        },
+        {
+          "our": 16,
+          "their": 16
+        },
+        {
+          "our": 22,
+          "their": 17
+        },
+        {
+          "our": 13,
+          "their": 14
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

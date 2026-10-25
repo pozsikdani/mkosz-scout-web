@@ -1,7 +1,7 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -84,6 +84,34 @@
         "fga": 77,
         "fta": 22,
         "oreb": 14,
+        "tov_total": 10
+      }
+    },
+    {
+      "gamecode": "hun2a_135801",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "ÚJBUDA MAFC",
+      "home": true,
+      "result": "L",
+      "our_score": 92,
+      "their_score": 102,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 1,
+        "three_m": 14,
+        "dunk_m": 0,
+        "ft": 14,
+        "close_x": 8,
+        "mid_x": 6,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 10,
+        "fga": 70,
+        "fta": 24,
+        "oreb": 12,
         "tov_total": 10
       }
     }

@@ -1,8 +1,145 @@
 {
   "team": "Budapesti Bikák",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2b_136157",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": true,
+      "result": "L",
+      "our_score": 68,
+      "their_score": 76,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bohunicky Olivér",
+          "jersey": 9,
+          "minutes": 18,
+          "points": 5,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "budapesti-bikak-bohunicky-oliver.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Pleesz Gergő",
+              "jersey": 6,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-pleesz-gergo.jpg"
+            },
+            {
+              "name": "Baki Sándor",
+              "jersey": 13,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-baki-sandor.jpg"
+            },
+            {
+              "name": "Csapai Péter Zsolt",
+              "jersey": 10,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-csapai-peter-zsolt.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bucskó Zalán",
+          "jersey": 4,
+          "minutes": 22,
+          "points": 3,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "budapesti-bikak-bucsko-zalan.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Ménesi Miklós",
+              "jersey": 13,
+              "minutes": 18,
+              "count": 3,
+              "photo_filename": "budapesti-bikak-menesi-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csapai Péter Zsolt",
+          "jersey": 10,
+          "minutes": 35,
+          "points": 22,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "budapesti-bikak-csapai-peter-zsolt.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Szabó Dániel",
+              "jersey": 9,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "budapesti-bikak-szabo-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lajsz Gergely",
+          "jersey": 13,
+          "minutes": 34,
+          "points": 11,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "budapesti-bikak-lajsz-gergely.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Csapai Péter Zsolt",
+              "jersey": 10,
+              "minutes": 35,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-csapai-peter-zsolt.jpg"
+            },
+            {
+              "name": "Szántó Dániel",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-szanto-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szántó Dániel",
+          "jersey": null,
+          "minutes": 33,
+          "points": 9,
+          "reb": 6,
+          "ast": 13,
+          "photo_filename": "budapesti-bikak-szanto-daniel.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Bohunicky Olivér",
+              "jersey": 9,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "budapesti-bikak-bohunicky-oliver.jpg"
+            },
+            {
+              "name": "Pleesz Gergő",
+              "jersey": 6,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-pleesz-gergo.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136141",
       "comp_code": "hun2b",

@@ -109,13 +109,30 @@
       "round": "5. forduló",
       "date": "2026-10-24",
       "time": "18:00",
-      "home": false,
-      "opponent": "Insedo Veszprém Kosárlabda Klub",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "home": true,
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "our_score": 71,
+      "their_score": 90,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 21,
+          "their": 22
+        },
+        {
+          "our": 16,
+          "their": 33
+        },
+        {
+          "our": 17,
+          "their": 20
+        },
+        {
+          "our": 17,
+          "their": 15
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

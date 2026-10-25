@@ -144,10 +144,27 @@
       "time": "17:00",
       "home": true,
       "opponent": "HÜBNER Nyíregyháza BS",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 92,
+      "their_score": 82,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 29,
+          "their": 23
+        },
+        {
+          "our": 12,
+          "their": 21
+        },
+        {
+          "our": 24,
+          "their": 23
+        },
+        {
+          "our": 27,
+          "their": 15
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

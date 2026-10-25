@@ -1,7 +1,7 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2a_135741",
@@ -85,6 +85,34 @@
         "fta": 14,
         "oreb": 10,
         "tov_total": 19
+      }
+    },
+    {
+      "gamecode": "hun2a_135803",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "ZTE KK",
+      "home": false,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 92,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 7,
+        "mid_m": 2,
+        "three_m": 15,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 6,
+        "mid_x": 4,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 18,
+        "fga": 56,
+        "fta": 23,
+        "oreb": 7,
+        "tov_total": 18
       }
     }
   ]

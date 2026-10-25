@@ -1,7 +1,7 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -113,6 +113,34 @@
         "fta": 22,
         "oreb": 10,
         "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2a_135799",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 66,
+      "their_score": 58,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 5,
+        "three_m": 4,
+        "dunk_m": 0,
+        "ft": 16,
+        "close_x": 11,
+        "mid_x": 10,
+        "three_x": 12,
+        "dunk_x": 0,
+        "tov": 10,
+        "fga": 64,
+        "fta": 29,
+        "oreb": 11,
+        "tov_total": 10
       }
     }
   ]

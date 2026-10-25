@@ -111,10 +111,27 @@
       "time": "17:00",
       "home": false,
       "opponent": "ZTE KK",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 82,
+      "their_score": 92,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 23,
+          "their": 29
+        },
+        {
+          "our": 21,
+          "their": 12
+        },
+        {
+          "our": 23,
+          "their": 24
+        },
+        {
+          "our": 15,
+          "their": 27
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

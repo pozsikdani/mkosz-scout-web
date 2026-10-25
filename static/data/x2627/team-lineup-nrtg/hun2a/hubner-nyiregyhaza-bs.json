@@ -1,8 +1,1032 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2a_135803",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "ZTE KK",
+      "home": false,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 92,
+      "has_pbp": true,
+      "starters": [
+        "Bazsó Brúnó Tamás",
+        "Kopácsi Ákos",
+        "Tóth Patrik Kristóf",
+        "Verebélyi Áron",
+        "Végs? Bálint"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Tóth Patrik Kristóf",
+            "Verebélyi Áron",
+            "Végs? Bálint"
+          ],
+          "min": 14.0,
+          "pf": 19,
+          "pa": 23,
+          "poss": 19.76,
+          "oposs": 19.2,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              6.0,
+              9,
+              7,
+              7.88,
+              6.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              8.0,
+              10,
+              16,
+              11.88,
+              12.76
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Goór Dániel",
+            "Kopácsi Ákos",
+            "Orosi Bálint Gábor",
+            "Végs? Bálint"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 10,
+          "poss": 6.88,
+          "oposs": 7.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              4,
+              2.88,
+              3.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              1.0,
+              2.0
+            ],
+            [
+              2.0,
+              3,
+              3,
+              2.0,
+              1.88
+            ],
+            [
+              0.0,
+              3,
+              3,
+              1.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kristóf Péter Kristóf",
+            "Tóth Patrik Kristóf",
+            "Verebélyi Áron",
+            "Végs? Bálint"
+          ],
+          "min": 4.0,
+          "pf": 13,
+          "pa": 7,
+          "poss": 9.08,
+          "oposs": 7.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              6,
+              2,
+              3.32,
+              2.0
+            ],
+            [
+              2.0,
+              7,
+              5,
+              5.76,
+              5.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Orosi Bálint Gábor",
+            "Verebélyi Áron",
+            "Végs? Bálint"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 10,
+          "poss": 6.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              5,
+              3.0,
+              3.0
+            ],
+            [
+              1.0,
+              0,
+              5,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Kristóf Péter Kristóf",
+            "Tóth Patrik Kristóf",
+            "Végs? Bálint"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 10,
+          "poss": 6.0,
+          "oposs": 7.2,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              6,
+              9,
+              4.0,
+              5.32
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              1,
+              1.0,
+              1.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Goór Dániel",
+            "Kristóf Péter Kristóf",
+            "Orosi Bálint Gábor",
+            "Végs? Bálint"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 7,
+          "poss": 2.88,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              7,
+              2.88,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Kristóf Péter Kristóf",
+            "Orosi Bálint Gábor",
+            "Végs? Bálint"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 1,
+          "poss": 3.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              1,
+              1.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Goór Dániel",
+            "Kopácsi Ákos",
+            "Kristóf Péter Kristóf",
+            "Orosi Bálint Gábor",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              1.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kopácsi Ákos",
+            "Kristóf Péter Kristóf",
+            "Orosi Bálint Gábor",
+            "Tóth Patrik Kristóf",
+            "Végs? Bálint"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 5,
+          "poss": 4.0,
+          "oposs": 2.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              4,
+              3.0,
+              1.88
+            ],
+            [
+              0.0,
+              3,
+              1,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kristóf Péter Kristóf",
+            "Orosi Bálint Gábor",
+            "Verebélyi Áron",
+            "Végs? Bálint"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Daróczi Zsombor",
+            "Kopácsi Ákos",
+            "Orosi Bálint Gábor",
+            "Végs? Bálint"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 3,
+          "poss": 2.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              3,
+              2.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Daróczi Zsombor",
+            "Kopácsi Ákos",
+            "Kristóf Péter Kristóf",
+            "Orosi Bálint Gábor"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 3.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Kristóf Péter Kristóf",
+            "Tóth Patrik Kristóf",
+            "Verebélyi Áron"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 6,
+          "poss": 3.88,
+          "oposs": 4.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              1,
+              6,
+              3.88,
+              4.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Goór Dániel",
+            "Kopácsi Ákos",
+            "Kristóf Péter Kristóf",
+            "Tóth Patrik Kristóf"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 4,
+          "poss": 2.88,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              4,
+              2.88,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Kopácsi Ákos",
+            "Orosi Bálint Gábor",
+            "Vascsák Noel",
+            "Végs? Bálint"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Goór Dániel",
+            "Kopácsi Ákos",
+            "Kristóf Péter Kristóf",
+            "Orosi Bálint Gábor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bazsó Brúnó Tamás",
+            "Daróczi Zsombor",
+            "Hámornyik Ákos",
+            "Vascsák Noel",
+            "Végs? Bálint"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 0.88,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135789",
       "comp_code": "hun2a",

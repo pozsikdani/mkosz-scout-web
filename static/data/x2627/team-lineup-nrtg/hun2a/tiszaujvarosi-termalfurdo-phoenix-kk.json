@@ -1,8 +1,678 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2a_135801",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "ÚJBUDA MAFC",
+      "home": true,
+      "result": "L",
+      "our_score": 92,
+      "their_score": 102,
+      "has_pbp": true,
+      "starters": [
+        "Carlbe Lee Ervin",
+        "Lucey Ciaran József",
+        "Mester Márk",
+        "Ormai Botond",
+        "Polster Attila"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Lucey Ciaran József",
+            "Mester Márk",
+            "Ormai Botond",
+            "Polster Attila"
+          ],
+          "min": 12.0,
+          "pf": 23,
+          "pa": 28,
+          "poss": 19.08,
+          "oposs": 18.44,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              4.0,
+              4,
+              10,
+              6.32,
+              6.0
+            ],
+            [
+              8.0,
+              19,
+              18,
+              12.76,
+              12.44
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Lucey Ciaran József",
+            "Ormai Botond",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 8.0,
+          "pf": 22,
+          "pa": 18,
+          "poss": 15.08,
+          "oposs": 15.84,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              1.0,
+              1.88
+            ],
+            [
+              2.0,
+              12,
+              4,
+              5.88,
+              5.2
+            ],
+            [
+              0.0,
+              0,
+              4,
+              0.0,
+              1.76
+            ],
+            [
+              4.0,
+              10,
+              8,
+              7.2,
+              6.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Mayer Ákos",
+            "Ormai Botond",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 5.0,
+          "pf": 17,
+          "pa": 11,
+          "poss": 10.0,
+          "oposs": 11.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              6,
+              0,
+              4.0,
+              4.0
+            ],
+            [
+              2.0,
+              6,
+              9,
+              3.0,
+              4.88
+            ],
+            [
+              1.0,
+              5,
+              2,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Gerõcs Roland Bálint",
+            "Mayer Ákos",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 8,
+          "poss": 7.32,
+          "oposs": 7.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              7,
+              6,
+              4.32,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              3.0,
+              3.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Mester Márk",
+            "Ormai Botond",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 4,
+          "poss": 5.88,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              2,
+              4,
+              5.88,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Gerõcs Roland Bálint",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 5,
+          "poss": 5.0,
+          "oposs": 6.64,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              3.32
+            ],
+            [
+              1.0,
+              3,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              1.0,
+              2.32
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gerõcs Roland Bálint",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Pap Levente",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 11,
+          "poss": 6.32,
+          "oposs": 6.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              4,
+              2.0,
+              2.32
+            ],
+            [
+              2.0,
+              8,
+              7,
+              4.32,
+              4.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gerõcs Roland Bálint",
+            "Mester Márk",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "poss": 2.88,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              0,
+              -0.12,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              5,
+              3.0,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Mester Márk",
+            "Ormai Botond",
+            "Pap Levente",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 6,
+          "poss": 3.0,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              6,
+              3.0,
+              3.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Gerõcs Roland Bálint",
+            "Lucey Ciaran József",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Carlbe Lee Ervin",
+            "Mester Márk",
+            "Pap Levente",
+            "Polster Attila",
+            "Szabadfi Márk"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 4,
+          "poss": 2.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              4,
+              2.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135769",
       "comp_code": "hun2a",

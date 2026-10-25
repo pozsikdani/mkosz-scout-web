@@ -1,7 +1,7 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2a_135759",
@@ -85,6 +85,34 @@
         "fta": 23,
         "oreb": 17,
         "tov_total": 11
+      }
+    },
+    {
+      "gamecode": "hun2a_135795",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "L",
+      "our_score": 71,
+      "their_score": 90,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 2,
+        "three_m": 5,
+        "dunk_m": 1,
+        "ft": 12,
+        "close_x": 16,
+        "mid_x": 1,
+        "three_x": 11,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 70,
+        "fta": 26,
+        "oreb": 19,
+        "tov_total": 13
       }
     }
   ]

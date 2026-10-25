@@ -1,8 +1,145 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2a_135803",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "ZTE KK",
+      "home": false,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 92,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bazsó Brúnó Tamás",
+          "jersey": 11,
+          "minutes": 38,
+          "points": 27,
+          "reb": 10,
+          "ast": 3,
+          "photo_filename": "hubner-nyiregyhaza-bs-bazso-bruno-tamas.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Tóth Patrik Kristóf",
+              "jersey": 6,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-toth-patrik-kristof.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kopácsi Ákos",
+          "jersey": 8,
+          "minutes": 33,
+          "points": 15,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kristóf Péter Kristóf",
+              "jersey": 5,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-kristof-peter-kristof.jpg"
+            },
+            {
+              "name": "Verebélyi Áron",
+              "jersey": 2,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg"
+            },
+            {
+              "name": "Hámornyik Ákos",
+              "jersey": 24,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-hamornyik-akos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Patrik Kristóf",
+          "jersey": 6,
+          "minutes": 25,
+          "points": 12,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "hubner-nyiregyhaza-bs-toth-patrik-kristof.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Orosi Bálint Gábor",
+              "jersey": 7,
+              "minutes": 17,
+              "count": 5,
+              "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Verebélyi Áron",
+          "jersey": 2,
+          "minutes": 23,
+          "points": 2,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg",
+          "position": "1-2-3",
+          "subs": [
+            {
+              "name": "Goór Dániel",
+              "jersey": 10,
+              "minutes": 8,
+              "count": 4,
+              "photo_filename": "hubner-nyiregyhaza-bs-goor-daniel.jpg"
+            },
+            {
+              "name": "Kristóf Péter Kristóf",
+              "jersey": 5,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-kristof-peter-kristof.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Végső Bálint",
+          "jersey": 9,
+          "minutes": 36,
+          "points": 15,
+          "reb": 1,
+          "ast": 7,
+          "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kopácsi Ákos",
+              "jersey": 8,
+              "minutes": 33,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg"
+            },
+            {
+              "name": "Kristóf Péter Kristóf",
+              "jersey": 5,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-kristof-peter-kristof.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135789",
       "comp_code": "hun2a",

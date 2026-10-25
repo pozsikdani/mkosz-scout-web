@@ -1,7 +1,7 @@
 {
   "team": "Foody-BasketBaja",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2b_136099",
@@ -113,6 +113,34 @@
         "fta": 17,
         "oreb": 9,
         "tov_total": 10
+      }
+    },
+    {
+      "gamecode": "hun2b_136163",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "NEOsport Kozármisleny SE",
+      "home": true,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 70,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 21,
+        "mid_m": 1,
+        "three_m": 12,
+        "dunk_m": 1,
+        "ft": 5,
+        "close_x": 5,
+        "mid_x": 5,
+        "three_x": 21,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 77,
+        "fta": 8,
+        "oreb": 11,
+        "tov_total": 11
       }
     }
   ]

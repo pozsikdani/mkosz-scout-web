@@ -143,12 +143,29 @@
       "date": "2026-10-24",
       "time": "18:00",
       "home": false,
-      "opponent": "Tiszaújvárosi Termálfürdő Phoenix KK",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ P…",
+      "our_score": 102,
+      "their_score": 92,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 31,
+          "their": 27
+        },
+        {
+          "our": 23,
+          "their": 26
+        },
+        {
+          "our": 26,
+          "their": 20
+        },
+        {
+          "our": 22,
+          "their": 19
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

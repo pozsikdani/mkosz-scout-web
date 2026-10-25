@@ -1,8 +1,796 @@
 {
   "team": "ZTE KK",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2a_135803",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "HÜBNER Nyíregyháza BS",
+      "home": true,
+      "result": "W",
+      "our_score": 92,
+      "their_score": 82,
+      "has_pbp": true,
+      "starters": [
+        "Cardet Jr Wesley Elijah",
+        "Gerencsér Botond",
+        "Pongó Máté",
+        "Szalay Domonkos",
+        "Tóth Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Gerencsér Botond",
+            "Pongó Máté",
+            "Szalay Domonkos",
+            "Tóth Ádám"
+          ],
+          "min": 9.0,
+          "pf": 20,
+          "pa": 16,
+          "poss": 15.64,
+          "oposs": 13.88,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              3,
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              1,
+              3,
+              1.88,
+              1.0
+            ],
+            [
+              8.0,
+              16,
+              10,
+              12.76,
+              11.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gerencsér Botond",
+            "Glatz Gábor Soma",
+            "Kis Attila Raul",
+            "Kucsora Csaba Ákos",
+            "Pongó Máté"
+          ],
+          "min": 8.0,
+          "pf": 22,
+          "pa": 13,
+          "poss": 15.32,
+          "oposs": 15.52,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              0.0,
+              0.88
+            ],
+            [
+              2.0,
+              6,
+              5,
+              5.0,
+              4.88
+            ],
+            [
+              2.0,
+              9,
+              1,
+              5.88,
+              4.88
+            ],
+            [
+              4.0,
+              7,
+              5,
+              4.44,
+              4.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gerencsér Botond",
+            "Kis Attila Raul",
+            "Kucsora Csaba Ákos",
+            "Mokánszki Máté",
+            "Pongó Máté"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 10,
+          "poss": 5.88,
+          "oposs": 8.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              3,
+              1.88,
+              3.0
+            ],
+            [
+              1.0,
+              2,
+              3,
+              2.0,
+              2.32
+            ],
+            [
+              2.0,
+              0,
+              4,
+              2.0,
+              3.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Mokánszki Máté",
+            "Pongó Máté",
+            "Szalay Domonkos",
+            "Török-papp Benedek"
+          ],
+          "min": 4.0,
+          "pf": 12,
+          "pa": 11,
+          "poss": 8.2,
+          "oposs": 8.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              0.0,
+              1.0
+            ],
+            [
+              3.0,
+              12,
+              11,
+              8.2,
+              7.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Gerencsér Botond",
+            "Mokánszki Máté",
+            "Pongó Máté",
+            "Szalay Domonkos"
+          ],
+          "min": 3.0,
+          "pf": 9,
+          "pa": 4,
+          "poss": 4.88,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              9,
+              4,
+              4.88,
+              4.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Gerencsér Botond",
+            "Glatz Gábor Soma",
+            "Kis Attila Raul",
+            "Pongó Máté"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 4,
+          "poss": 7.0,
+          "oposs": 6.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              4.0,
+              3.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Gerencsér Botond",
+            "Glatz Gábor Soma",
+            "Pongó Máté",
+            "Tóth Ádám"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
+          "poss": 1.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              3,
+              1.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Gerencsér Botond",
+            "Glatz Gábor Soma",
+            "Mokánszki Máté",
+            "Pongó Máté"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 7,
+          "poss": 5.0,
+          "oposs": 5.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              3.0,
+              3.0
+            ],
+            [
+              1.0,
+              3,
+              5,
+              2.0,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Kis Attila Raul",
+            "Kucsora Csaba Ákos",
+            "Szalay Domonkos",
+            "Török-papp Benedek"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "poss": 5.0,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              3,
+              4.0,
+              3.88
+            ],
+            [
+              1.0,
+              0,
+              2,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Pongó Máté",
+            "Szalay Domonkos",
+            "Tóth Ádám",
+            "Török-papp Benedek"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 3,
+          "poss": 1.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              1,
+              3,
+              1.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Kucsora Csaba Ákos",
+            "Mokánszki Máté",
+            "Szalay Domonkos",
+            "Török-papp Benedek"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 0.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              3,
+              0.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gerencsér Botond",
+            "Kis Attila Raul",
+            "Kucsora Csaba Ákos",
+            "Pongó Máté",
+            "Szalay Domonkos"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Gerencsér Botond",
+            "Kis Attila Raul",
+            "Mokánszki Máté",
+            "Pongó Máté"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 3,
+          "poss": 0.88,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              3,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135787",
       "comp_code": "hun2a",

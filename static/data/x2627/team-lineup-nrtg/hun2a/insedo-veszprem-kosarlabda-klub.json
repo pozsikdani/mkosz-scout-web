@@ -1,8 +1,1386 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2a_135795",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 90,
+      "their_score": 71,
+      "has_pbp": true,
+      "starters": [
+        "Bonifert Bendegúz",
+        "Kocsis Zalán",
+        "Mészáros Ágoston",
+        "Tóth Barna",
+        "Völgyi Marcell Zoltán"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Schmera Gergely",
+            "Varga Ádám Dániel"
+          ],
+          "min": 6.0,
+          "pf": 17,
+          "pa": 9,
+          "poss": 10.44,
+          "oposs": 10.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              7,
+              2,
+              5.0,
+              4.0
+            ],
+            [
+              3.0,
+              6,
+              3,
+              3.44,
+              3.32
+            ],
+            [
+              1.0,
+              4,
+              4,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 4.0,
+          "pf": 14,
+          "pa": 5,
+          "poss": 9.88,
+          "oposs": 8.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              6,
+              0,
+              4.44,
+              4.0
+            ],
+            [
+              2.0,
+              5,
+              0,
+              3.0,
+              2.0
+            ],
+            [
+              1.0,
+              3,
+              5,
+              2.44,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Tóth Barna"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 9,
+          "poss": 7.44,
+          "oposs": 7.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              8,
+              2,
+              3.44,
+              3.0
+            ],
+            [
+              3.0,
+              2,
+              7,
+              4.0,
+              4.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 11,
+          "poss": 7.0,
+          "oposs": 7.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              4,
+              2.0,
+              1.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              7,
+              5.0,
+              6.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 4,
+          "poss": 5.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 4.0,
+          "oposs": 5.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              4.0,
+              5.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 5,
+          "poss": 4.0,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              5,
+              2.0,
+              1.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Mészáros Ágoston",
+            "Schmera Gergely",
+            "Tóth Barna"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 1,
+          "poss": 4.0,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              1,
+              1.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              8,
+              0,
+              3.0,
+              2.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Schmera Gergely",
+            "Tóth Barna",
+            "Varga Ádám Dániel"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 3,
+          "poss": 3.88,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              1,
+              3,
+              3.88,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Varga Ádám Dániel",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 4,
+          "poss": 4.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              2.0,
+              1.0
+            ],
+            [
+              1.0,
+              6,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Scheff Milán",
+            "Schmera Gergely",
+            "Tóth Barna"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "poss": 3.88,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              6,
+              3.88,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              2.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Mészáros Ágoston",
+            "Schmera Gergely"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 2,
+          "poss": 3.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              2,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Tóth Barna",
+            "Varga Ádám Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 0.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Schmera Gergely",
+            "Tóth Barna",
+            "Varga Ádám Dániel"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
+          "poss": 1.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              1,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Tóth Barna",
+            "Varga Ádám Dániel",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 3,
+          "poss": 3.0,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              3,
+              1,
+              2.0,
+              2.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Varga Ádám Dániel",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Tóth Barna",
+            "Varga Ádám Dániel",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
+          "poss": 0.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              1,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Scheff Milán",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 1,
+          "poss": 0.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              1,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Kocsis Zalán",
+            "Schmera Gergely",
+            "Varga Ádám Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 0.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Scheff Milán",
+            "Tóth Barna"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Illés Máté Csongor",
+            "Kocsis Zalán",
+            "Mészáros Ágoston",
+            "Tóth Barna",
+            "Völgyi Marcell Zoltán"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135779",
       "comp_code": "hun2a",

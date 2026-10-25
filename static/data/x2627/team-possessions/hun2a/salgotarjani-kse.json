@@ -1,7 +1,7 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2a_135745",
@@ -85,6 +85,34 @@
         "fta": 22,
         "oreb": 8,
         "tov_total": 12
+      }
+    },
+    {
+      "gamecode": "hun2a_135799",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "L",
+      "our_score": 58,
+      "their_score": 66,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 1,
+        "three_m": 3,
+        "dunk_m": 1,
+        "ft": 12,
+        "close_x": 10,
+        "mid_x": 4,
+        "three_x": 16,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 57,
+        "fta": 25,
+        "oreb": 9,
+        "tov_total": 17
       }
     }
   ]

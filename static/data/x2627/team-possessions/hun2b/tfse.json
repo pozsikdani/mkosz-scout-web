@@ -1,7 +1,7 @@
 {
   "team": "TFSE",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2b_136111",
@@ -113,6 +113,34 @@
         "fta": 20,
         "oreb": 15,
         "tov_total": 19
+      }
+    },
+    {
+      "gamecode": "hun2b_136161",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "Békéscsabai KK",
+      "home": false,
+      "result": "L",
+      "our_score": 67,
+      "their_score": 95,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 4,
+        "three_m": 7,
+        "dunk_m": 0,
+        "ft": 6,
+        "close_x": 10,
+        "mid_x": 3,
+        "three_x": 19,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 68,
+        "fta": 10,
+        "oreb": 10,
+        "tov_total": 11
       }
     }
   ]

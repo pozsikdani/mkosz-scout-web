@@ -1,7 +1,7 @@
 {
   "team": "SMTPlus-Nagykőrösi Sólymok KE",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2b_136109",
@@ -113,6 +113,34 @@
         "fta": 8,
         "oreb": 19,
         "tov_total": 11
+      }
+    },
+    {
+      "gamecode": "hun2b_136157",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "Budapesti Bikák",
+      "home": false,
+      "result": "W",
+      "our_score": 76,
+      "their_score": 68,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 2,
+        "three_m": 7,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 9,
+        "mid_x": 4,
+        "three_x": 14,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 66,
+        "fta": 21,
+        "oreb": 13,
+        "tov_total": 17
       }
     }
   ]

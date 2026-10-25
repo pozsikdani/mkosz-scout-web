@@ -111,10 +111,27 @@
       "time": "17:00",
       "home": false,
       "opponent": "Foody-BasketBaja",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 70,
+      "their_score": 86,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 17,
+          "their": 20
+        },
+        {
+          "our": 23,
+          "their": 26
+        },
+        {
+          "our": 8,
+          "their": 18
+        },
+        {
+          "our": 22,
+          "their": 22
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

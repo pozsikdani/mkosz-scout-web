@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -113,6 +113,34 @@
         "fta": 42,
         "oreb": 15,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_135795",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-24",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 90,
+      "their_score": 71,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 2,
+        "three_m": 15,
+        "dunk_m": 0,
+        "ft": 6,
+        "close_x": 5,
+        "mid_x": 3,
+        "three_x": 14,
+        "dunk_x": 0,
+        "tov": 16,
+        "fga": 65,
+        "fta": 8,
+        "oreb": 8,
+        "tov_total": 16
       }
     }
   ]
