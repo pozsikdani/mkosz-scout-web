@@ -144,10 +144,27 @@
       "time": "17:00",
       "home": true,
       "opponent": "DEAC U23",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 72,
+      "their_score": 84,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 17,
+          "their": 22
+        },
+        {
+          "our": 17,
+          "their": 25
+        },
+        {
+          "our": 17,
+          "their": 21
+        },
+        {
+          "our": 21,
+          "their": 16
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

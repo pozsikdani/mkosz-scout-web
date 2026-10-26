@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -113,6 +113,34 @@
         "fta": 14,
         "oreb": 11,
         "tov_total": 8
+      }
+    },
+    {
+      "gamecode": "hun2a_135791",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-25",
+      "opponent": "PVSK-PANTHERS",
+      "home": true,
+      "result": "L",
+      "our_score": 66,
+      "their_score": 82,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 4,
+        "three_m": 7,
+        "dunk_m": 1,
+        "ft": 8,
+        "close_x": 5,
+        "mid_x": 12,
+        "three_x": 22,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 67,
+        "fta": 13,
+        "oreb": 4,
+        "tov_total": 13
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "team": "Eszterházy SC",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2b_136107",
@@ -85,6 +85,34 @@
         "fta": 12,
         "oreb": 11,
         "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2b_136155",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-25",
+      "opponent": "GYKC UNI Győr",
+      "home": false,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 68,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 1,
+        "three_m": 9,
+        "dunk_m": 1,
+        "ft": 16,
+        "close_x": 7,
+        "mid_x": 3,
+        "three_x": 10,
+        "dunk_x": 0,
+        "tov": 23,
+        "fga": 49,
+        "fta": 30,
+        "oreb": 4,
+        "tov_total": 23
       }
     }
   ]

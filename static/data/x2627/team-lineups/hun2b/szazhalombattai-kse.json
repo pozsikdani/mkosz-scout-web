@@ -1,8 +1,166 @@
 {
   "team": "Százhalombattai KSE",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2b_136159",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-25",
+      "opponent": "DH BASKET",
+      "home": false,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 100,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 22,
+          "minutes": 32,
+          "points": 9,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "szazhalombattai-kse-bago-martin.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Habel Andrich Clemens",
+              "jersey": 17,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg"
+            },
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": 7,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg"
+            },
+            {
+              "name": "Tichov Dominik",
+              "jersey": 25,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Marcell",
+          "jersey": 2,
+          "minutes": 10,
+          "points": 4,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Habel Andrich Clemens",
+              "jersey": 17,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg"
+            },
+            {
+              "name": "Barócsi Ádám",
+              "jersey": 11,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg"
+            },
+            {
+              "name": "Tichov Dominik",
+              "jersey": 25,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 12,
+          "minutes": 28,
+          "points": 2,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "szazhalombattai-kse-kozari-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Seregély Balázs",
+              "jersey": 10,
+              "minutes": 12,
+              "count": 4,
+              "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tichov Dominik",
+          "jersey": 25,
+          "minutes": 26,
+          "points": 7,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Barócsi Ádám",
+              "jersey": 11,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg"
+            },
+            {
+              "name": "Kovács Marcell",
+              "jersey": 2,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg"
+            },
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": 7,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 4,
+          "minutes": 28,
+          "points": 9,
+          "reb": 5,
+          "ast": 6,
+          "photo_filename": "szazhalombattai-kse-toth-bence-miklos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": 7,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg"
+            },
+            {
+              "name": "Tichov Dominik",
+              "jersey": 25,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136147",
       "comp_code": "hun2b",

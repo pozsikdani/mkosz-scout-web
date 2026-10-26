@@ -1,8 +1,173 @@
 {
   "team": "DH BASKET",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
+    {
+      "gamecode": "hun2b_136159",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-25",
+      "opponent": "Százhalombattai KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 100,
+      "their_score": 77,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Herendic Dominik",
+          "jersey": null,
+          "minutes": 25,
+          "points": 7,
+          "reb": 3,
+          "ast": 5,
+          "photo_filename": "dh-basket-herendic-dominik.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Joó Tamás",
+              "jersey": 7,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "dh-basket-joo-tamas.jpg"
+            },
+            {
+              "name": "Simonics Olivér Márk",
+              "jersey": 88,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "dh-basket-simonics-oliver-mark.jpg"
+            },
+            {
+              "name": "Gazdag Áron Bendegúz",
+              "jersey": 22,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "dh-basket-gazdag-aron-bendeguz.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Olasz Ádám Zsolt",
+          "jersey": 34,
+          "minutes": 27,
+          "points": 19,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "dh-basket-olasz-adam-zsolt.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Herendic Dominik",
+              "jersey": null,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "dh-basket-herendic-dominik.jpg"
+            },
+            {
+              "name": "Joó Tamás",
+              "jersey": 7,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "dh-basket-joo-tamas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pafféri Péter",
+          "jersey": 2,
+          "minutes": 34,
+          "points": 24,
+          "reb": 5,
+          "ast": 7,
+          "photo_filename": "dh-basket-pafferi-peter.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Simonics Olivér Márk",
+              "jersey": 88,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "dh-basket-simonics-oliver-mark.jpg"
+            },
+            {
+              "name": "Váits Olivér",
+              "jersey": 77,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "dh-basket-vaits-oliver.jpg"
+            },
+            {
+              "name": "Hajdu Gergely",
+              "jersey": 9,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "dh-basket-hajdu-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Barnabás",
+          "jersey": 15,
+          "minutes": 23,
+          "points": 2,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "dh-basket-toth-barnabas.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Pafféri Csaba",
+              "jersey": null,
+              "minutes": 8,
+              "count": 3,
+              "photo_filename": null
+            },
+            {
+              "name": "Farkas Balázs Dániel",
+              "jersey": 5,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "dh-basket-farkas-balazs-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Váits Olivér",
+          "jersey": 77,
+          "minutes": 27,
+          "points": 15,
+          "reb": 3,
+          "ast": 7,
+          "photo_filename": "dh-basket-vaits-oliver.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Simonics Olivér Márk",
+              "jersey": 88,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "dh-basket-simonics-oliver-mark.jpg"
+            },
+            {
+              "name": "Pafféri Péter",
+              "jersey": 2,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "dh-basket-pafferi-peter.jpg"
+            },
+            {
+              "name": "Joó Tamás",
+              "jersey": 7,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "dh-basket-joo-tamas.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136143",
       "comp_code": "hun2b",

@@ -27,6 +27,23 @@
           "subs": []
         },
         {
+          "name": "Bordács Soma",
+          "jersey": null,
+          "minutes": 37,
+          "points": 12,
+          "reb": 12,
+          "ast": 3,
+          "subs": [
+            {
+              "name": "Kovács Levente Hetény",
+              "jersey": 7,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-kovacs-levente-heteny.jpg"
+            }
+          ]
+        },
+        {
           "name": "Molnár Tamás",
           "jersey": 18,
           "minutes": 26,
@@ -101,32 +118,6 @@
               "minutes": 19,
               "count": 1,
               "photo_filename": "ujbuda-mafc-kovacs-levente-heteny.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Pápai Máté Barnabás",
-          "jersey": 27,
-          "minutes": 34,
-          "points": 15,
-          "reb": 17,
-          "ast": 5,
-          "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg",
-          "position": "5",
-          "subs": [
-            {
-              "name": "Pintér Dávid",
-              "jersey": 24,
-              "minutes": 19,
-              "count": 1,
-              "photo_filename": "ujbuda-mafc-pinter-david.jpg"
-            },
-            {
-              "name": "Balázs Barnabás",
-              "jersey": 14,
-              "minutes": 6,
-              "count": 1,
-              "photo_filename": "ujbuda-mafc-balazs-barnabas.jpg"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2a_135743",
@@ -113,6 +113,34 @@
         "fta": 34,
         "oreb": 10,
         "tov_total": 21
+      }
+    },
+    {
+      "gamecode": "hun2a_135791",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-25",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 82,
+      "their_score": 66,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 19,
+        "mid_m": 1,
+        "three_m": 7,
+        "dunk_m": 0,
+        "ft": 15,
+        "close_x": 9,
+        "mid_x": 2,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 66,
+        "fta": 29,
+        "oreb": 12,
+        "tov_total": 14
       }
     }
   ]

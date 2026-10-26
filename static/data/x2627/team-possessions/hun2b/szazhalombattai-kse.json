@@ -1,7 +1,7 @@
 {
   "team": "Százhalombattai KSE",
   "season": "x2627",
-  "match_count": 3,
+  "match_count": 4,
   "matches": [
     {
       "gamecode": "hun2b_136111",
@@ -85,6 +85,34 @@
         "fta": 17,
         "oreb": 8,
         "tov_total": 6
+      }
+    },
+    {
+      "gamecode": "hun2b_136159",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-25",
+      "opponent": "DH BASKET",
+      "home": false,
+      "result": "L",
+      "our_score": 77,
+      "their_score": 100,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 3,
+        "three_m": 5,
+        "dunk_m": 1,
+        "ft": 15,
+        "close_x": 7,
+        "mid_x": 5,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 16,
+        "fga": 62,
+        "fta": 27,
+        "oreb": 13,
+        "tov_total": 16
       }
     }
   ]
