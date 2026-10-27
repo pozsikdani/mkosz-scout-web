@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -89,7 +90,17 @@ def main() -> int:
     p.add_argument("--out", default=None, help="output path (default: static/data/{season}/standings/{comp}.json)")
     args = p.parse_args()
 
-    teams = scrape_standings(args.season, args.comp)
+    # mkosz.hu néha átmenetileg üres/hibás oldalt ad → pár újrapróbálás
+    teams: list[dict] = []
+    for attempt in range(4):
+        try:
+            teams = scrape_standings(args.season, args.comp)
+        except requests.RequestException as e:
+            print(f"  [{attempt + 1}/4] hálózati hiba: {e}", file=sys.stderr)
+        if teams:
+            break
+        if attempt < 3:
+            time.sleep(20 * (attempt + 1))
     if not teams:
         print(f"ERROR: no teams scraped from mkosz.hu/bajnoksag/{args.season}/{args.comp}", file=sys.stderr)
         return 1
