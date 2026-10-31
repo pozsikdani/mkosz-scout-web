@@ -1,8 +1,145 @@
 {
   "team": "Vásárhelyi Kosársuli",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2b_136179",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-30",
+      "opponent": "Foody-BasketBaja",
+      "home": true,
+      "result": "W",
+      "our_score": 76,
+      "their_score": 66,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Anda Dávid",
+          "jersey": 6,
+          "minutes": 33,
+          "points": 16,
+          "reb": 15,
+          "ast": 0,
+          "photo_filename": "vasarhelyi-kosarsuli-anda-david.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Utasi Zsombor",
+              "jersey": 12,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "vasarhelyi-kosarsuli-utasi-zsombor.jpg"
+            },
+            {
+              "name": "Kelemen Balázs",
+              "jersey": 27,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-kelemen-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bálint Erik",
+          "jersey": 3,
+          "minutes": 35,
+          "points": 8,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "vasarhelyi-kosarsuli-balint-erik.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Utasi Zsombor",
+              "jersey": 12,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-utasi-zsombor.jpg"
+            },
+            {
+              "name": "Niksic Alexander",
+              "jersey": 31,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-niksic-alexander.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kelemen Balázs",
+          "jersey": 27,
+          "minutes": 30,
+          "points": 11,
+          "reb": 8,
+          "ast": 2,
+          "photo_filename": "vasarhelyi-kosarsuli-kelemen-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Balogh László",
+              "jersey": null,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "vasarhelyi-kosarsuli-balogh-laszlo.jpg"
+            },
+            {
+              "name": "Polányi Kristóf Áron",
+              "jersey": 15,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-polanyi-kristof-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kruzslicz Alex",
+          "jersey": 23,
+          "minutes": 30,
+          "points": 11,
+          "reb": 0,
+          "ast": 3,
+          "photo_filename": "vasarhelyi-kosarsuli-kruzslicz-alex.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Niksic Alexander",
+              "jersey": 31,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-niksic-alexander.jpg"
+            },
+            {
+              "name": "Anda Dávid",
+              "jersey": 6,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-anda-david.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Polányi Kristóf Áron",
+          "jersey": 15,
+          "minutes": 29,
+          "points": 14,
+          "reb": 7,
+          "ast": 4,
+          "photo_filename": "vasarhelyi-kosarsuli-polanyi-kristof-aron.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Bősz Richárd",
+              "jersey": 2,
+              "minutes": 11,
+              "count": 3,
+              "photo_filename": "vasarhelyi-kosarsuli-bosz-richard.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136153",
       "comp_code": "hun2b",

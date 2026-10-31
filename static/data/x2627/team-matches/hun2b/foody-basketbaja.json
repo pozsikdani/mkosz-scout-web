@@ -177,10 +177,27 @@
       "time": "18:30",
       "home": false,
       "opponent": "Vásárhelyi Kosársuli",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 66,
+      "their_score": 76,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 20,
+          "their": 19
+        },
+        {
+          "our": 12,
+          "their": 22
+        },
+        {
+          "our": 16,
+          "their": 19
+        },
+        {
+          "our": 18,
+          "their": 16
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

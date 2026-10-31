@@ -1,8 +1,145 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2b_136177",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-30",
+      "opponent": "Békéscsabai KK",
+      "home": true,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 78,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csizmadia Attila",
+          "jersey": 34,
+          "minutes": 37,
+          "points": 13,
+          "reb": 9,
+          "ast": 1,
+          "photo_filename": "pte-peac-csizmadia-attila.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": null,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Ravasz Márk",
+              "jersey": 21,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "pte-peac-ravasz-mark.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Czink László Gábor",
+          "jersey": null,
+          "minutes": 39,
+          "points": 11,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "pte-peac-czink-laszlo-gabor.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Zákányi Kristóf",
+              "jersey": 20,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "pte-peac-zakanyi-kristof.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Győr Bálint Gergely",
+          "jersey": null,
+          "minutes": 15,
+          "points": 6,
+          "reb": 8,
+          "ast": 0,
+          "photo_filename": "pte-peac-gyor-balint-gergely.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Korszunszkij Bohdan",
+              "jersey": null,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "pte-peac-korszunszkij-bohdan.jpg"
+            },
+            {
+              "name": "Csizmadia Attila",
+              "jersey": 34,
+              "minutes": 37,
+              "count": 2,
+              "photo_filename": "pte-peac-csizmadia-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": null,
+          "minutes": 27,
+          "points": 16,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Ravasz Márk",
+              "jersey": 21,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "pte-peac-ravasz-mark.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zalay Zsombor",
+          "jersey": null,
+          "minutes": 33,
+          "points": 7,
+          "reb": 2,
+          "ast": 12,
+          "photo_filename": "pte-peac-zalay-zsombor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": null,
+              "minutes": 10,
+              "count": 3,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136165",
       "comp_code": "hun2b",

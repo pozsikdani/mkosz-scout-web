@@ -1,7 +1,7 @@
 {
   "team": "NEOsport Kozármisleny SE",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2b_136109",
@@ -113,6 +113,34 @@
         "fta": 19,
         "oreb": 13,
         "tov_total": 19
+      }
+    },
+    {
+      "gamecode": "hun2b_136175",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-30",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "L",
+      "our_score": 80,
+      "their_score": 95,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 17,
+        "mid_m": 1,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 11,
+        "mid_x": 7,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 16,
+        "fga": 70,
+        "fta": 17,
+        "oreb": 8,
+        "tov_total": 16
       }
     }
   ]

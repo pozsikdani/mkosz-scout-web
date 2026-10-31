@@ -177,10 +177,27 @@
       "time": "19:30",
       "home": false,
       "opponent": "PTE-PEAC",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 78,
+      "their_score": 88,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 23,
+          "their": 22
+        },
+        {
+          "our": 16,
+          "their": 24
+        },
+        {
+          "our": 23,
+          "their": 22
+        },
+        {
+          "our": 16,
+          "their": 20
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

@@ -1,7 +1,7 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2b_136107",
@@ -141,6 +141,34 @@
         "fta": 22,
         "oreb": 13,
         "tov_total": 15
+      }
+    },
+    {
+      "gamecode": "hun2b_136177",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-30",
+      "opponent": "Békéscsabai KK",
+      "home": true,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 78,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 1,
+        "three_m": 13,
+        "dunk_m": 1,
+        "ft": 10,
+        "close_x": 4,
+        "mid_x": 1,
+        "three_x": 14,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 62,
+        "fta": 21,
+        "oreb": 13,
+        "tov_total": 11
       }
     }
   ]

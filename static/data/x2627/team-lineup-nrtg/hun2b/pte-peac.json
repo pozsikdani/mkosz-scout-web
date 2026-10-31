@@ -1,8 +1,678 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2b_136177",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-30",
+      "opponent": "Békéscsabai KK",
+      "home": true,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 78,
+      "has_pbp": true,
+      "starters": [
+        "Csizmadia Attila",
+        "Czink László Gábor",
+        "Gyõr Bálint Gergely",
+        "Schuj Márton János",
+        "Zalay Zsombor"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Korszunszkij Bohdan",
+            "Schuj Márton János",
+            "Zalay Zsombor"
+          ],
+          "min": 13.0,
+          "pf": 23,
+          "pa": 25,
+          "poss": 19.52,
+          "oposs": 19.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              10.0,
+              15,
+              23,
+              14.76,
+              16.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              1.88,
+              1.0
+            ],
+            [
+              2.0,
+              4,
+              2,
+              2.88,
+              2.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Gyõr Bálint Gergely",
+            "Schuj Márton János",
+            "Zalay Zsombor"
+          ],
+          "min": 8.0,
+          "pf": 23,
+          "pa": 13,
+          "poss": 14.32,
+          "oposs": 12.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              4.0,
+              12,
+              11,
+              7.0,
+              7.0
+            ],
+            [
+              0.0,
+              1,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              4.0,
+              10,
+              2,
+              6.44,
+              5.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Zalay Zsombor"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 5,
+          "poss": 6.88,
+          "oposs": 7.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              4.0,
+              6,
+              5,
+              6.88,
+              7.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Gyõr Bálint Gergely",
+            "Zalay Botond",
+            "Zalay Zsombor"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 5.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              2.0,
+              2,
+              3,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antal Donát Gergõ",
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Schuj Márton János",
+            "Zalay Zsombor"
+          ],
+          "min": 3.0,
+          "pf": 13,
+          "pa": 10,
+          "poss": 5.0,
+          "oposs": 5.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              3,
+              2.0,
+              2.0
+            ],
+            [
+              2.0,
+              8,
+              7,
+              3.0,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Korszunszkij Bohdan",
+            "Schuj Márton János",
+            "Zalay Botond"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 6,
+          "poss": 4.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              6,
+              4.0,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Czink László Gábor",
+            "Gyõr Bálint Gergely",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Zalay Botond"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              0,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Zalay Botond"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 6,
+          "poss": 4.52,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              1,
+              6,
+              1.88,
+              2.0
+            ],
+            [
+              0.0,
+              5,
+              0,
+              2.64,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Zalay Botond",
+            "Zákányi Kristóf"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "poss": 3.0,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              4,
+              3.0,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Czink László Gábor",
+            "Gyõr Bálint Gergely",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Zalay Zsombor"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 3,
+          "poss": 2.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              6,
+              3,
+              2.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Czink László Gábor",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Schuj Márton János"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 3,
+          "poss": 3.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              3,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136165",
       "comp_code": "hun2b",

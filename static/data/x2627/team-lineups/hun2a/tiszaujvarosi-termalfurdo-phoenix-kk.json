@@ -1,8 +1,128 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2a_135817",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-30",
+      "opponent": "ZTE KK",
+      "home": true,
+      "result": "L",
+      "our_score": 70,
+      "their_score": 97,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Carlbe Lee Ervin",
+          "jersey": null,
+          "minutes": 37,
+          "points": 23,
+          "reb": 5,
+          "ast": 5,
+          "subs": [
+            {
+              "name": "Polster Attila",
+              "jersey": 7,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-polster-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ervin Carlbe Lee",
+          "jersey": 5,
+          "minutes": 0,
+          "points": 23,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ervin-carlbe-lee.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Gerőcs Roland Bálint",
+          "jersey": 13,
+          "minutes": 20,
+          "points": 10,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Ormai Botond Gábor",
+              "jersey": 22,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ormai-botond-gabor.jpg"
+            },
+            {
+              "name": "Mester Márk",
+              "jersey": 8,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg"
+            },
+            {
+              "name": "Lucey Ciarán József",
+              "jersey": 44,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lucey Ciarán József",
+          "jersey": 44,
+          "minutes": 29,
+          "points": 10,
+          "reb": 4,
+          "ast": 5,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Pap Levente",
+              "jersey": 6,
+              "minutes": 11,
+              "count": 3,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-pap-levente.jpg"
+            },
+            {
+              "name": "Gerőcs Roland Bálint",
+              "jersey": 13,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mester Márk",
+          "jersey": 8,
+          "minutes": 27,
+          "points": 13,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Mayer Ákos",
+              "jersey": 20,
+              "minutes": 26,
+              "count": 3,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mayer-akos.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135801",
       "comp_code": "hun2a",

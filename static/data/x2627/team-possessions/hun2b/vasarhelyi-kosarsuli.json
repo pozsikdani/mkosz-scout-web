@@ -1,7 +1,7 @@
 {
   "team": "Vásárhelyi Kosársuli",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2b_136105",
@@ -113,6 +113,34 @@
         "fta": 31,
         "oreb": 10,
         "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2b_136179",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-30",
+      "opponent": "Foody-BasketBaja",
+      "home": true,
+      "result": "W",
+      "our_score": 76,
+      "their_score": 66,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 3,
+        "three_m": 7,
+        "dunk_m": 0,
+        "ft": 13,
+        "close_x": 9,
+        "mid_x": 3,
+        "three_x": 14,
+        "dunk_x": 0,
+        "tov": 19,
+        "fga": 62,
+        "fta": 24,
+        "oreb": 12,
+        "tov_total": 19
       }
     }
   ]

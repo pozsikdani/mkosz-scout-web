@@ -1,7 +1,7 @@
 {
   "team": "Budapesti Bikák",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2b_136105",
@@ -141,6 +141,34 @@
         "fta": 18,
         "oreb": 9,
         "tov_total": 12
+      }
+    },
+    {
+      "gamecode": "hun2b_136173",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-30",
+      "opponent": "TFSE",
+      "home": false,
+      "result": "W",
+      "our_score": 53,
+      "their_score": 52,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 16,
+        "mid_m": 0,
+        "three_m": 4,
+        "dunk_m": 0,
+        "ft": 10,
+        "close_x": 17,
+        "mid_x": 5,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 65,
+        "fta": 17,
+        "oreb": 13,
+        "tov_total": 14
       }
     }
   ]
