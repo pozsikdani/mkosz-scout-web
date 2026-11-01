@@ -1,8 +1,144 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135805",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 64,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Galambos Árpád",
+          "jersey": 7,
+          "minutes": 16,
+          "points": 4,
+          "reb": 0,
+          "ast": 1,
+          "photo_filename": "bkg-prima-akademia-galambos-arpad.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Dokmanovic Milán",
+              "jersey": 22,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-dokmanovic-milan.jpg"
+            },
+            {
+              "name": "Reiber Dean Thomas",
+              "jersey": 5,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg"
+            },
+            {
+              "name": "Várszegi Balázs",
+              "jersey": 6,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-varszegi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Leonárd",
+          "jersey": 16,
+          "minutes": 18,
+          "points": 6,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Csécsei Gergő",
+              "jersey": 13,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-csecsei-gergo.jpg"
+            },
+            {
+              "name": "Demeter Levente",
+              "jersey": 8,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-demeter-levente.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Benedek Ágost",
+          "jersey": 9,
+          "minutes": 38,
+          "points": 15,
+          "reb": 11,
+          "ast": 7,
+          "photo_filename": "bkg-prima-akademia-nagy-benedek-agost.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Várszegi Balázs",
+              "jersey": 6,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-varszegi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Botond Ágoston",
+          "jersey": 14,
+          "minutes": 40,
+          "points": 34,
+          "reb": 4,
+          "ast": 10,
+          "photo_filename": "bkg-prima-akademia-nagy-botond-agoston.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Reiber Dean Thomas",
+          "jersey": 5,
+          "minutes": 34,
+          "points": 15,
+          "reb": 12,
+          "ast": 3,
+          "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Dokmanovic Milán",
+              "jersey": 22,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-dokmanovic-milan.jpg"
+            },
+            {
+              "name": "Szanyi Róbert",
+              "jersey": 15,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-szanyi-robert.jpg"
+            },
+            {
+              "name": "Lehoczki Attila",
+              "jersey": 17,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-lehoczki-attila.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135791",
       "comp_code": "hun2a",

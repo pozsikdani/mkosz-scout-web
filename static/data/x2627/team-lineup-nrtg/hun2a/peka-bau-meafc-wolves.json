@@ -1,8 +1,1091 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2a_135813",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "L",
+      "our_score": 105,
+      "their_score": 111,
+      "has_pbp": true,
+      "starters": [
+        "Dunai Zétény Péter",
+        "Kelemen Ádám",
+        "Kékesi Kolos",
+        "Ragályi Levente Gergely",
+        "Velkey János"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Ragályi Levente Gergely",
+            "Velkey János"
+          ],
+          "min": 10.0,
+          "pf": 19,
+          "pa": 20,
+          "poss": 17.88,
+          "oposs": 15.76,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              2.88,
+              1.0
+            ],
+            [
+              9.0,
+              15,
+              20,
+              15.0,
+              14.76
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 5.0,
+          "pf": 10,
+          "pa": 6,
+          "poss": 8.32,
+          "oposs": 8.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              2,
+              1.44,
+              2.0
+            ],
+            [
+              2.0,
+              2,
+              0,
+              4.0,
+              4.0
+            ],
+            [
+              1.0,
+              1,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              4,
+              2.0,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Pankotai Péter",
+            "Velkey János"
+          ],
+          "min": 4.0,
+          "pf": 11,
+          "pa": 13,
+          "poss": 12.0,
+          "oposs": 11.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              6,
+              5.0,
+              3.0
+            ],
+            [
+              3.0,
+              7,
+              7,
+              7.0,
+              8.32
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Ragályi Levente Gergely",
+            "Velkey János"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 16,
+          "poss": 5.76,
+          "oposs": 7.64,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              4,
+              1.0,
+              2.88
+            ],
+            [
+              1.0,
+              6,
+              4,
+              2.76,
+              1.88
+            ],
+            [
+              2.0,
+              0,
+              8,
+              2.0,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Rozmán Flórián",
+            "Velkey János"
+          ],
+          "min": 3.0,
+          "pf": 15,
+          "pa": 6,
+          "poss": 9.44,
+          "oposs": 9.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              8,
+              2,
+              4.44,
+              4.0
+            ],
+            [
+              2.0,
+              7,
+              4,
+              5.0,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 3.0,
+          "pf": 8,
+          "pa": 5,
+          "poss": 5.88,
+          "oposs": 5.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              2.0,
+              8,
+              5,
+              4.88,
+              4.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Velkey János",
+            "Zalavári Miklós Gábor",
+            "Árva-file Balázs"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 4,
+          "poss": 5.88,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              3,
+              0,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              2.0,
+              5,
+              2,
+              2.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Pankotai Péter",
+            "Radics Gerzson",
+            "Velkey János"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 8,
+          "poss": 4.0,
+          "oposs": 5.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              5,
+              4.0,
+              4.32
+            ],
+            [
+              1.0,
+              0,
+              3,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Pankotai Péter",
+            "Radics Gerzson",
+            "Velkey János"
+          ],
+          "min": 2.0,
+          "pf": 9,
+          "pa": 9,
+          "poss": 9.52,
+          "oposs": 8.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              6,
+              4,
+              5.64,
+              5.76
+            ],
+            [
+              1.0,
+              3,
+              5,
+              3.88,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Pankotai Péter",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 6,
+          "poss": 3.0,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              4,
+              2.0,
+              2.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              1.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Rozmán Flórián",
+            "Velkey János"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 2.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Radics Gerzson",
+            "Ragályi Levente Gergely",
+            "Velkey János"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              2.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Molnár Levente",
+            "Radics Gerzson",
+            "Ragályi Levente Gergely"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 5,
+          "poss": 2.88,
+          "oposs": 2.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              5,
+              2.88,
+              2.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Radics Gerzson",
+            "Rozmán Flórián",
+            "Velkey János"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              1.0,
+              0.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Kékesi Kolos",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              2,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Gadus Bogdán Olivér",
+            "Kelemen Ádám",
+            "Kékesi Kolos",
+            "Árva-file Balázs"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 0.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kékesi Kolos",
+            "Molnár Levente",
+            "Radics Gerzson",
+            "Zalavári Miklós Gábor",
+            "Árva-file Balázs"
+          ],
+          "min": 0.0,
+          "pf": 10,
+          "pa": 4,
+          "poss": 4.0,
+          "oposs": 3.64,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              10,
+              4,
+              4.0,
+              3.64
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kékesi Kolos",
+            "Molnár Levente",
+            "Rozmán Flórián",
+            "Zalavári Miklós Gábor",
+            "Árva-file Balázs"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135781",
       "comp_code": "hun2a",

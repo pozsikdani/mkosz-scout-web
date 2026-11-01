@@ -1,8 +1,1268 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135813",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "W",
+      "our_score": 111,
+      "their_score": 105,
+      "has_pbp": true,
+      "starters": [
+        "Bordács Gábor Soma",
+        "Molnár Tamás",
+        "Pintér Dávid",
+        "Polgárdy Ádám",
+        "Pápai Máté Barnabás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 10.0,
+          "pf": 24,
+          "pa": 15,
+          "poss": 16.64,
+          "oposs": 18.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              1.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              1.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              9.0,
+              20,
+              15,
+              14.76,
+              15.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 9.0,
+          "pf": 23,
+          "pa": 29,
+          "poss": 23.08,
+          "oposs": 24.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              7,
+              8,
+              5.32,
+              5.88
+            ],
+            [
+              4.0,
+              10,
+              13,
+              9.88,
+              10.0
+            ],
+            [
+              2.0,
+              6,
+              4,
+              6.88,
+              6.0
+            ],
+            [
+              1.0,
+              0,
+              4,
+              1.0,
+              2.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Orbán Imre",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 7,
+          "poss": 7.64,
+          "oposs": 7.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              2,
+              2.76,
+              2.88
+            ],
+            [
+              2.0,
+              2,
+              5,
+              2.0,
+              3.44
+            ],
+            [
+              0.0,
+              4,
+              0,
+              2.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 2.0,
+          "pf": 9,
+          "pa": 0,
+          "poss": 3.76,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              0,
+              2.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 8,
+          "poss": 6.0,
+          "oposs": 5.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              8,
+              4.0,
+              4.44
+            ],
+            [
+              1.0,
+              4,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balázs Barnabás",
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 6,
+          "poss": 7.76,
+          "oposs": 7.64,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              1.0,
+              4,
+              6,
+              5.76,
+              5.64
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Orbán Imre",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 4.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              2,
+              4.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Solomon Márk"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "poss": 2.0,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              5,
+              2.0,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Polgárdy Ádám",
+            "Pápai Máté Barnabás",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 6,
+          "poss": 1.88,
+          "oposs": 2.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              6,
+              1.88,
+              2.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 1,
+          "poss": 2.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              1,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 4,
+          "poss": 1.88,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              4,
+              1.88,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 3,
+          "poss": 1.44,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              1,
+              3,
+              1.44,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám"
+          ],
+          "min": 1.0,
+          "pf": 6,
+          "pa": 4,
+          "poss": 3.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              6,
+              4,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Orbán Imre",
+            "Pintér Dávid"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pápai Máté Barnabás",
+            "Solomon Márk",
+            "Szilágyi Mihály"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dávid Benjámin",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Pintér Dávid",
+            "Pápai Máté Barnabás"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 1.44,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.44,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bordács Gábor Soma",
+            "Kovács Levente Hetény",
+            "Molnár Tamás",
+            "Polgárdy Ádám",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balázs Barnabás",
+            "Kovács Levente Hetény",
+            "Solomon Márk",
+            "Szilágyi Mihály",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 0.88,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balázs Barnabás",
+            "Orbán Imre",
+            "Solomon Márk",
+            "Szilágyi Mihály",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 5,
+          "poss": 1.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              5,
+              1.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kovács Levente Hetény",
+            "Orbán Imre",
+            "Solomon Márk",
+            "Szilágyi Mihály",
+            "Viola Dávid Zsolt"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 5,
+          "poss": 2.64,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              5,
+              2.64,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135801",
       "comp_code": "hun2a",

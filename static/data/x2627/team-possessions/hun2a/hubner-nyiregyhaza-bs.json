@@ -1,7 +1,7 @@
 {
   "team": "HÜBNER Nyíregyháza BS",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2a_135741",
@@ -113,6 +113,34 @@
         "fta": 23,
         "oreb": 7,
         "tov_total": 18
+      }
+    },
+    {
+      "gamecode": "hun2a_135815",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "TF-BP",
+      "home": true,
+      "result": "L",
+      "our_score": 79,
+      "their_score": 81,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 11,
+        "mid_m": 6,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 14,
+        "mid_x": 1,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 12,
+        "fga": 70,
+        "fta": 16,
+        "oreb": 10,
+        "tov_total": 12
       }
     }
   ]

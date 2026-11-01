@@ -1,8 +1,855 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2a_135807",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "PVSK-PANTHERS",
+      "home": true,
+      "result": "L",
+      "our_score": 58,
+      "their_score": 72,
+      "has_pbp": true,
+      "starters": [
+        "Farkas Attila",
+        "Gáspár Mátyás",
+        "Homoki Donát László",
+        "Makkos Dávid",
+        "Zöldi Péter András"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Farkas Attila",
+            "Gáspár Mátyás",
+            "Homoki Donát László",
+            "Makkos Dávid",
+            "Zöldi Péter András"
+          ],
+          "min": 12.0,
+          "pf": 23,
+          "pa": 18,
+          "poss": 27.64,
+          "oposs": 26.88,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              0.0,
+              1.0
+            ],
+            [
+              5.0,
+              7,
+              5,
+              11.88,
+              10.0
+            ],
+            [
+              2.0,
+              5,
+              0,
+              5.76,
+              7.0
+            ],
+            [
+              5.0,
+              11,
+              10,
+              10.0,
+              8.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 5.0,
+          "pf": 5,
+          "pa": 12,
+          "poss": 8.88,
+          "oposs": 9.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              1,
+              1.0,
+              1.88
+            ],
+            [
+              5.0,
+              5,
+              11,
+              7.88,
+              7.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Homoki Donát László",
+            "Makkos Dávid",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 7,
+          "poss": 6.32,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.88,
+              0.0
+            ],
+            [
+              4.0,
+              5,
+              7,
+              4.0,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.44,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Heimann Gergõ",
+            "Kis Botond",
+            "Pleesz Ádám",
+            "Plézer Gábor"
+          ],
+          "min": 3.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 5.0,
+          "oposs": 4.64,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              2,
+              3.0,
+              2.88
+            ],
+            [
+              1.0,
+              0,
+              1,
+              2.0,
+              1.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kis Botond",
+            "Pichovszky Bertalan",
+            "Pleesz Ádám",
+            "Temesvári Marcell Zoltán",
+            "Zöldi Péter András"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 6,
+          "poss": 5.44,
+          "oposs": 6.64,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              5,
+              5,
+              3.44,
+              4.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              1,
+              2.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Heimann Gergõ",
+            "Homoki Donát László",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 5,
+          "poss": 3.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              5,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Homoki Donát László",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 2,
+          "poss": 1.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              2,
+              1.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Homoki Donát László",
+            "Makkos Dávid",
+            "Pleesz Ádám",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 5,
+          "poss": 3.88,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              5,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Heimann Gergõ",
+            "Homoki Donát László",
+            "Kis Botond",
+            "Plézer Gábor"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "poss": 4.0,
+          "oposs": 4.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              2,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              1,
+              1.0,
+              0.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Gáspár Mátyás",
+            "Homoki Donát László",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 5,
+          "poss": 3.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              1.0,
+              1.0
+            ],
+            [
+              2.0,
+              0,
+              2,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Heimann Gergõ",
+            "Homoki Donát László",
+            "Pleesz Ádám",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 4,
+          "poss": 2.76,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              1,
+              4,
+              2.76,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Heimann Gergõ",
+            "Homoki Donát László",
+            "Kis Botond",
+            "Pleesz Ádám",
+            "Plézer Gábor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 3.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Farkas Attila",
+            "Gáspár Mátyás",
+            "Pleesz Ádám",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Kis Botond",
+            "Pleesz Ádám",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "poss": 0.44,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              0,
+              0.44,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135795",
       "comp_code": "hun2a",

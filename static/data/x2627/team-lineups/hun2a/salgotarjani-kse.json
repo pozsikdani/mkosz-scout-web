@@ -1,8 +1,152 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2a_135811",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 74,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Boka-Magó Áron István",
+          "jersey": 0,
+          "minutes": 32,
+          "points": 9,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "salgotarjani-kse-boka-mago-aron-istvan.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kámán Bálint",
+              "jersey": 6,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "salgotarjani-kse-kaman-balint.jpg"
+            },
+            {
+              "name": "Nagy Ádám Béla",
+              "jersey": 41,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-nagy-adam-bela.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Cserényi Marcell",
+          "jersey": 4,
+          "minutes": 29,
+          "points": 12,
+          "reb": 11,
+          "ast": 1,
+          "photo_filename": "salgotarjani-kse-cserenyi-marcell.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Balázs Márton József",
+              "jersey": 21,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "salgotarjani-kse-balazs-marton-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mucza Tamás",
+          "jersey": 13,
+          "minutes": 31,
+          "points": 18,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "salgotarjani-kse-mucza-tamas.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Balázs Márton József",
+              "jersey": 21,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "salgotarjani-kse-balazs-marton-jozsef.jpg"
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 0,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-boka-mago-aron-istvan.jpg"
+            },
+            {
+              "name": "Kámán Bálint",
+              "jersey": 6,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-kaman-balint.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Ádám Béla",
+          "jersey": 41,
+          "minutes": 11,
+          "points": 0,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "salgotarjani-kse-nagy-adam-bela.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Hargitai Krisztián",
+              "jersey": 99,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "salgotarjani-kse-hargitai-krisztian.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Takács Dániel",
+          "jersey": 11,
+          "minutes": 26,
+          "points": 12,
+          "reb": 2,
+          "ast": 3,
+          "photo_filename": "salgotarjani-kse-takacs-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Osztoics Milán",
+              "jersey": 9,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-osztoics-milan.jpg"
+            },
+            {
+              "name": "Mucza Tamás",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-mucza-tamas.jpg"
+            },
+            {
+              "name": "Kámán Bálint",
+              "jersey": 6,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-kaman-balint.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135799",
       "comp_code": "hun2a",

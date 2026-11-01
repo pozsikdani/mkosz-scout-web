@@ -1,8 +1,678 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135805",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 64,
+      "has_pbp": true,
+      "starters": [
+        "Galambos Árpád",
+        "Kovács Leonárd",
+        "Nagy Benedek Ágost",
+        "Nagy Botond Ágoston",
+        "Reiber Dean Thomas"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Galambos Árpád",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 9.0,
+          "pf": 18,
+          "pa": 17,
+          "poss": 16.76,
+          "oposs": 16.32,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              4,
+              3.0,
+              3.0
+            ],
+            [
+              7.0,
+              18,
+              13,
+              13.76,
+              13.32
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dokmanovic Milán",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 6.0,
+          "pf": 17,
+          "pa": 12,
+          "poss": 10.88,
+          "oposs": 11.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              5,
+              6,
+              4.0,
+              5.0
+            ],
+            [
+              3.0,
+              12,
+              6,
+              6.88,
+              6.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csécsei Gergõ",
+            "Galambos Árpád",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 6.0,
+          "pf": 18,
+          "pa": 7,
+          "poss": 11.76,
+          "oposs": 12.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              8,
+              2,
+              3.76,
+              3.0
+            ],
+            [
+              5.0,
+              10,
+              5,
+              8.0,
+              9.32
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csécsei Gergõ",
+            "Dokmanovic Milán",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 5.0,
+          "pf": 12,
+          "pa": 7,
+          "poss": 6.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              5.0,
+              12,
+              7,
+              6.0,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Demeter Levente",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 4,
+          "poss": 8.0,
+          "oposs": 7.08,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              1,
+              2.0,
+              1.88
+            ],
+            [
+              0.0,
+              3,
+              1,
+              2.0,
+              1.88
+            ],
+            [
+              2.0,
+              5,
+              2,
+              2.0,
+              1.32
+            ],
+            [
+              1.0,
+              0,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csécsei Gergõ",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas",
+            "Szanyi Róbert"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 4,
+          "poss": 4.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              4,
+              4.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas",
+            "Várszegi Balázs"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 0,
+          "poss": 3.88,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              1.0
+            ],
+            [
+              2.0,
+              3,
+              0,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csécsei Gergõ",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Szanyi Róbert",
+            "Várszegi Balázs"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 4,
+          "poss": 3.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              2,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Büki Lóránt",
+            "Demeter Levente",
+            "Lehoczki Attila",
+            "Nagy Botond Ágoston",
+            "Várszegi Balázs"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 4,
+          "poss": 3.88,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              8,
+              4,
+              3.88,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csécsei Gergõ",
+            "Dokmanovic Milán",
+            "Galambos Árpád",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 2.88,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              3,
+              1.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dokmanovic Milán",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Várszegi Balázs"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135791",
       "comp_code": "hun2a",

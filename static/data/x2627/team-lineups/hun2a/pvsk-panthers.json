@@ -1,8 +1,159 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135807",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "VASAS AKADÉMIA",
+      "home": false,
+      "result": "W",
+      "our_score": 72,
+      "their_score": 58,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Balogh Szilárd",
+          "jersey": 11,
+          "minutes": 32,
+          "points": 7,
+          "reb": 10,
+          "ast": 7,
+          "photo_filename": "pvsk-panthers-balogh-szilard.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Molnár Mátyás",
+              "jersey": 27,
+              "minutes": 29,
+              "count": 3,
+              "photo_filename": "pvsk-panthers-molnar-matyas.jpg"
+            },
+            {
+              "name": "Csaba György",
+              "jersey": 33,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-csaba-gyorgy.jpg"
+            },
+            {
+              "name": "Galambos Gábor",
+              "jersey": 21,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-galambos-gabor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bunos Oleksandr",
+          "jersey": 15,
+          "minutes": 18,
+          "points": 8,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "pvsk-panthers-bunos-oleksandr.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Szita Márton Tibor",
+              "jersey": 17,
+              "minutes": 18,
+              "count": 3,
+              "photo_filename": "pvsk-panthers-szita-marton-tibor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Dordevic Nemanja",
+          "jersey": 3,
+          "minutes": 21,
+          "points": 5,
+          "reb": 9,
+          "ast": 3,
+          "photo_filename": "pvsk-panthers-dordevic-nemanja.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Werner Viktor",
+              "jersey": 9,
+              "minutes": 15,
+              "count": 4,
+              "photo_filename": "pvsk-panthers-werner-viktor.jpg"
+            },
+            {
+              "name": "Csaba György",
+              "jersey": 33,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-csaba-gyorgy.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kertész Dávid",
+          "jersey": 5,
+          "minutes": 20,
+          "points": 6,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "pvsk-panthers-kertesz-david.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Czermann Máté",
+              "jersey": 2,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "pvsk-panthers-czermann-mate.jpg"
+            },
+            {
+              "name": "Csaba György",
+              "jersey": 33,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-csaba-gyorgy.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Mátyás",
+          "jersey": 27,
+          "minutes": 29,
+          "points": 19,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "pvsk-panthers-molnar-matyas.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Czermann Máté",
+              "jersey": 2,
+              "minutes": 19,
+              "count": 3,
+              "photo_filename": "pvsk-panthers-czermann-mate.jpg"
+            },
+            {
+              "name": "Csaba György",
+              "jersey": 33,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-csaba-gyorgy.jpg"
+            },
+            {
+              "name": "Kertész Dávid",
+              "jersey": 5,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "pvsk-panthers-kertesz-david.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135791",
       "comp_code": "hun2a",

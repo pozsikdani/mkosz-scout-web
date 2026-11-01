@@ -1,7 +1,7 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -141,6 +141,34 @@
         "fta": 29,
         "oreb": 11,
         "tov_total": 10
+      }
+    },
+    {
+      "gamecode": "hun2a_135815",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": false,
+      "result": "W",
+      "our_score": 81,
+      "their_score": 79,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 23,
+        "mid_m": 2,
+        "three_m": 5,
+        "dunk_m": 0,
+        "ft": 13,
+        "close_x": 13,
+        "mid_x": 6,
+        "three_x": 7,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 61,
+        "fta": 27,
+        "oreb": 8,
+        "tov_total": 13
       }
     }
   ]

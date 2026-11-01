@@ -1,7 +1,7 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2a_135745",
@@ -113,6 +113,34 @@
         "fta": 25,
         "oreb": 9,
         "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2a_135811",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "W",
+      "our_score": 79,
+      "their_score": 74,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 21,
+        "mid_m": 1,
+        "three_m": 8,
+        "dunk_m": 0,
+        "ft": 8,
+        "close_x": 7,
+        "mid_x": 1,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 11,
+        "fga": 66,
+        "fta": 13,
+        "oreb": 12,
+        "tov_total": 11
       }
     }
   ]

@@ -1,8 +1,145 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2a_135807",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "PVSK-PANTHERS",
+      "home": true,
+      "result": "L",
+      "our_score": 58,
+      "their_score": 72,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Farkas Attila",
+          "jersey": 9,
+          "minutes": 17,
+          "points": 3,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "vasas-akademia-farkas-attila.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Plézer Gábor",
+              "jersey": 8,
+              "minutes": 23,
+              "count": 4,
+              "photo_filename": "vasas-akademia-plezer-gabor.jpg"
+            },
+            {
+              "name": "Kis Botond",
+              "jersey": 25,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "vasas-akademia-kis-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gáspár Mátyás",
+          "jersey": 17,
+          "minutes": 31,
+          "points": 7,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-gaspar-matyas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Pleesz Ádám",
+              "jersey": 20,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
+            },
+            {
+              "name": "Homoki Donát László",
+              "jersey": 4,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "vasas-akademia-homoki-donat-laszlo.jpg"
+            },
+            {
+              "name": "Temesvári Marcell Zoltán",
+              "jersey": 24,
+              "minutes": 3,
+              "count": 1,
+              "photo_filename": "vasas-akademia-temesvari-marcell-zoltan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Homoki Donát László",
+          "jersey": 4,
+          "minutes": 28,
+          "points": 12,
+          "reb": 11,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-homoki-donat-laszlo.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Gáspár Mátyás",
+              "jersey": 17,
+              "minutes": 31,
+              "count": 2,
+              "photo_filename": "vasas-akademia-gaspar-matyas.jpg"
+            },
+            {
+              "name": "Pleesz Ádám",
+              "jersey": 20,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "vasas-akademia-pleesz-adam.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Makkos Dávid",
+          "jersey": 3,
+          "minutes": 25,
+          "points": 8,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "vasas-akademia-makkos-david.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Heimann Gergő",
+              "jersey": 13,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "vasas-akademia-heimann-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zöldi Péter András",
+          "jersey": 1,
+          "minutes": 34,
+          "points": 13,
+          "reb": 6,
+          "ast": 7,
+          "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kis Botond",
+              "jersey": 25,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "vasas-akademia-kis-botond.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135795",
       "comp_code": "hun2a",

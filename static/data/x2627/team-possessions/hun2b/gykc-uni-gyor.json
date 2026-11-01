@@ -1,7 +1,7 @@
 {
   "team": "GYKC UNI Győr",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2b_136099",
@@ -113,6 +113,34 @@
         "fta": 30,
         "oreb": 20,
         "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2b_136169",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": false,
+      "result": "L",
+      "our_score": 61,
+      "their_score": 80,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 1,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 5,
+        "close_x": 14,
+        "mid_x": 5,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 73,
+        "fta": 9,
+        "oreb": 14,
+        "tov_total": 17
       }
     }
   ]

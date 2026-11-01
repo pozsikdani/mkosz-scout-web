@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -113,6 +113,34 @@
         "fta": 18,
         "oreb": 13,
         "tov_total": 14
+      }
+    },
+    {
+      "gamecode": "hun2a_135813",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "L",
+      "our_score": 105,
+      "their_score": 111,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 23,
+        "mid_m": 3,
+        "three_m": 11,
+        "dunk_m": 1,
+        "ft": 13,
+        "close_x": 11,
+        "mid_x": 5,
+        "three_x": 12,
+        "dunk_x": 0,
+        "tov": 18,
+        "fga": 76,
+        "fta": 24,
+        "oreb": 10,
+        "tov_total": 18
       }
     }
   ]

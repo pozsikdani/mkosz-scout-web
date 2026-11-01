@@ -1,8 +1,914 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135815",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": false,
+      "result": "W",
+      "our_score": 81,
+      "their_score": 79,
+      "has_pbp": true,
+      "starters": [
+        "Boros Márk",
+        "Fábián Szabolcs",
+        "Inalegwu Marcell Sámuel",
+        "Molnár Dániel",
+        "Swanson Kevin Wade"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Fábián Szabolcs",
+            "Horváth Botond",
+            "Molnár Dániel"
+          ],
+          "min": 7.0,
+          "pf": 21,
+          "pa": 10,
+          "poss": 13.2,
+          "oposs": 12.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              5.0,
+              14,
+              7,
+              9.76,
+              8.88
+            ],
+            [
+              2.0,
+              7,
+              3,
+              3.44,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boros Márk",
+            "Fábián Szabolcs",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 13,
+          "poss": 5.76,
+          "oposs": 5.88,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              2,
+              13,
+              5.76,
+              5.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Inalegwu Marcell Sámuel",
+            "Lõrincz Boldizsár Zalán",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 4,
+          "poss": 4.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              3.0,
+              2.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              1.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Fábián Szabolcs",
+            "Horváth Botond",
+            "Lõrincz Boldizsár Zalán",
+            "Molnár Marcell József"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 8,
+          "poss": 6.44,
+          "oposs": 8.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              5,
+              8,
+              6.44,
+              8.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 5,
+          "poss": 4.0,
+          "oposs": 5.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              5,
+              2.0,
+              3.32
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fábián Szabolcs",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 8,
+          "poss": 7.32,
+          "oposs": 6.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              3.0,
+              9,
+              8,
+              6.32,
+              6.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Inalegwu Marcell Sámuel",
+            "Lõrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 9,
+          "poss": 5.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              4,
+              9,
+              5.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Horváth Botond",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 12,
+          "pa": 3,
+          "poss": 6.76,
+          "oposs": 6.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              7,
+              1,
+              2.88,
+              3.44
+            ],
+            [
+              1.0,
+              5,
+              2,
+              3.88,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 3,
+          "poss": 6.88,
+          "oposs": 8.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              11,
+              3,
+              6.88,
+              8.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Swanson Kevin Wade"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 2,
+          "poss": 5.88,
+          "oposs": 5.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              0,
+              3.0,
+              3.88
+            ],
+            [
+              0.0,
+              6,
+              2,
+              2.88,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Horváth Botond",
+            "Lõrincz Boldizsár Zalán",
+            "Swanson Kevin Wade"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 4,
+          "poss": 3.88,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              2.0,
+              1,
+              4,
+              2.88,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Fábián Szabolcs",
+            "Horváth Botond",
+            "Molnár Dániel",
+            "Molnár Marcell József"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "poss": 2.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Horváth Botond",
+            "Lõrincz Boldizsár Zalán",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "poss": 2.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              2,
+              2.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Boros Márk",
+            "Fábián Szabolcs",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 0.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              3,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antoni Csanád Zoltán",
+            "Inalegwu Marcell Sámuel",
+            "Molnár Dániel",
+            "Molnár Marcell József",
+            "Swanson Kevin Wade"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 2,
+          "poss": 3.88,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              2,
+              3.88,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135799",
       "comp_code": "hun2a",

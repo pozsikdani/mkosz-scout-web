@@ -176,12 +176,29 @@
       "date": "2026-10-31",
       "time": "18:00",
       "home": false,
-      "opponent": "Vasas Akadémia",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "VASAS AKADÉMIA",
+      "our_score": 72,
+      "their_score": 58,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 20,
+          "their": 13
+        },
+        {
+          "our": 14,
+          "their": 18
+        },
+        {
+          "our": 17,
+          "their": 11
+        },
+        {
+          "our": 21,
+          "their": 16
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -141,6 +141,34 @@
         "fta": 13,
         "oreb": 4,
         "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_135805",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-10-31",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 97,
+      "their_score": 64,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 1,
+        "three_m": 17,
+        "dunk_m": 2,
+        "ft": 11,
+        "close_x": 10,
+        "mid_x": 3,
+        "three_x": 15,
+        "dunk_x": 0,
+        "tov": 7,
+        "fga": 66,
+        "fta": 16,
+        "oreb": 7,
+        "tov_total": 7
       }
     }
   ]
