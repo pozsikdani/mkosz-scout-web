@@ -1,8 +1,1327 @@
 {
   "team": "Százhalombattai KSE",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
+    {
+      "gamecode": "hun2b_136171",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-01",
+      "opponent": "Eszterházy SC",
+      "home": true,
+      "result": "W",
+      "our_score": 78,
+      "their_score": 55,
+      "has_pbp": true,
+      "starters": [
+        "Barócsi Ádám",
+        "Habel Andrich Clemens",
+        "Kozári Gerg?",
+        "Tichov Dominik",
+        "Tóth Bence Miklós"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Habel Andrich Clemens",
+            "Kozári Gerg?",
+            "Tichov Dominik",
+            "Tóth Bence Miklós"
+          ],
+          "min": 6.0,
+          "pf": 15,
+          "pa": 14,
+          "poss": 10.0,
+          "oposs": 9.88,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              4,
+              2.0,
+              2.0
+            ],
+            [
+              2.0,
+              4,
+              8,
+              3.0,
+              3.88
+            ],
+            [
+              3.0,
+              7,
+              2,
+              5.0,
+              4.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bagó Martin",
+            "Habel Andrich Clemens",
+            "Kozári Gerg?",
+            "Tichov Dominik",
+            "Tóth Bence Miklós"
+          ],
+          "min": 5.0,
+          "pf": 12,
+          "pa": 5,
+          "poss": 9.88,
+          "oposs": 8.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              6,
+              0,
+              3.0,
+              2.0
+            ],
+            [
+              4.0,
+              6,
+              5,
+              6.88,
+              6.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bagó Martin",
+            "Fazekas Máté",
+            "Kozári Gerg?",
+            "Santiago Jordan Ismael",
+            "Tóth Bence Miklós"
+          ],
+          "min": 4.0,
+          "pf": 10,
+          "pa": 2,
+          "poss": 6.88,
+          "oposs": 7.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              1.88,
+              2.0
+            ],
+            [
+              2.0,
+              6,
+              0,
+              3.0,
+              4.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Kozári Gerg?",
+            "Tichov Dominik",
+            "Tóth Bence Miklós"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 2,
+          "poss": 6.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              2,
+              3.0,
+              3.0
+            ],
+            [
+              1.0,
+              7,
+              0,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Cseh Bence",
+            "Kovács Marcell",
+            "Seregély Balázs",
+            "Tóth Balázs"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 3,
+          "poss": 3.88,
+          "oposs": 4.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              3,
+              2.0,
+              3.44
+            ],
+            [
+              1.0,
+              2,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              1,
+              0,
+              0.88,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cseh Bence",
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Seregély Balázs",
+            "Tóth Balázs"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 7,
+          "poss": 8.0,
+          "oposs": 6.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              2,
+              7,
+              8.0,
+              6.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bagó Martin",
+            "Kozári Gerg?",
+            "Santiago Jordan Ismael",
+            "Tichov Dominik",
+            "Tóth Bence Miklós"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 2,
+          "poss": 4.44,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              1.0,
+              1,
+              2,
+              0.44,
+              0.88
+            ],
+            [
+              1.0,
+              5,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bagó Martin",
+            "Habel Andrich Clemens",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tichov Dominik"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
+          "poss": 4.0,
+          "oposs": 5.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              3,
+              4.0,
+              5.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Cseh Bence",
+            "Fazekas Máté",
+            "Santiago Jordan Ismael",
+            "Tóth Balázs"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "poss": 4.88,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              2.88,
+              1.0
+            ],
+            [
+              0.0,
+              3,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Kozári Gerg?",
+            "Seregély Balázs"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 4.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              3.0,
+              3.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Kozári Gerg?",
+            "Santiago Jordan Ismael",
+            "Tóth Bence Miklós"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bagó Martin",
+            "Habel Andrich Clemens",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 1.0,
+          "pf": 3,
+          "pa": 3,
+          "poss": 3.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              3,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Habel Andrich Clemens",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tichov Dominik",
+            "Tóth Bence Miklós"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bagó Martin",
+            "Habel Andrich Clemens",
+            "Seregély Balázs",
+            "Tichov Dominik",
+            "Tóth Bence Miklós"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 3.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Fazekas Máté",
+            "Kozári Gerg?",
+            "Tichov Dominik",
+            "Tóth Bence Miklós"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bagó Martin",
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Kozári Gerg?",
+            "Tichov Dominik"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Fazekas Máté",
+            "Kozári Gerg?",
+            "Santiago Jordan Ismael",
+            "Tóth Balázs"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cseh Bence",
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Seregély Balázs"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 1.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              0,
+              3,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bagó Martin",
+            "Fazekas Máté",
+            "Santiago Jordan Ismael",
+            "Tichov Dominik",
+            "Tóth Bence Miklós"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": -1.0,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Kozári Gerg?",
+            "Tichov Dominik"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Kozári Gerg?",
+            "Santiago Jordan Ismael",
+            "Tóth Balázs"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.44,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.44,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cseh Bence",
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Kozári Gerg?",
+            "Seregély Balázs"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "poss": 0.0,
+          "oposs": 0.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              1,
+              0.0,
+              0.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136159",
       "comp_code": "hun2b",

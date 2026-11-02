@@ -1,7 +1,7 @@
 {
   "team": "Eszterházy SC",
   "season": "x2627",
-  "match_count": 4,
+  "match_count": 5,
   "matches": [
     {
       "gamecode": "hun2b_136107",
@@ -113,6 +113,34 @@
         "fta": 30,
         "oreb": 4,
         "tov_total": 23
+      }
+    },
+    {
+      "gamecode": "hun2b_136171",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-01",
+      "opponent": "Százhalombattai KSE",
+      "home": false,
+      "result": "L",
+      "our_score": 55,
+      "their_score": 78,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 2,
+        "three_m": 5,
+        "dunk_m": 0,
+        "ft": 8,
+        "close_x": 12,
+        "mid_x": 3,
+        "three_x": 21,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 59,
+        "fta": 13,
+        "oreb": 5,
+        "tov_total": 13
       }
     }
   ]
