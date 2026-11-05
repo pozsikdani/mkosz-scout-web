@@ -1,7 +1,7 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -168,6 +168,34 @@
         "fga": 61,
         "fta": 27,
         "oreb": 8,
+        "tov_total": 13
+      }
+    },
+    {
+      "gamecode": "hun2a_135831",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-04",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX",
+      "home": true,
+      "result": "L",
+      "our_score": 82,
+      "their_score": 94,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 9,
+        "mid_m": 5,
+        "three_m": 15,
+        "dunk_m": 0,
+        "ft": 6,
+        "close_x": 7,
+        "mid_x": 5,
+        "three_x": 21,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 73,
+        "fta": 11,
+        "oreb": 14,
         "tov_total": 13
       }
     }

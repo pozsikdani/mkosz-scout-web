@@ -1,8 +1,501 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135831",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-04",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 94,
+      "their_score": 82,
+      "has_pbp": true,
+      "starters": [
+        "Ervin Carlbe Lee",
+        "Lucey Ciarán József",
+        "Mester Márk",
+        "Ormai Botond Gábor",
+        "Polster Attila"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Polster Attila"
+          ],
+          "min": 12.0,
+          "pf": 29,
+          "pa": 34,
+          "poss": 25.28,
+          "oposs": 24.88,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              9,
+              7,
+              5.52,
+              4.88
+            ],
+            [
+              2.0,
+              4,
+              5,
+              4.0,
+              4.0
+            ],
+            [
+              2.0,
+              7,
+              7,
+              5.88,
+              6.0
+            ],
+            [
+              6.0,
+              9,
+              15,
+              9.88,
+              10.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Mayer Ákos",
+            "Ormai Botond Gábor",
+            "Pap Levente",
+            "Polster Attila"
+          ],
+          "min": 10.0,
+          "pf": 16,
+          "pa": 18,
+          "poss": 18.0,
+          "oposs": 17.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              8.0,
+              13,
+              15,
+              14.0,
+              14.32
+            ],
+            [
+              0.0,
+              3,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              2.0,
+              0,
+              3,
+              2.0,
+              2.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Ormai Botond Gábor"
+          ],
+          "min": 10.0,
+          "pf": 26,
+          "pa": 13,
+          "poss": 15.76,
+          "oposs": 17.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              5.0,
+              13,
+              6,
+              7.32,
+              8.32
+            ],
+            [
+              1.0,
+              3,
+              2,
+              2.0,
+              3.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              3.0,
+              10,
+              5,
+              5.44,
+              5.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Ormai Botond Gábor",
+            "Polster Attila"
+          ],
+          "min": 3.0,
+          "pf": 11,
+          "pa": 5,
+          "poss": 6.88,
+          "oposs": 6.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              1.0,
+              8,
+              0,
+              4.0,
+              3.0
+            ],
+            [
+              2.0,
+              2,
+              5,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Gerőcs Roland Bálint",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Mester Márk"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 0,
+          "poss": 3.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              0,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Gerőcs Roland Bálint",
+            "Mayer Ákos",
+            "Pap Levente",
+            "Polster Attila"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 6,
+          "poss": 6.32,
+          "oposs": 5.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              0.44,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.88,
+              1.0
+            ],
+            [
+              1.0,
+              6,
+              2,
+              4.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Ormai Botond Gábor",
+            "Polster Attila"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              3,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Lucey Ciarán József",
+            "Mayer Ákos",
+            "Mester Márk",
+            "Polster Attila"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 0.88,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              3,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135817",
       "comp_code": "hun2a",

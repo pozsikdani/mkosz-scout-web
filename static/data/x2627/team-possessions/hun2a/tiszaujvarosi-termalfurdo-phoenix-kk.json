@@ -1,7 +1,7 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -141,6 +141,34 @@
         "fta": 16,
         "oreb": 7,
         "tov_total": 20
+      }
+    },
+    {
+      "gamecode": "hun2a_135831",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-04",
+      "opponent": "TF-BP",
+      "home": false,
+      "result": "W",
+      "our_score": 94,
+      "their_score": 82,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 23,
+        "mid_m": 0,
+        "three_m": 11,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 9,
+        "mid_x": 0,
+        "three_x": 14,
+        "dunk_x": 1,
+        "tov": 11,
+        "fga": 65,
+        "fta": 23,
+        "oreb": 9,
+        "tov_total": 11
       }
     }
   ]

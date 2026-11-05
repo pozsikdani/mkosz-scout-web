@@ -209,12 +209,29 @@
       "date": "2026-11-04",
       "time": "18:45",
       "home": true,
-      "opponent": "Tiszaújvárosi Termálfürdő Phoenix KK",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX",
+      "our_score": 82,
+      "their_score": 94,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 19
+        },
+        {
+          "our": 20,
+          "their": 22
+        },
+        {
+          "our": 12,
+          "their": 34
+        },
+        {
+          "our": 26,
+          "their": 19
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {
