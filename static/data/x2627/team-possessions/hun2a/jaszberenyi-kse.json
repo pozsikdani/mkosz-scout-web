@@ -1,7 +1,7 @@
 {
   "team": "Jászberényi KSE",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2a_135741",
@@ -140,6 +140,34 @@
         "fga": 58,
         "fta": 4,
         "oreb": 8,
+        "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2a_135825",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-05",
+      "opponent": "Újbuda MAFC",
+      "home": true,
+      "result": "L",
+      "our_score": 72,
+      "their_score": 85,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 22,
+        "mid_m": 3,
+        "three_m": 4,
+        "dunk_m": 0,
+        "ft": 10,
+        "close_x": 5,
+        "mid_x": 8,
+        "three_x": 19,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 70,
+        "fta": 17,
+        "oreb": 10,
         "tov_total": 17
       }
     }

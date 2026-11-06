@@ -1,8 +1,159 @@
 {
   "team": "Jászberényi KSE",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135825",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-05",
+      "opponent": "Újbuda MAFC",
+      "home": true,
+      "result": "L",
+      "our_score": 72,
+      "their_score": 85,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Arnóczi Áron",
+          "jersey": 13,
+          "minutes": 31,
+          "points": 15,
+          "reb": 6,
+          "ast": 3,
+          "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Frank Áron",
+              "jersey": 2,
+              "minutes": 29,
+              "count": 4,
+              "photo_filename": "jaszberenyi-kse-frank-aron.jpg"
+            },
+            {
+              "name": "Bolyos Mateja",
+              "jersey": 19,
+              "minutes": 24,
+              "count": 3,
+              "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bolyos Mateja",
+          "jersey": 19,
+          "minutes": 24,
+          "points": 7,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Arnóczi Áron",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 4,
+              "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg"
+            },
+            {
+              "name": "Geröly Márton András",
+              "jersey": 22,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Geröly Márton András",
+          "jersey": 22,
+          "minutes": 24,
+          "points": 10,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Rékasi Bojta Bendegúz",
+              "jersey": 73,
+              "minutes": 24,
+              "count": 3,
+              "photo_filename": "jaszberenyi-kse-rekasi-bojta-bendeguz.jpg"
+            },
+            {
+              "name": "Zsók Áron",
+              "jersey": 12,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-zsok-aron.jpg"
+            },
+            {
+              "name": "Arnóczi Áron",
+              "jersey": 13,
+              "minutes": 31,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Márkus Balázs",
+          "jersey": 10,
+          "minutes": 12,
+          "points": 2,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "jaszberenyi-kse-markus-balazs.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Szálkai Gordon",
+              "jersey": 1,
+              "minutes": 28,
+              "count": 5,
+              "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zsók Áron",
+          "jersey": 12,
+          "minutes": 25,
+          "points": 4,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "jaszberenyi-kse-zsok-aron.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Abraham Arabo",
+              "jersey": 88,
+              "minutes": 1,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg"
+            },
+            {
+              "name": "Rékasi Bojta Bendegúz",
+              "jersey": 73,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "jaszberenyi-kse-rekasi-bojta-bendeguz.jpg"
+            },
+            {
+              "name": "Magyari Kristóf",
+              "jersey": 14,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "jaszberenyi-kse-magyari-kristof.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135793",
       "comp_code": "hun2a",
@@ -23,6 +174,7 @@
           "reb": 3,
           "ast": 5,
           "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Frank Áron",
@@ -48,6 +200,7 @@
           "reb": 2,
           "ast": 2,
           "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Márkus Balázs",
@@ -73,6 +226,7 @@
           "reb": 3,
           "ast": 0,
           "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Frank Áron",
@@ -105,6 +259,7 @@
           "reb": 1,
           "ast": 1,
           "photo_filename": "jaszberenyi-kse-magyari-kristof.jpg",
+          "position": "4-5",
           "subs": [
             {
               "name": "Rékasi Bojta Bendegúz",
@@ -123,6 +278,7 @@
           "reb": 3,
           "ast": 1,
           "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
+          "position": "3",
           "subs": [
             {
               "name": "Márkus Balázs",
@@ -162,6 +318,7 @@
           "reb": 5,
           "ast": 1,
           "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg",
+          "position": "5",
           "subs": [
             {
               "name": "Rékasi Bojta Bendegúz",
@@ -194,6 +351,7 @@
           "reb": 5,
           "ast": 4,
           "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Bolyos Mateja",
@@ -226,6 +384,7 @@
           "reb": 1,
           "ast": 2,
           "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Frank Áron",
@@ -258,6 +417,7 @@
           "reb": 6,
           "ast": 1,
           "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Zsók Áron",
@@ -290,6 +450,7 @@
           "reb": 2,
           "ast": 0,
           "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
+          "position": "3",
           "subs": [
             {
               "name": "Zsók Áron",
@@ -336,6 +497,7 @@
           "reb": 5,
           "ast": 1,
           "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg",
+          "position": "5",
           "subs": [
             {
               "name": "Zsók Áron",
@@ -368,6 +530,7 @@
           "reb": 1,
           "ast": 1,
           "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Abraham Arabo",
@@ -400,6 +563,7 @@
           "reb": 2,
           "ast": 4,
           "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Frank Áron",
@@ -432,6 +596,7 @@
           "reb": 3,
           "ast": 1,
           "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Zsók Áron",
@@ -464,6 +629,7 @@
           "reb": 4,
           "ast": 0,
           "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
+          "position": "3",
           "subs": [
             {
               "name": "Márkus Balázs",
@@ -503,6 +669,7 @@
           "reb": 1,
           "ast": 2,
           "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Frank Áron",
@@ -535,6 +702,7 @@
           "reb": 2,
           "ast": 3,
           "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Frank Áron",
@@ -560,6 +728,7 @@
           "reb": 11,
           "ast": 3,
           "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Frank Áron",
@@ -585,6 +754,7 @@
           "reb": 1,
           "ast": 2,
           "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
+          "position": "3",
           "subs": [
             {
               "name": "Márkus Balázs",
@@ -603,6 +773,7 @@
           "reb": 2,
           "ast": 0,
           "photo_filename": "jaszberenyi-kse-zsok-aron.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Geröly Márton András",
@@ -649,6 +820,7 @@
           "reb": 5,
           "ast": 5,
           "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Bolyos Mateja",
@@ -681,6 +853,7 @@
           "reb": 3,
           "ast": 4,
           "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg",
+          "position": "1-2",
           "subs": [
             {
               "name": "Arnóczi Áron",
@@ -706,6 +879,7 @@
           "reb": 5,
           "ast": 3,
           "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Abraham Arabo",
@@ -738,6 +912,7 @@
           "reb": 2,
           "ast": 0,
           "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
+          "position": "3",
           "subs": [
             {
               "name": "Abraham Arabo",
@@ -770,6 +945,7 @@
           "reb": 9,
           "ast": 0,
           "photo_filename": "jaszberenyi-kse-zsok-aron.jpg",
+          "position": "4",
           "subs": [
             {
               "name": "Abraham Arabo",

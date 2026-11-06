@@ -177,10 +177,27 @@
       "time": "17:00",
       "home": true,
       "opponent": "Újbuda MAFC",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 72,
+      "their_score": 85,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 16,
+          "their": 25
+        },
+        {
+          "our": 18,
+          "their": 21
+        },
+        {
+          "our": 14,
+          "their": 19
+        },
+        {
+          "our": 24,
+          "their": 20
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },
