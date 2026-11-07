@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2a_135743",
@@ -169,6 +169,34 @@
         "fta": 23,
         "oreb": 10,
         "tov_total": 17
+      }
+    },
+    {
+      "gamecode": "hun2a_135823",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-06",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 72,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 22,
+        "mid_m": 1,
+        "three_m": 9,
+        "dunk_m": 2,
+        "ft": 10,
+        "close_x": 6,
+        "mid_x": 1,
+        "three_x": 20,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 73,
+        "fta": 16,
+        "oreb": 13,
+        "tov_total": 14
       }
     }
   ]

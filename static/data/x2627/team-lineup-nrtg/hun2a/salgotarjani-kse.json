@@ -1,8 +1,855 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135823",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-06",
+      "opponent": "PVSK-PANTHERS",
+      "home": false,
+      "result": "L",
+      "our_score": 72,
+      "their_score": 88,
+      "has_pbp": true,
+      "starters": [
+        "Cserényi Martin",
+        "Fekete Viktor Norbert",
+        "Mucza Tamás",
+        "Nagy Ádám Béla",
+        "Takács Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Hargitai Krisztián",
+            "Mucza Tamás",
+            "Takács Dániel"
+          ],
+          "min": 11.0,
+          "pf": 14,
+          "pa": 17,
+          "poss": 17.32,
+          "oposs": 16.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.44
+            ],
+            [
+              6.0,
+              3,
+              12,
+              5.88,
+              7.88
+            ],
+            [
+              3.0,
+              2,
+              2,
+              5.44,
+              4.0
+            ],
+            [
+              1.0,
+              7,
+              3,
+              3.0,
+              2.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              2.0,
+              2.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Osztoics Milán"
+          ],
+          "min": 6.0,
+          "pf": 14,
+          "pa": 20,
+          "poss": 13.44,
+          "oposs": 14.44,
+          "is_starter": false,
+          "opp": [
+            [
+              3.0,
+              12,
+              13,
+              9.44,
+              9.0
+            ],
+            [
+              2.0,
+              2,
+              5,
+              2.0,
+              3.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Mucza Tamás",
+            "Nagy Ádám Béla",
+            "Takács Dániel"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 13,
+          "poss": 9.0,
+          "oposs": 8.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              5.0,
+              11,
+              13,
+              9.0,
+              8.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Boka-magó Áron István",
+            "Fekete Viktor Norbert",
+            "Hargitai Krisztián",
+            "Kámán Bálint"
+          ],
+          "min": 5.0,
+          "pf": 9,
+          "pa": 10,
+          "poss": 10.76,
+          "oposs": 11.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              8,
+              5.88,
+              6.44
+            ],
+            [
+              3.0,
+              5,
+              2,
+              4.88,
+              5.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Hargitai Krisztián",
+            "Mucza Tamás",
+            "Takács Dániel"
+          ],
+          "min": 4.0,
+          "pf": 5,
+          "pa": 9,
+          "poss": 6.88,
+          "oposs": 8.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              2.88,
+              2.0
+            ],
+            [
+              3.0,
+              5,
+              9,
+              4.0,
+              6.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Boka-magó Áron István",
+            "Fekete Viktor Norbert",
+            "Hargitai Krisztián",
+            "Takács Dániel"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 3,
+          "poss": 4.0,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              1,
+              0.0,
+              0.88
+            ],
+            [
+              2.0,
+              5,
+              2,
+              4.0,
+              4.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Nagy Ádám Béla"
+          ],
+          "min": 2.0,
+          "pf": 1,
+          "pa": 0,
+          "poss": 1.88,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              1,
+              0,
+              1.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Kámán Bálint",
+            "Nagy Ádám Béla"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 4,
+          "poss": 4.76,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              6,
+              4,
+              4.76,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cserényi Martin",
+            "Fekete Viktor Norbert",
+            "Mucza Tamás",
+            "Nagy Ádám Béla",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Mucza Tamás",
+            "Osztoics Milán",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 1,
+          "poss": 5.44,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              5,
+              1,
+              4.44,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Boka-magó Áron István",
+            "Cserényi Marcell",
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Takács Dániel"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 3.0,
+          "oposs": 2.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              3.0,
+              2.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Mucza Tamás",
+            "Osztoics Milán",
+            "Takács Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              1.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Nagy Ádám Béla",
+            "Takács Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 4,
+          "poss": 1.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              4,
+              1.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balázs Márton József",
+            "Boka-magó Áron István",
+            "Hargitai Krisztián",
+            "Kámán Bálint",
+            "Takács Dániel"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 1.0,
+          "oposs": 1.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              1.0,
+              1.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135811",
       "comp_code": "hun2a",

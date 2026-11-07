@@ -1,8 +1,133 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2a_135823",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-06",
+      "opponent": "PVSK-PANTHERS",
+      "home": false,
+      "result": "L",
+      "our_score": 72,
+      "their_score": 88,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Fekete Viktor Norbert",
+          "jersey": 7,
+          "minutes": 26,
+          "points": 11,
+          "reb": 3,
+          "ast": 3,
+          "photo_filename": "salgotarjani-kse-fekete-viktor-norbert.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 0,
+              "minutes": 23,
+              "count": 3,
+              "photo_filename": "salgotarjani-kse-boka-mago-aron-istvan.jpg"
+            },
+            {
+              "name": "Kámán Bálint",
+              "jersey": 6,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-kaman-balint.jpg"
+            },
+            {
+              "name": "Takács Dániel",
+              "jersey": 11,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-takacs-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mucza Tamás",
+          "jersey": 13,
+          "minutes": 30,
+          "points": 17,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "salgotarjani-kse-mucza-tamas.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Fekete Viktor Norbert",
+              "jersey": 7,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "salgotarjani-kse-fekete-viktor-norbert.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Ádám Béla",
+          "jersey": 41,
+          "minutes": 10,
+          "points": 3,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "salgotarjani-kse-nagy-adam-bela.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Osztoics Milán",
+              "jersey": 9,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-osztoics-milan.jpg"
+            },
+            {
+              "name": "Fekete Viktor Norbert",
+              "jersey": 7,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-fekete-viktor-norbert.jpg"
+            },
+            {
+              "name": "Balázs Márton József",
+              "jersey": 21,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-balazs-marton-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Takács Dániel",
+          "jersey": 11,
+          "minutes": 25,
+          "points": 7,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "salgotarjani-kse-takacs-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Kámán Bálint",
+              "jersey": 6,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "salgotarjani-kse-kaman-balint.jpg"
+            },
+            {
+              "name": "Boka-Magó Áron István",
+              "jersey": 0,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "salgotarjani-kse-boka-mago-aron-istvan.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135811",
       "comp_code": "hun2a",
