@@ -1,7 +1,7 @@
 {
   "team": "Foody-BasketBaja",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2b_136099",
@@ -169,6 +169,34 @@
         "fta": 15,
         "oreb": 11,
         "tov_total": 15
+      }
+    },
+    {
+      "gamecode": "hun2b_136195",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "BUDAFOK",
+      "home": true,
+      "result": "W",
+      "our_score": 83,
+      "their_score": 81,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 4,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 16,
+        "close_x": 11,
+        "mid_x": 2,
+        "three_x": 12,
+        "dunk_x": 0,
+        "tov": 16,
+        "fga": 56,
+        "fta": 31,
+        "oreb": 8,
+        "tov_total": 16
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "team": "Budapesti Bikák",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2b_136105",
@@ -169,6 +169,34 @@
         "fta": 17,
         "oreb": 13,
         "tov_total": 14
+      }
+    },
+    {
+      "gamecode": "hun2b_136189",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "PTE-PEAC",
+      "home": false,
+      "result": "W",
+      "our_score": 75,
+      "their_score": 56,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 20,
+        "mid_m": 2,
+        "three_m": 3,
+        "dunk_m": 1,
+        "ft": 15,
+        "close_x": 9,
+        "mid_x": 3,
+        "three_x": 11,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 60,
+        "fta": 28,
+        "oreb": 12,
+        "tov_total": 13
       }
     }
   ]

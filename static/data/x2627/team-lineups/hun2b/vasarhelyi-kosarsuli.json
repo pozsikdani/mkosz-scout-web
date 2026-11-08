@@ -1,8 +1,138 @@
 {
   "team": "Vásárhelyi Kosársuli",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2b_136191",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "DH BASKET",
+      "home": false,
+      "result": "L",
+      "our_score": 81,
+      "their_score": 103,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Anda Dávid",
+          "jersey": 6,
+          "minutes": 36,
+          "points": 17,
+          "reb": 7,
+          "ast": 0,
+          "photo_filename": "vasarhelyi-kosarsuli-anda-david.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Utasi Gergő",
+              "jersey": 21,
+              "minutes": 4,
+              "count": 3,
+              "photo_filename": "vasarhelyi-kosarsuli-utasi-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Balogh László",
+          "jersey": null,
+          "minutes": 22,
+          "points": 9,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "vasarhelyi-kosarsuli-balogh-laszlo.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Kelemen Balázs",
+              "jersey": 27,
+              "minutes": 26,
+              "count": 3,
+              "photo_filename": "vasarhelyi-kosarsuli-kelemen-balazs.jpg"
+            },
+            {
+              "name": "Polányi Kristóf Áron",
+              "jersey": 15,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "vasarhelyi-kosarsuli-polanyi-kristof-aron.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bálint Erik",
+          "jersey": 3,
+          "minutes": 29,
+          "points": 11,
+          "reb": 0,
+          "ast": 3,
+          "photo_filename": "vasarhelyi-kosarsuli-balint-erik.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Balogh László",
+              "jersey": null,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "vasarhelyi-kosarsuli-balogh-laszlo.jpg"
+            },
+            {
+              "name": "Kelemen Balázs",
+              "jersey": 27,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-kelemen-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kruzslicz Alex",
+          "jersey": 23,
+          "minutes": 33,
+          "points": 17,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "vasarhelyi-kosarsuli-kruzslicz-alex.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Niksic Alexander",
+              "jersey": 31,
+              "minutes": 6,
+              "count": 3,
+              "photo_filename": "vasarhelyi-kosarsuli-niksic-alexander.jpg"
+            },
+            {
+              "name": "Wolf Dominik",
+              "jersey": 24,
+              "minutes": 1,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-wolf-dominik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Polányi Kristóf Áron",
+          "jersey": 15,
+          "minutes": 26,
+          "points": 11,
+          "reb": 3,
+          "ast": 5,
+          "photo_filename": "vasarhelyi-kosarsuli-polanyi-kristof-aron.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Bősz Richárd",
+              "jersey": 2,
+              "minutes": 17,
+              "count": 3,
+              "photo_filename": "vasarhelyi-kosarsuli-bosz-richard.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136179",
       "comp_code": "hun2b",

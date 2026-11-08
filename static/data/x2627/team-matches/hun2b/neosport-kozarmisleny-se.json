@@ -177,10 +177,27 @@
       "time": "16:00",
       "home": false,
       "opponent": "Eszterházy SC",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 60,
+      "their_score": 86,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 18
+        },
+        {
+          "our": 11,
+          "their": 27
+        },
+        {
+          "our": 12,
+          "their": 28
+        },
+        {
+          "our": 13,
+          "their": 13
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

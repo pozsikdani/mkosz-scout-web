@@ -1,8 +1,1032 @@
 {
   "team": "TFSE",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136185",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": false,
+      "result": "L",
+      "our_score": 56,
+      "their_score": 71,
+      "has_pbp": true,
+      "starters": [
+        "Blaskovits Márk Mihály",
+        "Körömi László",
+        "Pozsik Zsombor",
+        "Vámos László",
+        "Vígh Marcell Péter"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Körömi László",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 6.0,
+          "pf": 13,
+          "pa": 7,
+          "poss": 11.0,
+          "oposs": 11.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              2.0,
+              3.0
+            ],
+            [
+              4.0,
+              11,
+              5,
+              8.0,
+              7.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Dobos Máté",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor",
+            "Szalontai Máté"
+          ],
+          "min": 6.0,
+          "pf": 10,
+          "pa": 14,
+          "poss": 10.88,
+          "oposs": 11.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              3,
+              2.0,
+              3.0
+            ],
+            [
+              2.0,
+              3,
+              4,
+              4.88,
+              3.88
+            ],
+            [
+              2.0,
+              4,
+              7,
+              4.0,
+              4.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Dobos Máté",
+            "Keresztesi Dávid József",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté"
+          ],
+          "min": 5.0,
+          "pf": 7,
+          "pa": 7,
+          "poss": 11.0,
+          "oposs": 10.64,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              4,
+              5.0,
+              4.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              5,
+              3,
+              6.0,
+              5.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Keresztesi Dávid József",
+            "Körömi László",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 5.0,
+          "pf": 5,
+          "pa": 8,
+          "poss": 12.0,
+          "oposs": 9.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              3,
+              6,
+              8.0,
+              7.44
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Garancz Milán",
+            "Körömi László",
+            "Pozsik Zsombor",
+            "Vámos László"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 8,
+          "poss": 9.88,
+          "oposs": 6.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              2,
+              8,
+              6.0,
+              6.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              3.88,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Körömi László",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 3.0,
+          "pf": 6,
+          "pa": 10,
+          "poss": 8.0,
+          "oposs": 8.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              6,
+              10,
+              8.0,
+              8.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Pozsik Zsombor",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 4.88,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              3.88,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Keresztesi Dávid József",
+            "Szalontai Máté",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 0,
+          "poss": 3.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              0,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Körömi László",
+            "Pozsik Zsombor",
+            "Vámos László"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 4,
+          "poss": 3.0,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              4,
+              3.0,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Körömi László",
+            "Szalontai Máté",
+            "Vámos László",
+            "Vígh Marcell Péter"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
+          "poss": 4.88,
+          "oposs": 4.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              4,
+              4.88,
+              4.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Keresztesi Dávid József",
+            "Körömi László",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              1.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Dobos Máté",
+            "Keresztesi Dávid József",
+            "Vámos László"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "poss": 1.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              4,
+              1.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Dobos Máté",
+            "Nagy Kevin Krisztián",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Körömi László",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor",
+            "Szalontai Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.88,
+          "oposs": 1.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              0.88,
+              1.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Blaskovits Márk Mihály",
+            "Keresztesi Dávid József",
+            "Körömi László",
+            "Nagy Kevin Krisztián"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Blaskovits Márk Mihály",
+            "Garancz Milán",
+            "Körömi László",
+            "Nagy Kevin Krisztián",
+            "Pozsik Zsombor"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 0.88,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Alcser Dániel Balázs",
+            "Dobos Máté",
+            "Keresztesi Dávid József",
+            "Szalontai Máté",
+            "Vámos László"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 2.0,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              3,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136173",
       "comp_code": "hun2b",

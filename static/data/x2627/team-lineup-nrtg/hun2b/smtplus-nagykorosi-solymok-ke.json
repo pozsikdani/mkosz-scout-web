@@ -1,8 +1,973 @@
 {
   "team": "SMTPlus-Nagykőrösi Sólymok KE",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136185",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "TFSE",
+      "home": true,
+      "result": "W",
+      "our_score": 71,
+      "their_score": 56,
+      "has_pbp": true,
+      "starters": [
+        "Csorvási Milán",
+        "Fehér Péter József",
+        "György Julian",
+        "Lakosa Ákos",
+        "Mészáros Bence"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Csorvási Milán",
+            "Fehér Péter József",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 7.0,
+          "pf": 11,
+          "pa": 14,
+          "poss": 14.44,
+          "oposs": 16.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              6,
+              3,
+              7.44,
+              8.0
+            ],
+            [
+              4.0,
+              5,
+              11,
+              7.0,
+              8.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csorvási Milán",
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "Márton Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 7.0,
+          "pf": 11,
+          "pa": 9,
+          "poss": 10.76,
+          "oposs": 9.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              4,
+              4.76,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              6,
+              3,
+              4.0,
+              3.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 4.0,
+          "pf": 4,
+          "pa": 6,
+          "poss": 8.88,
+          "oposs": 10.0,
+          "is_starter": false,
+          "opp": [
+            [
+              2.0,
+              4,
+              2,
+              4.88,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              4,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Csorvási Milán",
+            "Fehér Péter József",
+            "György Julian",
+            "Mészáros Bence"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 2,
+          "poss": 7.76,
+          "oposs": 6.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              4.0,
+              6,
+              2,
+              7.76,
+              6.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csorvási Milán",
+            "Fehér Péter József",
+            "Lakosa Ákos",
+            "Márton Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 5,
+          "poss": 7.88,
+          "oposs": 7.0,
+          "is_starter": false,
+          "opp": [
+            [
+              2.0,
+              2,
+              3,
+              4.88,
+              5.0
+            ],
+            [
+              1.0,
+              0,
+              2,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Csorvási Milán",
+            "Gera Ferenc",
+            "György Julian",
+            "Lakosa Ákos"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 2,
+          "poss": 3.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              5,
+              2,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csorvási Milán",
+            "Gera Ferenc",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 3.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              3.0,
+              2.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Csorvási Milán",
+            "Gera Ferenc",
+            "Lakosa Ákos",
+            "Márton Ákos"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 1,
+          "poss": 2.0,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              1,
+              2.0,
+              2.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Gera Ferenc",
+            "Lakosa Ákos",
+            "Márton Ákos",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 3,
+          "poss": 3.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              3,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fehér Péter József",
+            "Lakosa Ákos",
+            "Márton Ákos",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 2.0,
+          "pf": 8,
+          "pa": 3,
+          "poss": 7.44,
+          "oposs": 6.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.44,
+              0.88
+            ],
+            [
+              0.0,
+              4,
+              3,
+              4.0,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gera Ferenc",
+            "Lakosa Ákos",
+            "Márton Ákos",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 3,
+          "poss": 4.76,
+          "oposs": 5.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              3,
+              4.76,
+              5.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fehér Péter József",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 1.0,
+          "pf": 1,
+          "pa": 2,
+          "poss": 0.88,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              1.0,
+              1,
+              2,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csorvási Milán",
+            "Fehér Péter József",
+            "Gera Ferenc",
+            "György Julian",
+            "Mészáros Bence"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 0,
+          "poss": 2.88,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              0,
+              1.0,
+              2.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              1.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csorvási Milán",
+            "Gera Ferenc",
+            "Lakosa Ákos",
+            "Márton Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 2,
+          "poss": 3.0,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              3,
+              0,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Csorvási Milán",
+            "György Julian",
+            "Lakosa Ákos",
+            "Mészáros Bence"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 3.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Béres Benedek",
+            "Fehér Péter József",
+            "Lakosa Ákos",
+            "Márton Ákos",
+            "Okoh Victor Kelechi"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 1.88,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              2,
+              1.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136169",
       "comp_code": "hun2b",

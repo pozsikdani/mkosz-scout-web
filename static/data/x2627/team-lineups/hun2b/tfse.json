@@ -1,8 +1,152 @@
 {
   "team": "TFSE",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136185",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": false,
+      "result": "L",
+      "our_score": 56,
+      "their_score": 71,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Blaskovits Márk Mihály",
+          "jersey": 12,
+          "minutes": 21,
+          "points": 6,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "tfse-blaskovits-mark-mihaly.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Szalontai Máté",
+              "jersey": 5,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "tfse-szalontai-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Körömi László",
+          "jersey": 15,
+          "minutes": 23,
+          "points": 0,
+          "reb": 8,
+          "ast": 1,
+          "photo_filename": "tfse-koromi-laszlo.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Alcser Dániel Balázs",
+              "jersey": 88,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "tfse-alcser-daniel-balazs.jpg"
+            },
+            {
+              "name": "Vígh Marcell Péter",
+              "jersey": 4,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "tfse-vigh-marcell-peter.jpg"
+            },
+            {
+              "name": "Dobos Máté",
+              "jersey": 13,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "tfse-dobos-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pozsik Zsombor",
+          "jersey": 25,
+          "minutes": 23,
+          "points": 10,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "tfse-pozsik-zsombor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Keresztesi Dávid József",
+              "jersey": 1,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "tfse-keresztesi-david-jozsef.jpg"
+            },
+            {
+              "name": "Körömi László",
+              "jersey": 15,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "tfse-koromi-laszlo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vámos László",
+          "jersey": 22,
+          "minutes": 27,
+          "points": 13,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "tfse-vamos-laszlo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Dobos Máté",
+              "jersey": 13,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "tfse-dobos-mate.jpg"
+            },
+            {
+              "name": "Pozsik Zsombor",
+              "jersey": 25,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "tfse-pozsik-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vígh Marcell Péter",
+          "jersey": 4,
+          "minutes": 17,
+          "points": 2,
+          "reb": 4,
+          "ast": 2,
+          "photo_filename": "tfse-vigh-marcell-peter.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 14,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "tfse-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Alcser Dániel Balázs",
+              "jersey": 88,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "tfse-alcser-daniel-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136173",
       "comp_code": "hun2b",

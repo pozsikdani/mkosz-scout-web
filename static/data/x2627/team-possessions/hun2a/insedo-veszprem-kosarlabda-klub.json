@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -169,6 +169,34 @@
         "fta": 10,
         "oreb": 17,
         "tov_total": 12
+      }
+    },
+    {
+      "gamecode": "hun2a_135827",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": true,
+      "result": "W",
+      "our_score": 106,
+      "their_score": 80,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 23,
+        "mid_m": 0,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 20,
+        "close_x": 8,
+        "mid_x": 2,
+        "three_x": 8,
+        "dunk_x": 0,
+        "tov": 15,
+        "fga": 60,
+        "fta": 35,
+        "oreb": 9,
+        "tov_total": 15
       }
     }
   ]

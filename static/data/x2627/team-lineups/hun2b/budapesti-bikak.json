@@ -1,8 +1,138 @@
 {
   "team": "Budapesti Bikák",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136189",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "PTE-PEAC",
+      "home": false,
+      "result": "W",
+      "our_score": 75,
+      "their_score": 56,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bucskó Zalán",
+          "jersey": 4,
+          "minutes": 12,
+          "points": 0,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "budapesti-bikak-bucsko-zalan.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Ménesi Miklós",
+              "jersey": 13,
+              "minutes": 28,
+              "count": 3,
+              "photo_filename": "budapesti-bikak-menesi-miklos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Csapai Péter Zsolt",
+          "jersey": 10,
+          "minutes": 38,
+          "points": 20,
+          "reb": 9,
+          "ast": 4,
+          "photo_filename": "budapesti-bikak-csapai-peter-zsolt.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Szabó Dániel",
+              "jersey": 9,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-szabo-daniel.jpg"
+            },
+            {
+              "name": "Lajsz Gergely",
+              "jersey": 13,
+              "minutes": 38,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-lajsz-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lajsz Gergely",
+          "jersey": 13,
+          "minutes": 38,
+          "points": 14,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "budapesti-bikak-lajsz-gergely.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Szabó Dániel",
+              "jersey": 9,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "budapesti-bikak-szabo-daniel.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szabó Dániel",
+          "jersey": 9,
+          "minutes": 8,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "budapesti-bikak-szabo-daniel.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Baki Sándor",
+              "jersey": 13,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-baki-sandor.jpg"
+            },
+            {
+              "name": "Csapai Péter Zsolt",
+              "jersey": 10,
+              "minutes": 38,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-csapai-peter-zsolt.jpg"
+            },
+            {
+              "name": "Pleesz Gergő",
+              "jersey": 6,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "budapesti-bikak-pleesz-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szántó Dániel",
+          "jersey": null,
+          "minutes": 29,
+          "points": 5,
+          "reb": 4,
+          "ast": 8,
+          "photo_filename": "budapesti-bikak-szanto-daniel.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Pleesz Gergő",
+              "jersey": 6,
+              "minutes": 11,
+              "count": 3,
+              "photo_filename": "budapesti-bikak-pleesz-gergo.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136173",
       "comp_code": "hun2b",

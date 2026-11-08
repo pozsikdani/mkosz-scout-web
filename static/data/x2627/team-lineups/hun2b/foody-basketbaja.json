@@ -1,8 +1,131 @@
 {
   "team": "Foody-BasketBaja",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136195",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "BUDAFOK",
+      "home": true,
+      "result": "W",
+      "our_score": 83,
+      "their_score": 81,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Goldring József Bence",
+          "jersey": 33,
+          "minutes": 31,
+          "points": 7,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "foody-basketbaja-goldring-jozsef-bence.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Bán Tibor",
+              "jersey": 3,
+              "minutes": 12,
+              "count": 2,
+              "photo_filename": "foody-basketbaja-ban-tibor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Hódos Patrik",
+          "jersey": 7,
+          "minutes": 31,
+          "points": 26,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "foody-basketbaja-hodos-patrik.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Cseresznyés Csoma",
+              "jersey": 4,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "foody-basketbaja-cseresznyes-csoma.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lakatos Máté",
+          "jersey": 9,
+          "minutes": 37,
+          "points": 10,
+          "reb": 0,
+          "ast": 7,
+          "photo_filename": "foody-basketbaja-lakatos-mate.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Bán Tibor",
+              "jersey": 3,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "foody-basketbaja-ban-tibor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Orgona Gergő Milán",
+          "jersey": 13,
+          "minutes": 34,
+          "points": 17,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "foody-basketbaja-orgona-gergo-milan.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Simon Dávid",
+              "jersey": 77,
+              "minutes": 10,
+              "count": 2,
+              "photo_filename": "foody-basketbaja-simon-david.jpg"
+            },
+            {
+              "name": "Szugyiczki Máté",
+              "jersey": 12,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "foody-basketbaja-szugyiczki-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szugyiczki Máté",
+          "jersey": 12,
+          "minutes": 36,
+          "points": 15,
+          "reb": 10,
+          "ast": 0,
+          "photo_filename": "foody-basketbaja-szugyiczki-mate.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Bán Tibor",
+              "jersey": 3,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": "foody-basketbaja-ban-tibor.jpg"
+            },
+            {
+              "name": "Simon Dávid",
+              "jersey": 77,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "foody-basketbaja-simon-david.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136179",
       "comp_code": "hun2b",

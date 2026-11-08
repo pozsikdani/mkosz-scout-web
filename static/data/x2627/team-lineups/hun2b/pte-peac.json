@@ -1,8 +1,152 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136189",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "Budapesti Bikák",
+      "home": true,
+      "result": "L",
+      "our_score": 56,
+      "their_score": 75,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csizmadia Attila",
+          "jersey": 34,
+          "minutes": 32,
+          "points": 14,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "pte-peac-csizmadia-attila.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": null,
+              "minutes": 1,
+              "count": 2,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Sáfrán Botond",
+              "jersey": null,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "pte-peac-safran-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Czink László Gábor",
+          "jersey": null,
+          "minutes": 26,
+          "points": 0,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "pte-peac-czink-laszlo-gabor.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Teszárik Márton",
+              "jersey": null,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            },
+            {
+              "name": "Ravasz Márk",
+              "jersey": 21,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "pte-peac-ravasz-mark.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kis Milán Bence",
+          "jersey": null,
+          "minutes": 18,
+          "points": 3,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "pte-peac-kis-milan-bence.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Csizmadia Attila",
+              "jersey": 34,
+              "minutes": 32,
+              "count": 3,
+              "photo_filename": "pte-peac-csizmadia-attila.jpg"
+            },
+            {
+              "name": "Korszunszkij Bohdan",
+              "jersey": null,
+              "minutes": 22,
+              "count": 2,
+              "photo_filename": "pte-peac-korszunszkij-bohdan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": null,
+          "minutes": 27,
+          "points": 6,
+          "reb": 3,
+          "ast": 4,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Ravasz Márk",
+              "jersey": 21,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "pte-peac-ravasz-mark.jpg"
+            },
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": null,
+              "minutes": 1,
+              "count": 1,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zalay Zsombor",
+          "jersey": null,
+          "minutes": 34,
+          "points": 9,
+          "reb": 2,
+          "ast": 8,
+          "photo_filename": "pte-peac-zalay-zsombor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": null,
+              "minutes": 6,
+              "count": 3,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136177",
       "comp_code": "hun2b",

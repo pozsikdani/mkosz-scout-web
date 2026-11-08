@@ -1,7 +1,7 @@
 {
   "team": "DH BASKET",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2b_136115",
@@ -141,6 +141,34 @@
         "fta": 22,
         "oreb": 11,
         "tov_total": 21
+      }
+    },
+    {
+      "gamecode": "hun2b_136191",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "Vásárhelyi Kosársuli",
+      "home": true,
+      "result": "W",
+      "our_score": 103,
+      "their_score": 81,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 25,
+        "mid_m": 4,
+        "three_m": 10,
+        "dunk_m": 0,
+        "ft": 12,
+        "close_x": 5,
+        "mid_x": 0,
+        "three_x": 10,
+        "dunk_x": 0,
+        "tov": 23,
+        "fga": 71,
+        "fta": 17,
+        "oreb": 17,
+        "tov_total": 23
       }
     }
   ]

@@ -1,8 +1,166 @@
 {
   "team": "Eszterházy SC",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2b_136187",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "NEOsport Kozármisleny SE",
+      "home": true,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 60,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Botka Botond",
+          "jersey": 25,
+          "minutes": 25,
+          "points": 10,
+          "reb": 6,
+          "ast": 5,
+          "photo_filename": "eszterhazy-sc-botka-botond.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Német Ákos",
+              "jersey": 1,
+              "minutes": 33,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-nemet-akos.jpg"
+            },
+            {
+              "name": "Kiss Kolos",
+              "jersey": 16,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-kiss-kolos.jpg"
+            },
+            {
+              "name": "Cvijin Patrik",
+              "jersey": 10,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-cvijin-patrik.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Cvijin Patrik",
+          "jersey": 10,
+          "minutes": 29,
+          "points": 26,
+          "reb": 5,
+          "ast": 2,
+          "photo_filename": "eszterhazy-sc-cvijin-patrik.jpg",
+          "position": "3",
+          "subs": [
+            {
+              "name": "Gazibegovic Vanja",
+              "jersey": 14,
+              "minutes": 30,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-gazibegovic-vanja.jpg"
+            },
+            {
+              "name": "Szicsák Bence",
+              "jersey": 7,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-szicsak-bence.jpg"
+            },
+            {
+              "name": "Kiss Kolos",
+              "jersey": 16,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-kiss-kolos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gazibegovic Vanja",
+          "jersey": 14,
+          "minutes": 30,
+          "points": 20,
+          "reb": 14,
+          "ast": 3,
+          "photo_filename": "eszterhazy-sc-gazibegovic-vanja.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Szicsák Bence",
+              "jersey": 7,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "eszterhazy-sc-szicsak-bence.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kerekes Hunor Ákos",
+          "jersey": 33,
+          "minutes": 11,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "eszterhazy-sc-kerekes-hunor-akos.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kiss Kolos",
+              "jersey": 16,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-kiss-kolos.jpg"
+            },
+            {
+              "name": "Botka Botond",
+              "jersey": 25,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-botka-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Német Ákos",
+          "jersey": 1,
+          "minutes": 33,
+          "points": 12,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "eszterhazy-sc-nemet-akos.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Botka Botond",
+              "jersey": 25,
+              "minutes": 25,
+              "count": 3,
+              "photo_filename": "eszterhazy-sc-botka-botond.jpg"
+            },
+            {
+              "name": "Cvijin Patrik",
+              "jersey": 10,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-cvijin-patrik.jpg"
+            },
+            {
+              "name": "Kerekes Hunor Ákos",
+              "jersey": 33,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "eszterhazy-sc-kerekes-hunor-akos.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136171",
       "comp_code": "hun2b",

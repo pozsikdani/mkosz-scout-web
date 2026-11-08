@@ -1,7 +1,7 @@
 {
   "team": "NEOsport Kozármisleny SE",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2b_136109",
@@ -141,6 +141,34 @@
         "fta": 17,
         "oreb": 8,
         "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2b_136187",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-07",
+      "opponent": "Eszterházy SC",
+      "home": false,
+      "result": "L",
+      "our_score": 60,
+      "their_score": 86,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 9,
+        "mid_m": 2,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 13,
+        "close_x": 8,
+        "mid_x": 4,
+        "three_x": 25,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 60,
+        "fta": 23,
+        "oreb": 7,
+        "tov_total": 14
       }
     }
   ]
