@@ -1,7 +1,7 @@
 {
   "team": "Százhalombattai KSE",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
     {
       "gamecode": "hun2b_136111",
@@ -141,6 +141,34 @@
         "fta": 10,
         "oreb": 17,
         "tov_total": 16
+      }
+    },
+    {
+      "gamecode": "hun2b_136183",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-08",
+      "opponent": "GYKC UNI Győr",
+      "home": false,
+      "result": "L",
+      "our_score": 72,
+      "their_score": 88,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 2,
+        "three_m": 8,
+        "dunk_m": 2,
+        "ft": 11,
+        "close_x": 5,
+        "mid_x": 2,
+        "three_x": 14,
+        "dunk_x": 0,
+        "tov": 23,
+        "fga": 54,
+        "fta": 18,
+        "oreb": 8,
+        "tov_total": 23
       }
     }
   ]

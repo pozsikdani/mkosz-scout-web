@@ -1,8 +1,123 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2a_135819",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-08",
+      "opponent": "VASAS AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 82,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Galambos Árpád",
+          "jersey": 7,
+          "minutes": 25,
+          "points": 2,
+          "reb": 9,
+          "ast": 1,
+          "photo_filename": "bkg-prima-akademia-galambos-arpad.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Büki Lóránt",
+              "jersey": 12,
+              "minutes": 6,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-buki-lorant.jpg"
+            },
+            {
+              "name": "Várszegi Balázs",
+              "jersey": 6,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-varszegi-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kovács Leonárd",
+          "jersey": 16,
+          "minutes": 10,
+          "points": 4,
+          "reb": 2,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Csécsei Gergő",
+              "jersey": 13,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "bkg-prima-akademia-csecsei-gergo.jpg"
+            },
+            {
+              "name": "Büki Lóránt",
+              "jersey": 12,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-buki-lorant.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Benedek Ágost",
+          "jersey": 9,
+          "minutes": 40,
+          "points": 8,
+          "reb": 4,
+          "ast": 10,
+          "photo_filename": "bkg-prima-akademia-nagy-benedek-agost.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Nagy Botond Ágoston",
+          "jersey": 14,
+          "minutes": 40,
+          "points": 27,
+          "reb": 4,
+          "ast": 4,
+          "photo_filename": "bkg-prima-akademia-nagy-botond-agoston.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Lehoczki Attila",
+              "jersey": 17,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-lehoczki-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Reiber Dean Thomas",
+          "jersey": 5,
+          "minutes": 35,
+          "points": 18,
+          "reb": 7,
+          "ast": 4,
+          "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Dokmanovic Milán",
+              "jersey": 22,
+              "minutes": 8,
+              "count": 1,
+              "photo_filename": "bkg-prima-akademia-dokmanovic-milan.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135805",
       "comp_code": "hun2a",

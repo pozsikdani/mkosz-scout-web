@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -169,6 +169,34 @@
         "fta": 16,
         "oreb": 7,
         "tov_total": 7
+      }
+    },
+    {
+      "gamecode": "hun2a_135819",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-08",
+      "opponent": "VASAS AKADÉMIA",
+      "home": true,
+      "result": "L",
+      "our_score": 73,
+      "their_score": 82,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 11,
+        "mid_m": 4,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 11,
+        "mid_x": 3,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 10,
+        "fga": 64,
+        "fta": 21,
+        "oreb": 10,
+        "tov_total": 10
       }
     }
   ]

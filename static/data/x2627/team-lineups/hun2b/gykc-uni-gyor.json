@@ -1,8 +1,142 @@
 {
   "team": "GYKC UNI Győr",
   "season": "x2627",
-  "match_count": 5,
+  "match_count": 6,
   "matches": [
+    {
+      "gamecode": "hun2b_136183",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-08",
+      "opponent": "Százhalombattai KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 88,
+      "their_score": 72,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Barócsi Ádám",
+          "jersey": null,
+          "minutes": 22,
+          "points": 8,
+          "reb": 8,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Kovács Marcell",
+              "jersey": null,
+              "minutes": 16,
+              "count": 3,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Habel Andrich Clemens",
+          "jersey": null,
+          "minutes": 29,
+          "points": 12,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Fazekas Máté",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Barócsi Ádám",
+              "jersey": null,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Vincz Botond",
+              "jersey": null,
+              "minutes": 1,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gerg?",
+          "jersey": null,
+          "minutes": 33,
+          "points": 8,
+          "reb": 2,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Seregély Balázs",
+              "jersey": null,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Tichov Dominik",
+          "jersey": null,
+          "minutes": 7,
+          "points": 8,
+          "reb": 1,
+          "ast": 0,
+          "subs": [
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Fazekas Máté",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": null,
+          "minutes": 33,
+          "points": 20,
+          "reb": 4,
+          "ast": 13,
+          "subs": [
+            {
+              "name": "Tichov Dominik",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Tóth Balázs",
+              "jersey": null,
+              "minutes": 12,
+              "count": 1,
+              "photo_filename": null
+            },
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": null,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136169",
       "comp_code": "hun2b",
