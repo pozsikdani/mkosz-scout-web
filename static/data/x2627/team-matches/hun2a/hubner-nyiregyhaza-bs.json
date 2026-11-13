@@ -209,12 +209,29 @@
       "date": "2026-11-12",
       "time": "17:00",
       "home": true,
-      "opponent": "PVSK-Panthers",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "PVSK-PANTHERS",
+      "our_score": 79,
+      "their_score": 75,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 24,
+          "their": 15
+        },
+        {
+          "our": 16,
+          "their": 18
+        },
+        {
+          "our": 23,
+          "their": 21
+        },
+        {
+          "our": 16,
+          "their": 21
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {

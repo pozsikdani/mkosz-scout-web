@@ -1,8 +1,124 @@
 {
   "team": "TFSE",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2b_136197",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-12",
+      "opponent": "GYKC UNI Győr",
+      "home": true,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 85,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Blaskovits Márk Mihály",
+          "jersey": 12,
+          "minutes": 16,
+          "points": 11,
+          "reb": 1,
+          "ast": 3,
+          "photo_filename": "tfse-blaskovits-mark-mihaly.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Alcser Dániel Balázs",
+              "jersey": 88,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "tfse-alcser-daniel-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Körömi László",
+          "jersey": 15,
+          "minutes": 4,
+          "points": 0,
+          "reb": 1,
+          "ast": 0,
+          "photo_filename": "tfse-koromi-laszlo.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Szalontai Máté",
+              "jersey": 5,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "tfse-szalontai-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pozsik Zsombor",
+          "jersey": 25,
+          "minutes": 22,
+          "points": 6,
+          "reb": 2,
+          "ast": 4,
+          "photo_filename": "tfse-pozsik-zsombor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Keresztesi Dávid József",
+              "jersey": 1,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "tfse-keresztesi-david-jozsef.jpg"
+            },
+            {
+              "name": "Szalontai Máté",
+              "jersey": 5,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "tfse-szalontai-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vámos László",
+          "jersey": 22,
+          "minutes": 22,
+          "points": 16,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "tfse-vamos-laszlo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 14,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "tfse-nagy-kevin-krisztian.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vígh Marcell Péter",
+          "jersey": 4,
+          "minutes": 36,
+          "points": 11,
+          "reb": 10,
+          "ast": 2,
+          "photo_filename": "tfse-vigh-marcell-peter.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Garancz Milán",
+              "jersey": 11,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "tfse-garancz-milan.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136185",
       "comp_code": "hun2b",

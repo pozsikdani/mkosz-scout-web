@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2a_135743",
@@ -197,6 +197,34 @@
         "fta": 16,
         "oreb": 13,
         "tov_total": 14
+      }
+    },
+    {
+      "gamecode": "hun2a_135839",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-12",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": false,
+      "result": "L",
+      "our_score": 75,
+      "their_score": 79,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 0,
+        "three_m": 8,
+        "dunk_m": 0,
+        "ft": 22,
+        "close_x": 14,
+        "mid_x": 0,
+        "three_x": 18,
+        "dunk_x": 0,
+        "tov": 8,
+        "fga": 70,
+        "fta": 43,
+        "oreb": 20,
+        "tov_total": 8
       }
     }
   ]
