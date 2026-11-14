@@ -210,10 +210,27 @@
       "time": "20:00",
       "home": true,
       "opponent": "Százhalombattai KSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 70,
+      "their_score": 89,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 20,
+          "their": 27
+        },
+        {
+          "our": 23,
+          "their": 20
+        },
+        {
+          "our": 13,
+          "their": 28
+        },
+        {
+          "our": 14,
+          "their": 14
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

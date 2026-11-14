@@ -1,7 +1,7 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2b_136107",
@@ -197,6 +197,34 @@
         "fta": 24,
         "oreb": 13,
         "tov_total": 14
+      }
+    },
+    {
+      "gamecode": "hun2b_136201",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-13",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": true,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 93,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 4,
+        "three_m": 10,
+        "dunk_m": 1,
+        "ft": 6,
+        "close_x": 16,
+        "mid_x": 3,
+        "three_x": 16,
+        "dunk_x": 0,
+        "tov": 10,
+        "fga": 81,
+        "fta": 12,
+        "oreb": 18,
+        "tov_total": 10
       }
     }
   ]

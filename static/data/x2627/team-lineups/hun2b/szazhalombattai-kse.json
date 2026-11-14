@@ -1,8 +1,152 @@
 {
   "team": "Százhalombattai KSE",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136199",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-13",
+      "opponent": "NEOsport Kozármisleny SE",
+      "home": false,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 70,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Fazekas Máté",
+          "jersey": 15,
+          "minutes": 14,
+          "points": 7,
+          "reb": 5,
+          "ast": 0,
+          "photo_filename": "szazhalombattai-kse-fazekas-mate.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Barócsi Ádám",
+              "jersey": 11,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg"
+            },
+            {
+              "name": "Habel Andrich Clemens",
+              "jersey": 17,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg"
+            },
+            {
+              "name": "Kovács Marcell",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Habel Andrich Clemens",
+          "jersey": 17,
+          "minutes": 24,
+          "points": 8,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Barócsi Ádám",
+              "jersey": 11,
+              "minutes": 26,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg"
+            },
+            {
+              "name": "Kovács Marcell",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kozári Gergő",
+          "jersey": 12,
+          "minutes": 2,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "szazhalombattai-kse-kozari-gergo.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Seregély Balázs",
+              "jersey": 10,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Balázs",
+          "jersey": 5,
+          "minutes": 18,
+          "points": 5,
+          "reb": 2,
+          "ast": 2,
+          "photo_filename": "szazhalombattai-kse-toth-balazs.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": 7,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg"
+            },
+            {
+              "name": "Seregély Balázs",
+              "jersey": 10,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg"
+            },
+            {
+              "name": "Glázer Manó",
+              "jersey": 8,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-glazer-mano.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 4,
+          "minutes": 33,
+          "points": 14,
+          "reb": 5,
+          "ast": 5,
+          "photo_filename": "szazhalombattai-kse-toth-bence-miklos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 5,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-toth-balazs.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136183",
       "comp_code": "hun2b",

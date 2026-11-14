@@ -1,7 +1,7 @@
 {
   "team": "BUDAFOK",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2b_136101",
@@ -169,6 +169,34 @@
         "fta": 17,
         "oreb": 10,
         "tov_total": 18
+      }
+    },
+    {
+      "gamecode": "hun2b_136207",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-13",
+      "opponent": "DH BASKET",
+      "home": true,
+      "result": "L",
+      "our_score": 75,
+      "their_score": 92,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 15,
+        "mid_m": 2,
+        "three_m": 8,
+        "dunk_m": 0,
+        "ft": 16,
+        "close_x": 5,
+        "mid_x": 4,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 22,
+        "fga": 54,
+        "fta": 24,
+        "oreb": 8,
+        "tov_total": 22
       }
     }
   ]

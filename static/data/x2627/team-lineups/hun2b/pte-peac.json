@@ -1,8 +1,187 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2b_136201",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-13",
+      "opponent": "SMTPlus-Nagykőrösi Sólymok KE",
+      "home": true,
+      "result": "L",
+      "our_score": 74,
+      "their_score": 93,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csizmadia Attila",
+          "jersey": 34,
+          "minutes": 26,
+          "points": 10,
+          "reb": 11,
+          "ast": 2,
+          "photo_filename": "pte-peac-csizmadia-attila.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": null,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": null,
+              "minutes": 33,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Czink László Gábor",
+          "jersey": null,
+          "minutes": 25,
+          "points": 5,
+          "reb": 0,
+          "ast": 3,
+          "photo_filename": "pte-peac-czink-laszlo-gabor.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Teszárik Márton",
+              "jersey": null,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": null,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Csizmadia Attila",
+              "jersey": 34,
+              "minutes": 26,
+              "count": 1,
+              "photo_filename": "pte-peac-csizmadia-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ravasz Márk",
+          "jersey": 21,
+          "minutes": 16,
+          "points": 8,
+          "reb": 5,
+          "ast": 1,
+          "photo_filename": "pte-peac-ravasz-mark.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Zalay Botond",
+              "jersey": null,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            },
+            {
+              "name": "Teszárik Márton",
+              "jersey": null,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            },
+            {
+              "name": "Zalay Zsombor",
+              "jersey": null,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Schuj Márton János",
+          "jersey": null,
+          "minutes": 33,
+          "points": 19,
+          "reb": 6,
+          "ast": 0,
+          "photo_filename": "pte-peac-schuj-marton-janos.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Zalay Zsombor",
+              "jersey": null,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "pte-peac-zalay-zsombor.jpg"
+            },
+            {
+              "name": "Korszunszkij Bohdan",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "pte-peac-korszunszkij-bohdan.jpg"
+            },
+            {
+              "name": "Ravasz Márk",
+              "jersey": 21,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "pte-peac-ravasz-mark.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zalay Zsombor",
+          "jersey": null,
+          "minutes": 22,
+          "points": 4,
+          "reb": 2,
+          "ast": 6,
+          "photo_filename": "pte-peac-zalay-zsombor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": null,
+              "minutes": 9,
+              "count": 2,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Kis Milán Bence",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": "pte-peac-kis-milan-bence.jpg"
+            },
+            {
+              "name": "Teszárik Márton",
+              "jersey": null,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "pte-peac-teszarik-marton.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136189",
       "comp_code": "hun2b",

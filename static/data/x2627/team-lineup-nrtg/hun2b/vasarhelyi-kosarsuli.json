@@ -1,8 +1,619 @@
 {
   "team": "Vásárhelyi Kosársuli",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136203",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-13",
+      "opponent": "Eszterházy SC",
+      "home": true,
+      "result": "W",
+      "our_score": 81,
+      "their_score": 69,
+      "has_pbp": true,
+      "starters": [
+        "Anda Dávid",
+        "Bálint Erik",
+        "Kelemen Balázs",
+        "Kruzslicz Alex",
+        "Polányi Kristóf Áron"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Anda Dávid",
+            "Bálint Erik",
+            "Kelemen Balázs",
+            "Kruzslicz Alex",
+            "Polányi Kristóf Áron"
+          ],
+          "min": 13.0,
+          "pf": 21,
+          "pa": 21,
+          "poss": 24.64,
+          "oposs": 25.76,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              5.0,
+              9,
+              5,
+              9.88,
+              9.76
+            ],
+            [
+              4.0,
+              5,
+              8,
+              8.76,
+              9.0
+            ],
+            [
+              4.0,
+              7,
+              8,
+              6.0,
+              7.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Anda Dávid",
+            "B?sz Richárd",
+            "Balogh László",
+            "Kelemen Balázs",
+            "Kruzslicz Alex"
+          ],
+          "min": 8.0,
+          "pf": 19,
+          "pa": 7,
+          "poss": 13.76,
+          "oposs": 13.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              3,
+              1.0,
+              2.0
+            ],
+            [
+              7.0,
+              19,
+              4,
+              12.76,
+              11.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Anda Dávid",
+            "B?sz Richárd",
+            "Bálint Erik",
+            "Kelemen Balázs",
+            "Niksic Alexander"
+          ],
+          "min": 5.0,
+          "pf": 7,
+          "pa": 7,
+          "poss": 11.0,
+          "oposs": 10.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              0,
+              3.0,
+              3.0
+            ],
+            [
+              3.0,
+              5,
+              7,
+              8.0,
+              7.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Anda Dávid",
+            "Balogh László",
+            "Kelemen Balázs",
+            "Kruzslicz Alex",
+            "Polányi Kristóf Áron"
+          ],
+          "min": 3.0,
+          "pf": 13,
+          "pa": 7,
+          "poss": 7.0,
+          "oposs": 5.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              3,
+              3.0,
+              2.0
+            ],
+            [
+              2.0,
+              8,
+              4,
+              4.0,
+              3.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bálint Erik",
+            "Kelemen Balázs",
+            "Kruzslicz Alex",
+            "Polányi Kristóf Áron",
+            "Utasi Gerg?"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 6,
+          "poss": 5.76,
+          "oposs": 6.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              2,
+              2.88,
+              3.0
+            ],
+            [
+              2.0,
+              4,
+              4,
+              2.88,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balogh László",
+            "Bálint Erik",
+            "Kelemen Balázs",
+            "Polányi Kristóf Áron",
+            "Utasi Gerg?"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 10,
+          "poss": 4.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              2.0,
+              3,
+              8,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Anda Dávid",
+            "B?sz Richárd",
+            "Balogh László",
+            "Bálint Erik",
+            "Kruzslicz Alex"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 6,
+          "poss": 4.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              1.0,
+              3,
+              6,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Anda Dávid",
+            "Balogh László",
+            "Bálint Erik",
+            "Kruzslicz Alex",
+            "Polányi Kristóf Áron"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 3.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              2,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Anda Dávid",
+            "B?sz Richárd",
+            "Bálint Erik",
+            "Kelemen Balázs",
+            "Kruzslicz Alex"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 2.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              3,
+              2.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Balogh László",
+            "Bálint Erik",
+            "Kelemen Balázs",
+            "Kruzslicz Alex",
+            "Polányi Kristóf Áron"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136191",
       "comp_code": "hun2b",

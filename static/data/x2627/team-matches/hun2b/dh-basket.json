@@ -210,10 +210,27 @@
       "time": "19:30",
       "home": false,
       "opponent": "BUDAFOK",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 92,
+      "their_score": 75,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 26,
+          "their": 23
+        },
+        {
+          "our": 26,
+          "their": 10
+        },
+        {
+          "our": 17,
+          "their": 20
+        },
+        {
+          "our": 23,
+          "their": 22
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

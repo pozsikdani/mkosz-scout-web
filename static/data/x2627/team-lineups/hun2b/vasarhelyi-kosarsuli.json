@@ -1,8 +1,152 @@
 {
   "team": "Vásárhelyi Kosársuli",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136203",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-13",
+      "opponent": "Eszterházy SC",
+      "home": true,
+      "result": "W",
+      "our_score": 81,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Anda Dávid",
+          "jersey": 6,
+          "minutes": 34,
+          "points": 18,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "vasarhelyi-kosarsuli-anda-david.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Bálint Erik",
+              "jersey": 3,
+              "minutes": 29,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-balint-erik.jpg"
+            },
+            {
+              "name": "Kelemen Balázs",
+              "jersey": 27,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-kelemen-balazs.jpg"
+            },
+            {
+              "name": "Utasi Gergő",
+              "jersey": 21,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-utasi-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bálint Erik",
+          "jersey": 3,
+          "minutes": 29,
+          "points": 11,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "vasarhelyi-kosarsuli-balint-erik.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Kelemen Balázs",
+              "jersey": 27,
+              "minutes": 36,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-kelemen-balazs.jpg"
+            },
+            {
+              "name": "Balogh László",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-balogh-laszlo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kelemen Balázs",
+          "jersey": 27,
+          "minutes": 36,
+          "points": 12,
+          "reb": 11,
+          "ast": 3,
+          "photo_filename": "vasarhelyi-kosarsuli-kelemen-balazs.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Balogh László",
+              "jersey": null,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "vasarhelyi-kosarsuli-balogh-laszlo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Kruzslicz Alex",
+          "jersey": 23,
+          "minutes": 32,
+          "points": 8,
+          "reb": 4,
+          "ast": 3,
+          "photo_filename": "vasarhelyi-kosarsuli-kruzslicz-alex.jpg",
+          "position": "2",
+          "subs": [
+            {
+              "name": "Bősz Richárd",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-bosz-richard.jpg"
+            },
+            {
+              "name": "Balogh László",
+              "jersey": null,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-balogh-laszlo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Polányi Kristóf Áron",
+          "jersey": 15,
+          "minutes": 24,
+          "points": 16,
+          "reb": 7,
+          "ast": 3,
+          "photo_filename": "vasarhelyi-kosarsuli-polanyi-kristof-aron.jpg",
+          "position": "1",
+          "subs": [
+            {
+              "name": "Bősz Richárd",
+              "jersey": 2,
+              "minutes": 16,
+              "count": 2,
+              "photo_filename": "vasarhelyi-kosarsuli-bosz-richard.jpg"
+            },
+            {
+              "name": "Niksic Alexander",
+              "jersey": 31,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "vasarhelyi-kosarsuli-niksic-alexander.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136191",
       "comp_code": "hun2b",

@@ -210,10 +210,27 @@
       "time": "19:30",
       "home": true,
       "opponent": "DH BASKET",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 75,
+      "their_score": 92,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 23,
+          "their": 26
+        },
+        {
+          "our": 10,
+          "their": 26
+        },
+        {
+          "our": 20,
+          "their": 17
+        },
+        {
+          "our": 22,
+          "their": 23
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

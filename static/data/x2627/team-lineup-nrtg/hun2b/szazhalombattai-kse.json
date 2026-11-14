@@ -1,8 +1,973 @@
 {
   "team": "Százhalombattai KSE",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2b_136199",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-13",
+      "opponent": "NEOsport Kozármisleny SE",
+      "home": false,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 70,
+      "has_pbp": true,
+      "starters": [
+        "Fazekas Máté",
+        "Habel Andrich Clemens",
+        "Kozári Gergõ",
+        "Tóth Balázs",
+        "Tóth Bence Miklós"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Kovács Marcell",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 7.0,
+          "pf": 19,
+          "pa": 14,
+          "poss": 12.88,
+          "oposs": 12.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              7,
+              4,
+              4.88,
+              4.88
+            ],
+            [
+              3.0,
+              4,
+              5,
+              4.0,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              8,
+              5,
+              4.0,
+              3.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Habel Andrich Clemens",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 5.0,
+          "pf": 27,
+          "pa": 12,
+          "poss": 12.52,
+          "oposs": 11.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              11,
+              4,
+              4.32,
+              3.88
+            ],
+            [
+              3.0,
+              16,
+              8,
+              8.2,
+              8.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Fazekas Máté",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 0,
+          "poss": 6.32,
+          "oposs": 7.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              0,
+              0.44,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              1.0,
+              2.0
+            ],
+            [
+              3.0,
+              3,
+              0,
+              4.88,
+              5.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Kovács Marcell",
+            "Seregély Balázs",
+            "Tóth Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 4.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 4.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              4.0,
+              2,
+              3,
+              4.0,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Seregély Balázs",
+            "Tóth Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 4,
+          "poss": 6.0,
+          "oposs": 5.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              0.0,
+              0.88
+            ],
+            [
+              2.0,
+              4,
+              2,
+              4.0,
+              4.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 7,
+          "poss": 8.0,
+          "oposs": 7.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              3.0,
+              4,
+              7,
+              7.0,
+              7.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Kozári Gergõ",
+            "Tóth Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 4,
+          "poss": 2.88,
+          "oposs": 3.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              3,
+              4,
+              2.88,
+              3.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Habel Andrich Clemens",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tóth Balázs"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 6,
+          "poss": 5.0,
+          "oposs": 6.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              6,
+              5.0,
+              6.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Habel Andrich Clemens",
+            "Tóth Balázs",
+            "Tóth Bence Miklós",
+            "Vincz Botond"
+          ],
+          "min": 2.0,
+          "pf": 3,
+          "pa": 2,
+          "poss": 3.88,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              1,
+              0,
+              1.88,
+              1.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Santiago Jordan Ismael",
+            "Tóth Balázs",
+            "Vincz Botond"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 2,
+          "poss": 4.64,
+          "oposs": 4.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              1.0,
+              1,
+              0,
+              1.88,
+              2.44
+            ],
+            [
+              1.0,
+              4,
+              2,
+              1.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Glázer Manó",
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Seregély Balázs",
+            "Vincz Botond"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 6,
+          "poss": 4.0,
+          "oposs": 4.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              4,
+              3.0,
+              3.88
+            ],
+            [
+              1.0,
+              0,
+              2,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Habel Andrich Clemens",
+            "Seregély Balázs",
+            "Tóth Balázs",
+            "Tóth Bence Miklós"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Fazekas Máté",
+            "Habel Andrich Clemens",
+            "Tóth Balázs",
+            "Tóth Bence Miklós",
+            "Vincz Botond"
+          ],
+          "min": 1.0,
+          "pf": 4,
+          "pa": 5,
+          "poss": 2.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              5,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Barócsi Ádám",
+            "Fazekas Máté",
+            "Santiago Jordan Ismael",
+            "Tóth Bence Miklós",
+            "Vincz Botond"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 1.88,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              1.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Seregély Balázs",
+            "Tóth Balázs",
+            "Vincz Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 3.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              3,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Habel Andrich Clemens",
+            "Kovács Marcell",
+            "Santiago Jordan Ismael",
+            "Seregély Balázs",
+            "Tóth Balázs"
+          ],
+          "min": 0.0,
+          "pf": 1,
+          "pa": 0,
+          "poss": 0.88,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1,
+              0,
+              0.88,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136183",
       "comp_code": "hun2b",
