@@ -63,7 +63,16 @@
       "on_nrtg": -19.0,
       "off_nrtg": -8.3,
       "off_poss": 235.9,
+      "assisted_pct": 75.9,
+      "clutch_poss": 7.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -13.8,
       "onoff_nrtg": -10.7,
+      "chart_fga": 73,
+      "xpps": 0.898,
+      "pps": 1.0,
+      "pps_diff": 0.102,
       "photo_filename": "tfse-vamos-laszlo.jpg",
       "height_cm": 190,
       "position": "2-3",
@@ -102,7 +111,10 @@
         "blk_100": 58,
         "fd_100": 51,
         "on_nrtg": 13,
-        "onoff_nrtg": 28
+        "onoff_nrtg": 28,
+        "xpps": 24,
+        "pps_diff": 71,
+        "assisted_pct": 85
       },
       "percentiles_pos": {
         "ppg": 77,
@@ -137,8 +149,39 @@
         "blk_100": 52,
         "fd_100": 59,
         "on_nrtg": 18,
-        "onoff_nrtg": 32
-      }
+        "onoff_nrtg": 32,
+        "xpps": 29,
+        "pps_diff": 71,
+        "assisted_pct": 75
+      },
+      "ast_to": [
+        [
+          "Vígh Marcell Péter",
+          2
+        ],
+        [
+          "Blaskovits Márk Mihály",
+          1
+        ],
+        [
+          "Bognár Mátyás",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pozsik Zsombor",
+          8
+        ],
+        [
+          "Vígh Marcell Péter",
+          6
+        ],
+        [
+          "Blaskovits Márk Mihály",
+          3
+        ]
+      ]
     },
     {
       "name": "Pozsik Zsombor",
@@ -191,7 +234,16 @@
       "on_nrtg": -15.5,
       "off_nrtg": -14.3,
       "off_poss": 265.7,
+      "assisted_pct": 50.0,
+      "clutch_poss": 6.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -4.3,
       "onoff_nrtg": -1.2,
+      "chart_fga": 63,
+      "xpps": 0.894,
+      "pps": 0.841,
+      "pps_diff": -0.052,
       "photo_filename": "tfse-pozsik-zsombor.jpg",
       "height_cm": 180,
       "position": "1-2",
@@ -230,7 +282,10 @@
         "blk_100": 43,
         "fd_100": 37,
         "on_nrtg": 18,
-        "onoff_nrtg": 45
+        "onoff_nrtg": 45,
+        "xpps": 19,
+        "pps_diff": 42,
+        "assisted_pct": 31
       },
       "percentiles_pos": {
         "ppg": 48,
@@ -265,8 +320,39 @@
         "blk_100": 60,
         "fd_100": 40,
         "on_nrtg": 18,
-        "onoff_nrtg": 51
-      }
+        "onoff_nrtg": 51,
+        "xpps": 31,
+        "pps_diff": 39,
+        "assisted_pct": 46
+      },
+      "ast_to": [
+        [
+          "Vámos László",
+          8
+        ],
+        [
+          "Vígh Marcell Péter",
+          6
+        ],
+        [
+          "Blaskovits Márk Mihály",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Blaskovits Márk Mihály",
+          5
+        ],
+        [
+          "Szalontai Máté",
+          3
+        ],
+        [
+          "Keresztesi Dávid József",
+          1
+        ]
+      ]
     },
     {
       "name": "Vígh Marcell Péter",
@@ -319,7 +405,16 @@
       "on_nrtg": -11.6,
       "off_nrtg": -19.4,
       "off_poss": 278.3,
+      "assisted_pct": 79.2,
+      "clutch_poss": 11.0,
+      "clutch_pts": 2,
+      "clutch_ts": 33.3,
+      "clutch_nrtg": -5.8,
       "onoff_nrtg": 7.8,
+      "chart_fga": 55,
+      "xpps": 1.03,
+      "pps": 0.891,
+      "pps_diff": -0.139,
       "photo_filename": "tfse-vigh-marcell-peter.jpg",
       "height_cm": 193,
       "position": "4",
@@ -357,7 +452,10 @@
         "blk_100": 78,
         "fd_100": 56,
         "on_nrtg": 26,
-        "onoff_nrtg": 67
+        "onoff_nrtg": 67,
+        "xpps": 87,
+        "pps_diff": 26,
+        "assisted_pct": 90
       },
       "percentiles_pos": {
         "ppg": 57,
@@ -391,8 +489,39 @@
         "blk_100": 80,
         "fd_100": 64,
         "on_nrtg": 32,
-        "onoff_nrtg": 66
-      }
+        "onoff_nrtg": 66,
+        "xpps": 82,
+        "pps_diff": 32,
+        "assisted_pct": 86
+      },
+      "ast_to": [
+        [
+          "Vámos László",
+          6
+        ],
+        [
+          "Körömi László",
+          3
+        ],
+        [
+          "Blaskovits Márk Mihály",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pozsik Zsombor",
+          6
+        ],
+        [
+          "Blaskovits Márk Mihály",
+          3
+        ],
+        [
+          "Keresztesi Dávid József",
+          3
+        ]
+      ]
     },
     {
       "name": "Blaskovits Márk Mihály",
@@ -445,7 +574,16 @@
       "on_nrtg": -3.8,
       "off_nrtg": -25.0,
       "off_poss": 330.8,
+      "assisted_pct": 37.5,
+      "clutch_poss": 1.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 230.6,
       "onoff_nrtg": 21.2,
+      "chart_fga": 50,
+      "xpps": 0.868,
+      "pps": 0.74,
+      "pps_diff": -0.128,
       "photo_filename": "tfse-blaskovits-mark-mihaly.jpg",
       "height_cm": 189,
       "position": "2-3",
@@ -483,7 +621,10 @@
         "blk_100": 43,
         "fd_100": 79,
         "on_nrtg": 42,
-        "onoff_nrtg": 87
+        "onoff_nrtg": 87,
+        "xpps": 7,
+        "pps_diff": 29,
+        "assisted_pct": 14
       },
       "percentiles_pos": {
         "ppg": 45,
@@ -517,8 +658,39 @@
         "blk_100": 43,
         "fd_100": 80,
         "on_nrtg": 43,
-        "onoff_nrtg": 84
-      }
+        "onoff_nrtg": 84,
+        "xpps": 4,
+        "pps_diff": 39,
+        "assisted_pct": 11
+      },
+      "ast_to": [
+        [
+          "Pozsik Zsombor",
+          5
+        ],
+        [
+          "Alcser Dániel Balázs",
+          3
+        ],
+        [
+          "Vámos László",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pozsik Zsombor",
+          3
+        ],
+        [
+          "Vámos László",
+          1
+        ],
+        [
+          "Bognár Mátyás",
+          1
+        ]
+      ]
     },
     {
       "name": "Körömi László",
@@ -571,7 +743,16 @@
       "on_nrtg": -14.5,
       "off_nrtg": -15.2,
       "off_poss": 395.1,
+      "assisted_pct": 91.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 0.6,
+      "chart_fga": 38,
+      "xpps": 1.005,
+      "pps": 0.711,
+      "pps_diff": -0.295,
       "photo_filename": "tfse-koromi-laszlo.jpg",
       "height_cm": 208,
       "position": "5",
@@ -608,7 +789,10 @@
         "blk_100": 83,
         "fd_100": 26,
         "on_nrtg": 22,
-        "onoff_nrtg": 48
+        "onoff_nrtg": 48,
+        "xpps": 78,
+        "pps_diff": 4,
+        "assisted_pct": 98
       },
       "percentiles_pos": {
         "ppg": 19,
@@ -641,8 +825,39 @@
         "blk_100": 50,
         "fd_100": 12,
         "on_nrtg": 19,
-        "onoff_nrtg": 40
-      }
+        "onoff_nrtg": 40,
+        "xpps": 62,
+        "pps_diff": 5,
+        "assisted_pct": 95
+      },
+      "ast_to": [
+        [
+          "Szalontai Máté",
+          2
+        ],
+        [
+          "Vámos László",
+          1
+        ],
+        [
+          "Keresztesi Dávid József",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Vígh Marcell Péter",
+          3
+        ],
+        [
+          "Alcser Dániel Balázs",
+          2
+        ],
+        [
+          "Szalontai Máté",
+          2
+        ]
+      ]
     },
     {
       "name": "Lakits Benedek",
@@ -695,14 +910,25 @@
       "on_nrtg": -41.0,
       "off_nrtg": -13.3,
       "off_poss": 595.6,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -27.7,
+      "chart_fga": 7,
+      "xpps": 0.711,
+      "pps": 0.0,
+      "pps_diff": -0.711,
       "photo_filename": "tfse-lakits-benedek.jpg",
       "height_cm": 198,
       "position": "5",
       "birth_year": 2008,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Nagy Kevin Krisztián",
@@ -755,7 +981,16 @@
       "on_nrtg": -27.7,
       "off_nrtg": -7.0,
       "off_poss": 389.7,
+      "assisted_pct": 63.6,
+      "clutch_poss": 4.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -66.7,
       "onoff_nrtg": -20.7,
+      "chart_fga": 48,
+      "xpps": 0.869,
+      "pps": 0.583,
+      "pps_diff": -0.286,
       "photo_filename": "tfse-nagy-kevin-krisztian.jpg",
       "height_cm": 185,
       "position": "2-3",
@@ -793,7 +1028,10 @@
         "blk_100": 43,
         "fd_100": 92,
         "on_nrtg": 4,
-        "onoff_nrtg": 11
+        "onoff_nrtg": 11,
+        "xpps": 8,
+        "pps_diff": 6,
+        "assisted_pct": 58
       },
       "percentiles_pos": {
         "ppg": 50,
@@ -827,8 +1065,39 @@
         "blk_100": 43,
         "fd_100": 95,
         "on_nrtg": 9,
-        "onoff_nrtg": 11
-      }
+        "onoff_nrtg": 11,
+        "xpps": 7,
+        "pps_diff": 11,
+        "assisted_pct": 46
+      },
+      "ast_to": [
+        [
+          "Bognár Mátyás",
+          1
+        ],
+        [
+          "Vígh Marcell Péter",
+          1
+        ],
+        [
+          "Dobos Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Alcser Dániel Balázs",
+          2
+        ],
+        [
+          "Szalontai Máté",
+          2
+        ],
+        [
+          "Dobos Máté",
+          1
+        ]
+      ]
     },
     {
       "name": "Alcser Dániel Balázs",
@@ -881,7 +1150,16 @@
       "on_nrtg": -11.6,
       "off_nrtg": -19.4,
       "off_poss": 280.4,
+      "assisted_pct": 33.3,
+      "clutch_poss": 8.0,
+      "clutch_pts": 2,
+      "clutch_ts": 50.0,
+      "clutch_nrtg": 6.9,
       "onoff_nrtg": 7.8,
+      "chart_fga": 74,
+      "xpps": 1.04,
+      "pps": 0.689,
+      "pps_diff": -0.351,
       "photo_filename": "tfse-alcser-daniel-balazs.jpg",
       "height_cm": 193,
       "position": "4",
@@ -920,7 +1198,10 @@
         "blk_100": 70,
         "fd_100": 82,
         "on_nrtg": 26,
-        "onoff_nrtg": 67
+        "onoff_nrtg": 67,
+        "xpps": 92,
+        "pps_diff": 1,
+        "assisted_pct": 10
       },
       "percentiles_pos": {
         "ppg": 66,
@@ -955,8 +1236,39 @@
         "blk_100": 68,
         "fd_100": 82,
         "on_nrtg": 32,
-        "onoff_nrtg": 66
-      }
+        "onoff_nrtg": 66,
+        "xpps": 96,
+        "pps_diff": 4,
+        "assisted_pct": 4
+      },
+      "ast_to": [
+        [
+          "Körömi László",
+          2
+        ],
+        [
+          "Bognár Mátyás",
+          2
+        ],
+        [
+          "Szalontai Máté",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Blaskovits Márk Mihály",
+          3
+        ],
+        [
+          "Bognár Mátyás",
+          1
+        ],
+        [
+          "Szalontai Máté",
+          1
+        ]
+      ]
     },
     {
       "name": "Szalontai Máté",
@@ -1009,7 +1321,16 @@
       "on_nrtg": -23.2,
       "off_nrtg": -7.7,
       "off_poss": 338.0,
+      "assisted_pct": 60.0,
+      "clutch_poss": 10.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -29.4,
       "onoff_nrtg": -15.4,
+      "chart_fga": 48,
+      "xpps": 0.971,
+      "pps": 0.75,
+      "pps_diff": -0.221,
       "photo_filename": "tfse-szalontai-mate.jpg",
       "height_cm": 182,
       "position": "1-2",
@@ -1046,7 +1367,10 @@
         "blk_100": 43,
         "fd_100": 27,
         "on_nrtg": 10,
-        "onoff_nrtg": 17
+        "onoff_nrtg": 17,
+        "xpps": 58,
+        "pps_diff": 7,
+        "assisted_pct": 52
       },
       "percentiles_pos": {
         "ppg": 32,
@@ -1079,8 +1403,39 @@
         "blk_100": 60,
         "fd_100": 28,
         "on_nrtg": 8,
-        "onoff_nrtg": 20
-      }
+        "onoff_nrtg": 20,
+        "xpps": 72,
+        "pps_diff": 6,
+        "assisted_pct": 70
+      },
+      "ast_to": [
+        [
+          "Pozsik Zsombor",
+          3
+        ],
+        [
+          "Körömi László",
+          2
+        ],
+        [
+          "Nagy Kevin Krisztián",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Alcser Dániel Balázs",
+          2
+        ],
+        [
+          "Körömi László",
+          2
+        ],
+        [
+          "Bognár Mátyás",
+          1
+        ]
+      ]
     },
     {
       "name": "Keresztesi Dávid József",
@@ -1133,7 +1488,16 @@
       "on_nrtg": -25.1,
       "off_nrtg": -10.0,
       "off_poss": 424.4,
+      "assisted_pct": 41.7,
+      "clutch_poss": 6.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -51.7,
       "onoff_nrtg": -15.1,
+      "chart_fga": 34,
+      "xpps": 0.925,
+      "pps": 0.824,
+      "pps_diff": -0.101,
       "photo_filename": "tfse-keresztesi-david-jozsef.jpg",
       "height_cm": 185,
       "position": "1-2",
@@ -1171,7 +1535,10 @@
         "blk_100": 65,
         "fd_100": 98,
         "on_nrtg": 6,
-        "onoff_nrtg": 19
+        "onoff_nrtg": 19,
+        "xpps": 38,
+        "pps_diff": 33,
+        "assisted_pct": 17
       },
       "percentiles_pos": {
         "ppg": 40,
@@ -1205,8 +1572,39 @@
         "blk_100": 88,
         "fd_100": 96,
         "on_nrtg": 4,
-        "onoff_nrtg": 22
-      }
+        "onoff_nrtg": 22,
+        "xpps": 53,
+        "pps_diff": 28,
+        "assisted_pct": 32
+      },
+      "ast_to": [
+        [
+          "Vígh Marcell Péter",
+          3
+        ],
+        [
+          "Pozsik Zsombor",
+          1
+        ],
+        [
+          "Körömi László",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pozsik Zsombor",
+          2
+        ],
+        [
+          "Körömi László",
+          1
+        ],
+        [
+          "Szalontai Máté",
+          1
+        ]
+      ]
     },
     {
       "name": "Bognár Mátyás",
@@ -1259,14 +1657,51 @@
       "on_nrtg": 5.0,
       "off_nrtg": -19.6,
       "off_poss": 517.0,
+      "assisted_pct": 88.9,
+      "clutch_poss": 1.0,
+      "clutch_pts": 3,
+      "clutch_ts": 150.0,
+      "clutch_nrtg": 230.6,
       "onoff_nrtg": 24.5,
+      "chart_fga": 21,
+      "xpps": 0.873,
+      "pps": 1.238,
+      "pps_diff": 0.365,
       "photo_filename": "tfse-bognar-matyas.jpg",
       "height_cm": 187,
       "position": "1-2",
       "birth_year": 1998,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Körömi László",
+          1
+        ],
+        [
+          "Alcser Dániel Balázs",
+          1
+        ],
+        [
+          "Szalontai Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Blaskovits Márk Mihály",
+          2
+        ],
+        [
+          "Garancz Milán",
+          2
+        ],
+        [
+          "Alcser Dániel Balázs",
+          2
+        ]
+      ]
     },
     {
       "name": "Garancz Milán",
@@ -1319,7 +1754,16 @@
       "on_nrtg": -1.9,
       "off_nrtg": -18.9,
       "off_poss": 485.9,
+      "assisted_pct": 66.7,
+      "clutch_poss": 1.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 230.6,
       "onoff_nrtg": 17.1,
+      "chart_fga": 10,
+      "xpps": 0.972,
+      "pps": 0.7,
+      "pps_diff": -0.272,
       "photo_filename": "tfse-garancz-milan.jpg",
       "height_cm": 190,
       "position": "3",
@@ -1382,7 +1826,23 @@
         "fd_100": 100,
         "on_nrtg": 52,
         "onoff_nrtg": 75
-      }
+      },
+      "ast_to": [
+        [
+          "Bognár Mátyás",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Alcser Dániel Balázs",
+          1
+        ],
+        [
+          "Pozsik Zsombor",
+          1
+        ]
+      ]
     },
     {
       "name": "Dobos Máté",
@@ -1435,14 +1895,51 @@
       "on_nrtg": -11.5,
       "off_nrtg": -15.7,
       "off_poss": 544.1,
+      "assisted_pct": 42.9,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 4.1,
+      "chart_fga": 14,
+      "xpps": 1.158,
+      "pps": 1.0,
+      "pps_diff": -0.158,
       "photo_filename": "tfse-dobos-mate.jpg",
       "height_cm": 115,
       "position": "5",
       "birth_year": 2005,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Pozsik Zsombor",
+          1
+        ],
+        [
+          "Alcser Dániel Balázs",
+          1
+        ],
+        [
+          "Nagy Kevin Krisztián",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Szalontai Máté",
+          1
+        ],
+        [
+          "Alcser Dániel Balázs",
+          1
+        ],
+        [
+          "Nagy Kevin Krisztián",
+          1
+        ]
+      ]
     }
   ]
 }

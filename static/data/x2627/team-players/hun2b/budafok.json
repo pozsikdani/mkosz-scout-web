@@ -63,7 +63,16 @@
       "on_nrtg": 15.7,
       "off_nrtg": 7.4,
       "off_poss": 239.1,
+      "assisted_pct": 72.0,
+      "clutch_poss": 31.3,
+      "clutch_pts": 8,
+      "clutch_ts": 82.0,
+      "clutch_nrtg": 14.1,
       "onoff_nrtg": 8.3,
+      "chart_fga": 41,
+      "xpps": 1.172,
+      "pps": 1.22,
+      "pps_diff": 0.047,
       "photo_filename": "budafok-szanto-levente.jpg",
       "height_cm": 214,
       "position": "5",
@@ -100,7 +109,10 @@
         "blk_100": 100,
         "fd_100": 48,
         "on_nrtg": 88,
-        "onoff_nrtg": 68
+        "onoff_nrtg": 68,
+        "xpps": 100,
+        "pps_diff": 62,
+        "assisted_pct": 78
       },
       "percentiles_pos": {
         "ppg": 65,
@@ -133,8 +145,39 @@
         "blk_100": 100,
         "fd_100": 27,
         "on_nrtg": 88,
-        "onoff_nrtg": 68
-      }
+        "onoff_nrtg": 68,
+        "xpps": 100,
+        "pps_diff": 76,
+        "assisted_pct": 67
+      },
+      "ast_to": [
+        [
+          "Katona József Bence",
+          1
+        ],
+        [
+          "Vincze Máté",
+          1
+        ],
+        [
+          "Tóth Balázs",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Katona József Bence",
+          5
+        ],
+        [
+          "Sziegl Gábor",
+          3
+        ],
+        [
+          "Tóth Balázs",
+          3
+        ]
+      ]
     },
     {
       "name": "Katona József Bence",
@@ -187,7 +230,16 @@
       "on_nrtg": 10.5,
       "off_nrtg": 16.0,
       "off_poss": 200.8,
+      "assisted_pct": 47.5,
+      "clutch_poss": 25.4,
+      "clutch_pts": 12,
+      "clutch_ts": 71.1,
+      "clutch_nrtg": 46.9,
       "onoff_nrtg": -5.5,
+      "chart_fga": 90,
+      "xpps": 0.856,
+      "pps": 1.0,
+      "pps_diff": 0.144,
       "photo_filename": "budafok-katona-jozsef-bence.jpg",
       "height_cm": 190,
       "position": "1-2",
@@ -226,7 +278,10 @@
         "blk_100": 58,
         "fd_100": 47,
         "on_nrtg": 72,
-        "onoff_nrtg": 34
+        "onoff_nrtg": 34,
+        "xpps": 2,
+        "pps_diff": 79,
+        "assisted_pct": 24
       },
       "percentiles_pos": {
         "ppg": 92,
@@ -261,8 +316,39 @@
         "blk_100": 76,
         "fd_100": 54,
         "on_nrtg": 74,
-        "onoff_nrtg": 37
-      }
+        "onoff_nrtg": 37,
+        "xpps": 6,
+        "pps_diff": 78,
+        "assisted_pct": 38
+      },
+      "ast_to": [
+        [
+          "Varga Dániel Géza",
+          7
+        ],
+        [
+          "Szántó Levente",
+          5
+        ],
+        [
+          "Biber Zsigmond",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Balázs",
+          9
+        ],
+        [
+          "Vincze Máté",
+          3
+        ],
+        [
+          "Varga Dániel Géza",
+          3
+        ]
+      ]
     },
     {
       "name": "Tóth Balázs",
@@ -315,7 +401,16 @@
       "on_nrtg": 7.7,
       "off_nrtg": 19.0,
       "off_poss": 239.1,
+      "assisted_pct": 57.6,
+      "clutch_poss": 29.3,
+      "clutch_pts": 12,
+      "clutch_ts": 66.1,
+      "clutch_nrtg": 50.6,
       "onoff_nrtg": -11.2,
+      "chart_fga": 56,
+      "xpps": 1.032,
+      "pps": 1.286,
+      "pps_diff": 0.254,
       "photo_filename": "budafok-toth-balazs.jpg",
       "height_cm": 193,
       "position": "1-3",
@@ -354,7 +449,10 @@
         "blk_100": 58,
         "fd_100": 84,
         "on_nrtg": 66,
-        "onoff_nrtg": 25
+        "onoff_nrtg": 25,
+        "xpps": 88,
+        "pps_diff": 91,
+        "assisted_pct": 44
       },
       "percentiles_pos": {
         "ppg": 84,
@@ -389,8 +487,39 @@
         "blk_100": 52,
         "fd_100": 86,
         "on_nrtg": 64,
-        "onoff_nrtg": 30
-      }
+        "onoff_nrtg": 30,
+        "xpps": 86,
+        "pps_diff": 100,
+        "assisted_pct": 25
+      },
+      "ast_to": [
+        [
+          "Katona József Bence",
+          9
+        ],
+        [
+          "Vincze Máté",
+          4
+        ],
+        [
+          "Szántó Levente",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Siklós Olivér Balázs",
+          6
+        ],
+        [
+          "Vincze Máté",
+          4
+        ],
+        [
+          "Katona József Bence",
+          3
+        ]
+      ]
     },
     {
       "name": "Varga Dániel Géza",
@@ -443,7 +572,16 @@
       "on_nrtg": 13.7,
       "off_nrtg": 10.7,
       "off_poss": 265.9,
+      "assisted_pct": 72.0,
+      "clutch_poss": 10.9,
+      "clutch_pts": 2,
+      "clutch_ts": 33.3,
+      "clutch_nrtg": 13.4,
       "onoff_nrtg": 3.0,
+      "chart_fga": 45,
+      "xpps": 0.97,
+      "pps": 1.289,
+      "pps_diff": 0.319,
       "photo_filename": "budafok-varga-daniel-geza.jpg",
       "height_cm": 199,
       "position": "4-5",
@@ -480,7 +618,10 @@
         "blk_100": 58,
         "fd_100": 75,
         "on_nrtg": 81,
-        "onoff_nrtg": 56
+        "onoff_nrtg": 56,
+        "xpps": 56,
+        "pps_diff": 95,
+        "assisted_pct": 78
       },
       "percentiles_pos": {
         "ppg": 73,
@@ -513,8 +654,39 @@
         "blk_100": 31,
         "fd_100": 73,
         "on_nrtg": 85,
-        "onoff_nrtg": 52
-      }
+        "onoff_nrtg": 52,
+        "xpps": 29,
+        "pps_diff": 95,
+        "assisted_pct": 67
+      },
+      "ast_to": [
+        [
+          "Katona József Bence",
+          3
+        ],
+        [
+          "Szántó Levente",
+          2
+        ],
+        [
+          "Tóth Balázs",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Katona József Bence",
+          7
+        ],
+        [
+          "Medvei Keve Károly",
+          3
+        ],
+        [
+          "Tóth Balázs",
+          2
+        ]
+      ]
     },
     {
       "name": "Sziegl Gábor",
@@ -567,14 +739,51 @@
       "on_nrtg": 25.0,
       "off_nrtg": 9.2,
       "off_poss": 464.7,
+      "assisted_pct": 45.5,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 15.8,
+      "chart_fga": 22,
+      "xpps": 0.925,
+      "pps": 1.182,
+      "pps_diff": 0.257,
       "photo_filename": "budafok-sziegl-gabor.jpg",
       "height_cm": 182,
       "position": "1",
       "birth_year": 2007,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Szántó Levente",
+          3
+        ],
+        [
+          "Kiss Benedek Péter",
+          3
+        ],
+        [
+          "Tóth Balázs",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Balázs",
+          2
+        ],
+        [
+          "Katona József Bence",
+          1
+        ],
+        [
+          "Horváth Áron",
+          1
+        ]
+      ]
     },
     {
       "name": "Biber Zsigmond",
@@ -627,7 +836,16 @@
       "on_nrtg": 7.8,
       "off_nrtg": 14.3,
       "off_poss": 401.5,
+      "assisted_pct": 50.0,
+      "clutch_poss": 8.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -62.2,
       "onoff_nrtg": -6.5,
+      "chart_fga": 22,
+      "xpps": 1.019,
+      "pps": 0.818,
+      "pps_diff": -0.201,
       "photo_filename": "budafok-biber-zsigmond.jpg",
       "height_cm": 183,
       "position": "1-2",
@@ -688,7 +906,23 @@
         "fd_100": 26,
         "on_nrtg": 68,
         "onoff_nrtg": 33
-      }
+      },
+      "ast_to": [
+        [
+          "Siklós Olivér Balázs",
+          2
+        ],
+        [
+          "Varga Dániel Géza",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Katona József Bence",
+          4
+        ]
+      ]
     },
     {
       "name": "Vincze Máté",
@@ -741,7 +975,16 @@
       "on_nrtg": 11.6,
       "off_nrtg": 13.0,
       "off_poss": 292.6,
+      "assisted_pct": 93.3,
+      "clutch_poss": 26.3,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 42.2,
       "onoff_nrtg": -1.4,
+      "chart_fga": 39,
+      "xpps": 0.944,
+      "pps": 1.026,
+      "pps_diff": 0.082,
       "photo_filename": "budafok-vincze-mate.jpg",
       "height_cm": 190,
       "position": "3-4",
@@ -778,7 +1021,10 @@
         "blk_100": 82,
         "fd_100": 12,
         "on_nrtg": 73,
-        "onoff_nrtg": 44
+        "onoff_nrtg": 44,
+        "xpps": 46,
+        "pps_diff": 68,
+        "assisted_pct": 99
       },
       "percentiles_pos": {
         "ppg": 41,
@@ -811,8 +1057,39 @@
         "blk_100": 84,
         "fd_100": 14,
         "on_nrtg": 73,
-        "onoff_nrtg": 43
-      }
+        "onoff_nrtg": 43,
+        "xpps": 61,
+        "pps_diff": 68,
+        "assisted_pct": 100
+      },
+      "ast_to": [
+        [
+          "Tóth Balázs",
+          4
+        ],
+        [
+          "Katona József Bence",
+          3
+        ],
+        [
+          "Siklós Olivér Balázs",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Balázs",
+          4
+        ],
+        [
+          "Siklós Olivér Balázs",
+          2
+        ],
+        [
+          "Piukovics Bálint Branko",
+          2
+        ]
+      ]
     },
     {
       "name": "Kiss Benedek Péter",
@@ -865,7 +1142,16 @@
       "on_nrtg": 14.3,
       "off_nrtg": 10.7,
       "off_poss": 322.0,
+      "assisted_pct": 75.0,
+      "clutch_poss": 11.9,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 48.1,
       "onoff_nrtg": 3.6,
+      "chart_fga": 37,
+      "xpps": 1.029,
+      "pps": 1.162,
+      "pps_diff": 0.134,
       "photo_filename": "budafok-kiss-benedek-peter.jpg",
       "height_cm": 198,
       "position": "3-4",
@@ -902,7 +1188,10 @@
         "blk_100": 78,
         "fd_100": 84,
         "on_nrtg": 83,
-        "onoff_nrtg": 58
+        "onoff_nrtg": 58,
+        "xpps": 86,
+        "pps_diff": 75,
+        "assisted_pct": 84
       },
       "percentiles_pos": {
         "ppg": 61,
@@ -935,8 +1224,39 @@
         "blk_100": 80,
         "fd_100": 86,
         "on_nrtg": 84,
-        "onoff_nrtg": 52
-      }
+        "onoff_nrtg": 52,
+        "xpps": 79,
+        "pps_diff": 75,
+        "assisted_pct": 71
+      },
+      "ast_to": [
+        [
+          "Szántó Levente",
+          2
+        ],
+        [
+          "Sziegl Gábor",
+          1
+        ],
+        [
+          "Kódor Tamás Olivér",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Siklós Olivér Balázs",
+          4
+        ],
+        [
+          "Sziegl Gábor",
+          3
+        ],
+        [
+          "Katona József Bence",
+          2
+        ]
+      ]
     },
     {
       "name": "Siklós Olivér Balázs",
@@ -989,7 +1309,16 @@
       "on_nrtg": 24.5,
       "off_nrtg": 0.2,
       "off_poss": 288.4,
+      "assisted_pct": 35.0,
+      "clutch_poss": 9.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -42.8,
       "onoff_nrtg": 24.3,
+      "chart_fga": 46,
+      "xpps": 1.005,
+      "pps": 0.87,
+      "pps_diff": -0.135,
       "photo_filename": "budafok-siklos-oliver-balazs.jpg",
       "height_cm": 192,
       "position": "1-3",
@@ -1025,7 +1354,10 @@
         "blk_100": 58,
         "fd_100": 37,
         "on_nrtg": 97,
-        "onoff_nrtg": 89
+        "onoff_nrtg": 89,
+        "xpps": 78,
+        "pps_diff": 28,
+        "assisted_pct": 13
       },
       "percentiles_pos": {
         "ppg": 55,
@@ -1057,8 +1389,39 @@
         "blk_100": 52,
         "fd_100": 41,
         "on_nrtg": 98,
-        "onoff_nrtg": 89
-      }
+        "onoff_nrtg": 89,
+        "xpps": 68,
+        "pps_diff": 36,
+        "assisted_pct": 7
+      },
+      "ast_to": [
+        [
+          "Tóth Balázs",
+          6
+        ],
+        [
+          "Kiss Benedek Péter",
+          4
+        ],
+        [
+          "Szántó Levente",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Balázs",
+          2
+        ],
+        [
+          "Biber Zsigmond",
+          2
+        ],
+        [
+          "Vincze Máté",
+          2
+        ]
+      ]
     },
     {
       "name": "Piukovics Bálint Branko",
@@ -1111,14 +1474,47 @@
       "on_nrtg": -20.1,
       "off_nrtg": 17.1,
       "off_poss": 507.4,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -37.2,
+      "chart_fga": 14,
+      "xpps": 0.851,
+      "pps": 0.571,
+      "pps_diff": -0.279,
       "photo_filename": "budafok-piukovics-balint-branko.jpg",
       "height_cm": 183,
       "position": "2-3",
       "birth_year": 1994,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Vincze Máté",
+          2
+        ],
+        [
+          "Kiss Benedek Péter",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Siklós Olivér Balázs",
+          1
+        ],
+        [
+          "Vincze Máté",
+          1
+        ],
+        [
+          "Katona József Bence",
+          1
+        ]
+      ]
     },
     {
       "name": "Horváth Áron",
@@ -1171,14 +1567,43 @@
       "on_nrtg": 14.7,
       "off_nrtg": 11.9,
       "off_poss": 502.7,
+      "assisted_pct": 100.0,
+      "clutch_poss": 4.9,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -19.2,
       "onoff_nrtg": 2.8,
+      "chart_fga": 12,
+      "xpps": 0.883,
+      "pps": 0.25,
+      "pps_diff": -0.633,
       "photo_filename": "budafok-horvath-aron.jpg",
       "height_cm": 178,
       "position": "1-2",
       "birth_year": 2004,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Sziegl Gábor",
+          1
+        ],
+        [
+          "Birinyi Marcell Bence",
+          1
+        ],
+        [
+          "Medvei Keve Károly",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Sziegl Gábor",
+          1
+        ]
+      ]
     },
     {
       "name": "Medvei Keve Károly",
@@ -1231,7 +1656,16 @@
       "on_nrtg": 11.0,
       "off_nrtg": 12.8,
       "off_poss": 438.2,
+      "assisted_pct": 54.5,
+      "clutch_poss": 9.5,
+      "clutch_pts": 1,
+      "clutch_ts": 26.6,
+      "clutch_nrtg": 56.9,
       "onoff_nrtg": -1.8,
+      "chart_fga": 21,
+      "xpps": 0.947,
+      "pps": 1.333,
+      "pps_diff": 0.386,
       "photo_filename": "budafok-medvei-keve-karoly.jpg",
       "height_cm": 182,
       "position": "1-2",
@@ -1292,7 +1726,35 @@
         "fd_100": 8,
         "on_nrtg": 76,
         "onoff_nrtg": 49
-      }
+      },
+      "ast_to": [
+        [
+          "Varga Dániel Géza",
+          3
+        ],
+        [
+          "Tóth Balázs",
+          1
+        ],
+        [
+          "Vincze Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Siklós Olivér Balázs",
+          1
+        ],
+        [
+          "Sziegl Gábor",
+          1
+        ],
+        [
+          "Horváth Áron",
+          1
+        ]
+      ]
     },
     {
       "name": "Kódor Tamás Olivér",
@@ -1345,14 +1807,43 @@
       "on_nrtg": 12.4,
       "off_nrtg": 12.3,
       "off_poss": 534.7,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 0.1,
+      "chart_fga": 11,
+      "xpps": 1.074,
+      "pps": 0.727,
+      "pps_diff": -0.347,
       "photo_filename": "budafok-kodor-tamas-oliver.jpg",
       "height_cm": 209,
       "position": "5",
       "birth_year": 2001,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Vincze Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Katona József Bence",
+          2
+        ],
+        [
+          "Kiss Benedek Péter",
+          1
+        ],
+        [
+          "Siklós Olivér Balázs",
+          1
+        ]
+      ]
     },
     {
       "name": "Juhász Dániel",
@@ -1405,14 +1896,30 @@
       "on_nrtg": -3.8,
       "off_nrtg": 14.0,
       "off_poss": 521.6,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -17.8,
+      "chart_fga": 5,
+      "xpps": 1.073,
+      "pps": 0.8,
+      "pps_diff": -0.273,
       "photo_filename": "budafok-juhasz-daniel.jpg",
       "height_cm": 203,
       "position": "4-5",
       "birth_year": 2005,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Katona József Bence",
+          1
+        ]
+      ]
     },
     {
       "name": "Birinyi Marcell Bence",
@@ -1465,14 +1972,34 @@
       "on_nrtg": -12.2,
       "off_nrtg": 13.1,
       "off_poss": 560.1,
+      "assisted_pct": 66.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -25.3,
+      "chart_fga": 5,
+      "xpps": 0.848,
+      "pps": 1.4,
+      "pps_diff": 0.552,
       "photo_filename": "budafok-birinyi-marcell-bence.jpg",
       "height_cm": 182,
       "position": "3",
       "birth_year": 2010,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Horváth Áron",
+          1
+        ],
+        [
+          "Siklós Olivér Balázs",
+          1
+        ]
+      ]
     }
   ]
 }

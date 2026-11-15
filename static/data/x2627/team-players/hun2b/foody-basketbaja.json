@@ -63,7 +63,16 @@
       "on_nrtg": -6.3,
       "off_nrtg": -5.5,
       "off_poss": 42.7,
+      "assisted_pct": 13.5,
+      "clutch_poss": 30.8,
+      "clutch_pts": 6,
+      "clutch_ts": 38.1,
+      "clutch_nrtg": -21.5,
       "onoff_nrtg": -0.8,
+      "chart_fga": 104,
+      "xpps": 0.917,
+      "pps": 0.798,
+      "pps_diff": -0.119,
       "photo_filename": "foody-basketbaja-lakatos-mate.jpg",
       "height_cm": 184,
       "position": "1",
@@ -101,7 +110,10 @@
         "stl_100": 32,
         "blk_100": 48,
         "fd_100": 58,
-        "on_nrtg": 34
+        "on_nrtg": 34,
+        "xpps": 34,
+        "pps_diff": 31,
+        "assisted_pct": 2
       },
       "percentiles_pos": {
         "ppg": 88,
@@ -135,8 +147,39 @@
         "stl_100": 24,
         "blk_100": 66,
         "fd_100": 64,
-        "on_nrtg": 32
-      }
+        "on_nrtg": 32,
+        "xpps": 47,
+        "pps_diff": 25,
+        "assisted_pct": 5
+      },
+      "ast_to": [
+        [
+          "Hódos Patrik",
+          10
+        ],
+        [
+          "Goldring József Bence",
+          8
+        ],
+        [
+          "Orgona Gergő Milán",
+          7
+        ]
+      ],
+      "ast_by": [
+        [
+          "Hódos Patrik",
+          3
+        ],
+        [
+          "Szugyiczki Máté",
+          1
+        ],
+        [
+          "Goldring József Bence",
+          1
+        ]
+      ]
     },
     {
       "name": "Goldring József Bence",
@@ -189,7 +232,16 @@
       "on_nrtg": -6.3,
       "off_nrtg": -6.0,
       "off_poss": 68.7,
+      "assisted_pct": 50.0,
+      "clutch_poss": 30.8,
+      "clutch_pts": 3,
+      "clutch_ts": 31.5,
+      "clutch_nrtg": -21.5,
       "onoff_nrtg": -0.3,
+      "chart_fga": 74,
+      "xpps": 0.884,
+      "pps": 1.149,
+      "pps_diff": 0.265,
       "photo_filename": "foody-basketbaja-goldring-jozsef-bence.jpg",
       "height_cm": 186,
       "position": "1-2",
@@ -228,7 +280,10 @@
         "blk_100": 43,
         "fd_100": 37,
         "on_nrtg": 34,
-        "onoff_nrtg": 47
+        "onoff_nrtg": 47,
+        "xpps": 13,
+        "pps_diff": 92,
+        "assisted_pct": 31
       },
       "percentiles_pos": {
         "ppg": 86,
@@ -263,8 +318,39 @@
         "blk_100": 60,
         "fd_100": 40,
         "on_nrtg": 32,
-        "onoff_nrtg": 57
-      }
+        "onoff_nrtg": 57,
+        "xpps": 17,
+        "pps_diff": 89,
+        "assisted_pct": 46
+      },
+      "ast_to": [
+        [
+          "Hódos Patrik",
+          5
+        ],
+        [
+          "Szugyiczki Máté",
+          5
+        ],
+        [
+          "Orgona Gergő Milán",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lakatos Máté",
+          8
+        ],
+        [
+          "Simon Dávid",
+          3
+        ],
+        [
+          "Orgona Gergő Milán",
+          2
+        ]
+      ]
     },
     {
       "name": "Hódos Patrik",
@@ -317,7 +403,16 @@
       "on_nrtg": -6.0,
       "off_nrtg": -8.3,
       "off_poss": 79.0,
+      "assisted_pct": 59.4,
+      "clutch_poss": 26.8,
+      "clutch_pts": 7,
+      "clutch_ts": 55.4,
+      "clutch_nrtg": -2.4,
       "onoff_nrtg": 2.4,
+      "chart_fga": 75,
+      "xpps": 0.905,
+      "pps": 1.04,
+      "pps_diff": 0.135,
       "photo_filename": "foody-basketbaja-hodos-patrik.jpg",
       "height_cm": 188,
       "position": "2-3",
@@ -356,7 +451,10 @@
         "blk_100": 64,
         "fd_100": 92,
         "on_nrtg": 38,
-        "onoff_nrtg": 54
+        "onoff_nrtg": 54,
+        "xpps": 27,
+        "pps_diff": 76,
+        "assisted_pct": 51
       },
       "percentiles_pos": {
         "ppg": 98,
@@ -391,8 +489,39 @@
         "blk_100": 57,
         "fd_100": 98,
         "on_nrtg": 39,
-        "onoff_nrtg": 50
-      }
+        "onoff_nrtg": 50,
+        "xpps": 36,
+        "pps_diff": 79,
+        "assisted_pct": 36
+      },
+      "ast_to": [
+        [
+          "Szugyiczki Máté",
+          3
+        ],
+        [
+          "Lakatos Máté",
+          3
+        ],
+        [
+          "Orgona Gergő Milán",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lakatos Máté",
+          10
+        ],
+        [
+          "Goldring József Bence",
+          5
+        ],
+        [
+          "Orgona Gergő Milán",
+          2
+        ]
+      ]
     },
     {
       "name": "Szugyiczki Máté",
@@ -445,7 +574,16 @@
       "on_nrtg": -1.6,
       "off_nrtg": -19.2,
       "off_poss": 155.2,
+      "assisted_pct": 44.8,
+      "clutch_poss": 28.0,
+      "clutch_pts": 4,
+      "clutch_ts": 66.7,
+      "clutch_nrtg": -19.5,
       "onoff_nrtg": 17.6,
+      "chart_fga": 53,
+      "xpps": 1.134,
+      "pps": 1.094,
+      "pps_diff": -0.039,
       "photo_filename": "foody-basketbaja-szugyiczki-mate.jpg",
       "height_cm": 202,
       "position": "4-5",
@@ -483,7 +621,10 @@
         "blk_100": 89,
         "fd_100": 75,
         "on_nrtg": 50,
-        "onoff_nrtg": 83
+        "onoff_nrtg": 83,
+        "xpps": 99,
+        "pps_diff": 47,
+        "assisted_pct": 20
       },
       "percentiles_pos": {
         "ppg": 69,
@@ -517,8 +658,39 @@
         "blk_100": 69,
         "fd_100": 73,
         "on_nrtg": 54,
-        "onoff_nrtg": 96
-      }
+        "onoff_nrtg": 96,
+        "xpps": 95,
+        "pps_diff": 57,
+        "assisted_pct": 5
+      },
+      "ast_to": [
+        [
+          "Orgona Gergő Milán",
+          5
+        ],
+        [
+          "Simon Dávid",
+          3
+        ],
+        [
+          "Lakatos Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Goldring József Bence",
+          5
+        ],
+        [
+          "Hódos Patrik",
+          3
+        ],
+        [
+          "Orgona Gergő Milán",
+          3
+        ]
+      ]
     },
     {
       "name": "Orgona Gergő Milán",
@@ -571,7 +743,16 @@
       "on_nrtg": -3.3,
       "off_nrtg": -13.1,
       "off_poss": 166.5,
+      "assisted_pct": 54.1,
+      "clutch_poss": 29.0,
+      "clutch_pts": 1,
+      "clutch_ts": 10.2,
+      "clutch_nrtg": -17.0,
       "onoff_nrtg": 9.8,
+      "chart_fga": 76,
+      "xpps": 0.969,
+      "pps": 1.132,
+      "pps_diff": 0.163,
       "photo_filename": "foody-basketbaja-orgona-gergo-milan.jpg",
       "height_cm": 200,
       "position": "4-5",
@@ -609,7 +790,10 @@
         "blk_100": 86,
         "fd_100": 26,
         "on_nrtg": 45,
-        "onoff_nrtg": 69
+        "onoff_nrtg": 69,
+        "xpps": 55,
+        "pps_diff": 88,
+        "assisted_pct": 38
       },
       "percentiles_pos": {
         "ppg": 85,
@@ -642,8 +826,39 @@
         "blk_100": 58,
         "fd_100": 12,
         "on_nrtg": 46,
-        "onoff_nrtg": 72
-      }
+        "onoff_nrtg": 72,
+        "xpps": 24,
+        "pps_diff": 86,
+        "assisted_pct": 33
+      },
+      "ast_to": [
+        [
+          "Szugyiczki Máté",
+          3
+        ],
+        [
+          "Goldring József Bence",
+          2
+        ],
+        [
+          "Hódos Patrik",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lakatos Máté",
+          7
+        ],
+        [
+          "Szugyiczki Máté",
+          5
+        ],
+        [
+          "Hódos Patrik",
+          2
+        ]
+      ]
     },
     {
       "name": "Simon Dávid",
@@ -696,7 +911,16 @@
       "on_nrtg": -15.4,
       "off_nrtg": -1.8,
       "off_poss": 370.2,
+      "assisted_pct": 63.6,
+      "clutch_poss": 2.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -65.3,
       "onoff_nrtg": -13.6,
+      "chart_fga": 27,
+      "xpps": 0.965,
+      "pps": 0.889,
+      "pps_diff": -0.076,
       "photo_filename": "foody-basketbaja-simon-david.jpg",
       "height_cm": 200,
       "position": "3-4",
@@ -757,7 +981,31 @@
         "fd_100": 50,
         "on_nrtg": 23,
         "onoff_nrtg": 23
-      }
+      },
+      "ast_to": [
+        [
+          "Goldring József Bence",
+          3
+        ],
+        [
+          "Orgona Gergő Milán",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lakatos Máté",
+          3
+        ],
+        [
+          "Szugyiczki Máté",
+          3
+        ],
+        [
+          "Orgona Gergő Milán",
+          1
+        ]
+      ]
     },
     {
       "name": "Bán Tibor",
@@ -810,14 +1058,25 @@
       "on_nrtg": -24.1,
       "off_nrtg": -5.3,
       "off_poss": 521.4,
+      "assisted_pct": 0.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -18.8,
+      "chart_fga": 5,
+      "xpps": 0.859,
+      "pps": 0.8,
+      "pps_diff": -0.059,
       "photo_filename": "foody-basketbaja-ban-tibor.jpg",
       "height_cm": 186,
       "position": "1-2",
       "birth_year": 1995,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Cseresznyés Csoma",
@@ -870,7 +1129,16 @@
       "on_nrtg": 5.8,
       "off_nrtg": -10.2,
       "off_poss": 415.6,
+      "assisted_pct": 100.0,
+      "clutch_poss": 4.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -137.8,
       "onoff_nrtg": 16.0,
+      "chart_fga": 8,
+      "xpps": 0.834,
+      "pps": 1.125,
+      "pps_diff": 0.291,
       "photo_filename": "foody-basketbaja-cseresznyes-csoma.jpg",
       "height_cm": 180,
       "position": "1",
@@ -931,7 +1199,35 @@
         "fd_100": 10,
         "on_nrtg": 64,
         "onoff_nrtg": 82
-      }
+      },
+      "ast_to": [
+        [
+          "Orgona Gergő Milán",
+          2
+        ],
+        [
+          "Goldring József Bence",
+          1
+        ],
+        [
+          "Hódos Patrik",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Orgona Gergő Milán",
+          1
+        ],
+        [
+          "Lakatos Máté",
+          1
+        ],
+        [
+          "Hódos Patrik",
+          1
+        ]
+      ]
     },
     {
       "name": "Szücs Attila Zoltán",
@@ -984,14 +1280,43 @@
       "on_nrtg": -38.6,
       "off_nrtg": -0.8,
       "off_poss": 466.9,
+      "assisted_pct": 60.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -37.8,
+      "chart_fga": 12,
+      "xpps": 1.079,
+      "pps": 0.917,
+      "pps_diff": -0.162,
       "photo_filename": "foody-basketbaja-szucs-attila-zoltan.jpg",
       "height_cm": 200,
       "position": "5",
       "birth_year": 2003,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Novák Patrik",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Hódos Patrik",
+          1
+        ],
+        [
+          "Lakatos Máté",
+          1
+        ],
+        [
+          "Goldring József Bence",
+          1
+        ]
+      ]
     },
     {
       "name": "Bohner Áron",
@@ -1044,14 +1369,34 @@
       "on_nrtg": 35.1,
       "off_nrtg": -9.1,
       "off_poss": 514.0,
+      "assisted_pct": 75.0,
+      "clutch_poss": 1.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -23.5,
       "onoff_nrtg": 44.2,
+      "chart_fga": 5,
+      "xpps": 1.026,
+      "pps": 1.6,
+      "pps_diff": 0.574,
       "photo_filename": "foody-basketbaja-bohner-aron.jpg",
       "height_cm": 205,
       "position": "5",
       "birth_year": 2009,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Lakatos Máté",
+          2
+        ],
+        [
+          "Hódos Patrik",
+          1
+        ]
+      ]
     },
     {
       "name": "Heberling Dániel",
@@ -1104,14 +1449,34 @@
       "on_nrtg": -37.6,
       "off_nrtg": -4.2,
       "off_poss": 516.5,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -33.5,
+      "chart_fga": 6,
+      "xpps": 0.952,
+      "pps": 0.667,
+      "pps_diff": -0.286,
       "photo_filename": "foody-basketbaja-heberling-daniel.jpg",
       "height_cm": 202,
       "position": "4-5",
       "birth_year": 2009,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Hódos Patrik",
+          1
+        ],
+        [
+          "Cseresznyés Csoma",
+          1
+        ]
+      ]
     },
     {
       "name": "Bohner Bálint",
@@ -1164,6 +1529,11 @@
       "on_nrtg": 14.2,
       "off_nrtg": -6.7,
       "off_poss": 538.0,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 20.9,
       "photo_filename": "foody-basketbaja-bohner-balint.jpg",
       "height_cm": 206,
@@ -1171,7 +1541,9 @@
       "birth_year": 2006,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Novák Patrik",
@@ -1224,14 +1596,35 @@
       "on_nrtg": -24.4,
       "off_nrtg": -6.0,
       "off_poss": 543.3,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -18.3,
+      "chart_fga": 1,
+      "xpps": 0.879,
+      "pps": 3.0,
+      "pps_diff": 2.121,
       "photo_filename": "foody-basketbaja-novak-patrik.jpg",
       "height_cm": 191,
       "position": "3-4",
       "birth_year": 2007,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Goldring József Bence",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Szücs Attila Zoltán",
+          1
+        ]
+      ]
     }
   ]
 }

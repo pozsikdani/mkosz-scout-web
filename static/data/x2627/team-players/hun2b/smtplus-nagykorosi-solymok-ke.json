@@ -63,7 +63,16 @@
       "on_nrtg": 15.5,
       "off_nrtg": 13.8,
       "off_poss": 200.4,
+      "assisted_pct": 43.5,
+      "clutch_poss": 16.0,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": -26.0,
       "onoff_nrtg": 1.6,
+      "chart_fga": 63,
+      "xpps": 0.985,
+      "pps": 0.81,
+      "pps_diff": -0.175,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-gyorgy-julian.jpg",
       "height_cm": 185,
       "position": "1",
@@ -102,7 +111,10 @@
         "blk_100": 43,
         "fd_100": 41,
         "on_nrtg": 88,
-        "onoff_nrtg": 52
+        "onoff_nrtg": 52,
+        "xpps": 69,
+        "pps_diff": 15,
+        "assisted_pct": 19
       },
       "percentiles_pos": {
         "ppg": 52,
@@ -137,8 +149,39 @@
         "blk_100": 60,
         "fd_100": 46,
         "on_nrtg": 90,
-        "onoff_nrtg": 61
-      }
+        "onoff_nrtg": 61,
+        "xpps": 86,
+        "pps_diff": 17,
+        "assisted_pct": 35
+      },
+      "ast_to": [
+        [
+          "Fehér Péter József",
+          7
+        ],
+        [
+          "Lakosa Ákos",
+          7
+        ],
+        [
+          "Gera Ferenc",
+          6
+        ]
+      ],
+      "ast_by": [
+        [
+          "Gera Ferenc",
+          4
+        ],
+        [
+          "Csorvási Milán",
+          3
+        ],
+        [
+          "Lakosa Ákos",
+          1
+        ]
+      ]
     },
     {
       "name": "Fehér Péter József",
@@ -191,7 +234,16 @@
       "on_nrtg": 13.3,
       "off_nrtg": 18.6,
       "off_poss": 186.4,
+      "assisted_pct": 65.6,
+      "clutch_poss": 17.0,
+      "clutch_pts": 1,
+      "clutch_ts": 56.8,
+      "clutch_nrtg": -14.2,
       "onoff_nrtg": -5.4,
+      "chart_fga": 80,
+      "xpps": 1.019,
+      "pps": 0.875,
+      "pps_diff": -0.144,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
       "height_cm": 186,
       "position": "2",
@@ -230,7 +282,10 @@
         "blk_100": 43,
         "fd_100": 62,
         "on_nrtg": 78,
-        "onoff_nrtg": 35
+        "onoff_nrtg": 35,
+        "xpps": 84,
+        "pps_diff": 24,
+        "assisted_pct": 63
       },
       "percentiles_pos": {
         "ppg": 72,
@@ -265,8 +320,39 @@
         "blk_100": 60,
         "fd_100": 70,
         "on_nrtg": 80,
-        "onoff_nrtg": 39
-      }
+        "onoff_nrtg": 39,
+        "xpps": 100,
+        "pps_diff": 19,
+        "assisted_pct": 81
+      },
+      "ast_to": [
+        [
+          "Gera Ferenc",
+          6
+        ],
+        [
+          "Lakosa Ákos",
+          6
+        ],
+        [
+          "Mészáros Bence",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "György Julian",
+          7
+        ],
+        [
+          "Csorvási Milán",
+          5
+        ],
+        [
+          "Mészáros Bence",
+          5
+        ]
+      ]
     },
     {
       "name": "Csorvási Milán",
@@ -319,7 +405,16 @@
       "on_nrtg": 20.6,
       "off_nrtg": 6.2,
       "off_poss": 254.2,
+      "assisted_pct": 50.0,
+      "clutch_poss": 2.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 14.4,
+      "chart_fga": 63,
+      "xpps": 1.129,
+      "pps": 1.159,
+      "pps_diff": 0.029,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
       "height_cm": 208,
       "position": "5",
@@ -357,7 +452,10 @@
         "blk_100": 97,
         "fd_100": 69,
         "on_nrtg": 93,
-        "onoff_nrtg": 76
+        "onoff_nrtg": 76,
+        "xpps": 98,
+        "pps_diff": 58,
+        "assisted_pct": 31
       },
       "percentiles_pos": {
         "ppg": 81,
@@ -391,8 +489,39 @@
         "blk_100": 88,
         "fd_100": 58,
         "on_nrtg": 96,
-        "onoff_nrtg": 84
-      }
+        "onoff_nrtg": 84,
+        "xpps": 90,
+        "pps_diff": 71,
+        "assisted_pct": 24
+      },
+      "ast_to": [
+        [
+          "Lakosa Ákos",
+          7
+        ],
+        [
+          "Fehér Péter József",
+          5
+        ],
+        [
+          "György Julian",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lakosa Ákos",
+          10
+        ],
+        [
+          "Mészáros Bence",
+          3
+        ],
+        [
+          "Fehér Péter József",
+          2
+        ]
+      ]
     },
     {
       "name": "Lakosa Ákos",
@@ -445,7 +574,16 @@
       "on_nrtg": 12.8,
       "off_nrtg": 19.5,
       "off_poss": 218.4,
+      "assisted_pct": 53.1,
+      "clutch_poss": 16.0,
+      "clutch_pts": 5,
+      "clutch_ts": 52.5,
+      "clutch_nrtg": -26.0,
       "onoff_nrtg": -6.7,
+      "chart_fga": 102,
+      "xpps": 0.968,
+      "pps": 1.127,
+      "pps_diff": 0.159,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-lakosa-akos.jpg",
       "height_cm": 188,
       "position": "1-2",
@@ -484,7 +622,10 @@
         "blk_100": 48,
         "fd_100": 87,
         "on_nrtg": 76,
-        "onoff_nrtg": 31
+        "onoff_nrtg": 31,
+        "xpps": 53,
+        "pps_diff": 87,
+        "assisted_pct": 35
       },
       "percentiles_pos": {
         "ppg": 98,
@@ -519,8 +660,39 @@
         "blk_100": 66,
         "fd_100": 84,
         "on_nrtg": 78,
-        "onoff_nrtg": 31
-      }
+        "onoff_nrtg": 31,
+        "xpps": 69,
+        "pps_diff": 83,
+        "assisted_pct": 51
+      },
+      "ast_to": [
+        [
+          "Csorvási Milán",
+          10
+        ],
+        [
+          "Mészáros Bence",
+          6
+        ],
+        [
+          "Gera Ferenc",
+          5
+        ]
+      ],
+      "ast_by": [
+        [
+          "György Julian",
+          7
+        ],
+        [
+          "Csorvási Milán",
+          7
+        ],
+        [
+          "Fehér Péter József",
+          6
+        ]
+      ]
     },
     {
       "name": "Mészáros Bence",
@@ -573,7 +745,16 @@
       "on_nrtg": 13.9,
       "off_nrtg": 17.2,
       "off_poss": 232.9,
+      "assisted_pct": 62.5,
+      "clutch_poss": 15.1,
+      "clutch_pts": 6,
+      "clutch_ts": 123.0,
+      "clutch_nrtg": -33.4,
       "onoff_nrtg": -3.3,
+      "chart_fga": 64,
+      "xpps": 0.857,
+      "pps": 0.984,
+      "pps_diff": 0.128,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
       "height_cm": 180,
       "position": "1",
@@ -612,7 +793,10 @@
         "blk_100": 43,
         "fd_100": 41,
         "on_nrtg": 82,
-        "onoff_nrtg": 37
+        "onoff_nrtg": 37,
+        "xpps": 4,
+        "pps_diff": 74,
+        "assisted_pct": 55
       },
       "percentiles_pos": {
         "ppg": 58,
@@ -647,8 +831,39 @@
         "blk_100": 60,
         "fd_100": 46,
         "on_nrtg": 82,
-        "onoff_nrtg": 43
-      }
+        "onoff_nrtg": 43,
+        "xpps": 8,
+        "pps_diff": 72,
+        "assisted_pct": 73
+      },
+      "ast_to": [
+        [
+          "Gera Ferenc",
+          7
+        ],
+        [
+          "Fehér Péter József",
+          5
+        ],
+        [
+          "Szokonya Gergő",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lakosa Ákos",
+          6
+        ],
+        [
+          "Fehér Péter József",
+          3
+        ],
+        [
+          "Csorvási Milán",
+          2
+        ]
+      ]
     },
     {
       "name": "Gera Ferenc",
@@ -701,7 +916,16 @@
       "on_nrtg": 20.5,
       "off_nrtg": 8.0,
       "off_poss": 292.5,
+      "assisted_pct": 71.4,
+      "clutch_poss": 17.0,
+      "clutch_pts": 5,
+      "clutch_ts": 31.7,
+      "clutch_nrtg": -14.2,
       "onoff_nrtg": 12.5,
+      "chart_fga": 98,
+      "xpps": 0.996,
+      "pps": 0.939,
+      "pps_diff": -0.057,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
       "height_cm": 190,
       "position": "2",
@@ -740,7 +964,10 @@
         "blk_100": 43,
         "fd_100": 51,
         "on_nrtg": 92,
-        "onoff_nrtg": 72
+        "onoff_nrtg": 72,
+        "xpps": 73,
+        "pps_diff": 40,
+        "assisted_pct": 76
       },
       "percentiles_pos": {
         "ppg": 82,
@@ -775,8 +1002,39 @@
         "blk_100": 60,
         "fd_100": 56,
         "on_nrtg": 92,
-        "onoff_nrtg": 73
-      }
+        "onoff_nrtg": 73,
+        "xpps": 92,
+        "pps_diff": 36,
+        "assisted_pct": 95
+      },
+      "ast_to": [
+        [
+          "György Julian",
+          4
+        ],
+        [
+          "Lakosa Ákos",
+          2
+        ],
+        [
+          "Fehér Péter József",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Mészáros Bence",
+          7
+        ],
+        [
+          "György Julian",
+          6
+        ],
+        [
+          "Fehér Péter József",
+          6
+        ]
+      ]
     },
     {
       "name": "Lintner Kristóf Barnabás",
@@ -829,14 +1087,25 @@
       "on_nrtg": 37.6,
       "off_nrtg": 14.4,
       "off_poss": 642.6,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 23.2,
+      "chart_fga": 3,
+      "xpps": 0.923,
+      "pps": 0.0,
+      "pps_diff": -0.923,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-lintner-kristof-barnabas.jpg",
       "height_cm": 185,
       "position": "1-2",
       "birth_year": 2003,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Szokonya Gergő",
@@ -889,7 +1158,16 @@
       "on_nrtg": 14.7,
       "off_nrtg": 15.1,
       "off_poss": 500.7,
+      "assisted_pct": 87.5,
+      "clutch_poss": 1.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -0.4,
+      "chart_fga": 21,
+      "xpps": 1.0,
+      "pps": 0.905,
+      "pps_diff": -0.095,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-szokonya-gergo.jpg",
       "height_cm": 190,
       "position": "1",
@@ -952,7 +1230,27 @@
         "fd_100": 32,
         "on_nrtg": 84,
         "onoff_nrtg": 55
-      }
+      },
+      "ast_to": [
+        [
+          "Okoh Victor Kelechi",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Mészáros Bence",
+          3
+        ],
+        [
+          "Lakosa Ákos",
+          1
+        ],
+        [
+          "Béres Benedek",
+          1
+        ]
+      ]
     },
     {
       "name": "Okoh Victor Kelechi",
@@ -1005,7 +1303,16 @@
       "on_nrtg": 7.3,
       "off_nrtg": 19.1,
       "off_poss": 433.9,
+      "assisted_pct": 63.6,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -11.8,
+      "chart_fga": 23,
+      "xpps": 1.171,
+      "pps": 0.957,
+      "pps_diff": -0.214,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
       "height_cm": 202,
       "position": "5",
@@ -1066,7 +1373,22 @@
         "fd_100": 23,
         "on_nrtg": 69,
         "onoff_nrtg": 16
-      }
+      },
+      "ast_to": [],
+      "ast_by": [
+        [
+          "György Julian",
+          3
+        ],
+        [
+          "Lakosa Ákos",
+          3
+        ],
+        [
+          "Szokonya Gergő",
+          1
+        ]
+      ]
     },
     {
       "name": "Márton Ákos",
@@ -1119,14 +1441,25 @@
       "on_nrtg": 13.3,
       "off_nrtg": 15.2,
       "off_poss": 619.6,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -1.9,
+      "chart_fga": 5,
+      "xpps": 1.032,
+      "pps": 0.0,
+      "pps_diff": -1.032,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg",
       "height_cm": 195,
       "position": "5",
       "birth_year": 2009,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Béres Benedek",
@@ -1179,7 +1512,16 @@
       "on_nrtg": 19.9,
       "off_nrtg": 13.0,
       "off_poss": 480.6,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 6.9,
+      "chart_fga": 20,
+      "xpps": 1.038,
+      "pps": 1.3,
+      "pps_diff": 0.262,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
       "height_cm": 185,
       "position": "3",
@@ -1242,7 +1584,35 @@
         "fd_100": 61,
         "on_nrtg": 93,
         "onoff_nrtg": 61
-      }
+      },
+      "ast_to": [
+        [
+          "Gera Ferenc",
+          3
+        ],
+        [
+          "Lakosa Ákos",
+          2
+        ],
+        [
+          "Mészáros Bence",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "György Julian",
+          3
+        ],
+        [
+          "Fehér Péter József",
+          2
+        ],
+        [
+          "Gera Ferenc",
+          1
+        ]
+      ]
     },
     {
       "name": "Kovács Gergely",
@@ -1295,14 +1665,25 @@
       "on_nrtg": 39.6,
       "off_nrtg": 14.4,
       "off_poss": 643.9,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 25.3,
+      "chart_fga": 1,
+      "xpps": 0.644,
+      "pps": 0.0,
+      "pps_diff": -0.644,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
       "height_cm": 187,
       "position": "2",
       "birth_year": 2005,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Kocsis Attila",
@@ -1355,7 +1736,16 @@
       "on_nrtg": -23.4,
       "off_nrtg": 18.5,
       "off_poss": 604.3,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -42.0,
+      "chart_fga": 12,
+      "xpps": 0.969,
+      "pps": 0.333,
+      "pps_diff": -0.636,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg",
       "height_cm": 180,
       "position": "1",
@@ -1416,7 +1806,23 @@
         "fd_100": 90,
         "on_nrtg": 6,
         "onoff_nrtg": 4
-      }
+      },
+      "ast_to": [
+        [
+          "Gera Ferenc",
+          1
+        ],
+        [
+          "Mészáros Bence",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "György Julian",
+          1
+        ]
+      ]
     },
     {
       "name": "Molnár Bence",
@@ -1469,14 +1875,35 @@
       "on_nrtg": 14.4,
       "off_nrtg": 15.1,
       "off_poss": 632.9,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -0.8,
+      "chart_fga": 3,
+      "xpps": 1.023,
+      "pps": 0.667,
+      "pps_diff": -0.356,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg",
       "height_cm": 194,
       "position": "2",
       "birth_year": 1993,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "György Julian",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "György Julian",
+          1
+        ]
+      ]
     }
   ]
 }

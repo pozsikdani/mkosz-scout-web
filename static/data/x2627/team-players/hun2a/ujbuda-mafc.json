@@ -63,7 +63,16 @@
       "on_nrtg": 8.6,
       "off_nrtg": 15.4,
       "off_poss": 119.5,
+      "assisted_pct": 52.2,
+      "clutch_poss": 20.6,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": -41.5,
       "onoff_nrtg": -6.7,
+      "chart_fga": 42,
+      "xpps": 1.113,
+      "pps": 1.095,
+      "pps_diff": -0.018,
       "photo_filename": "ujbuda-mafc-bordacs-gabor-soma.jpg",
       "height_cm": 201,
       "position": "4",
@@ -101,7 +110,10 @@
         "blk_100": 71,
         "fd_100": 34,
         "on_nrtg": 78,
-        "onoff_nrtg": 35
+        "onoff_nrtg": 35,
+        "xpps": 91,
+        "pps_diff": 43,
+        "assisted_pct": 43
       },
       "percentiles_pos": {
         "ppg": 71,
@@ -135,8 +147,39 @@
         "blk_100": 69,
         "fd_100": 41,
         "on_nrtg": 82,
-        "onoff_nrtg": 38
-      }
+        "onoff_nrtg": 38,
+        "xpps": 91,
+        "pps_diff": 46,
+        "assisted_pct": 31
+      },
+      "ast_to": [
+        [
+          "Molnár Tamás",
+          4
+        ],
+        [
+          "Polgárdy Ádám",
+          3
+        ],
+        [
+          "Balázs Barnabás",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Polgárdy Ádám",
+          4
+        ],
+        [
+          "Molnár Tamás",
+          3
+        ],
+        [
+          "Kovács Levente Hetény",
+          2
+        ]
+      ]
     },
     {
       "name": "Pápai Máté Barnabás",
@@ -189,7 +232,16 @@
       "on_nrtg": 15.2,
       "off_nrtg": -3.7,
       "off_poss": 164.3,
+      "assisted_pct": 63.4,
+      "clutch_poss": 8.8,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -28.8,
       "onoff_nrtg": 18.9,
+      "chart_fga": 68,
+      "xpps": 1.091,
+      "pps": 1.176,
+      "pps_diff": 0.086,
       "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg",
       "height_cm": 206,
       "position": "5",
@@ -227,7 +279,10 @@
         "blk_100": 93,
         "fd_100": 51,
         "on_nrtg": 90,
-        "onoff_nrtg": 85
+        "onoff_nrtg": 85,
+        "xpps": 86,
+        "pps_diff": 69,
+        "assisted_pct": 61
       },
       "percentiles_pos": {
         "ppg": 93,
@@ -260,8 +315,39 @@
         "blk_100": 89,
         "fd_100": 52,
         "on_nrtg": 85,
-        "onoff_nrtg": 81
-      }
+        "onoff_nrtg": 81,
+        "xpps": 71,
+        "pps_diff": 71,
+        "assisted_pct": 29
+      },
+      "ast_to": [
+        [
+          "Molnár Tamás",
+          8
+        ],
+        [
+          "Viola Dávid Zsolt",
+          2
+        ],
+        [
+          "Geiger Bálint József",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Polgárdy Ádám",
+          11
+        ],
+        [
+          "Kovács Levente Hetény",
+          7
+        ],
+        [
+          "Molnár Tamás",
+          5
+        ]
+      ]
     },
     {
       "name": "Molnár Tamás",
@@ -314,7 +400,16 @@
       "on_nrtg": 17.5,
       "off_nrtg": -6.6,
       "off_poss": 189.8,
+      "assisted_pct": 63.4,
+      "clutch_poss": 13.3,
+      "clutch_pts": 3,
+      "clutch_ts": 79.8,
+      "clutch_nrtg": -53.0,
       "onoff_nrtg": 24.1,
+      "chart_fga": 85,
+      "xpps": 1.009,
+      "pps": 1.059,
+      "pps_diff": 0.049,
       "photo_filename": "ujbuda-mafc-molnar-tamas.jpg",
       "height_cm": 193,
       "position": "2-3",
@@ -353,7 +448,10 @@
         "blk_100": 46,
         "fd_100": 59,
         "on_nrtg": 92,
-        "onoff_nrtg": 92
+        "onoff_nrtg": 92,
+        "xpps": 52,
+        "pps_diff": 63,
+        "assisted_pct": 61
       },
       "percentiles_pos": {
         "ppg": 92,
@@ -388,8 +486,39 @@
         "blk_100": 45,
         "fd_100": 65,
         "on_nrtg": 94,
-        "onoff_nrtg": 94
-      }
+        "onoff_nrtg": 94,
+        "xpps": 51,
+        "pps_diff": 71,
+        "assisted_pct": 53
+      },
+      "ast_to": [
+        [
+          "Pápai Máté Barnabás",
+          5
+        ],
+        [
+          "Bordács Gábor Soma",
+          3
+        ],
+        [
+          "Polgárdy Ádám",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pápai Máté Barnabás",
+          8
+        ],
+        [
+          "Kovács Levente Hetény",
+          7
+        ],
+        [
+          "Bordács Gábor Soma",
+          4
+        ]
+      ]
     },
     {
       "name": "Polgárdy Ádám",
@@ -442,7 +571,16 @@
       "on_nrtg": 12.6,
       "off_nrtg": 5.4,
       "off_poss": 220.7,
+      "assisted_pct": 50.0,
+      "clutch_poss": 19.6,
+      "clutch_pts": 7,
+      "clutch_ts": 64.3,
+      "clutch_nrtg": -43.3,
       "onoff_nrtg": 7.1,
+      "chart_fga": 100,
+      "xpps": 0.959,
+      "pps": 0.85,
+      "pps_diff": -0.109,
       "photo_filename": "ujbuda-mafc-polgardy-adam.jpg",
       "height_cm": 192,
       "position": "1-2",
@@ -481,7 +619,10 @@
         "blk_100": 46,
         "fd_100": 81,
         "on_nrtg": 85,
-        "onoff_nrtg": 70
+        "onoff_nrtg": 70,
+        "xpps": 28,
+        "pps_diff": 22,
+        "assisted_pct": 40
       },
       "percentiles_pos": {
         "ppg": 92,
@@ -516,8 +657,39 @@
         "blk_100": 65,
         "fd_100": 80,
         "on_nrtg": 85,
-        "onoff_nrtg": 68
-      }
+        "onoff_nrtg": 68,
+        "xpps": 44,
+        "pps_diff": 16,
+        "assisted_pct": 69
+      },
+      "ast_to": [
+        [
+          "Pápai Máté Barnabás",
+          11
+        ],
+        [
+          "Bordács Gábor Soma",
+          4
+        ],
+        [
+          "Molnár Tamás",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kovács Levente Hetény",
+          6
+        ],
+        [
+          "Dávid Benjámin",
+          3
+        ],
+        [
+          "Bordács Gábor Soma",
+          3
+        ]
+      ]
     },
     {
       "name": "Pintér Dávid",
@@ -570,7 +742,16 @@
       "on_nrtg": 4.1,
       "off_nrtg": 13.5,
       "off_poss": 379.8,
+      "assisted_pct": 86.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -9.4,
+      "chart_fga": 33,
+      "xpps": 0.926,
+      "pps": 1.212,
+      "pps_diff": 0.286,
       "photo_filename": "ujbuda-mafc-pinter-david.jpg",
       "height_cm": 185,
       "position": "2-3",
@@ -607,7 +788,10 @@
         "blk_100": 46,
         "fd_100": 71,
         "on_nrtg": 69,
-        "onoff_nrtg": 33
+        "onoff_nrtg": 33,
+        "xpps": 12,
+        "pps_diff": 99,
+        "assisted_pct": 96
       },
       "percentiles_pos": {
         "ppg": 61,
@@ -640,8 +824,39 @@
         "blk_100": 45,
         "fd_100": 80,
         "on_nrtg": 71,
-        "onoff_nrtg": 35
-      }
+        "onoff_nrtg": 35,
+        "xpps": 11,
+        "pps_diff": 100,
+        "assisted_pct": 94
+      },
+      "ast_to": [
+        [
+          "Solomon Márk",
+          1
+        ],
+        [
+          "Molnár Tamás",
+          1
+        ],
+        [
+          "Balázs Barnabás",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kovács Levente Hetény",
+          3
+        ],
+        [
+          "Dávid Benjámin",
+          2
+        ],
+        [
+          "Molnár Tamás",
+          2
+        ]
+      ]
     },
     {
       "name": "Geiger Bálint József",
@@ -694,7 +909,16 @@
       "on_nrtg": 3.6,
       "off_nrtg": 12.3,
       "off_poss": 438.6,
+      "assisted_pct": 50.0,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 53.5,
       "onoff_nrtg": -8.7,
+      "chart_fga": 26,
+      "xpps": 0.951,
+      "pps": 0.769,
+      "pps_diff": -0.181,
       "photo_filename": "ujbuda-mafc-geiger-balint-jozsef.jpg",
       "height_cm": 183,
       "position": "1",
@@ -759,7 +983,35 @@
         "fd_100": 75,
         "on_nrtg": 65,
         "onoff_nrtg": 34
-      }
+      },
+      "ast_to": [
+        [
+          "Viola Dávid Zsolt",
+          2
+        ],
+        [
+          "Pintér Dávid",
+          1
+        ],
+        [
+          "Polgárdy Ádám",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pápai Máté Barnabás",
+          2
+        ],
+        [
+          "Bordács Gábor Soma",
+          1
+        ],
+        [
+          "Kovács Levente Hetény",
+          1
+        ]
+      ]
     },
     {
       "name": "Kovács Levente Hetény",
@@ -812,7 +1064,16 @@
       "on_nrtg": 10.1,
       "off_nrtg": 9.7,
       "off_poss": 235.9,
+      "assisted_pct": 22.2,
+      "clutch_poss": 15.2,
+      "clutch_pts": 3,
+      "clutch_ts": 28.2,
+      "clutch_nrtg": -50.1,
       "onoff_nrtg": 0.4,
+      "chart_fga": 61,
+      "xpps": 1.023,
+      "pps": 0.984,
+      "pps_diff": -0.04,
       "photo_filename": "ujbuda-mafc-kovacs-levente-heteny.jpg",
       "height_cm": 190,
       "position": "1-2",
@@ -851,7 +1112,10 @@
         "blk_100": 55,
         "fd_100": 99,
         "on_nrtg": 80,
-        "onoff_nrtg": 54
+        "onoff_nrtg": 54,
+        "xpps": 60,
+        "pps_diff": 35,
+        "assisted_pct": 7
       },
       "percentiles_pos": {
         "ppg": 82,
@@ -886,8 +1150,39 @@
         "blk_100": 78,
         "fd_100": 98,
         "on_nrtg": 72,
-        "onoff_nrtg": 47
-      }
+        "onoff_nrtg": 47,
+        "xpps": 81,
+        "pps_diff": 34,
+        "assisted_pct": 12
+      },
+      "ast_to": [
+        [
+          "Pápai Máté Barnabás",
+          7
+        ],
+        [
+          "Molnár Tamás",
+          7
+        ],
+        [
+          "Polgárdy Ádám",
+          6
+        ]
+      ],
+      "ast_by": [
+        [
+          "Polgárdy Ádám",
+          3
+        ],
+        [
+          "Geiger Bálint József",
+          1
+        ],
+        [
+          "Molnár Tamás",
+          1
+        ]
+      ]
     },
     {
       "name": "Dávid Benjámin",
@@ -940,7 +1235,16 @@
       "on_nrtg": 17.1,
       "off_nrtg": 6.4,
       "off_poss": 400.3,
+      "assisted_pct": 69.2,
+      "clutch_poss": 13.3,
+      "clutch_pts": 2,
+      "clutch_ts": 25.0,
+      "clutch_nrtg": -49.9,
       "onoff_nrtg": 10.7,
+      "chart_fga": 29,
+      "xpps": 0.963,
+      "pps": 0.966,
+      "pps_diff": 0.002,
       "photo_filename": "ujbuda-mafc-david-benjamin.jpg",
       "height_cm": 188,
       "position": "2-3",
@@ -978,7 +1282,8 @@
         "blk_100": 46,
         "fd_100": 88,
         "on_nrtg": 91,
-        "onoff_nrtg": 75
+        "onoff_nrtg": 75,
+        "assisted_pct": 76
       },
       "percentiles_pos": {
         "ppg": 57,
@@ -1012,8 +1317,37 @@
         "blk_100": 45,
         "fd_100": 92,
         "on_nrtg": 92,
-        "onoff_nrtg": 81
-      }
+        "onoff_nrtg": 81,
+        "assisted_pct": 69
+      },
+      "ast_to": [
+        [
+          "Polgárdy Ádám",
+          3
+        ],
+        [
+          "Pintér Dávid",
+          2
+        ],
+        [
+          "Molnár Tamás",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kovács Levente Hetény",
+          5
+        ],
+        [
+          "Bordács Gábor Soma",
+          1
+        ],
+        [
+          "Polgárdy Ádám",
+          1
+        ]
+      ]
     },
     {
       "name": "Viola Dávid Zsolt",
@@ -1066,7 +1400,16 @@
       "on_nrtg": -11.2,
       "off_nrtg": 16.9,
       "off_poss": 450.0,
+      "assisted_pct": 100.0,
+      "clutch_poss": 8.3,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -43.2,
       "onoff_nrtg": -28.2,
+      "chart_fga": 22,
+      "xpps": 0.96,
+      "pps": 0.909,
+      "pps_diff": -0.051,
       "photo_filename": "ujbuda-mafc-viola-david-zsolt.jpg",
       "height_cm": 183,
       "position": "1-2",
@@ -1131,7 +1474,27 @@
         "fd_100": 55,
         "on_nrtg": 28,
         "onoff_nrtg": 5
-      }
+      },
+      "ast_to": [
+        [
+          "Dávid Benjámin",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Geiger Bálint József",
+          2
+        ],
+        [
+          "Pápai Máté Barnabás",
+          2
+        ],
+        [
+          "Polgárdy Ádám",
+          2
+        ]
+      ]
     },
     {
       "name": "Balázs Barnabás",
@@ -1184,7 +1547,16 @@
       "on_nrtg": -1.6,
       "off_nrtg": 12.6,
       "off_poss": 488.4,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -14.2,
+      "chart_fga": 12,
+      "xpps": 1.046,
+      "pps": 0.917,
+      "pps_diff": -0.13,
       "photo_filename": "ujbuda-mafc-balazs-barnabas.jpg",
       "height_cm": 203,
       "position": "4-5",
@@ -1245,7 +1617,31 @@
         "fd_100": 19,
         "on_nrtg": 48,
         "onoff_nrtg": 26
-      }
+      },
+      "ast_to": [
+        [
+          "Pintér Dávid",
+          1
+        ],
+        [
+          "Polgárdy Ádám",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bordács Gábor Soma",
+          2
+        ],
+        [
+          "Kovács Levente Hetény",
+          1
+        ],
+        [
+          "Dávid Benjámin",
+          1
+        ]
+      ]
     },
     {
       "name": "Orbán Imre",
@@ -1298,14 +1694,39 @@
       "on_nrtg": 15.6,
       "off_nrtg": 9.3,
       "off_poss": 540.2,
+      "assisted_pct": 66.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 6.3,
+      "chart_fga": 4,
+      "xpps": 0.842,
+      "pps": 1.5,
+      "pps_diff": 0.658,
       "photo_filename": "ujbuda-mafc-orban-imre.jpg",
       "height_cm": 200,
       "position": "4-5",
       "birth_year": 2006,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Pintér Dávid",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Solomon Márk",
+          1
+        ],
+        [
+          "Kovács Levente Hetény",
+          1
+        ]
+      ]
     },
     {
       "name": "Solomon Márk",
@@ -1358,14 +1779,35 @@
       "on_nrtg": -3.8,
       "off_nrtg": 10.4,
       "off_poss": 582.2,
+      "assisted_pct": 100.0,
+      "clutch_poss": 1.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -14.2,
+      "chart_fga": 1,
+      "xpps": 1.115,
+      "pps": 3.0,
+      "pps_diff": 1.885,
       "photo_filename": "ujbuda-mafc-solomon-mark.jpg",
       "height_cm": 194,
       "position": "2-3",
       "birth_year": 2007,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Orbán Imre",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pintér Dávid",
+          1
+        ]
+      ]
     },
     {
       "name": "Gálos Zsombor László",
@@ -1418,14 +1860,25 @@
       "on_nrtg": 153.1,
       "off_nrtg": 8.7,
       "off_poss": 594.6,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 144.4,
+      "chart_fga": 2,
+      "xpps": 1.037,
+      "pps": 0.0,
+      "pps_diff": -1.037,
       "photo_filename": "ujbuda-mafc-galos-zsombor-laszlo.jpg",
       "height_cm": 185,
       "position": "2",
       "birth_year": 2007,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

@@ -63,7 +63,16 @@
       "on_nrtg": 10.0,
       "off_nrtg": -24.2,
       "off_poss": 214.1,
+      "assisted_pct": 68.4,
+      "clutch_poss": 8.6,
+      "clutch_pts": 3,
+      "clutch_ts": 39.9,
+      "clutch_nrtg": -6.3,
       "onoff_nrtg": 34.2,
+      "chart_fga": 79,
+      "xpps": 1.009,
+      "pps": 1.038,
+      "pps_diff": 0.029,
       "photo_filename": "budapesti-bikak-csapai-peter-zsolt.jpg",
       "height_cm": 204,
       "position": "3",
@@ -102,7 +111,10 @@
         "blk_100": 79,
         "fd_100": 68,
         "on_nrtg": 70,
-        "onoff_nrtg": 97
+        "onoff_nrtg": 97,
+        "xpps": 80,
+        "pps_diff": 58,
+        "assisted_pct": 71
       },
       "percentiles_pos": {
         "ppg": 100,
@@ -137,8 +149,39 @@
         "blk_100": 82,
         "fd_100": 75,
         "on_nrtg": 68,
-        "onoff_nrtg": 98
-      }
+        "onoff_nrtg": 98,
+        "xpps": 71,
+        "pps_diff": 54,
+        "assisted_pct": 61
+      },
+      "ast_to": [
+        [
+          "Lajsz Gergely",
+          2
+        ],
+        [
+          "Ménesi Miklós",
+          2
+        ],
+        [
+          "Szabó Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Szántó Dániel",
+          17
+        ],
+        [
+          "Baki Sándor",
+          3
+        ],
+        [
+          "Lajsz Gergely",
+          2
+        ]
+      ]
     },
     {
       "name": "Lajsz Gergely",
@@ -191,7 +234,16 @@
       "on_nrtg": -1.0,
       "off_nrtg": -15.6,
       "off_poss": 119.0,
+      "assisted_pct": 80.0,
+      "clutch_poss": 8.6,
+      "clutch_pts": 2,
+      "clutch_ts": 33.3,
+      "clutch_nrtg": -6.3,
       "onoff_nrtg": 14.5,
+      "chart_fga": 57,
+      "xpps": 1.006,
+      "pps": 0.895,
+      "pps_diff": -0.111,
       "photo_filename": "budapesti-bikak-lajsz-gergely.jpg",
       "height_cm": 202,
       "position": "5",
@@ -229,7 +281,10 @@
         "blk_100": 58,
         "fd_100": 56,
         "on_nrtg": 52,
-        "onoff_nrtg": 77
+        "onoff_nrtg": 77,
+        "xpps": 79,
+        "pps_diff": 32,
+        "assisted_pct": 92
       },
       "percentiles_pos": {
         "ppg": 62,
@@ -263,8 +318,39 @@
         "blk_100": 31,
         "fd_100": 35,
         "on_nrtg": 58,
-        "onoff_nrtg": 88
-      }
+        "onoff_nrtg": 88,
+        "xpps": 67,
+        "pps_diff": 33,
+        "assisted_pct": 90
+      },
+      "ast_to": [
+        [
+          "Baki Sándor",
+          2
+        ],
+        [
+          "Csapai Péter Zsolt",
+          2
+        ],
+        [
+          "Ménesi Miklós",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Szántó Dániel",
+          8
+        ],
+        [
+          "Baki Sándor",
+          4
+        ],
+        [
+          "Szabó Dániel",
+          3
+        ]
+      ]
     },
     {
       "name": "Szántó Dániel",
@@ -317,7 +403,16 @@
       "on_nrtg": -3.9,
       "off_nrtg": -5.1,
       "off_poss": 127.2,
+      "assisted_pct": 15.8,
+      "clutch_poss": 8.6,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 14.3,
       "onoff_nrtg": 1.2,
+      "chart_fga": 58,
+      "xpps": 0.982,
+      "pps": 0.69,
+      "pps_diff": -0.293,
       "photo_filename": "budapesti-bikak-szanto-daniel.jpg",
       "height_cm": 190,
       "position": "1",
@@ -356,7 +451,10 @@
         "blk_100": 58,
         "fd_100": 98,
         "on_nrtg": 42,
-        "onoff_nrtg": 50
+        "onoff_nrtg": 50,
+        "xpps": 68,
+        "pps_diff": 5,
+        "assisted_pct": 3
       },
       "percentiles_pos": {
         "ppg": 60,
@@ -391,8 +489,35 @@
         "blk_100": 76,
         "fd_100": 96,
         "on_nrtg": 42,
-        "onoff_nrtg": 59
-      }
+        "onoff_nrtg": 59,
+        "xpps": 83,
+        "pps_diff": 3,
+        "assisted_pct": 8
+      },
+      "ast_to": [
+        [
+          "Csapai Péter Zsolt",
+          17
+        ],
+        [
+          "Lajsz Gergely",
+          8
+        ],
+        [
+          "Bohunicky Olivér",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bohunicky Olivér",
+          2
+        ],
+        [
+          "Bucskó Zalán",
+          1
+        ]
+      ]
     },
     {
       "name": "Bucskó Zalán",
@@ -445,7 +570,16 @@
       "on_nrtg": -7.2,
       "off_nrtg": -1.5,
       "off_poss": 256.4,
+      "assisted_pct": 66.7,
+      "clutch_poss": 7.6,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -12.6,
       "onoff_nrtg": -5.7,
+      "chart_fga": 29,
+      "xpps": 0.875,
+      "pps": 0.828,
+      "pps_diff": -0.047,
       "photo_filename": "budapesti-bikak-bucsko-zalan.jpg",
       "height_cm": 190,
       "position": "2",
@@ -482,7 +616,8 @@
         "blk_100": 43,
         "fd_100": 10,
         "on_nrtg": 29,
-        "onoff_nrtg": 33
+        "onoff_nrtg": 33,
+        "assisted_pct": 65
       },
       "percentiles_pos": {
         "ppg": 20,
@@ -515,8 +650,37 @@
         "blk_100": 60,
         "fd_100": 16,
         "on_nrtg": 26,
-        "onoff_nrtg": 35
-      }
+        "onoff_nrtg": 35,
+        "assisted_pct": 84
+      },
+      "ast_to": [
+        [
+          "Horvat Olivér Márk",
+          1
+        ],
+        [
+          "Szabó Dániel",
+          1
+        ],
+        [
+          "Szántó Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Horvat Olivér Márk",
+          2
+        ],
+        [
+          "Bohunicky Olivér",
+          2
+        ],
+        [
+          "Baki Sándor",
+          1
+        ]
+      ]
     },
     {
       "name": "Szabó Dániel",
@@ -569,7 +733,16 @@
       "on_nrtg": -14.9,
       "off_nrtg": 1.8,
       "off_poss": 332.6,
+      "assisted_pct": 53.8,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -16.8,
+      "chart_fga": 34,
+      "xpps": 0.893,
+      "pps": 0.941,
+      "pps_diff": 0.048,
       "photo_filename": "budapesti-bikak-szabo-daniel.jpg",
       "height_cm": 189,
       "position": "1",
@@ -606,7 +779,10 @@
         "blk_100": 43,
         "fd_100": 10,
         "on_nrtg": 21,
-        "onoff_nrtg": 16
+        "onoff_nrtg": 16,
+        "xpps": 18,
+        "pps_diff": 64,
+        "assisted_pct": 37
       },
       "percentiles_pos": {
         "ppg": 32,
@@ -639,8 +815,39 @@
         "blk_100": 60,
         "fd_100": 16,
         "on_nrtg": 20,
-        "onoff_nrtg": 18
-      }
+        "onoff_nrtg": 18,
+        "xpps": 28,
+        "pps_diff": 61,
+        "assisted_pct": 57
+      },
+      "ast_to": [
+        [
+          "Lajsz Gergely",
+          3
+        ],
+        [
+          "Bucskó Zalán",
+          1
+        ],
+        [
+          "Csapai Péter Zsolt",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pleesz Gergő",
+          2
+        ],
+        [
+          "Szántó Dániel",
+          1
+        ],
+        [
+          "Horvat Olivér Márk",
+          1
+        ]
+      ]
     },
     {
       "name": "Ménesi Miklós",
@@ -693,7 +900,16 @@
       "on_nrtg": -3.7,
       "off_nrtg": -4.8,
       "off_poss": 285.7,
+      "assisted_pct": 64.3,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 1.0,
+      "chart_fga": 36,
+      "xpps": 1.029,
+      "pps": 0.833,
+      "pps_diff": -0.195,
       "photo_filename": "budapesti-bikak-menesi-miklos.jpg",
       "height_cm": 193,
       "position": "3",
@@ -730,7 +946,10 @@
         "blk_100": 64,
         "fd_100": 89,
         "on_nrtg": 44,
-        "onoff_nrtg": 49
+        "onoff_nrtg": 49,
+        "xpps": 86,
+        "pps_diff": 9,
+        "assisted_pct": 59
       },
       "percentiles_pos": {
         "ppg": 55,
@@ -763,8 +982,39 @@
         "blk_100": 57,
         "fd_100": 93,
         "on_nrtg": 45,
-        "onoff_nrtg": 45
-      }
+        "onoff_nrtg": 45,
+        "xpps": 79,
+        "pps_diff": 18,
+        "assisted_pct": 50
+      },
+      "ast_to": [
+        [
+          "Csapai Péter Zsolt",
+          1
+        ],
+        [
+          "Lajsz Gergely",
+          1
+        ],
+        [
+          "Baki Sándor",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pleesz Gergő",
+          3
+        ],
+        [
+          "Lajsz Gergely",
+          2
+        ],
+        [
+          "Csapai Péter Zsolt",
+          2
+        ]
+      ]
     },
     {
       "name": "Bohunicky Olivér",
@@ -817,7 +1067,16 @@
       "on_nrtg": -17.6,
       "off_nrtg": 6.7,
       "off_poss": 282.0,
+      "assisted_pct": 41.2,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -24.3,
+      "chart_fga": 42,
+      "xpps": 0.953,
+      "pps": 0.857,
+      "pps_diff": -0.096,
       "photo_filename": "budapesti-bikak-bohunicky-oliver.jpg",
       "height_cm": 190,
       "position": "2",
@@ -853,7 +1112,10 @@
         "blk_100": 64,
         "fd_100": 12,
         "on_nrtg": 15,
-        "onoff_nrtg": 8
+        "onoff_nrtg": 8,
+        "xpps": 48,
+        "pps_diff": 34,
+        "assisted_pct": 16
       },
       "percentiles_pos": {
         "ppg": 42,
@@ -885,8 +1147,35 @@
         "blk_100": 86,
         "fd_100": 18,
         "on_nrtg": 12,
-        "onoff_nrtg": 8
-      }
+        "onoff_nrtg": 8,
+        "xpps": 67,
+        "pps_diff": 31,
+        "assisted_pct": 30
+      },
+      "ast_to": [
+        [
+          "Bucskó Zalán",
+          2
+        ],
+        [
+          "Szántó Dániel",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Szántó Dániel",
+          3
+        ],
+        [
+          "Horvat Olivér Márk",
+          1
+        ],
+        [
+          "Lajsz Gergely",
+          1
+        ]
+      ]
     },
     {
       "name": "Baki Sándor",
@@ -939,7 +1228,16 @@
       "on_nrtg": 2.9,
       "off_nrtg": -9.4,
       "off_poss": 302.6,
+      "assisted_pct": 63.6,
+      "clutch_poss": 8.6,
+      "clutch_pts": 1,
+      "clutch_ts": 12.9,
+      "clutch_nrtg": -6.3,
       "onoff_nrtg": 12.4,
+      "chart_fga": 31,
+      "xpps": 0.981,
+      "pps": 0.806,
+      "pps_diff": -0.175,
       "photo_filename": "budapesti-bikak-baki-sandor.jpg",
       "height_cm": 185,
       "position": "2",
@@ -976,7 +1274,10 @@
         "blk_100": 88,
         "fd_100": 72,
         "on_nrtg": 58,
-        "onoff_nrtg": 71
+        "onoff_nrtg": 71,
+        "xpps": 67,
+        "pps_diff": 15,
+        "assisted_pct": 58
       },
       "percentiles_pos": {
         "ppg": 32,
@@ -1009,8 +1310,39 @@
         "blk_100": 100,
         "fd_100": 74,
         "on_nrtg": 58,
-        "onoff_nrtg": 71
-      }
+        "onoff_nrtg": 71,
+        "xpps": 81,
+        "pps_diff": 17,
+        "assisted_pct": 76
+      },
+      "ast_to": [
+        [
+          "Lajsz Gergely",
+          4
+        ],
+        [
+          "Csapai Péter Zsolt",
+          3
+        ],
+        [
+          "Bucskó Zalán",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Szántó Dániel",
+          3
+        ],
+        [
+          "Lajsz Gergely",
+          2
+        ],
+        [
+          "Pleesz Gergő",
+          1
+        ]
+      ]
     },
     {
       "name": "Pleesz Gergő",
@@ -1063,7 +1395,16 @@
       "on_nrtg": -7.2,
       "off_nrtg": -2.8,
       "off_poss": 340.4,
+      "assisted_pct": 11.1,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -4.4,
+      "chart_fga": 25,
+      "xpps": 0.958,
+      "pps": 0.76,
+      "pps_diff": -0.198,
       "photo_filename": "budapesti-bikak-pleesz-gergo.jpg",
       "height_cm": 190,
       "position": "2",
@@ -1124,7 +1465,27 @@
         "fd_100": 54,
         "on_nrtg": 26,
         "onoff_nrtg": 41
-      }
+      },
+      "ast_to": [
+        [
+          "Ménesi Miklós",
+          3
+        ],
+        [
+          "Szabó Dániel",
+          2
+        ],
+        [
+          "Novák Patrik",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bucskó Zalán",
+          1
+        ]
+      ]
     },
     {
       "name": "Kiss Koppány Agád",
@@ -1177,6 +1538,11 @@
       "on_nrtg": 20.5,
       "off_nrtg": -5.6,
       "off_poss": 492.2,
+      "assisted_pct": null,
+      "clutch_poss": 1.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 0.0,
       "onoff_nrtg": 26.1,
       "photo_filename": "budapesti-bikak-kiss-koppany-agad.jpg",
       "height_cm": 184,
@@ -1184,7 +1550,9 @@
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Horvat Olivér Márk",
@@ -1237,14 +1605,51 @@
       "on_nrtg": -0.8,
       "off_nrtg": -4.9,
       "off_poss": 437.9,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 4.1,
+      "chart_fga": 8,
+      "xpps": 1.021,
+      "pps": 1.125,
+      "pps_diff": 0.104,
       "photo_filename": "budapesti-bikak-horvat-oliver-mark.jpg",
       "height_cm": 185,
       "position": "3",
       "birth_year": 2005,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Bucskó Zalán",
+          2
+        ],
+        [
+          "Szabó Dániel",
+          1
+        ],
+        [
+          "Bohunicky Olivér",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Novák Patrik",
+          1
+        ],
+        [
+          "Bucskó Zalán",
+          1
+        ],
+        [
+          "Pleesz Gergő",
+          1
+        ]
+      ]
     },
     {
       "name": "Novák Patrik",
@@ -1297,14 +1702,43 @@
       "on_nrtg": -27.6,
       "off_nrtg": 0.4,
       "off_poss": 431.4,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -27.9,
+      "chart_fga": 15,
+      "xpps": 0.865,
+      "pps": 0.733,
+      "pps_diff": -0.132,
       "photo_filename": "budapesti-bikak-novak-patrik.jpg",
       "height_cm": 197,
       "position": "5",
       "birth_year": 1995,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Horvat Olivér Márk",
+          1
+        ],
+        [
+          "Bohunicky Olivér",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Szántó Dániel",
+          2
+        ],
+        [
+          "Pleesz Gergő",
+          1
+        ]
+      ]
     }
   ]
 }

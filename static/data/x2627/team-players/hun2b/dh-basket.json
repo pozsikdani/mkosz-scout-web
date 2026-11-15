@@ -63,7 +63,16 @@
       "on_nrtg": 15.0,
       "off_nrtg": -20.8,
       "off_poss": 114.5,
+      "assisted_pct": 48.6,
+      "clutch_poss": 16.8,
+      "clutch_pts": 10,
+      "clutch_ts": 74.0,
+      "clutch_nrtg": 60.3,
       "onoff_nrtg": 35.8,
+      "chart_fga": 73,
+      "xpps": 0.915,
+      "pps": 1.219,
+      "pps_diff": 0.304,
       "photo_filename": "dh-basket-pafferi-peter.jpg",
       "height_cm": 187,
       "position": "1-2",
@@ -102,7 +111,10 @@
         "blk_100": 48,
         "fd_100": 60,
         "on_nrtg": 85,
-        "onoff_nrtg": 97
+        "onoff_nrtg": 97,
+        "xpps": 31,
+        "pps_diff": 94,
+        "assisted_pct": 26
       },
       "percentiles_pos": {
         "ppg": 94,
@@ -137,8 +149,39 @@
         "blk_100": 66,
         "fd_100": 66,
         "on_nrtg": 86,
-        "onoff_nrtg": 96
-      }
+        "onoff_nrtg": 96,
+        "xpps": 44,
+        "pps_diff": 92,
+        "assisted_pct": 41
+      },
+      "ast_to": [
+        [
+          "Herendic Dominik",
+          13
+        ],
+        [
+          "Olasz Ádám Zsolt",
+          8
+        ],
+        [
+          "Joó Tamás",
+          7
+        ]
+      ],
+      "ast_by": [
+        [
+          "Váits Olivér",
+          6
+        ],
+        [
+          "Olasz Ádám Zsolt",
+          4
+        ],
+        [
+          "Herendic Dominik",
+          4
+        ]
+      ]
     },
     {
       "name": "Herendic Dominik",
@@ -191,7 +234,16 @@
       "on_nrtg": 21.4,
       "off_nrtg": -11.7,
       "off_poss": 223.7,
+      "assisted_pct": 69.2,
+      "clutch_poss": 10.8,
+      "clutch_pts": 4,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": 18.4,
       "onoff_nrtg": 33.2,
+      "chart_fga": 71,
+      "xpps": 1.039,
+      "pps": 1.197,
+      "pps_diff": 0.159,
       "photo_filename": "dh-basket-herendic-dominik.jpg",
       "height_cm": 194,
       "position": "1-3",
@@ -230,7 +282,10 @@
         "blk_100": 43,
         "fd_100": 22,
         "on_nrtg": 94,
-        "onoff_nrtg": 96
+        "onoff_nrtg": 96,
+        "xpps": 91,
+        "pps_diff": 87,
+        "assisted_pct": 72
       },
       "percentiles_pos": {
         "ppg": 95,
@@ -265,8 +320,39 @@
         "blk_100": 43,
         "fd_100": 32,
         "on_nrtg": 95,
-        "onoff_nrtg": 95
-      }
+        "onoff_nrtg": 95,
+        "xpps": 93,
+        "pps_diff": 96,
+        "assisted_pct": 64
+      },
+      "ast_to": [
+        [
+          "Joó Tamás",
+          4
+        ],
+        [
+          "Pafféri Csaba",
+          4
+        ],
+        [
+          "Olasz Ádám Zsolt",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pafféri Péter",
+          13
+        ],
+        [
+          "Váits Olivér",
+          7
+        ],
+        [
+          "Simonics Olivér Márk",
+          2
+        ]
+      ]
     },
     {
       "name": "Olasz Ádám Zsolt",
@@ -319,7 +405,16 @@
       "on_nrtg": 7.3,
       "off_nrtg": 8.9,
       "off_poss": 200.8,
+      "assisted_pct": 67.6,
+      "clutch_poss": 21.0,
+      "clutch_pts": 6,
+      "clutch_ts": 64.7,
+      "clutch_nrtg": 53.8,
       "onoff_nrtg": -1.6,
+      "chart_fga": 70,
+      "xpps": 0.959,
+      "pps": 1.029,
+      "pps_diff": 0.069,
       "photo_filename": "dh-basket-olasz-adam-zsolt.jpg",
       "height_cm": 201,
       "position": "5",
@@ -358,7 +453,10 @@
         "blk_100": 58,
         "fd_100": 98,
         "on_nrtg": 65,
-        "onoff_nrtg": 43
+        "onoff_nrtg": 43,
+        "xpps": 49,
+        "pps_diff": 66,
+        "assisted_pct": 66
       },
       "percentiles_pos": {
         "ppg": 92,
@@ -392,8 +490,39 @@
         "blk_100": 31,
         "fd_100": 100,
         "on_nrtg": 69,
-        "onoff_nrtg": 36
-      }
+        "onoff_nrtg": 36,
+        "xpps": 5,
+        "pps_diff": 81,
+        "assisted_pct": 52
+      },
+      "ast_to": [
+        [
+          "Pafféri Péter",
+          4
+        ],
+        [
+          "Herendic Dominik",
+          1
+        ],
+        [
+          "Pafféri Csaba",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pafféri Péter",
+          8
+        ],
+        [
+          "Váits Olivér",
+          6
+        ],
+        [
+          "Herendic Dominik",
+          4
+        ]
+      ]
     },
     {
       "name": "Simonics Levente Dávid",
@@ -446,14 +575,39 @@
       "on_nrtg": 79.8,
       "off_nrtg": 4.7,
       "off_poss": 532.6,
+      "assisted_pct": 33.3,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 75.1,
+      "chart_fga": 5,
+      "xpps": 1.014,
+      "pps": 1.2,
+      "pps_diff": 0.186,
       "photo_filename": "dh-basket-simonics-levente-david.jpg",
       "height_cm": 180,
       "position": "1-2",
       "birth_year": 2005,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Pafféri Péter",
+          1
+        ],
+        [
+          "Gyimes Áron",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pafféri Péter",
+          1
+        ]
+      ]
     },
     {
       "name": "Tóth Barnabás",
@@ -506,7 +660,16 @@
       "on_nrtg": 16.7,
       "off_nrtg": -4.7,
       "off_poss": 231.9,
+      "assisted_pct": 91.7,
+      "clutch_poss": 16.0,
+      "clutch_pts": 2,
+      "clutch_ts": 34.7,
+      "clutch_nrtg": 56.4,
       "onoff_nrtg": 21.4,
+      "chart_fga": 32,
+      "xpps": 0.902,
+      "pps": 0.75,
+      "pps_diff": -0.152,
       "photo_filename": "dh-basket-toth-barnabas.jpg",
       "height_cm": 185,
       "position": "2-3",
@@ -544,7 +707,10 @@
         "blk_100": 43,
         "fd_100": 41,
         "on_nrtg": 90,
-        "onoff_nrtg": 88
+        "onoff_nrtg": 88,
+        "xpps": 26,
+        "pps_diff": 21,
+        "assisted_pct": 98
       },
       "percentiles_pos": {
         "ppg": 36,
@@ -578,8 +744,39 @@
         "blk_100": 43,
         "fd_100": 45,
         "on_nrtg": 91,
-        "onoff_nrtg": 86
-      }
+        "onoff_nrtg": 86,
+        "xpps": 32,
+        "pps_diff": 25,
+        "assisted_pct": 96
+      },
+      "ast_to": [
+        [
+          "Olasz Ádám Zsolt",
+          2
+        ],
+        [
+          "Pafféri Péter",
+          1
+        ],
+        [
+          "Herendic Dominik",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Váits Olivér",
+          3
+        ],
+        [
+          "Pafféri Péter",
+          3
+        ],
+        [
+          "Herendic Dominik",
+          2
+        ]
+      ]
     },
     {
       "name": "Váits Olivér",
@@ -632,7 +829,16 @@
       "on_nrtg": -0.2,
       "off_nrtg": 21.7,
       "off_poss": 206.8,
+      "assisted_pct": 55.6,
+      "clutch_poss": 21.0,
+      "clutch_pts": 1,
+      "clutch_ts": 21.6,
+      "clutch_nrtg": 53.8,
       "onoff_nrtg": -21.9,
+      "chart_fga": 50,
+      "xpps": 0.864,
+      "pps": 0.9,
+      "pps_diff": 0.036,
       "photo_filename": "dh-basket-vaits-oliver.jpg",
       "height_cm": 180,
       "position": "1-2",
@@ -671,7 +877,10 @@
         "blk_100": 43,
         "fd_100": 72,
         "on_nrtg": 52,
-        "onoff_nrtg": 10
+        "onoff_nrtg": 10,
+        "xpps": 5,
+        "pps_diff": 60,
+        "assisted_pct": 42
       },
       "percentiles_pos": {
         "ppg": 64,
@@ -706,8 +915,39 @@
         "blk_100": 60,
         "fd_100": 76,
         "on_nrtg": 50,
-        "onoff_nrtg": 14
-      }
+        "onoff_nrtg": 14,
+        "xpps": 11,
+        "pps_diff": 58,
+        "assisted_pct": 59
+      },
+      "ast_to": [
+        [
+          "Herendic Dominik",
+          7
+        ],
+        [
+          "Olasz Ádám Zsolt",
+          6
+        ],
+        [
+          "Pafféri Péter",
+          6
+        ]
+      ],
+      "ast_by": [
+        [
+          "Herendic Dominik",
+          4
+        ],
+        [
+          "Pafféri Péter",
+          3
+        ],
+        [
+          "Simonics Olivér Márk",
+          1
+        ]
+      ]
     },
     {
       "name": "Simonics Olivér Márk",
@@ -760,7 +1000,16 @@
       "on_nrtg": -6.2,
       "off_nrtg": 17.8,
       "off_poss": 325.8,
+      "assisted_pct": 57.9,
+      "clutch_poss": 10.3,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 92.7,
       "onoff_nrtg": -24.0,
+      "chart_fga": 32,
+      "xpps": 0.999,
+      "pps": 1.094,
+      "pps_diff": 0.095,
       "photo_filename": "dh-basket-simonics-oliver-mark.jpg",
       "height_cm": 180,
       "position": "1-2",
@@ -798,7 +1047,10 @@
         "blk_100": 64,
         "fd_100": 81,
         "on_nrtg": 37,
-        "onoff_nrtg": 8
+        "onoff_nrtg": 8,
+        "xpps": 74,
+        "pps_diff": 69,
+        "assisted_pct": 47
       },
       "percentiles_pos": {
         "ppg": 58,
@@ -832,8 +1084,39 @@
         "blk_100": 86,
         "fd_100": 82,
         "on_nrtg": 36,
-        "onoff_nrtg": 10
-      }
+        "onoff_nrtg": 10,
+        "xpps": 94,
+        "pps_diff": 64,
+        "assisted_pct": 62
+      },
+      "ast_to": [
+        [
+          "Herendic Dominik",
+          2
+        ],
+        [
+          "Váits Olivér",
+          1
+        ],
+        [
+          "Tóth Barnabás",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Herendic Dominik",
+          4
+        ],
+        [
+          "Pafféri Péter",
+          4
+        ],
+        [
+          "Váits Olivér",
+          3
+        ]
+      ]
     },
     {
       "name": "Gyimes Áron",
@@ -886,7 +1169,16 @@
       "on_nrtg": -11.8,
       "off_nrtg": 15.8,
       "off_poss": 396.3,
+      "assisted_pct": 46.2,
+      "clutch_poss": 4.2,
+      "clutch_pts": 3,
+      "clutch_ts": 61.5,
+      "clutch_nrtg": 28.6,
       "onoff_nrtg": -27.6,
+      "chart_fga": 30,
+      "xpps": 0.933,
+      "pps": 1.0,
+      "pps_diff": 0.067,
       "photo_filename": "dh-basket-gyimes-aron.jpg",
       "height_cm": 193,
       "position": "2-3",
@@ -923,7 +1215,10 @@
         "blk_100": 93,
         "fd_100": 87,
         "on_nrtg": 24,
-        "onoff_nrtg": 7
+        "onoff_nrtg": 7,
+        "xpps": 42,
+        "pps_diff": 65,
+        "assisted_pct": 22
       },
       "percentiles_pos": {
         "ppg": 39,
@@ -956,8 +1251,31 @@
         "blk_100": 95,
         "fd_100": 91,
         "on_nrtg": 27,
-        "onoff_nrtg": 9
-      }
+        "onoff_nrtg": 9,
+        "xpps": 50,
+        "pps_diff": 61,
+        "assisted_pct": 18
+      },
+      "ast_to": [
+        [
+          "Olasz Ádám Zsolt",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Váits Olivér",
+          3
+        ],
+        [
+          "Simonics Levente Dávid",
+          1
+        ],
+        [
+          "Pafféri Péter",
+          1
+        ]
+      ]
     },
     {
       "name": "Farkas Balázs Dániel",
@@ -1010,7 +1328,16 @@
       "on_nrtg": 6.0,
       "off_nrtg": 8.1,
       "off_poss": 474.8,
+      "assisted_pct": 66.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -2.1,
+      "chart_fga": 5,
+      "xpps": 0.792,
+      "pps": 1.4,
+      "pps_diff": 0.608,
       "photo_filename": "dh-basket-farkas-balazs-daniel.jpg",
       "height_cm": 183,
       "position": "1-2",
@@ -1071,7 +1398,31 @@
         "fd_100": 4,
         "on_nrtg": 66,
         "onoff_nrtg": 47
-      }
+      },
+      "ast_to": [
+        [
+          "Herendic Dominik",
+          1
+        ],
+        [
+          "Pafféri Péter",
+          1
+        ],
+        [
+          "Gazdag Áron Bendegúz",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Hajdu Gergely",
+          1
+        ],
+        [
+          "Takács Levente",
+          1
+        ]
+      ]
     },
     {
       "name": "Pafféri Csaba",
@@ -1124,7 +1475,16 @@
       "on_nrtg": -11.3,
       "off_nrtg": 17.7,
       "off_poss": 365.5,
+      "assisted_pct": 83.3,
+      "clutch_poss": 5.1,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 48.4,
       "onoff_nrtg": -29.0,
+      "chart_fga": 30,
+      "xpps": 0.923,
+      "pps": 1.1,
+      "pps_diff": 0.177,
       "height_cm": 187,
       "position": "1-2",
       "birth_year": 2007,
@@ -1160,7 +1520,10 @@
         "blk_100": 43,
         "fd_100": 8,
         "on_nrtg": 27,
-        "onoff_nrtg": 6
+        "onoff_nrtg": 6,
+        "xpps": 35,
+        "pps_diff": 89,
+        "assisted_pct": 95
       },
       "percentiles_pos": {
         "ppg": 36,
@@ -1193,8 +1556,39 @@
         "blk_100": 60,
         "fd_100": 12,
         "on_nrtg": 22,
-        "onoff_nrtg": 6
-      }
+        "onoff_nrtg": 6,
+        "xpps": 50,
+        "pps_diff": 86,
+        "assisted_pct": 100
+      },
+      "ast_to": [
+        [
+          "Joó Tamás",
+          2
+        ],
+        [
+          "Olasz Ádám Zsolt",
+          2
+        ],
+        [
+          "Váits Olivér",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pafféri Péter",
+          4
+        ],
+        [
+          "Herendic Dominik",
+          4
+        ],
+        [
+          "Olasz Ádám Zsolt",
+          1
+        ]
+      ]
     },
     {
       "name": "Joó Tamás",
@@ -1247,7 +1641,16 @@
       "on_nrtg": 1.4,
       "off_nrtg": 11.7,
       "off_poss": 348.1,
+      "assisted_pct": 72.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -10.2,
+      "chart_fga": 51,
+      "xpps": 0.974,
+      "pps": 0.902,
+      "pps_diff": -0.073,
       "photo_filename": "dh-basket-joo-tamas.jpg",
       "height_cm": 196,
       "position": "4-5",
@@ -1286,7 +1689,10 @@
         "blk_100": 93,
         "fd_100": 63,
         "on_nrtg": 55,
-        "onoff_nrtg": 30
+        "onoff_nrtg": 30,
+        "xpps": 60,
+        "pps_diff": 36,
+        "assisted_pct": 80
       },
       "percentiles_pos": {
         "ppg": 38,
@@ -1320,8 +1726,39 @@
         "blk_100": 77,
         "fd_100": 46,
         "on_nrtg": 62,
-        "onoff_nrtg": 24
-      }
+        "onoff_nrtg": 24,
+        "xpps": 38,
+        "pps_diff": 43,
+        "assisted_pct": 71
+      },
+      "ast_to": [
+        [
+          "Pafféri Péter",
+          1
+        ],
+        [
+          "Takács Levente",
+          1
+        ],
+        [
+          "Herendic Dominik",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pafféri Péter",
+          7
+        ],
+        [
+          "Herendic Dominik",
+          4
+        ],
+        [
+          "Pafféri Csaba",
+          2
+        ]
+      ]
     },
     {
       "name": "Gazdag Áron Bendegúz",
@@ -1374,14 +1811,43 @@
       "on_nrtg": 37.2,
       "off_nrtg": 5.5,
       "off_poss": 514.6,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 31.8,
+      "chart_fga": 5,
+      "xpps": 1.326,
+      "pps": 1.6,
+      "pps_diff": 0.274,
       "photo_filename": "dh-basket-gazdag-aron-bendeguz.jpg",
       "height_cm": 208,
       "position": "5",
       "birth_year": 2005,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Hajdu Gergely",
+          1
+        ],
+        [
+          "Tóth Barnabás",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pafféri Péter",
+          2
+        ],
+        [
+          "Farkas Balázs Dániel",
+          1
+        ]
+      ]
     },
     {
       "name": "Hajdu Gergely",
@@ -1434,14 +1900,35 @@
       "on_nrtg": 11.4,
       "off_nrtg": 7.6,
       "off_poss": 527.4,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 3.7,
+      "chart_fga": 4,
+      "xpps": 0.866,
+      "pps": 0.75,
+      "pps_diff": -0.116,
       "photo_filename": "dh-basket-hajdu-gergely.jpg",
       "height_cm": 190,
       "position": "2-3",
       "birth_year": 2005,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Farkas Balázs Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Gazdag Áron Bendegúz",
+          1
+        ]
+      ]
     },
     {
       "name": "Takács Levente",
@@ -1494,14 +1981,35 @@
       "on_nrtg": 81.0,
       "off_nrtg": 5.9,
       "off_poss": 542.2,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 75.1,
+      "chart_fga": 4,
+      "xpps": 0.846,
+      "pps": 1.5,
+      "pps_diff": 0.654,
       "photo_filename": "dh-basket-takacs-levente.jpg",
       "height_cm": 172,
       "position": "2-3",
       "birth_year": 2005,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Farkas Balázs Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Joó Tamás",
+          1
+        ]
+      ]
     }
   ]
 }

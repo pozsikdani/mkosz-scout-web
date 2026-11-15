@@ -63,7 +63,16 @@
       "on_nrtg": -12.4,
       "off_nrtg": -15.8,
       "off_poss": 115.8,
+      "assisted_pct": 47.2,
+      "clutch_poss": 22.0,
+      "clutch_pts": 12,
+      "clutch_ts": 78.5,
+      "clutch_nrtg": 11.3,
       "onoff_nrtg": 3.4,
+      "chart_fga": 90,
+      "xpps": 1.011,
+      "pps": 1.222,
+      "pps_diff": 0.211,
       "photo_filename": "tf-bp-swanson-kevin-wade.jpg",
       "height_cm": 201,
       "position": "4",
@@ -101,7 +110,10 @@
         "blk_100": 80,
         "fd_100": 84,
         "on_nrtg": 21,
-        "onoff_nrtg": 60
+        "onoff_nrtg": 60,
+        "xpps": 53,
+        "pps_diff": 90,
+        "assisted_pct": 30
       },
       "percentiles_pos": {
         "ppg": 96,
@@ -135,8 +147,39 @@
         "blk_100": 80,
         "fd_100": 86,
         "on_nrtg": 22,
-        "onoff_nrtg": 71
-      }
+        "onoff_nrtg": 71,
+        "xpps": 54,
+        "pps_diff": 94,
+        "assisted_pct": 19
+      },
+      "ast_to": [
+        [
+          "Antoni Csanád Zoltán",
+          2
+        ],
+        [
+          "Molnár Marcell József",
+          2
+        ],
+        [
+          "Horváth Botond",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Molnár Marcell József",
+          7
+        ],
+        [
+          "Boros Márk",
+          7
+        ],
+        [
+          "Horváth Botond",
+          4
+        ]
+      ]
     },
     {
       "name": "Molnár Dániel",
@@ -189,7 +232,16 @@
       "on_nrtg": -10.3,
       "off_nrtg": -15.8,
       "off_poss": 250.7,
+      "assisted_pct": 60.0,
+      "clutch_poss": 19.5,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 34.4,
       "onoff_nrtg": 5.5,
+      "chart_fga": 27,
+      "xpps": 0.944,
+      "pps": 0.889,
+      "pps_diff": -0.055,
       "photo_filename": "tf-bp-molnar-daniel.jpg",
       "height_cm": 198,
       "position": "1-2",
@@ -252,7 +304,35 @@
         "fd_100": 12,
         "on_nrtg": 30,
         "onoff_nrtg": 55
-      }
+      },
+      "ast_to": [
+        [
+          "Horváth Botond",
+          1
+        ],
+        [
+          "Swanson Kevin Wade",
+          1
+        ],
+        [
+          "Antoni Csanád Zoltán",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Horváth Botond",
+          2
+        ],
+        [
+          "Swanson Kevin Wade",
+          2
+        ],
+        [
+          "Inalegwu Marcell Sámuel",
+          1
+        ]
+      ]
     },
     {
       "name": "Czermann Patrik Ákos",
@@ -305,14 +385,38 @@
       "on_nrtg": -43.6,
       "off_nrtg": -2.3,
       "off_poss": 401.7,
+      "assisted_pct": 100.0,
+      "clutch_poss": 3.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -122.7,
       "onoff_nrtg": -41.3,
+      "chart_fga": 6,
+      "xpps": 1.29,
+      "pps": 1.0,
+      "pps_diff": -0.29,
       "photo_filename": "tf-bp-czermann-patrik-akos.jpg",
       "height_cm": 210,
       "position": "5",
       "birth_year": 2003,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Swanson Kevin Wade",
+          1
+        ],
+        [
+          "Boros Márk",
+          1
+        ],
+        [
+          "Lőrincz Boldizsár Zalán",
+          1
+        ]
+      ]
     },
     {
       "name": "Boros Márk",
@@ -365,7 +469,16 @@
       "on_nrtg": -19.2,
       "off_nrtg": -4.8,
       "off_poss": 233.7,
+      "assisted_pct": 13.6,
+      "clutch_poss": 24.0,
+      "clutch_pts": 8,
+      "clutch_ts": 80.0,
+      "clutch_nrtg": 1.9,
       "onoff_nrtg": -14.4,
+      "chart_fga": 65,
+      "xpps": 1.136,
+      "pps": 0.692,
+      "pps_diff": -0.443,
       "photo_filename": "tf-bp-boros-mark.jpg",
       "height_cm": 188,
       "position": "1-3",
@@ -404,7 +517,10 @@
         "blk_100": 55,
         "fd_100": 82,
         "on_nrtg": 9,
-        "onoff_nrtg": 20
+        "onoff_nrtg": 20,
+        "xpps": 96,
+        "pps_diff": 1,
+        "assisted_pct": 2
       },
       "percentiles_pos": {
         "ppg": 73,
@@ -439,8 +555,39 @@
         "blk_100": 55,
         "fd_100": 84,
         "on_nrtg": 12,
-        "onoff_nrtg": 25
-      }
+        "onoff_nrtg": 25,
+        "xpps": 97,
+        "pps_diff": 3,
+        "assisted_pct": 3
+      },
+      "ast_to": [
+        [
+          "Antoni Csanád Zoltán",
+          8
+        ],
+        [
+          "Swanson Kevin Wade",
+          7
+        ],
+        [
+          "Horváth Botond",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Swanson Kevin Wade",
+          1
+        ],
+        [
+          "Molnár Dániel",
+          1
+        ],
+        [
+          "Fábián Szabolcs",
+          1
+        ]
+      ]
     },
     {
       "name": "Inalegwu Marcell Sámuel",
@@ -493,7 +640,16 @@
       "on_nrtg": -12.4,
       "off_nrtg": -13.6,
       "off_poss": 248.4,
+      "assisted_pct": 26.1,
+      "clutch_poss": 2.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -54.6,
       "onoff_nrtg": 1.2,
+      "chart_fga": 55,
+      "xpps": 1.048,
+      "pps": 0.964,
+      "pps_diff": -0.085,
       "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg",
       "height_cm": 181,
       "position": "1-2",
@@ -532,7 +688,10 @@
         "blk_100": 46,
         "fd_100": 100,
         "on_nrtg": 21,
-        "onoff_nrtg": 56
+        "onoff_nrtg": 56,
+        "xpps": 70,
+        "pps_diff": 27,
+        "assisted_pct": 9
       },
       "percentiles_pos": {
         "ppg": 70,
@@ -567,8 +726,39 @@
         "blk_100": 65,
         "fd_100": 100,
         "on_nrtg": 25,
-        "onoff_nrtg": 50
-      }
+        "onoff_nrtg": 50,
+        "xpps": 91,
+        "pps_diff": 25,
+        "assisted_pct": 16
+      },
+      "ast_to": [
+        [
+          "Swanson Kevin Wade",
+          2
+        ],
+        [
+          "Horváth Botond",
+          2
+        ],
+        [
+          "Antoni Csanád Zoltán",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Molnár Marcell József",
+          2
+        ],
+        [
+          "Antoni Csanád Zoltán",
+          1
+        ],
+        [
+          "Boros Márk",
+          1
+        ]
+      ]
     },
     {
       "name": "Horváth Botond",
@@ -621,7 +811,16 @@
       "on_nrtg": -4.0,
       "off_nrtg": -24.4,
       "off_poss": 236.6,
+      "assisted_pct": 81.8,
+      "clutch_poss": 21.5,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 15.2,
       "onoff_nrtg": 20.4,
+      "chart_fga": 33,
+      "xpps": 0.955,
+      "pps": 0.879,
+      "pps_diff": -0.076,
       "photo_filename": "tf-bp-horvath-botond.jpg",
       "height_cm": 190,
       "position": "2-3",
@@ -658,7 +857,10 @@
         "blk_100": 46,
         "fd_100": 39,
         "on_nrtg": 45,
-        "onoff_nrtg": 87
+        "onoff_nrtg": 87,
+        "xpps": 25,
+        "pps_diff": 28,
+        "assisted_pct": 91
       },
       "percentiles_pos": {
         "ppg": 29,
@@ -691,8 +893,39 @@
         "blk_100": 45,
         "fd_100": 45,
         "on_nrtg": 49,
-        "onoff_nrtg": 92
-      }
+        "onoff_nrtg": 92,
+        "xpps": 23,
+        "pps_diff": 31,
+        "assisted_pct": 86
+      },
+      "ast_to": [
+        [
+          "Swanson Kevin Wade",
+          4
+        ],
+        [
+          "Fábián Szabolcs",
+          2
+        ],
+        [
+          "Lőrincz Boldizsár Zalán",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Boros Márk",
+          3
+        ],
+        [
+          "Inalegwu Marcell Sámuel",
+          2
+        ],
+        [
+          "Swanson Kevin Wade",
+          2
+        ]
+      ]
     },
     {
       "name": "Fábián Szabolcs",
@@ -745,7 +978,16 @@
       "on_nrtg": -10.1,
       "off_nrtg": -14.1,
       "off_poss": 388.8,
+      "assisted_pct": 87.5,
+      "clutch_poss": 2.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 0.0,
       "onoff_nrtg": 4.0,
+      "chart_fga": 15,
+      "xpps": 1.273,
+      "pps": 1.067,
+      "pps_diff": -0.206,
       "photo_filename": "tf-bp-fabian-szabolcs.jpg",
       "height_cm": 211,
       "position": "5",
@@ -806,7 +1048,35 @@
         "fd_100": 37,
         "on_nrtg": 15,
         "onoff_nrtg": 59
-      }
+      },
+      "ast_to": [
+        [
+          "Antoni Csanád Zoltán",
+          1
+        ],
+        [
+          "Swanson Kevin Wade",
+          1
+        ],
+        [
+          "Boros Márk",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Horváth Botond",
+          2
+        ],
+        [
+          "Boros Márk",
+          2
+        ],
+        [
+          "Inalegwu Marcell Sámuel",
+          1
+        ]
+      ]
     },
     {
       "name": "Molnár Marcell József",
@@ -859,7 +1129,16 @@
       "on_nrtg": -19.4,
       "off_nrtg": -9.5,
       "off_poss": 358.3,
+      "assisted_pct": 14.3,
+      "clutch_poss": 2.4,
+      "clutch_pts": 3,
+      "clutch_ts": 104.2,
+      "clutch_nrtg": -143.0,
       "onoff_nrtg": -9.9,
+      "chart_fga": 36,
+      "xpps": 0.905,
+      "pps": 0.778,
+      "pps_diff": -0.128,
       "photo_filename": "tf-bp-molnar-marcell-jozsef.jpg",
       "height_cm": 185,
       "position": "1-2",
@@ -896,7 +1175,10 @@
         "blk_100": 71,
         "fd_100": 70,
         "on_nrtg": 7,
-        "onoff_nrtg": 30
+        "onoff_nrtg": 30,
+        "xpps": 7,
+        "pps_diff": 19,
+        "assisted_pct": 4
       },
       "percentiles_pos": {
         "ppg": 20,
@@ -929,8 +1211,31 @@
         "blk_100": 98,
         "fd_100": 60,
         "on_nrtg": 5,
-        "onoff_nrtg": 29
-      }
+        "onoff_nrtg": 29,
+        "xpps": 12,
+        "pps_diff": 12,
+        "assisted_pct": 6
+      },
+      "ast_to": [
+        [
+          "Swanson Kevin Wade",
+          7
+        ],
+        [
+          "Inalegwu Marcell Sámuel",
+          2
+        ],
+        [
+          "Antoni Csanád Zoltán",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Swanson Kevin Wade",
+          2
+        ]
+      ]
     },
     {
       "name": "Antoni Csanád Zoltán",
@@ -983,7 +1288,16 @@
       "on_nrtg": -2.8,
       "off_nrtg": -33.2,
       "off_poss": 180.1,
+      "assisted_pct": 55.2,
+      "clutch_poss": 22.1,
+      "clutch_pts": 3,
+      "clutch_ts": 16.9,
+      "clutch_nrtg": 6.0,
       "onoff_nrtg": 30.4,
+      "chart_fga": 81,
+      "xpps": 0.891,
+      "pps": 0.901,
+      "pps_diff": 0.01,
       "photo_filename": "tf-bp-antoni-csanad-zoltan.jpg",
       "height_cm": 193,
       "position": "2-4",
@@ -1022,7 +1336,10 @@
         "blk_100": 46,
         "fd_100": 28,
         "on_nrtg": 48,
-        "onoff_nrtg": 96
+        "onoff_nrtg": 96,
+        "xpps": 5,
+        "pps_diff": 52,
+        "assisted_pct": 45
       },
       "percentiles_pos": {
         "ppg": 82,
@@ -1057,8 +1374,39 @@
         "blk_100": 45,
         "fd_100": 35,
         "on_nrtg": 55,
-        "onoff_nrtg": 98
-      }
+        "onoff_nrtg": 98,
+        "xpps": 3,
+        "pps_diff": 57,
+        "assisted_pct": 33
+      },
+      "ast_to": [
+        [
+          "Swanson Kevin Wade",
+          2
+        ],
+        [
+          "Kovács Áron Boldizsár",
+          2
+        ],
+        [
+          "Inalegwu Marcell Sámuel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Boros Márk",
+          8
+        ],
+        [
+          "Swanson Kevin Wade",
+          2
+        ],
+        [
+          "Inalegwu Marcell Sámuel",
+          2
+        ]
+      ]
     },
     {
       "name": "Lőrincz Boldizsár Zalán",
@@ -1111,7 +1459,16 @@
       "on_nrtg": -3.7,
       "off_nrtg": -16.9,
       "off_poss": 377.0,
+      "assisted_pct": 42.9,
+      "clutch_poss": 5.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -103.9,
       "onoff_nrtg": 13.2,
+      "chart_fga": 16,
+      "xpps": 1.13,
+      "pps": 0.938,
+      "pps_diff": -0.192,
       "photo_filename": "tf-bp-lorincz-boldizsar-zalan.jpg",
       "height_cm": 190,
       "position": "2-3",
@@ -1174,7 +1531,23 @@
         "fd_100": 51,
         "on_nrtg": 51,
         "onoff_nrtg": 90
-      }
+      },
+      "ast_to": [
+        [
+          "Czermann Patrik Ákos",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Horváth Botond",
+          2
+        ],
+        [
+          "Molnár Marcell József",
+          1
+        ]
+      ]
     },
     {
       "name": "Kovács Áron Boldizsár",
@@ -1227,14 +1600,39 @@
       "on_nrtg": -44.0,
       "off_nrtg": -6.5,
       "off_poss": 444.8,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -37.6,
+      "chart_fga": 9,
+      "xpps": 1.027,
+      "pps": 0.667,
+      "pps_diff": -0.36,
       "photo_filename": "tf-bp-kovacs-aron-boldizsar.jpg",
       "height_cm": 192,
       "position": "2-3",
       "birth_year": 2007,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Swanson Kevin Wade",
+          1
+        ],
+        [
+          "Inalegwu Marcell Sámuel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Antoni Csanád Zoltán",
+          2
+        ]
+      ]
     },
     {
       "name": "Hidvégi Gergő",
@@ -1287,14 +1685,30 @@
       "on_nrtg": 43.9,
       "off_nrtg": -14.5,
       "off_poss": 522.8,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 58.4,
+      "chart_fga": 3,
+      "xpps": 1.07,
+      "pps": 1.0,
+      "pps_diff": -0.07,
       "photo_filename": "tf-bp-hidvegi-gergo.jpg",
       "height_cm": 195,
       "position": "4-5",
       "birth_year": 2007,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Antoni Csanád Zoltán",
+          1
+        ]
+      ]
     }
   ]
 }

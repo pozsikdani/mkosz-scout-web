@@ -63,10 +63,39 @@
       "on_nrtg": 17.2,
       "off_nrtg": 5.4,
       "off_poss": 482.6,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 11.8,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Fazekas Máté",
+          3
+        ],
+        [
+          "Habel Andrich Clemens",
+          2
+        ],
+        [
+          "Kozári Gerg?",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Santiago Jordan Ismael",
+          2
+        ],
+        [
+          "Tóth Balázs",
+          1
+        ]
+      ]
     },
     {
       "name": "Kozári Gerg?",
@@ -119,10 +148,22 @@
       "on_nrtg": 1.2,
       "off_nrtg": 7.5,
       "off_poss": 484.1,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -6.3,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          2
+        ]
+      ]
     },
     {
       "name": "Habel Andrich Clemens",
@@ -175,10 +216,30 @@
       "on_nrtg": 46.2,
       "off_nrtg": 2.3,
       "off_poss": 490.0,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 44.0,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          2
+        ],
+        [
+          "Tóth Balázs",
+          1
+        ],
+        [
+          "Santiago Jordan Ismael",
+          1
+        ]
+      ]
     },
     {
       "name": "Tóth Dániel",
@@ -231,7 +292,16 @@
       "on_nrtg": 5.7,
       "off_nrtg": 8.3,
       "off_poss": 240.0,
+      "assisted_pct": 35.0,
+      "clutch_poss": 4.2,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 58.8,
       "onoff_nrtg": -2.6,
+      "chart_fga": 57,
+      "xpps": 0.978,
+      "pps": 0.93,
+      "pps_diff": -0.048,
       "photo_filename": "gykc-uni-gyor-toth-daniel.jpg",
       "height_cm": 181,
       "position": "1-2",
@@ -268,7 +338,10 @@
         "blk_100": 43,
         "fd_100": 58,
         "on_nrtg": 62,
-        "onoff_nrtg": 39
+        "onoff_nrtg": 39,
+        "xpps": 62,
+        "pps_diff": 45,
+        "assisted_pct": 13
       },
       "percentiles_pos": {
         "ppg": 50,
@@ -301,8 +374,39 @@
         "blk_100": 60,
         "fd_100": 62,
         "on_nrtg": 62,
-        "onoff_nrtg": 45
-      }
+        "onoff_nrtg": 45,
+        "xpps": 75,
+        "pps_diff": 42,
+        "assisted_pct": 24
+      },
+      "ast_to": [
+        [
+          "Sövegjártó Ábel György",
+          8
+        ],
+        [
+          "Góbi Marcell",
+          4
+        ],
+        [
+          "Rácz Gábor",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bakon Csanád",
+          2
+        ],
+        [
+          "Rácz Gábor",
+          1
+        ],
+        [
+          "Sólyom László",
+          1
+        ]
+      ]
     },
     {
       "name": "Góbi Marcell",
@@ -355,7 +459,16 @@
       "on_nrtg": 16.2,
       "off_nrtg": -4.0,
       "off_poss": 255.0,
+      "assisted_pct": 81.2,
+      "clutch_poss": 4.2,
+      "clutch_pts": 3,
+      "clutch_ts": 68.2,
+      "clutch_nrtg": 58.8,
       "onoff_nrtg": 20.1,
+      "chart_fga": 61,
+      "xpps": 0.916,
+      "pps": 0.77,
+      "pps_diff": -0.146,
       "photo_filename": "gykc-uni-gyor-gobi-marcell.jpg",
       "height_cm": 197,
       "position": "3-4",
@@ -394,7 +507,10 @@
         "blk_100": 74,
         "fd_100": 65,
         "on_nrtg": 89,
-        "onoff_nrtg": 86
+        "onoff_nrtg": 86,
+        "xpps": 32,
+        "pps_diff": 22,
+        "assisted_pct": 93
       },
       "percentiles_pos": {
         "ppg": 73,
@@ -429,8 +545,39 @@
         "blk_100": 73,
         "fd_100": 68,
         "on_nrtg": 89,
-        "onoff_nrtg": 82
-      }
+        "onoff_nrtg": 82,
+        "xpps": 39,
+        "pps_diff": 29,
+        "assisted_pct": 93
+      },
+      "ast_to": [
+        [
+          "Gaál Bence",
+          4
+        ],
+        [
+          "Sövegjártó Ábel György",
+          3
+        ],
+        [
+          "Rácz Gábor",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Dániel",
+          4
+        ],
+        [
+          "Bakon Csanád",
+          4
+        ],
+        [
+          "Sövegjártó Ábel György",
+          3
+        ]
+      ]
     },
     {
       "name": "Gaál Bence",
@@ -483,7 +630,16 @@
       "on_nrtg": 10.2,
       "off_nrtg": 3.5,
       "off_poss": 275.1,
+      "assisted_pct": 60.6,
+      "clutch_poss": 2.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 0.0,
       "onoff_nrtg": 6.7,
+      "chart_fga": 80,
+      "xpps": 0.98,
+      "pps": 1.05,
+      "pps_diff": 0.07,
       "photo_filename": "gykc-uni-gyor-gaal-bence.jpg",
       "height_cm": 197,
       "position": "4",
@@ -522,7 +678,10 @@
         "blk_100": 43,
         "fd_100": 60,
         "on_nrtg": 71,
-        "onoff_nrtg": 62
+        "onoff_nrtg": 62,
+        "xpps": 66,
+        "pps_diff": 67,
+        "assisted_pct": 53
       },
       "percentiles_pos": {
         "ppg": 91,
@@ -557,8 +716,26 @@
         "blk_100": 43,
         "fd_100": 66,
         "on_nrtg": 70,
-        "onoff_nrtg": 59
-      }
+        "onoff_nrtg": 59,
+        "xpps": 64,
+        "pps_diff": 64,
+        "assisted_pct": 39
+      },
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Bakon Csanád",
+          7
+        ],
+        [
+          "Tóth Dániel",
+          4
+        ],
+        [
+          "Góbi Marcell",
+          4
+        ]
+      ]
     },
     {
       "name": "Gadácsi Dávid",
@@ -611,14 +788,47 @@
       "on_nrtg": 19.6,
       "off_nrtg": 5.7,
       "off_poss": 505.2,
+      "assisted_pct": 33.3,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 13.9,
+      "chart_fga": 19,
+      "xpps": 0.915,
+      "pps": 1.526,
+      "pps_diff": 0.612,
       "photo_filename": "gykc-uni-gyor-gadacsi-david.jpg",
       "height_cm": 188,
       "position": "2",
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Gaál Bence",
+          1
+        ],
+        [
+          "Sólyom László",
+          1
+        ],
+        [
+          "Bakon Csanád",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bakon Csanád",
+          2
+        ],
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ]
     },
     {
       "name": "Barócsi Ádám",
@@ -671,10 +881,26 @@
       "on_nrtg": 32.2,
       "off_nrtg": 4.7,
       "off_poss": 504.1,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 27.5,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Santiago Jordan Ismael",
+          2
+        ],
+        [
+          "Tóth Bence Miklós",
+          1
+        ]
+      ]
     },
     {
       "name": "Tichov Dominik",
@@ -727,10 +953,22 @@
       "on_nrtg": -13.9,
       "off_nrtg": 7.4,
       "off_poss": 533.1,
+      "assisted_pct": 33.3,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -21.2,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          1
+        ]
+      ]
     },
     {
       "name": "Rácz Gábor",
@@ -783,7 +1021,16 @@
       "on_nrtg": 13.5,
       "off_nrtg": -3.1,
       "off_poss": 217.0,
+      "assisted_pct": 57.9,
+      "clutch_poss": 2.4,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": 0.0,
       "onoff_nrtg": 16.5,
+      "chart_fga": 71,
+      "xpps": 0.942,
+      "pps": 0.746,
+      "pps_diff": -0.196,
       "photo_filename": "gykc-uni-gyor-racz-gabor.jpg",
       "height_cm": 195,
       "position": "2-3",
@@ -821,7 +1068,10 @@
         "blk_100": 70,
         "fd_100": 4,
         "on_nrtg": 79,
-        "onoff_nrtg": 81
+        "onoff_nrtg": 81,
+        "xpps": 45,
+        "pps_diff": 8,
+        "assisted_pct": 47
       },
       "percentiles_pos": {
         "ppg": 59,
@@ -855,8 +1105,39 @@
         "blk_100": 68,
         "fd_100": 5,
         "on_nrtg": 80,
-        "onoff_nrtg": 73
-      }
+        "onoff_nrtg": 73,
+        "xpps": 57,
+        "pps_diff": 14,
+        "assisted_pct": 29
+      },
+      "ast_to": [
+        [
+          "Sövegjártó Ábel György",
+          4
+        ],
+        [
+          "Dani Balázs Dominik",
+          2
+        ],
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Dániel",
+          4
+        ],
+        [
+          "Góbi Marcell",
+          2
+        ],
+        [
+          "Dani Balázs Dominik",
+          2
+        ]
+      ]
     },
     {
       "name": "Sólyom László",
@@ -909,7 +1190,16 @@
       "on_nrtg": -4.8,
       "off_nrtg": 14.5,
       "off_poss": 327.8,
+      "assisted_pct": 50.0,
+      "clutch_poss": 1.8,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 7.3,
       "onoff_nrtg": -19.3,
+      "chart_fga": 49,
+      "xpps": 1.004,
+      "pps": 0.816,
+      "pps_diff": -0.188,
       "photo_filename": "gykc-uni-gyor-solyom-laszlo.jpg",
       "height_cm": 201,
       "position": "5",
@@ -946,7 +1236,10 @@
         "blk_100": 96,
         "fd_100": 75,
         "on_nrtg": 40,
-        "onoff_nrtg": 13
+        "onoff_nrtg": 13,
+        "xpps": 75,
+        "pps_diff": 11,
+        "assisted_pct": 31
       },
       "percentiles_pos": {
         "ppg": 27,
@@ -979,8 +1272,39 @@
         "blk_100": 85,
         "fd_100": 73,
         "on_nrtg": 42,
-        "onoff_nrtg": 8
-      }
+        "onoff_nrtg": 8,
+        "xpps": 57,
+        "pps_diff": 10,
+        "assisted_pct": 24
+      },
+      "ast_to": [
+        [
+          "Bakon Csanád",
+          3
+        ],
+        [
+          "Sövegjártó Ábel György",
+          2
+        ],
+        [
+          "Gaál Bence",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Dániel",
+          2
+        ],
+        [
+          "Bakon Csanád",
+          2
+        ],
+        [
+          "Gadácsi Dávid",
+          1
+        ]
+      ]
     },
     {
       "name": "Sövegjártó Ábel György",
@@ -1033,7 +1357,16 @@
       "on_nrtg": 14.0,
       "off_nrtg": 0.4,
       "off_poss": 290.5,
+      "assisted_pct": 64.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 13.6,
+      "chart_fga": 75,
+      "xpps": 1.052,
+      "pps": 1.2,
+      "pps_diff": 0.148,
       "photo_filename": "gykc-uni-gyor-sovegjarto-abel-gyorgy.jpg",
       "height_cm": 198,
       "position": "3-4",
@@ -1070,7 +1403,10 @@
         "blk_100": 83,
         "fd_100": 29,
         "on_nrtg": 82,
-        "onoff_nrtg": 74
+        "onoff_nrtg": 74,
+        "xpps": 93,
+        "pps_diff": 81,
+        "assisted_pct": 60
       },
       "percentiles_pos": {
         "ppg": 93,
@@ -1103,8 +1439,39 @@
         "blk_100": 86,
         "fd_100": 36,
         "on_nrtg": 82,
-        "onoff_nrtg": 68
-      }
+        "onoff_nrtg": 68,
+        "xpps": 100,
+        "pps_diff": 82,
+        "assisted_pct": 54
+      },
+      "ast_to": [
+        [
+          "Góbi Marcell",
+          3
+        ],
+        [
+          "Rácz Gábor",
+          2
+        ],
+        [
+          "Bakon Csanád",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Dániel",
+          8
+        ],
+        [
+          "Bakon Csanád",
+          4
+        ],
+        [
+          "Rácz Gábor",
+          4
+        ]
+      ]
     },
     {
       "name": "Santiago Jordan Ismael",
@@ -1157,10 +1524,30 @@
       "on_nrtg": 17.2,
       "off_nrtg": 5.7,
       "off_poss": 496.6,
+      "assisted_pct": 0.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 11.5,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Tóth Bence Miklós",
+          2
+        ],
+        [
+          "Barócsi Ádám",
+          2
+        ],
+        [
+          "Habel Andrich Clemens",
+          1
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Bakon Csanád",
@@ -1213,7 +1600,16 @@
       "on_nrtg": 8.6,
       "off_nrtg": 5.0,
       "off_poss": 273.6,
+      "assisted_pct": 52.6,
+      "clutch_poss": 4.2,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 3.3,
       "onoff_nrtg": 3.6,
+      "chart_fga": 78,
+      "xpps": 0.896,
+      "pps": 0.885,
+      "pps_diff": -0.011,
       "photo_filename": "gykc-uni-gyor-bakon-csanad.jpg",
       "height_cm": 186,
       "position": "1-2",
@@ -1252,7 +1648,10 @@
         "blk_100": 64,
         "fd_100": 79,
         "on_nrtg": 68,
-        "onoff_nrtg": 58
+        "onoff_nrtg": 58,
+        "xpps": 21,
+        "pps_diff": 51,
+        "assisted_pct": 34
       },
       "percentiles_pos": {
         "ppg": 66,
@@ -1287,8 +1686,39 @@
         "blk_100": 86,
         "fd_100": 80,
         "on_nrtg": 70,
-        "onoff_nrtg": 65
-      }
+        "onoff_nrtg": 65,
+        "xpps": 33,
+        "pps_diff": 47,
+        "assisted_pct": 49
+      },
+      "ast_to": [
+        [
+          "Gaál Bence",
+          7
+        ],
+        [
+          "Góbi Marcell",
+          4
+        ],
+        [
+          "Sövegjártó Ábel György",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Sólyom László",
+          3
+        ],
+        [
+          "Tóth Dániel",
+          3
+        ],
+        [
+          "Sövegjártó Ábel György",
+          1
+        ]
+      ]
     },
     {
       "name": "Dani Balázs Dominik",
@@ -1341,7 +1771,16 @@
       "on_nrtg": -1.5,
       "off_nrtg": 10.3,
       "off_poss": 384.8,
+      "assisted_pct": 58.3,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -11.8,
+      "chart_fga": 23,
+      "xpps": 0.918,
+      "pps": 1.478,
+      "pps_diff": 0.561,
       "photo_filename": "gykc-uni-gyor-dani-balazs-dominik.jpg",
       "height_cm": 188,
       "position": "1",
@@ -1404,7 +1843,35 @@
         "fd_100": 24,
         "on_nrtg": 48,
         "onoff_nrtg": 27
-      }
+      },
+      "ast_to": [
+        [
+          "Rácz Gábor",
+          2
+        ],
+        [
+          "Gaál Bence",
+          1
+        ],
+        [
+          "Bakon Csanád",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bakon Csanád",
+          2
+        ],
+        [
+          "Gombos Bálint Zalán",
+          2
+        ],
+        [
+          "Rácz Gábor",
+          2
+        ]
+      ]
     },
     {
       "name": "Kovács Marcell",
@@ -1457,10 +1924,31 @@
       "on_nrtg": 16.1,
       "off_nrtg": 6.3,
       "off_poss": 516.4,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 9.8,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Tóth Balázs",
+          1
+        ],
+        [
+          "Cseh Bence",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          2
+        ]
+      ]
     },
     {
       "name": "Fazekas Máté",
@@ -1513,10 +2001,22 @@
       "on_nrtg": -73.6,
       "off_nrtg": 10.5,
       "off_poss": 523.6,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -84.1,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          3
+        ]
+      ]
     },
     {
       "name": "Tóth Balázs",
@@ -1569,10 +2069,35 @@
       "on_nrtg": 38.9,
       "off_nrtg": 5.2,
       "off_poss": 521.0,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 33.7,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Tóth Bence Miklós",
+          1
+        ],
+        [
+          "Seregély Balázs",
+          1
+        ],
+        [
+          "Habel Andrich Clemens",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kovács Marcell",
+          1
+        ]
+      ]
     },
     {
       "name": "Gombos Bálint Zalán",
@@ -1625,7 +2150,16 @@
       "on_nrtg": -24.0,
       "off_nrtg": 13.8,
       "off_poss": 449.0,
+      "assisted_pct": 50.0,
+      "clutch_poss": 1.8,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 7.3,
       "onoff_nrtg": -37.7,
+      "chart_fga": 14,
+      "xpps": 1.113,
+      "pps": 0.714,
+      "pps_diff": -0.399,
       "photo_filename": "gykc-uni-gyor-gombos-balint-zalan.jpg",
       "height_cm": 197,
       "position": "5",
@@ -1686,7 +2220,31 @@
         "fd_100": 62,
         "on_nrtg": 8,
         "onoff_nrtg": 4
-      }
+      },
+      "ast_to": [
+        [
+          "Dani Balázs Dominik",
+          2
+        ],
+        [
+          "Sövegjártó Ábel György",
+          1
+        ],
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bakon Csanád",
+          1
+        ],
+        [
+          "Dani Balázs Dominik",
+          1
+        ]
+      ]
     },
     {
       "name": "Seregély Balázs",
@@ -1739,10 +2297,22 @@
       "on_nrtg": 85.9,
       "off_nrtg": 4.5,
       "off_poss": 532.0,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 81.4,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Tóth Balázs",
+          1
+        ]
+      ]
     },
     {
       "name": "Gosztola Gábor Donát",
@@ -1795,14 +2365,30 @@
       "on_nrtg": -63.1,
       "off_nrtg": 10.6,
       "off_poss": 520.2,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -73.6,
+      "chart_fga": 2,
+      "xpps": 0.973,
+      "pps": 0.0,
+      "pps_diff": -0.973,
       "photo_filename": "gykc-uni-gyor-gosztola-gabor-donat.jpg",
       "height_cm": 190,
       "position": "3",
       "birth_year": 2002,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Karácsonyi Dániel",
@@ -1855,14 +2441,30 @@
       "on_nrtg": -52.7,
       "off_nrtg": 12.2,
       "off_poss": 502.0,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -64.8,
+      "chart_fga": 9,
+      "xpps": 0.835,
+      "pps": 0.222,
+      "pps_diff": -0.613,
       "photo_filename": "gykc-uni-gyor-karacsonyi-daniel.jpg",
       "height_cm": 191,
       "position": "2-3",
       "birth_year": 2010,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Sövegjártó Ábel György",
+          1
+        ]
+      ]
     },
     {
       "name": "Csicsely Márton",
@@ -1915,6 +2517,11 @@
       "on_nrtg": -76.7,
       "off_nrtg": 8.9,
       "off_poss": 534.6,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -85.6,
       "photo_filename": "gykc-uni-gyor-csicsely-marton.jpg",
       "height_cm": 203,
@@ -1922,7 +2529,14 @@
       "birth_year": 2007,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Sólyom László",
+          1
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Cseh Bence",
@@ -1975,10 +2589,22 @@
       "on_nrtg": 100.0,
       "off_nrtg": 6.6,
       "off_poss": 545.5,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 93.4,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Kovács Marcell",
+          1
+        ]
+      ]
     },
     {
       "name": "Vincz Botond",
@@ -2031,10 +2657,17 @@
       "on_nrtg": 0.0,
       "off_nrtg": 6.8,
       "off_poss": 546.5,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -6.8,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

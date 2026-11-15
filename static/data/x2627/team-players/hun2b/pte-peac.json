@@ -63,7 +63,16 @@
       "on_nrtg": -15.2,
       "off_nrtg": -13.2,
       "off_poss": 151.0,
+      "assisted_pct": 68.4,
+      "clutch_poss": 18.5,
+      "clutch_pts": 5,
+      "clutch_ts": 42.5,
+      "clutch_nrtg": -52.5,
       "onoff_nrtg": -2.0,
+      "chart_fga": 91,
+      "xpps": 0.898,
+      "pps": 1.055,
+      "pps_diff": 0.157,
       "photo_filename": "pte-peac-schuj-marton-janos.jpg",
       "height_cm": 186,
       "position": "2-4",
@@ -102,7 +111,10 @@
         "blk_100": 43,
         "fd_100": 41,
         "on_nrtg": 20,
-        "onoff_nrtg": 41
+        "onoff_nrtg": 41,
+        "xpps": 24,
+        "pps_diff": 84,
+        "assisted_pct": 71
       },
       "percentiles_pos": {
         "ppg": 89,
@@ -137,8 +149,39 @@
         "blk_100": 43,
         "fd_100": 45,
         "on_nrtg": 25,
-        "onoff_nrtg": 39
-      }
+        "onoff_nrtg": 39,
+        "xpps": 29,
+        "pps_diff": 89,
+        "assisted_pct": 61
+      },
+      "ast_to": [
+        [
+          "Korszunszkij Bohdan",
+          6
+        ],
+        [
+          "Kis Milán Bence",
+          3
+        ],
+        [
+          "Csizmadia Attila",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zalay Zsombor",
+          11
+        ],
+        [
+          "Csizmadia Attila",
+          5
+        ],
+        [
+          "Czink László Gábor",
+          5
+        ]
+      ]
     },
     {
       "name": "Zalay Zsombor",
@@ -191,7 +234,16 @@
       "on_nrtg": -3.1,
       "off_nrtg": -35.2,
       "off_poss": 218.8,
+      "assisted_pct": 13.3,
+      "clutch_poss": 13.8,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -86.3,
       "onoff_nrtg": 32.1,
+      "chart_fga": 36,
+      "xpps": 1.01,
+      "pps": 0.833,
+      "pps_diff": -0.177,
       "photo_filename": "pte-peac-zalay-zsombor.jpg",
       "height_cm": 188,
       "position": "1-2",
@@ -227,7 +279,10 @@
         "blk_100": 43,
         "fd_100": 29,
         "on_nrtg": 46,
-        "onoff_nrtg": 95
+        "onoff_nrtg": 95,
+        "xpps": 81,
+        "pps_diff": 12,
+        "assisted_pct": 1
       },
       "percentiles_pos": {
         "ppg": 24,
@@ -259,8 +314,31 @@
         "blk_100": 60,
         "fd_100": 32,
         "on_nrtg": 46,
-        "onoff_nrtg": 94
-      }
+        "onoff_nrtg": 94,
+        "xpps": 97,
+        "pps_diff": 8,
+        "assisted_pct": 3
+      },
+      "ast_to": [
+        [
+          "Schuj Márton János",
+          11
+        ],
+        [
+          "Korszunszkij Bohdan",
+          8
+        ],
+        [
+          "Czink László Gábor",
+          7
+        ]
+      ],
+      "ast_by": [
+        [
+          "Schuj Márton János",
+          2
+        ]
+      ]
     },
     {
       "name": "Czink László Gábor",
@@ -313,7 +391,16 @@
       "on_nrtg": -4.6,
       "off_nrtg": -41.7,
       "off_poss": 164.5,
+      "assisted_pct": 76.5,
+      "clutch_poss": 19.3,
+      "clutch_pts": 3,
+      "clutch_ts": 75.0,
+      "clutch_nrtg": -60.8,
       "onoff_nrtg": 37.1,
+      "chart_fga": 51,
+      "xpps": 0.917,
+      "pps": 0.863,
+      "pps_diff": -0.054,
       "photo_filename": "pte-peac-czink-laszlo-gabor.jpg",
       "height_cm": 189,
       "position": "2-3",
@@ -351,7 +438,10 @@
         "blk_100": 43,
         "fd_100": 13,
         "on_nrtg": 41,
-        "onoff_nrtg": 100
+        "onoff_nrtg": 100,
+        "xpps": 34,
+        "pps_diff": 41,
+        "assisted_pct": 87
       },
       "percentiles_pos": {
         "ppg": 45,
@@ -385,8 +475,39 @@
         "blk_100": 43,
         "fd_100": 16,
         "on_nrtg": 41,
-        "onoff_nrtg": 100
-      }
+        "onoff_nrtg": 100,
+        "xpps": 43,
+        "pps_diff": 43,
+        "assisted_pct": 79
+      },
+      "ast_to": [
+        [
+          "Schuj Márton János",
+          5
+        ],
+        [
+          "Kis Milán Bence",
+          2
+        ],
+        [
+          "Csizmadia Attila",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zalay Zsombor",
+          7
+        ],
+        [
+          "Kis Milán Bence",
+          2
+        ],
+        [
+          "Füzesi András",
+          1
+        ]
+      ]
     },
     {
       "name": "Csizmadia Attila",
@@ -439,7 +560,16 @@
       "on_nrtg": -12.2,
       "off_nrtg": -19.6,
       "off_poss": 194.9,
+      "assisted_pct": 51.9,
+      "clutch_poss": 26.2,
+      "clutch_pts": 1,
+      "clutch_ts": 26.6,
+      "clutch_nrtg": -59.1,
       "onoff_nrtg": 7.4,
+      "chart_fga": 68,
+      "xpps": 0.961,
+      "pps": 0.882,
+      "pps_diff": -0.079,
       "photo_filename": "pte-peac-csizmadia-attila.jpg",
       "height_cm": 205,
       "position": "4-5",
@@ -478,7 +608,10 @@
         "blk_100": 79,
         "fd_100": 58,
         "on_nrtg": 23,
-        "onoff_nrtg": 64
+        "onoff_nrtg": 64,
+        "xpps": 51,
+        "pps_diff": 35,
+        "assisted_pct": 33
       },
       "percentiles_pos": {
         "ppg": 54,
@@ -512,8 +645,39 @@
         "blk_100": 42,
         "fd_100": 38,
         "on_nrtg": 27,
-        "onoff_nrtg": 64
-      }
+        "onoff_nrtg": 64,
+        "xpps": 10,
+        "pps_diff": 38,
+        "assisted_pct": 29
+      },
+      "ast_to": [
+        [
+          "Schuj Márton János",
+          5
+        ],
+        [
+          "Korszunszkij Bohdan",
+          2
+        ],
+        [
+          "Kis Milán Bence",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zalay Zsombor",
+          7
+        ],
+        [
+          "Schuj Márton János",
+          3
+        ],
+        [
+          "Czink László Gábor",
+          2
+        ]
+      ]
     },
     {
       "name": "Kis Milán Bence",
@@ -566,7 +730,16 @@
       "on_nrtg": -22.7,
       "off_nrtg": -7.4,
       "off_poss": 320.7,
+      "assisted_pct": 66.7,
+      "clutch_poss": 15.3,
+      "clutch_pts": 1,
+      "clutch_ts": 18.1,
+      "clutch_nrtg": -58.5,
       "onoff_nrtg": -15.3,
+      "chart_fga": 50,
+      "xpps": 0.972,
+      "pps": 0.82,
+      "pps_diff": -0.152,
       "photo_filename": "pte-peac-kis-milan-bence.jpg",
       "height_cm": 203,
       "position": "5",
@@ -604,7 +777,10 @@
         "blk_100": 88,
         "fd_100": 56,
         "on_nrtg": 11,
-        "onoff_nrtg": 18
+        "onoff_nrtg": 18,
+        "xpps": 59,
+        "pps_diff": 21,
+        "assisted_pct": 65
       },
       "percentiles_pos": {
         "ppg": 35,
@@ -638,8 +814,39 @@
         "blk_100": 65,
         "fd_100": 35,
         "on_nrtg": 12,
-        "onoff_nrtg": 12
-      }
+        "onoff_nrtg": 12,
+        "xpps": 33,
+        "pps_diff": 24,
+        "assisted_pct": 48
+      },
+      "ast_to": [
+        [
+          "Czink László Gábor",
+          2
+        ],
+        [
+          "Zalay Botond",
+          2
+        ],
+        [
+          "Győr Bálint Gergely",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zalay Zsombor",
+          3
+        ],
+        [
+          "Schuj Márton János",
+          3
+        ],
+        [
+          "Czink László Gábor",
+          2
+        ]
+      ]
     },
     {
       "name": "Korszunszkij Bohdan",
@@ -692,7 +899,16 @@
       "on_nrtg": -6.9,
       "off_nrtg": -24.2,
       "off_poss": 272.4,
+      "assisted_pct": 54.5,
+      "clutch_poss": 12.5,
+      "clutch_pts": 2,
+      "clutch_ts": 56.8,
+      "clutch_nrtg": -35.1,
       "onoff_nrtg": 17.3,
+      "chart_fga": 68,
+      "xpps": 1.062,
+      "pps": 1.0,
+      "pps_diff": -0.062,
       "photo_filename": "pte-peac-korszunszkij-bohdan.jpg",
       "height_cm": 195,
       "position": "4-5",
@@ -730,7 +946,10 @@
         "blk_100": 58,
         "fd_100": 98,
         "on_nrtg": 30,
-        "onoff_nrtg": 82
+        "onoff_nrtg": 82,
+        "xpps": 95,
+        "pps_diff": 38,
+        "assisted_pct": 40
       },
       "percentiles_pos": {
         "ppg": 77,
@@ -764,8 +983,39 @@
         "blk_100": 31,
         "fd_100": 96,
         "on_nrtg": 31,
-        "onoff_nrtg": 92
-      }
+        "onoff_nrtg": 92,
+        "xpps": 81,
+        "pps_diff": 48,
+        "assisted_pct": 38
+      },
+      "ast_to": [
+        [
+          "Schuj Márton János",
+          2
+        ],
+        [
+          "Sáfrán Botond",
+          1
+        ],
+        [
+          "Ravasz Márk",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zalay Zsombor",
+          8
+        ],
+        [
+          "Schuj Márton János",
+          6
+        ],
+        [
+          "Csizmadia Attila",
+          2
+        ]
+      ]
     },
     {
       "name": "Ravasz Márk",
@@ -818,14 +1068,43 @@
       "on_nrtg": 5.0,
       "off_nrtg": -17.6,
       "off_poss": 526.9,
+      "assisted_pct": 87.5,
+      "clutch_poss": 0.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 22.6,
+      "chart_fga": 26,
+      "xpps": 0.909,
+      "pps": 0.885,
+      "pps_diff": -0.024,
       "photo_filename": "pte-peac-ravasz-mark.jpg",
       "height_cm": 195,
       "position": "2-3",
       "birth_year": 2004,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Zalay Botond",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zalay Zsombor",
+          4
+        ],
+        [
+          "Korszunszkij Bohdan",
+          1
+        ],
+        [
+          "Csizmadia Attila",
+          1
+        ]
+      ]
     },
     {
       "name": "Teszárik Márton",
@@ -878,7 +1157,16 @@
       "on_nrtg": -43.1,
       "off_nrtg": -5.0,
       "off_poss": 454.4,
+      "assisted_pct": 85.7,
+      "clutch_poss": 7.8,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -37.1,
       "onoff_nrtg": -38.1,
+      "chart_fga": 20,
+      "xpps": 1.004,
+      "pps": 0.75,
+      "pps_diff": -0.254,
       "photo_filename": "pte-peac-teszarik-marton.jpg",
       "height_cm": 188,
       "position": "2-3",
@@ -939,7 +1227,31 @@
         "fd_100": 25,
         "on_nrtg": 2,
         "onoff_nrtg": 5
-      }
+      },
+      "ast_to": [
+        [
+          "Csizmadia Attila",
+          1
+        ],
+        [
+          "Zalay Botond",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zalay Zsombor",
+          2
+        ],
+        [
+          "Füzesi András",
+          1
+        ],
+        [
+          "Győr Bálint Gergely",
+          1
+        ]
+      ]
     },
     {
       "name": "Győr Bálint Gergely",
@@ -992,7 +1304,16 @@
       "on_nrtg": -24.0,
       "off_nrtg": -13.0,
       "off_poss": 520.3,
+      "assisted_pct": 57.1,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -10.9,
+      "chart_fga": 22,
+      "xpps": 1.072,
+      "pps": 0.636,
+      "pps_diff": -0.436,
       "photo_filename": "pte-peac-gyor-balint-gergely.jpg",
       "height_cm": 200,
       "position": "4-5",
@@ -1053,7 +1374,31 @@
         "fd_100": 19,
         "on_nrtg": 8,
         "onoff_nrtg": 20
-      }
+      },
+      "ast_to": [
+        [
+          "Zalay Botond",
+          1
+        ],
+        [
+          "Teszárik Márton",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kis Milán Bence",
+          1
+        ],
+        [
+          "Czink László Gábor",
+          1
+        ],
+        [
+          "Schuj Márton János",
+          1
+        ]
+      ]
     },
     {
       "name": "Zalay Botond",
@@ -1106,7 +1451,16 @@
       "on_nrtg": -15.6,
       "off_nrtg": -14.5,
       "off_poss": 446.8,
+      "assisted_pct": 58.3,
+      "clutch_poss": 12.5,
+      "clutch_pts": 2,
+      "clutch_ts": 16.7,
+      "clutch_nrtg": -47.5,
       "onoff_nrtg": -1.1,
+      "chart_fga": 48,
+      "xpps": 0.831,
+      "pps": 0.688,
+      "pps_diff": -0.143,
       "photo_filename": "pte-peac-zalay-botond.jpg",
       "height_cm": 185,
       "position": "1-2",
@@ -1143,7 +1497,10 @@
         "blk_100": 43,
         "fd_100": 41,
         "on_nrtg": 18,
-        "onoff_nrtg": 46
+        "onoff_nrtg": 46,
+        "xpps": 1,
+        "pps_diff": 25,
+        "assisted_pct": 49
       },
       "percentiles_pos": {
         "ppg": 38,
@@ -1176,8 +1533,39 @@
         "blk_100": 60,
         "fd_100": 46,
         "on_nrtg": 16,
-        "onoff_nrtg": 53
-      }
+        "onoff_nrtg": 53,
+        "xpps": 3,
+        "pps_diff": 22,
+        "assisted_pct": 68
+      },
+      "ast_to": [
+        [
+          "Czink László Gábor",
+          1
+        ],
+        [
+          "Schuj Márton János",
+          1
+        ],
+        [
+          "Csizmadia Attila",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kis Milán Bence",
+          2
+        ],
+        [
+          "Győr Bálint Gergely",
+          1
+        ],
+        [
+          "Czink László Gábor",
+          1
+        ]
+      ]
     },
     {
       "name": "Füzesi András",
@@ -1230,7 +1618,16 @@
       "on_nrtg": -53.3,
       "off_nrtg": -4.8,
       "off_poss": 483.2,
+      "assisted_pct": 25.0,
+      "clutch_poss": 8.5,
+      "clutch_pts": 4,
+      "clutch_ts": 53.2,
+      "clutch_nrtg": -19.7,
       "onoff_nrtg": -48.5,
+      "chart_fga": 23,
+      "xpps": 0.825,
+      "pps": 0.348,
+      "pps_diff": -0.477,
       "photo_filename": "pte-peac-fuzesi-andras.jpg",
       "height_cm": 180,
       "position": "1-2",
@@ -1293,7 +1690,27 @@
         "fd_100": 100,
         "on_nrtg": 2,
         "onoff_nrtg": 2
-      }
+      },
+      "ast_to": [
+        [
+          "Czink László Gábor",
+          1
+        ],
+        [
+          "Schuj Márton János",
+          1
+        ],
+        [
+          "Kis Milán Bence",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Csizmadia Attila",
+          1
+        ]
+      ]
     },
     {
       "name": "Sáfrán Botond",
@@ -1346,7 +1763,16 @@
       "on_nrtg": -26.0,
       "off_nrtg": -13.3,
       "off_poss": 544.3,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -12.7,
+      "chart_fga": 7,
+      "xpps": 0.903,
+      "pps": 1.571,
+      "pps_diff": 0.668,
       "photo_filename": "pte-peac-safran-botond.jpg",
       "height_cm": 196,
       "position": "3-4",
@@ -1407,7 +1833,27 @@
         "fd_100": 2,
         "on_nrtg": 11,
         "onoff_nrtg": 25
-      }
+      },
+      "ast_to": [
+        [
+          "Kis Milán Bence",
+          1
+        ],
+        [
+          "Antal Donát Gergő",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Korszunszkij Bohdan",
+          1
+        ],
+        [
+          "Füzesi András",
+          1
+        ]
+      ]
     },
     {
       "name": "Antal Donát Gergő",
@@ -1460,14 +1906,38 @@
       "on_nrtg": -41.5,
       "off_nrtg": -13.1,
       "off_poss": 575.2,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -28.4,
+      "chart_fga": 7,
+      "xpps": 1.002,
+      "pps": 1.143,
+      "pps_diff": 0.141,
       "photo_filename": "pte-peac-antal-donat-gergo.jpg",
       "height_cm": 192,
       "position": "3-4",
       "birth_year": 2005,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Sáfrán Botond",
+          1
+        ],
+        [
+          "Zalay Zsombor",
+          1
+        ],
+        [
+          "Schuj Márton János",
+          1
+        ]
+      ]
     },
     {
       "name": "Teszárik Péter",
@@ -1520,14 +1990,25 @@
       "on_nrtg": -24.0,
       "off_nrtg": -14.6,
       "off_poss": 602.9,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -9.5,
+      "chart_fga": 1,
+      "xpps": 0.851,
+      "pps": 0.0,
+      "pps_diff": -0.851,
       "photo_filename": "pte-peac-teszarik-peter.jpg",
       "height_cm": 182,
       "position": "2",
       "birth_year": 2009,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Gurzó Róbert",
@@ -1580,13 +2061,29 @@
       "on_nrtg": 150.0,
       "off_nrtg": -15.5,
       "off_poss": 605.9,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 165.5,
+      "chart_fga": 1,
+      "xpps": 0.879,
+      "pps": 3.0,
+      "pps_diff": 2.121,
       "height_cm": 180,
       "position": "1-2",
       "birth_year": 2009,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Zalay Botond",
+          1
+        ]
+      ]
     }
   ]
 }

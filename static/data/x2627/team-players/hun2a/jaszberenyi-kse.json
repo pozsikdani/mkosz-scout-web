@@ -63,7 +63,16 @@
       "on_nrtg": -4.2,
       "off_nrtg": -28.2,
       "off_poss": 124.9,
+      "assisted_pct": 21.4,
+      "clutch_poss": 29.0,
+      "clutch_pts": 4,
+      "clutch_ts": 38.5,
+      "clutch_nrtg": -18.2,
       "onoff_nrtg": 24.0,
+      "chart_fga": 86,
+      "xpps": 1.013,
+      "pps": 1.023,
+      "pps_diff": 0.011,
       "photo_filename": "jaszberenyi-kse-arnoczi-aron.jpg",
       "height_cm": 193,
       "position": "1-2",
@@ -102,7 +111,10 @@
         "blk_100": 46,
         "fd_100": 95,
         "on_nrtg": 43,
-        "onoff_nrtg": 91
+        "onoff_nrtg": 91,
+        "xpps": 56,
+        "pps_diff": 53,
+        "assisted_pct": 6
       },
       "percentiles_pos": {
         "ppg": 92,
@@ -137,8 +149,39 @@
         "blk_100": 65,
         "fd_100": 90,
         "on_nrtg": 45,
-        "onoff_nrtg": 92
-      }
+        "onoff_nrtg": 92,
+        "xpps": 72,
+        "pps_diff": 47,
+        "assisted_pct": 9
+      },
+      "ast_to": [
+        [
+          "Geröly Márton András",
+          10
+        ],
+        [
+          "Frank Áron",
+          4
+        ],
+        [
+          "Márkus Balázs",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bolyos Mateja",
+          3
+        ],
+        [
+          "Szálkai Gordon",
+          2
+        ],
+        [
+          "Geröly Márton András",
+          2
+        ]
+      ]
     },
     {
       "name": "Bolyos Mateja",
@@ -191,7 +234,16 @@
       "on_nrtg": -13.3,
       "off_nrtg": -0.3,
       "off_poss": 127.0,
+      "assisted_pct": 32.0,
+      "clutch_poss": 25.1,
+      "clutch_pts": 1,
+      "clutch_ts": 10.2,
+      "clutch_nrtg": -28.9,
       "onoff_nrtg": -13.0,
+      "chart_fga": 72,
+      "xpps": 0.934,
+      "pps": 0.861,
+      "pps_diff": -0.073,
       "photo_filename": "jaszberenyi-kse-bolyos-mateja.jpg",
       "height_cm": 195,
       "position": "1-2",
@@ -230,7 +282,10 @@
         "blk_100": 46,
         "fd_100": 47,
         "on_nrtg": 16,
-        "onoff_nrtg": 24
+        "onoff_nrtg": 24,
+        "xpps": 17,
+        "pps_diff": 30,
+        "assisted_pct": 11
       },
       "percentiles_pos": {
         "ppg": 68,
@@ -265,8 +320,39 @@
         "blk_100": 65,
         "fd_100": 38,
         "on_nrtg": 20,
-        "onoff_nrtg": 18
-      }
+        "onoff_nrtg": 18,
+        "xpps": 25,
+        "pps_diff": 28,
+        "assisted_pct": 22
+      },
+      "ast_to": [
+        [
+          "Frank Áron",
+          4
+        ],
+        [
+          "Márkus Balázs",
+          4
+        ],
+        [
+          "Geröly Márton András",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Geröly Márton András",
+          2
+        ],
+        [
+          "Márkus Balázs",
+          2
+        ],
+        [
+          "Frank Áron",
+          2
+        ]
+      ]
     },
     {
       "name": "Geröly Márton András",
@@ -319,7 +405,16 @@
       "on_nrtg": -5.9,
       "off_nrtg": -18.3,
       "off_poss": 163.8,
+      "assisted_pct": 79.2,
+      "clutch_poss": 20.8,
+      "clutch_pts": 8,
+      "clutch_ts": 66.7,
+      "clutch_nrtg": -9.9,
       "onoff_nrtg": 12.4,
+      "chart_fga": 70,
+      "xpps": 0.971,
+      "pps": 0.929,
+      "pps_diff": -0.042,
       "photo_filename": "jaszberenyi-kse-geroly-marton-andras.jpg",
       "height_cm": 201,
       "position": "4",
@@ -358,7 +453,10 @@
         "blk_100": 100,
         "fd_100": 54,
         "on_nrtg": 36,
-        "onoff_nrtg": 80
+        "onoff_nrtg": 80,
+        "xpps": 35,
+        "pps_diff": 33,
+        "assisted_pct": 88
       },
       "percentiles_pos": {
         "ppg": 82,
@@ -393,8 +491,39 @@
         "blk_100": 100,
         "fd_100": 63,
         "on_nrtg": 43,
-        "onoff_nrtg": 85
-      }
+        "onoff_nrtg": 85,
+        "xpps": 31,
+        "pps_diff": 37,
+        "assisted_pct": 81
+      },
+      "ast_to": [
+        [
+          "Bolyos Mateja",
+          2
+        ],
+        [
+          "Frank Áron",
+          2
+        ],
+        [
+          "Abraham Arabo",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Arnóczi Áron",
+          10
+        ],
+        [
+          "Bolyos Mateja",
+          3
+        ],
+        [
+          "Márkus Balázs",
+          2
+        ]
+      ]
     },
     {
       "name": "Szálkai Gordon",
@@ -447,7 +576,16 @@
       "on_nrtg": -12.4,
       "off_nrtg": -7.9,
       "off_poss": 266.9,
+      "assisted_pct": 38.9,
+      "clutch_poss": 14.8,
+      "clutch_pts": 4,
+      "clutch_ts": 66.7,
+      "clutch_nrtg": 8.3,
       "onoff_nrtg": -4.6,
+      "chart_fga": 33,
+      "xpps": 1.045,
+      "pps": 1.152,
+      "pps_diff": 0.106,
       "photo_filename": "jaszberenyi-kse-szalkai-gordon.jpg",
       "height_cm": 194,
       "position": "3",
@@ -483,7 +621,10 @@
         "blk_100": 90,
         "fd_100": 13,
         "on_nrtg": 21,
-        "onoff_nrtg": 40
+        "onoff_nrtg": 40,
+        "xpps": 68,
+        "pps_diff": 75,
+        "assisted_pct": 20
       },
       "percentiles_pos": {
         "ppg": 47,
@@ -515,8 +656,39 @@
         "blk_100": 86,
         "fd_100": 18,
         "on_nrtg": 22,
-        "onoff_nrtg": 42
-      }
+        "onoff_nrtg": 42,
+        "xpps": 66,
+        "pps_diff": 80,
+        "assisted_pct": 14
+      },
+      "ast_to": [
+        [
+          "Arnóczi Áron",
+          2
+        ],
+        [
+          "Zsók Áron",
+          1
+        ],
+        [
+          "Bolyos Mateja",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Frank Áron",
+          3
+        ],
+        [
+          "Bolyos Mateja",
+          1
+        ],
+        [
+          "Zsók Áron",
+          1
+        ]
+      ]
     },
     {
       "name": "Abraham Arabo",
@@ -569,7 +741,16 @@
       "on_nrtg": 0.7,
       "off_nrtg": -15.7,
       "off_poss": 337.4,
+      "assisted_pct": 66.7,
+      "clutch_poss": 13.1,
+      "clutch_pts": 3,
+      "clutch_ts": 79.8,
+      "clutch_nrtg": -26.4,
       "onoff_nrtg": 16.4,
+      "chart_fga": 14,
+      "xpps": 1.164,
+      "pps": 1.286,
+      "pps_diff": 0.122,
       "photo_filename": "jaszberenyi-kse-abraham-arabo.jpg",
       "height_cm": 204,
       "position": "5",
@@ -632,7 +813,31 @@
         "fd_100": 85,
         "on_nrtg": 56,
         "onoff_nrtg": 78
-      }
+      },
+      "ast_to": [
+        [
+          "Bolyos Mateja",
+          1
+        ],
+        [
+          "Frank Áron",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Geröly Márton András",
+          2
+        ],
+        [
+          "Bolyos Mateja",
+          2
+        ],
+        [
+          "Frank Áron",
+          1
+        ]
+      ]
     },
     {
       "name": "Zsók Áron",
@@ -685,7 +890,16 @@
       "on_nrtg": -14.9,
       "off_nrtg": -3.2,
       "off_poss": 210.0,
+      "assisted_pct": 61.5,
+      "clutch_poss": 24.2,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -63.7,
       "onoff_nrtg": -11.6,
+      "chart_fga": 32,
+      "xpps": 1.054,
+      "pps": 0.844,
+      "pps_diff": -0.211,
       "photo_filename": "jaszberenyi-kse-zsok-aron.jpg",
       "height_cm": 201,
       "position": "4",
@@ -721,7 +935,10 @@
         "blk_100": 46,
         "fd_100": 27,
         "on_nrtg": 14,
-        "onoff_nrtg": 27
+        "onoff_nrtg": 27,
+        "xpps": 79,
+        "pps_diff": 10,
+        "assisted_pct": 54
       },
       "percentiles_pos": {
         "ppg": 24,
@@ -753,8 +970,39 @@
         "blk_100": 45,
         "fd_100": 33,
         "on_nrtg": 18,
-        "onoff_nrtg": 31
-      }
+        "onoff_nrtg": 31,
+        "xpps": 80,
+        "pps_diff": 17,
+        "assisted_pct": 44
+      },
+      "ast_to": [
+        [
+          "Márkus Balázs",
+          1
+        ],
+        [
+          "Magyari Kristóf",
+          1
+        ],
+        [
+          "Geröly Márton András",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bolyos Mateja",
+          2
+        ],
+        [
+          "Arnóczi Áron",
+          2
+        ],
+        [
+          "Szálkai Gordon",
+          1
+        ]
+      ]
     },
     {
       "name": "Magyari Kristóf",
@@ -807,14 +1055,43 @@
       "on_nrtg": -21.8,
       "off_nrtg": -8.5,
       "off_poss": 463.2,
+      "assisted_pct": 100.0,
+      "clutch_poss": 4.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 0.4,
       "onoff_nrtg": -13.3,
+      "chart_fga": 4,
+      "xpps": 1.073,
+      "pps": 1.25,
+      "pps_diff": 0.177,
       "photo_filename": "jaszberenyi-kse-magyari-kristof.jpg",
       "height_cm": 200,
       "position": "4-5",
       "birth_year": 2004,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Zsók Áron",
+          1
+        ],
+        [
+          "Geröly Márton András",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zsók Áron",
+          1
+        ],
+        [
+          "Bolyos Mateja",
+          1
+        ]
+      ]
     },
     {
       "name": "Márkus Balázs",
@@ -867,7 +1144,16 @@
       "on_nrtg": -7.0,
       "off_nrtg": -13.3,
       "off_poss": 247.2,
+      "assisted_pct": 76.9,
+      "clutch_poss": 18.2,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -69.4,
       "onoff_nrtg": 6.3,
+      "chart_fga": 30,
+      "xpps": 1.019,
+      "pps": 1.0,
+      "pps_diff": -0.019,
       "photo_filename": "jaszberenyi-kse-markus-balazs.jpg",
       "height_cm": 190,
       "position": "1-2",
@@ -904,7 +1190,10 @@
         "blk_100": 62,
         "fd_100": 48,
         "on_nrtg": 31,
-        "onoff_nrtg": 67
+        "onoff_nrtg": 67,
+        "xpps": 58,
+        "pps_diff": 42,
+        "assisted_pct": 80
       },
       "percentiles_pos": {
         "ppg": 22,
@@ -937,8 +1226,39 @@
         "blk_100": 88,
         "fd_100": 40,
         "on_nrtg": 32,
-        "onoff_nrtg": 63
-      }
+        "onoff_nrtg": 63,
+        "xpps": 78,
+        "pps_diff": 41,
+        "assisted_pct": 94
+      },
+      "ast_to": [
+        [
+          "Bolyos Mateja",
+          2
+        ],
+        [
+          "Geröly Márton András",
+          2
+        ],
+        [
+          "Arnóczi Áron",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bolyos Mateja",
+          4
+        ],
+        [
+          "Frank Áron",
+          3
+        ],
+        [
+          "Arnóczi Áron",
+          2
+        ]
+      ]
     },
     {
       "name": "Frank Áron",
@@ -991,7 +1311,16 @@
       "on_nrtg": -14.3,
       "off_nrtg": -4.3,
       "off_poss": 215.1,
+      "assisted_pct": 50.0,
+      "clutch_poss": 13.9,
+      "clutch_pts": 3,
+      "clutch_ts": 30.0,
+      "clutch_nrtg": -83.4,
       "onoff_nrtg": -9.9,
+      "chart_fga": 59,
+      "xpps": 0.912,
+      "pps": 0.915,
+      "pps_diff": 0.003,
       "photo_filename": "jaszberenyi-kse-frank-aron.jpg",
       "height_cm": 191,
       "position": "1",
@@ -1029,7 +1358,10 @@
         "blk_100": 84,
         "fd_100": 33,
         "on_nrtg": 15,
-        "onoff_nrtg": 30
+        "onoff_nrtg": 30,
+        "xpps": 9,
+        "pps_diff": 51,
+        "assisted_pct": 40
       },
       "percentiles_pos": {
         "ppg": 42,
@@ -1063,8 +1395,39 @@
         "blk_100": 100,
         "fd_100": 22,
         "on_nrtg": 15,
-        "onoff_nrtg": 29
-      }
+        "onoff_nrtg": 29,
+        "xpps": 16,
+        "pps_diff": 44,
+        "assisted_pct": 69
+      },
+      "ast_to": [
+        [
+          "Márkus Balázs",
+          3
+        ],
+        [
+          "Szálkai Gordon",
+          3
+        ],
+        [
+          "Bolyos Mateja",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bolyos Mateja",
+          4
+        ],
+        [
+          "Arnóczi Áron",
+          4
+        ],
+        [
+          "Geröly Márton András",
+          2
+        ]
+      ]
     },
     {
       "name": "Rékasi Bojta Bendegúz",
@@ -1117,7 +1480,16 @@
       "on_nrtg": -19.2,
       "off_nrtg": -7.4,
       "off_poss": 398.3,
+      "assisted_pct": 66.7,
+      "clutch_poss": 1.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 133.3,
       "onoff_nrtg": -11.8,
+      "chart_fga": 5,
+      "xpps": 1.139,
+      "pps": 1.2,
+      "pps_diff": 0.061,
       "photo_filename": "jaszberenyi-kse-rekasi-bojta-bendeguz.jpg",
       "height_cm": 196,
       "position": "5",
@@ -1178,7 +1550,19 @@
         "fd_100": 44,
         "on_nrtg": 7,
         "onoff_nrtg": 30
-      }
+      },
+      "ast_to": [
+        [
+          "Szálkai Gordon",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Frank Áron",
+          2
+        ]
+      ]
     },
     {
       "name": "Turjányi Márk",
@@ -1231,14 +1615,25 @@
       "on_nrtg": -34.9,
       "off_nrtg": -9.9,
       "off_poss": 504.4,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -25.0,
+      "chart_fga": 1,
+      "xpps": 0.887,
+      "pps": 0.0,
+      "pps_diff": -0.887,
       "photo_filename": "jaszberenyi-kse-turjanyi-mark.jpg",
       "height_cm": 192,
       "position": "3",
       "birth_year": 2007,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

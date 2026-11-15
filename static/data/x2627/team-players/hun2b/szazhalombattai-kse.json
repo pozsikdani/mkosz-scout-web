@@ -63,10 +63,35 @@
       "on_nrtg": -5.7,
       "off_nrtg": 12.5,
       "off_poss": 477.9,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -18.2,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Sövegjártó Ábel György",
+          2
+        ],
+        [
+          "Sólyom László",
+          1
+        ],
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ]
     },
     {
       "name": "Sövegjártó Ábel György",
@@ -119,10 +144,35 @@
       "on_nrtg": -28.3,
       "off_nrtg": 15.1,
       "off_poss": 480.3,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -43.3,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Sólyom László",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Dani Balázs Dominik",
+          2
+        ],
+        [
+          "Rácz Gábor",
+          2
+        ],
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ]
     },
     {
       "name": "Tóth Dániel",
@@ -175,10 +225,35 @@
       "on_nrtg": -23.2,
       "off_nrtg": 14.0,
       "off_poss": 485.4,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -37.2,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Rácz Gábor",
+          1
+        ],
+        [
+          "Sövegjártó Ábel György",
+          1
+        ],
+        [
+          "Góbi Marcell",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Rácz Gábor",
+          1
+        ]
+      ]
     },
     {
       "name": "Tóth Bence Miklós",
@@ -231,7 +306,16 @@
       "on_nrtg": 23.6,
       "off_nrtg": -6.6,
       "off_poss": 235.3,
+      "assisted_pct": 24.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 30.2,
+      "chart_fga": 57,
+      "xpps": 0.886,
+      "pps": 1.316,
+      "pps_diff": 0.429,
       "photo_filename": "szazhalombattai-kse-toth-bence-miklos.jpg",
       "height_cm": 182,
       "position": "1-2",
@@ -269,7 +353,10 @@
         "blk_100": 58,
         "fd_100": 79,
         "on_nrtg": 96,
-        "onoff_nrtg": 94
+        "onoff_nrtg": 94,
+        "xpps": 15,
+        "pps_diff": 99,
+        "assisted_pct": 5
       },
       "percentiles_pos": {
         "ppg": 78,
@@ -303,8 +390,39 @@
         "blk_100": 76,
         "fd_100": 80,
         "on_nrtg": 96,
-        "onoff_nrtg": 92
-      }
+        "onoff_nrtg": 92,
+        "xpps": 22,
+        "pps_diff": 97,
+        "assisted_pct": 11
+      },
+      "ast_to": [
+        [
+          "Bagó Martin",
+          10
+        ],
+        [
+          "Kozári Gergő",
+          9
+        ],
+        [
+          "Barócsi Ádám",
+          6
+        ]
+      ],
+      "ast_by": [
+        [
+          "Santiago Jordan Ismael",
+          3
+        ],
+        [
+          "Tichov Dominik",
+          1
+        ],
+        [
+          "Bagó Martin",
+          1
+        ]
+      ]
     },
     {
       "name": "Kozári Gergő",
@@ -357,7 +475,16 @@
       "on_nrtg": 12.6,
       "off_nrtg": 8.3,
       "off_poss": 274.8,
+      "assisted_pct": 72.7,
+      "clutch_poss": 1.4,
+      "clutch_pts": 1,
+      "clutch_ts": 113.6,
+      "clutch_nrtg": -230.6,
       "onoff_nrtg": 4.3,
+      "chart_fga": 58,
+      "xpps": 0.883,
+      "pps": 1.034,
+      "pps_diff": 0.152,
       "photo_filename": "szazhalombattai-kse-kozari-gergo.jpg",
       "height_cm": 194,
       "position": "3-4",
@@ -395,7 +522,10 @@
         "blk_100": 93,
         "fd_100": 14,
         "on_nrtg": 75,
-        "onoff_nrtg": 59
+        "onoff_nrtg": 59,
+        "xpps": 12,
+        "pps_diff": 82,
+        "assisted_pct": 80
       },
       "percentiles_pos": {
         "ppg": 70,
@@ -429,8 +559,39 @@
         "blk_100": 95,
         "fd_100": 18,
         "on_nrtg": 75,
-        "onoff_nrtg": 55
-      }
+        "onoff_nrtg": 55,
+        "xpps": 18,
+        "pps_diff": 86,
+        "assisted_pct": 68
+      },
+      "ast_to": [
+        [
+          "Bagó Martin",
+          2
+        ],
+        [
+          "Tichov Dominik",
+          2
+        ],
+        [
+          "Barócsi Ádám",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          9
+        ],
+        [
+          "Santiago Jordan Ismael",
+          3
+        ],
+        [
+          "Bagó Martin",
+          2
+        ]
+      ]
     },
     {
       "name": "Gaál Bence",
@@ -483,10 +644,27 @@
       "on_nrtg": -16.2,
       "off_nrtg": 13.0,
       "off_poss": 491.4,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -29.1,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Bakon Csanád",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bakon Csanád",
+          1
+        ]
+      ]
     },
     {
       "name": "Góbi Marcell",
@@ -539,10 +717,22 @@
       "on_nrtg": -26.5,
       "off_nrtg": 13.2,
       "off_poss": 501.6,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -39.7,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ]
     },
     {
       "name": "Bagó Martin",
@@ -595,7 +785,16 @@
       "on_nrtg": 13.0,
       "off_nrtg": 8.5,
       "off_poss": 307.2,
+      "assisted_pct": 94.1,
+      "clutch_poss": 1.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -230.6,
       "onoff_nrtg": 4.5,
+      "chart_fga": 37,
+      "xpps": 0.969,
+      "pps": 0.919,
+      "pps_diff": -0.05,
       "photo_filename": "szazhalombattai-kse-bago-martin.jpg",
       "height_cm": 208,
       "position": "4-5",
@@ -632,7 +831,10 @@
         "blk_100": 99,
         "fd_100": 84,
         "on_nrtg": 77,
-        "onoff_nrtg": 60
+        "onoff_nrtg": 60,
+        "xpps": 55,
+        "pps_diff": 44,
+        "assisted_pct": 100
       },
       "percentiles_pos": {
         "ppg": 50,
@@ -665,8 +867,39 @@
         "blk_100": 96,
         "fd_100": 85,
         "on_nrtg": 77,
-        "onoff_nrtg": 56
-      }
+        "onoff_nrtg": 56,
+        "xpps": 24,
+        "pps_diff": 52,
+        "assisted_pct": 100
+      },
+      "ast_to": [
+        [
+          "Kozári Gergő",
+          2
+        ],
+        [
+          "Barócsi Ádám",
+          1
+        ],
+        [
+          "Tóth Bence Miklós",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          10
+        ],
+        [
+          "Kozári Gergő",
+          2
+        ],
+        [
+          "Santiago Jordan Ismael",
+          2
+        ]
+      ]
     },
     {
       "name": "Tichov Dominik",
@@ -719,7 +952,16 @@
       "on_nrtg": 9.2,
       "off_nrtg": 11.1,
       "off_poss": 306.0,
+      "assisted_pct": 80.0,
+      "clutch_poss": 1.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -230.6,
       "onoff_nrtg": -1.9,
+      "chart_fga": 52,
+      "xpps": 0.877,
+      "pps": 0.923,
+      "pps_diff": 0.046,
       "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg",
       "height_cm": 178,
       "position": "2-3",
@@ -756,7 +998,10 @@
         "blk_100": 43,
         "fd_100": 68,
         "on_nrtg": 69,
-        "onoff_nrtg": 42
+        "onoff_nrtg": 42,
+        "xpps": 11,
+        "pps_diff": 61,
+        "assisted_pct": 92
       },
       "percentiles_pos": {
         "ppg": 68,
@@ -789,8 +1034,39 @@
         "blk_100": 43,
         "fd_100": 75,
         "on_nrtg": 66,
-        "onoff_nrtg": 41
-      }
+        "onoff_nrtg": 41,
+        "xpps": 14,
+        "pps_diff": 57,
+        "assisted_pct": 89
+      },
+      "ast_to": [
+        [
+          "Bagó Martin",
+          1
+        ],
+        [
+          "Tóth Bence Miklós",
+          1
+        ],
+        [
+          "Santiago Jordan Ismael",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          3
+        ],
+        [
+          "Fazekas Máté",
+          2
+        ],
+        [
+          "Kozári Gergő",
+          2
+        ]
+      ]
     },
     {
       "name": "Barócsi Ádám",
@@ -843,7 +1119,16 @@
       "on_nrtg": 16.9,
       "off_nrtg": 5.9,
       "off_poss": 318.8,
+      "assisted_pct": 76.5,
+      "clutch_poss": 1.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -230.6,
       "onoff_nrtg": 11.0,
+      "chart_fga": 46,
+      "xpps": 0.979,
+      "pps": 0.957,
+      "pps_diff": -0.023,
       "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg",
       "height_cm": 200,
       "position": "4-5",
@@ -880,7 +1165,10 @@
         "blk_100": 43,
         "fd_100": 89,
         "on_nrtg": 91,
-        "onoff_nrtg": 70
+        "onoff_nrtg": 70,
+        "xpps": 64,
+        "pps_diff": 49,
+        "assisted_pct": 87
       },
       "percentiles_pos": {
         "ppg": 42,
@@ -913,8 +1201,35 @@
         "blk_100": 12,
         "fd_100": 88,
         "on_nrtg": 92,
-        "onoff_nrtg": 80
-      }
+        "onoff_nrtg": 80,
+        "xpps": 48,
+        "pps_diff": 62,
+        "assisted_pct": 86
+      },
+      "ast_to": [
+        [
+          "Tichov Dominik",
+          1
+        ],
+        [
+          "Tóth Balázs",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          6
+        ],
+        [
+          "Santiago Jordan Ismael",
+          3
+        ],
+        [
+          "Kozári Gergő",
+          1
+        ]
+      ]
     },
     {
       "name": "Habel Andrich Clemens",
@@ -967,7 +1282,16 @@
       "on_nrtg": 11.7,
       "off_nrtg": 9.7,
       "off_poss": 354.0,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 2.1,
+      "chart_fga": 25,
+      "xpps": 1.118,
+      "pps": 1.6,
+      "pps_diff": 0.482,
       "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg",
       "height_cm": 204,
       "position": "4-5",
@@ -1030,7 +1354,35 @@
         "fd_100": 42,
         "on_nrtg": 73,
         "onoff_nrtg": 48
-      }
+      },
+      "ast_to": [
+        [
+          "Tichov Dominik",
+          1
+        ],
+        [
+          "Seregély Balázs",
+          1
+        ],
+        [
+          "Barócsi Ádám",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Santiago Jordan Ismael",
+          4
+        ],
+        [
+          "Cseh Bence",
+          1
+        ],
+        [
+          "Fazekas Máté",
+          1
+        ]
+      ]
     },
     {
       "name": "Kovács Marcell",
@@ -1083,7 +1435,16 @@
       "on_nrtg": 2.7,
       "off_nrtg": 13.1,
       "off_poss": 390.9,
+      "assisted_pct": 77.8,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -10.5,
+      "chart_fga": 22,
+      "xpps": 0.971,
+      "pps": 1.0,
+      "pps_diff": 0.029,
       "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg",
       "height_cm": 190,
       "position": "3-4",
@@ -1144,7 +1505,35 @@
         "fd_100": 25,
         "on_nrtg": 55,
         "onoff_nrtg": 34
-      }
+      },
+      "ast_to": [
+        [
+          "Fazekas Máté",
+          1
+        ],
+        [
+          "Santiago Jordan Ismael",
+          1
+        ],
+        [
+          "Vincz Botond",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Santiago Jordan Ismael",
+          4
+        ],
+        [
+          "Seregély Balázs",
+          2
+        ],
+        [
+          "Fazekas Máté",
+          1
+        ]
+      ]
     },
     {
       "name": "Tóth Balázs",
@@ -1197,14 +1586,43 @@
       "on_nrtg": -4.7,
       "off_nrtg": 12.6,
       "off_poss": 468.3,
+      "assisted_pct": 25.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -17.3,
+      "chart_fga": 18,
+      "xpps": 0.963,
+      "pps": 0.611,
+      "pps_diff": -0.352,
       "photo_filename": "szazhalombattai-kse-toth-balazs.jpg",
       "height_cm": 190,
       "position": "2-3",
       "birth_year": 2004,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Kozári Gergő",
+          1
+        ],
+        [
+          "Seregély Balázs",
+          1
+        ],
+        [
+          "Habel Andrich Clemens",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Barócsi Ádám",
+          1
+        ]
+      ]
     },
     {
       "name": "Fazekas Máté",
@@ -1257,7 +1675,16 @@
       "on_nrtg": 28.5,
       "off_nrtg": 3.9,
       "off_poss": 397.5,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 24.6,
+      "chart_fga": 36,
+      "xpps": 0.968,
+      "pps": 1.25,
+      "pps_diff": 0.282,
       "photo_filename": "szazhalombattai-kse-fazekas-mate.jpg",
       "height_cm": 212,
       "position": "4-5",
@@ -1293,7 +1720,10 @@
         "blk_100": 88,
         "fd_100": 18,
         "on_nrtg": 98,
-        "onoff_nrtg": 90
+        "onoff_nrtg": 90,
+        "xpps": 53,
+        "pps_diff": 93,
+        "assisted_pct": 31
       },
       "percentiles_pos": {
         "ppg": 46,
@@ -1325,8 +1755,39 @@
         "blk_100": 65,
         "fd_100": 4,
         "on_nrtg": 100,
-        "onoff_nrtg": 100
-      }
+        "onoff_nrtg": 100,
+        "xpps": 14,
+        "pps_diff": 90,
+        "assisted_pct": 24
+      },
+      "ast_to": [
+        [
+          "Tichov Dominik",
+          2
+        ],
+        [
+          "Kozári Gergő",
+          1
+        ],
+        [
+          "Kovács Marcell",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Santiago Jordan Ismael",
+          5
+        ],
+        [
+          "Tóth Bence Miklós",
+          3
+        ],
+        [
+          "Kovács Marcell",
+          1
+        ]
+      ]
     },
     {
       "name": "Santiago Jordan Ismael",
@@ -1379,7 +1840,16 @@
       "on_nrtg": 28.7,
       "off_nrtg": -8.1,
       "off_poss": 267.3,
+      "assisted_pct": 28.0,
+      "clutch_poss": 1.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -230.6,
       "onoff_nrtg": 36.7,
+      "chart_fga": 78,
+      "xpps": 0.93,
+      "pps": 0.885,
+      "pps_diff": -0.046,
       "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg",
       "height_cm": 177,
       "position": "1-2",
@@ -1418,7 +1888,10 @@
         "blk_100": 74,
         "fd_100": 99,
         "on_nrtg": 99,
-        "onoff_nrtg": 99
+        "onoff_nrtg": 99,
+        "xpps": 40,
+        "pps_diff": 46,
+        "assisted_pct": 8
       },
       "percentiles_pos": {
         "ppg": 90,
@@ -1453,8 +1926,39 @@
         "blk_100": 96,
         "fd_100": 98,
         "on_nrtg": 100,
-        "onoff_nrtg": 100
-      }
+        "onoff_nrtg": 100,
+        "xpps": 58,
+        "pps_diff": 44,
+        "assisted_pct": 19
+      },
+      "ast_to": [
+        [
+          "Fazekas Máté",
+          5
+        ],
+        [
+          "Kovács Marcell",
+          4
+        ],
+        [
+          "Habel Andrich Clemens",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Tóth Bence Miklós",
+          3
+        ],
+        [
+          "Bagó Martin",
+          1
+        ],
+        [
+          "Tichov Dominik",
+          1
+        ]
+      ]
     },
     {
       "name": "Seregély Balázs",
@@ -1507,7 +2011,16 @@
       "on_nrtg": 15.4,
       "off_nrtg": 7.9,
       "off_poss": 364.1,
+      "assisted_pct": 55.6,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 7.5,
+      "chart_fga": 16,
+      "xpps": 0.976,
+      "pps": 1.438,
+      "pps_diff": 0.462,
       "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg",
       "height_cm": 185,
       "position": "1-2",
@@ -1568,7 +2081,35 @@
         "fd_100": 6,
         "on_nrtg": 88,
         "onoff_nrtg": 69
-      }
+      },
+      "ast_to": [
+        [
+          "Kovács Marcell",
+          2
+        ],
+        [
+          "Bagó Martin",
+          1
+        ],
+        [
+          "Tichov Dominik",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Santiago Jordan Ismael",
+          2
+        ],
+        [
+          "Tóth Balázs",
+          1
+        ],
+        [
+          "Habel Andrich Clemens",
+          1
+        ]
+      ]
     },
     {
       "name": "Bakon Csanád",
@@ -1621,10 +2162,35 @@
       "on_nrtg": -19.4,
       "off_nrtg": 13.2,
       "off_poss": 489.3,
+      "assisted_pct": 40.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -32.6,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Gaál Bence",
+          1
+        ],
+        [
+          "Sövegjártó Ábel György",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Gaál Bence",
+          1
+        ],
+        [
+          "Sólyom László",
+          1
+        ]
+      ]
     },
     {
       "name": "Sólyom László",
@@ -1677,10 +2243,35 @@
       "on_nrtg": 25.6,
       "off_nrtg": 9.4,
       "off_poss": 506.5,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 16.2,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Bakon Csanád",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Rácz Gábor",
+          1
+        ],
+        [
+          "Sövegjártó Ábel György",
+          1
+        ],
+        [
+          "Tóth Dániel",
+          1
+        ]
+      ]
     },
     {
       "name": "Dani Balázs Dominik",
@@ -1733,10 +2324,22 @@
       "on_nrtg": -21.2,
       "off_nrtg": 12.2,
       "off_poss": 507.1,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -33.3,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Sövegjártó Ábel György",
+          2
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Vincz Botond",
@@ -1789,14 +2392,30 @@
       "on_nrtg": 17.5,
       "off_nrtg": 9.9,
       "off_poss": 505.2,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 7.6,
+      "chart_fga": 4,
+      "xpps": 1.063,
+      "pps": 1.0,
+      "pps_diff": -0.063,
       "photo_filename": "szazhalombattai-kse-vincz-botond.jpg",
       "height_cm": 194,
       "position": "3-4",
       "birth_year": 2006,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Kovács Marcell",
+          1
+        ]
+      ]
     },
     {
       "name": "Gombos Bálint Zalán",
@@ -1849,10 +2468,17 @@
       "on_nrtg": -50.5,
       "off_nrtg": 11.9,
       "off_poss": 523.2,
+      "assisted_pct": 0.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -62.4,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Cseh Bence",
@@ -1905,14 +2531,30 @@
       "on_nrtg": -35.8,
       "off_nrtg": 13.2,
       "off_poss": 506.1,
+      "assisted_pct": 0.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -49.0,
+      "chart_fga": 10,
+      "xpps": 0.892,
+      "pps": 0.4,
+      "pps_diff": -0.492,
       "photo_filename": "szazhalombattai-kse-cseh-bence.jpg",
       "height_cm": 190,
       "position": "3-4",
       "birth_year": 2006,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Habel Andrich Clemens",
+          1
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Karácsonyi Dániel",
@@ -1965,10 +2607,17 @@
       "on_nrtg": -83.0,
       "off_nrtg": 11.5,
       "off_poss": 531.9,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -94.5,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Glázer Manó",
@@ -2021,14 +2670,25 @@
       "on_nrtg": -70.1,
       "off_nrtg": 11.6,
       "off_poss": 530.5,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -81.7,
+      "chart_fga": 1,
+      "xpps": 0.851,
+      "pps": 0.0,
+      "pps_diff": -0.851,
       "photo_filename": "szazhalombattai-kse-glazer-mano.jpg",
       "height_cm": 187,
       "position": "1-2",
       "birth_year": 2007,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

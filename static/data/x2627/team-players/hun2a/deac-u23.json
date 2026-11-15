@@ -63,14 +63,51 @@
       "on_nrtg": 21.2,
       "off_nrtg": -14.1,
       "off_poss": 247.8,
+      "assisted_pct": 39.1,
+      "clutch_poss": 31.2,
+      "clutch_pts": 13,
+      "clutch_ts": 49.7,
+      "clutch_nrtg": -17.6,
       "onoff_nrtg": 35.2,
+      "chart_fga": 51,
+      "xpps": 1.011,
+      "pps": 1.078,
+      "pps_diff": 0.067,
       "photo_filename": "deac-u23-sagodi-robert.jpg",
       "height_cm": 183,
       "position": "1",
       "birth_year": 2004,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Vadai Balázs",
+          4
+        ],
+        [
+          "Bankó Zoltán Martin",
+          4
+        ],
+        [
+          "Várszegi Ádám",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Flasár Botond",
+          4
+        ],
+        [
+          "Bankó Zoltán Martin",
+          2
+        ],
+        [
+          "Szász-Veres Márk",
+          1
+        ]
+      ]
     },
     {
       "name": "Flasár Botond",
@@ -123,14 +160,51 @@
       "on_nrtg": 17.2,
       "off_nrtg": -9.6,
       "off_poss": 256.8,
+      "assisted_pct": 36.4,
+      "clutch_poss": 8.5,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 4.2,
       "onoff_nrtg": 26.8,
+      "chart_fga": 31,
+      "xpps": 1.146,
+      "pps": 1.452,
+      "pps_diff": 0.306,
       "photo_filename": "deac-u23-flasar-botond.jpg",
       "height_cm": 201,
       "position": "4-5",
       "birth_year": 2005,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Ságodi Róbert",
+          4
+        ],
+        [
+          "Gál Csongor",
+          3
+        ],
+        [
+          "Kiss Tamás",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Gál Csongor",
+          3
+        ],
+        [
+          "Ságodi Róbert",
+          2
+        ],
+        [
+          "Varga Ferenc",
+          1
+        ]
+      ]
     },
     {
       "name": "Gál Csongor",
@@ -183,7 +257,16 @@
       "on_nrtg": 13.3,
       "off_nrtg": -10.7,
       "off_poss": 212.5,
+      "assisted_pct": 54.5,
+      "clutch_poss": 20.2,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -7.1,
       "onoff_nrtg": 24.0,
+      "chart_fga": 59,
+      "xpps": 0.984,
+      "pps": 0.898,
+      "pps_diff": -0.086,
       "photo_filename": "deac-u23-gal-csongor.jpg",
       "height_cm": 194,
       "position": "2",
@@ -221,7 +304,10 @@
         "blk_100": 62,
         "fd_100": 47,
         "on_nrtg": 87,
-        "onoff_nrtg": 91
+        "onoff_nrtg": 91,
+        "xpps": 41,
+        "pps_diff": 26,
+        "assisted_pct": 44
       },
       "percentiles_pos": {
         "ppg": 65,
@@ -255,8 +341,39 @@
         "blk_100": 88,
         "fd_100": 38,
         "on_nrtg": 90,
-        "onoff_nrtg": 92
-      }
+        "onoff_nrtg": 92,
+        "xpps": 59,
+        "pps_diff": 22,
+        "assisted_pct": 72
+      },
+      "ast_to": [
+        [
+          "Szász-Veres Márk",
+          3
+        ],
+        [
+          "Flasár Botond",
+          3
+        ],
+        [
+          "Bankó Zoltán Martin",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Flasár Botond",
+          3
+        ],
+        [
+          "Varga Ferenc",
+          3
+        ],
+        [
+          "Vadai Balázs",
+          2
+        ]
+      ]
     },
     {
       "name": "Várszegi Ádám",
@@ -309,14 +426,51 @@
       "on_nrtg": 24.6,
       "off_nrtg": -12.4,
       "off_poss": 272.1,
+      "assisted_pct": 85.7,
+      "clutch_poss": 7.8,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 1.4,
       "onoff_nrtg": 37.0,
+      "chart_fga": 33,
+      "xpps": 0.923,
+      "pps": 0.576,
+      "pps_diff": -0.348,
       "photo_filename": "deac-u23-varszegi-adam.jpg",
       "height_cm": 194,
       "position": "3",
       "birth_year": 2004,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Szász-Veres Márk",
+          1
+        ],
+        [
+          "Ságodi Róbert",
+          1
+        ],
+        [
+          "Kiss Tamás",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Szász-Veres Márk",
+          2
+        ],
+        [
+          "Ságodi Róbert",
+          2
+        ],
+        [
+          "Fekete Balázs",
+          1
+        ]
+      ]
     },
     {
       "name": "Szász-Veres Márk",
@@ -369,14 +523,51 @@
       "on_nrtg": -0.5,
       "off_nrtg": 4.9,
       "off_poss": 239.1,
+      "assisted_pct": 82.4,
+      "clutch_poss": 20.2,
+      "clutch_pts": 4,
+      "clutch_ts": 51.5,
+      "clutch_nrtg": -2.0,
       "onoff_nrtg": -5.4,
+      "chart_fga": 38,
+      "xpps": 0.987,
+      "pps": 1.053,
+      "pps_diff": 0.066,
       "photo_filename": "deac-u23-szasz-veres-mark.jpg",
       "height_cm": 203,
       "position": "3-4",
       "birth_year": 2007,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Várszegi Ádám",
+          2
+        ],
+        [
+          "Ságodi Róbert",
+          1
+        ],
+        [
+          "Varga Ferenc",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Gál Csongor",
+          3
+        ],
+        [
+          "Varga Ferenc",
+          2
+        ],
+        [
+          "Fekete Balázs",
+          2
+        ]
+      ]
     },
     {
       "name": "Bankó Zoltán Martin",
@@ -429,7 +620,16 @@
       "on_nrtg": -6.8,
       "off_nrtg": 21.1,
       "off_poss": 154.0,
+      "assisted_pct": 60.0,
+      "clutch_poss": 22.6,
+      "clutch_pts": 6,
+      "clutch_ts": 77.3,
+      "clutch_nrtg": -27.1,
       "onoff_nrtg": -27.9,
+      "chart_fga": 48,
+      "xpps": 1.084,
+      "pps": 0.688,
+      "pps_diff": -0.397,
       "photo_filename": "deac-u23-banko-zoltan-martin.jpg",
       "height_cm": 201,
       "position": "4-5",
@@ -467,7 +667,10 @@
         "blk_100": 84,
         "fd_100": 81,
         "on_nrtg": 34,
-        "onoff_nrtg": 8
+        "onoff_nrtg": 8,
+        "xpps": 85,
+        "pps_diff": 2,
+        "assisted_pct": 51
       },
       "percentiles_pos": {
         "ppg": 59,
@@ -500,8 +703,39 @@
         "blk_100": 63,
         "fd_100": 81,
         "on_nrtg": 22,
-        "onoff_nrtg": 7
-      }
+        "onoff_nrtg": 7,
+        "xpps": 64,
+        "pps_diff": 7,
+        "assisted_pct": 21
+      },
+      "ast_to": [
+        [
+          "Ságodi Róbert",
+          2
+        ],
+        [
+          "Szász-Veres Márk",
+          2
+        ],
+        [
+          "Gál Csongor",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Ságodi Róbert",
+          4
+        ],
+        [
+          "Flasár Botond",
+          2
+        ],
+        [
+          "Gál Csongor",
+          1
+        ]
+      ]
     },
     {
       "name": "Szafkó Márk",
@@ -554,14 +788,51 @@
       "on_nrtg": -20.4,
       "off_nrtg": 15.5,
       "off_poss": 292.0,
+      "assisted_pct": 83.3,
+      "clutch_poss": 18.9,
+      "clutch_pts": 5,
+      "clutch_ts": 83.3,
+      "clutch_nrtg": -17.6,
       "onoff_nrtg": -35.9,
+      "chart_fga": 23,
+      "xpps": 0.909,
+      "pps": 0.652,
+      "pps_diff": -0.256,
       "photo_filename": "deac-u23-szafko-mark.jpg",
       "height_cm": 193,
       "position": "2-3",
       "birth_year": 2009,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Gál Csongor",
+          1
+        ],
+        [
+          "Szász-Veres Márk",
+          1
+        ],
+        [
+          "Fekete Balázs",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Ságodi Róbert",
+          2
+        ],
+        [
+          "Flasár Botond",
+          1
+        ],
+        [
+          "Gál Csongor",
+          1
+        ]
+      ]
     },
     {
       "name": "Varga Ferenc",
@@ -614,14 +885,47 @@
       "on_nrtg": 4.7,
       "off_nrtg": 1.3,
       "off_poss": 329.5,
+      "assisted_pct": 15.4,
+      "clutch_poss": 9.5,
+      "clutch_pts": 5,
+      "clutch_ts": 125.0,
+      "clutch_nrtg": -20.3,
       "onoff_nrtg": 3.4,
+      "chart_fga": 23,
+      "xpps": 1.104,
+      "pps": 1.217,
+      "pps_diff": 0.114,
       "photo_filename": "deac-u23-varga-ferenc.jpg",
       "height_cm": 194,
       "position": "1",
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Gál Csongor",
+          3
+        ],
+        [
+          "Vadai Balázs",
+          2
+        ],
+        [
+          "Szász-Veres Márk",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kiss Tamás",
+          1
+        ],
+        [
+          "Szász-Veres Márk",
+          1
+        ]
+      ]
     },
     {
       "name": "Fekete Balázs",
@@ -674,14 +978,51 @@
       "on_nrtg": 7.6,
       "off_nrtg": 0.3,
       "off_poss": 334.4,
+      "assisted_pct": 85.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 7.3,
+      "chart_fga": 20,
+      "xpps": 0.955,
+      "pps": 0.95,
+      "pps_diff": -0.005,
       "photo_filename": "deac-u23-fekete-balazs.jpg",
       "height_cm": 181,
       "position": "1-2",
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Szász-Veres Márk",
+          2
+        ],
+        [
+          "Várszegi Ádám",
+          1
+        ],
+        [
+          "Bankó Zoltán Martin",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Flasár Botond",
+          2
+        ],
+        [
+          "Ságodi Róbert",
+          1
+        ],
+        [
+          "Varga Ferenc",
+          1
+        ]
+      ]
     },
     {
       "name": "Kiss Tamás",
@@ -734,7 +1075,16 @@
       "on_nrtg": -6.6,
       "off_nrtg": 9.5,
       "off_poss": 260.9,
+      "assisted_pct": 36.8,
+      "clutch_poss": 21.8,
+      "clutch_pts": 6,
+      "clutch_ts": 43.6,
+      "clutch_nrtg": -43.7,
       "onoff_nrtg": -16.2,
+      "chart_fga": 41,
+      "xpps": 1.018,
+      "pps": 1.073,
+      "pps_diff": 0.055,
       "photo_filename": "deac-u23-kiss-tamas.jpg",
       "height_cm": 188,
       "position": "1-2",
@@ -772,7 +1122,10 @@
         "blk_100": 64,
         "fd_100": 72,
         "on_nrtg": 34,
-        "onoff_nrtg": 18
+        "onoff_nrtg": 18,
+        "xpps": 57,
+        "pps_diff": 64,
+        "assisted_pct": 17
       },
       "percentiles_pos": {
         "ppg": 58,
@@ -806,8 +1159,39 @@
         "blk_100": 90,
         "fd_100": 65,
         "on_nrtg": 35,
-        "onoff_nrtg": 13
-      }
+        "onoff_nrtg": 13,
+        "xpps": 75,
+        "pps_diff": 56,
+        "assisted_pct": 34
+      },
+      "ast_to": [
+        [
+          "Székely Bence",
+          2
+        ],
+        [
+          "Szász-Veres Márk",
+          1
+        ],
+        [
+          "Varga Ferenc",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Flasár Botond",
+          3
+        ],
+        [
+          "Ságodi Róbert",
+          2
+        ],
+        [
+          "Várszegi Ádám",
+          1
+        ]
+      ]
     },
     {
       "name": "Vadai Balázs",
@@ -860,7 +1244,16 @@
       "on_nrtg": -18.2,
       "off_nrtg": 13.9,
       "off_poss": 295.7,
+      "assisted_pct": 66.7,
+      "clutch_poss": 22.8,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -27.5,
       "onoff_nrtg": -32.2,
+      "chart_fga": 27,
+      "xpps": 1.033,
+      "pps": 0.963,
+      "pps_diff": -0.07,
       "photo_filename": "deac-u23-vadai-balazs.jpg",
       "height_cm": 187,
       "position": "1",
@@ -921,7 +1314,35 @@
         "fd_100": 18,
         "on_nrtg": 8,
         "onoff_nrtg": 3
-      }
+      },
+      "ast_to": [
+        [
+          "Gál Csongor",
+          2
+        ],
+        [
+          "Fárbás Benjámin",
+          1
+        ],
+        [
+          "Székely Bence",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Ságodi Róbert",
+          4
+        ],
+        [
+          "Varga Ferenc",
+          2
+        ],
+        [
+          "Szász-Veres Márk",
+          1
+        ]
+      ]
     },
     {
       "name": "Székely Bence",
@@ -974,14 +1395,34 @@
       "on_nrtg": -13.4,
       "off_nrtg": 4.0,
       "off_poss": 420.6,
+      "assisted_pct": 100.0,
+      "clutch_poss": 10.0,
+      "clutch_pts": 3,
+      "clutch_ts": 150.0,
+      "clutch_nrtg": 8.8,
       "onoff_nrtg": -17.4,
+      "chart_fga": 7,
+      "xpps": 0.994,
+      "pps": 1.286,
+      "pps_diff": 0.292,
       "photo_filename": "deac-u23-szekely-bence.jpg",
       "height_cm": 185,
       "position": "2-3",
       "birth_year": 2009,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Kiss Tamás",
+          2
+        ],
+        [
+          "Vadai Balázs",
+          1
+        ]
+      ]
     },
     {
       "name": "Fárbás Benjámin",
@@ -1034,14 +1475,30 @@
       "on_nrtg": -11.8,
       "off_nrtg": 3.1,
       "off_poss": 442.5,
+      "assisted_pct": 100.0,
+      "clutch_poss": 2.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -63.9,
       "onoff_nrtg": -14.9,
+      "chart_fga": 3,
+      "xpps": 0.901,
+      "pps": 1.0,
+      "pps_diff": 0.099,
       "photo_filename": "deac-u23-farbas-benjamin.jpg",
       "height_cm": 195,
       "position": "2-3",
       "birth_year": 2010,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Vadai Balázs",
+          1
+        ]
+      ]
     },
     {
       "name": "Kedvek László",
@@ -1094,14 +1551,30 @@
       "on_nrtg": -22.2,
       "off_nrtg": 5.0,
       "off_poss": 418.3,
+      "assisted_pct": 100.0,
+      "clutch_poss": 4.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 7.0,
       "onoff_nrtg": -27.2,
+      "chart_fga": 1,
+      "xpps": 1.164,
+      "pps": 2.0,
+      "pps_diff": 0.836,
       "photo_filename": "deac-u23-kedvek-laszlo.jpg",
       "height_cm": 197,
       "position": "4-5",
       "birth_year": 2009,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Ságodi Róbert",
+          1
+        ]
+      ]
     },
     {
       "name": "Bősz Olivér",
@@ -1154,14 +1627,25 @@
       "on_nrtg": -72.0,
       "off_nrtg": 2.9,
       "off_poss": 460.8,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -74.9,
+      "chart_fga": 1,
+      "xpps": 1.115,
+      "pps": 0.0,
+      "pps_diff": -1.115,
       "photo_filename": "deac-u23-bosz-oliver.jpg",
       "height_cm": 185,
       "position": "1-2",
       "birth_year": 2010,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

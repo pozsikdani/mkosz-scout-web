@@ -63,7 +63,16 @@
       "on_nrtg": -11.6,
       "off_nrtg": 4.9,
       "off_poss": 162.4,
+      "assisted_pct": 38.9,
+      "clutch_poss": 35.7,
+      "clutch_pts": 10,
+      "clutch_ts": 69.4,
+      "clutch_nrtg": 35.3,
       "onoff_nrtg": -16.6,
+      "chart_fga": 85,
+      "xpps": 1.066,
+      "pps": 0.953,
+      "pps_diff": -0.113,
       "photo_filename": "salgotarjani-kse-mucza-tamas.jpg",
       "height_cm": 191,
       "position": "2-3",
@@ -102,7 +111,10 @@
         "blk_100": 55,
         "fd_100": 75,
         "on_nrtg": 23,
-        "onoff_nrtg": 17
+        "onoff_nrtg": 17,
+        "xpps": 83,
+        "pps_diff": 21,
+        "assisted_pct": 20
       },
       "percentiles_pos": {
         "ppg": 88,
@@ -137,8 +149,39 @@
         "blk_100": 55,
         "fd_100": 82,
         "on_nrtg": 29,
-        "onoff_nrtg": 23
-      }
+        "onoff_nrtg": 23,
+        "xpps": 86,
+        "pps_diff": 29,
+        "assisted_pct": 14
+      },
+      "ast_to": [
+        [
+          "Boka-Magó Áron István",
+          4
+        ],
+        [
+          "Fekete Viktor Norbert",
+          3
+        ],
+        [
+          "Cserényi Marcell",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Fekete Viktor Norbert",
+          6
+        ],
+        [
+          "Takács Dániel",
+          3
+        ],
+        [
+          "Cserényi Marcell",
+          2
+        ]
+      ]
     },
     {
       "name": "Takács Dániel",
@@ -191,7 +234,16 @@
       "on_nrtg": -4.7,
       "off_nrtg": -10.2,
       "off_poss": 182.3,
+      "assisted_pct": 56.2,
+      "clutch_poss": 30.3,
+      "clutch_pts": 6,
+      "clutch_ts": 57.7,
+      "clutch_nrtg": 24.9,
       "onoff_nrtg": 5.5,
+      "chart_fga": 54,
+      "xpps": 0.884,
+      "pps": 0.722,
+      "pps_diff": -0.162,
       "photo_filename": "salgotarjani-kse-takacs-daniel.jpg",
       "height_cm": 183,
       "position": "1-2",
@@ -230,7 +282,10 @@
         "blk_100": 46,
         "fd_100": 84,
         "on_nrtg": 41,
-        "onoff_nrtg": 65
+        "onoff_nrtg": 65,
+        "xpps": 2,
+        "pps_diff": 16,
+        "assisted_pct": 48
       },
       "percentiles_pos": {
         "ppg": 38,
@@ -265,8 +320,39 @@
         "blk_100": 65,
         "fd_100": 82,
         "on_nrtg": 42,
-        "onoff_nrtg": 55
-      }
+        "onoff_nrtg": 55,
+        "xpps": 6,
+        "pps_diff": 6,
+        "assisted_pct": 78
+      },
+      "ast_to": [
+        [
+          "Fekete Viktor Norbert",
+          5
+        ],
+        [
+          "Cserényi Marcell",
+          4
+        ],
+        [
+          "Boka-Magó Áron István",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Mucza Tamás",
+          2
+        ],
+        [
+          "Cserényi Marcell",
+          2
+        ],
+        [
+          "Kámán Bálint",
+          2
+        ]
+      ]
     },
     {
       "name": "Williams Jr. Eric Leval",
@@ -319,10 +405,27 @@
       "on_nrtg": 7.6,
       "off_nrtg": -8.1,
       "off_poss": 496.6,
+      "assisted_pct": 50.0,
+      "clutch_poss": 11.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 6.6,
       "onoff_nrtg": 15.7,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Cserényi Marcell",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Cserényi Marcell",
+          1
+        ]
+      ]
     },
     {
       "name": "Williams Jr Eric Leval",
@@ -375,14 +478,47 @@
       "on_nrtg": -5.7,
       "off_nrtg": -6.8,
       "off_poss": 444.0,
+      "assisted_pct": 37.5,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 1.1,
+      "chart_fga": 29,
+      "xpps": 1.056,
+      "pps": 0.793,
+      "pps_diff": -0.263,
       "photo_filename": "salgotarjani-kse-williams-jr-eric-leval.jpg",
       "height_cm": 198,
       "position": "3-4",
       "birth_year": 1999,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Németh Atilla Gergő",
+          1
+        ],
+        [
+          "Mucza Tamás",
+          1
+        ],
+        [
+          "Takács Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Takács Dániel",
+          2
+        ],
+        [
+          "Fekete Viktor Norbert",
+          1
+        ]
+      ]
     },
     {
       "name": "Cserényi Marcell",
@@ -435,7 +571,16 @@
       "on_nrtg": -11.9,
       "off_nrtg": 1.2,
       "off_poss": 220.6,
+      "assisted_pct": 68.0,
+      "clutch_poss": 31.4,
+      "clutch_pts": 8,
+      "clutch_ts": 73.5,
+      "clutch_nrtg": 39.1,
       "onoff_nrtg": -13.1,
+      "chart_fga": 44,
+      "xpps": 1.154,
+      "pps": 1.136,
+      "pps_diff": -0.017,
       "photo_filename": "salgotarjani-kse-cserenyi-marcell.jpg",
       "height_cm": 193,
       "position": "3-4",
@@ -471,7 +616,10 @@
         "blk_100": 46,
         "fd_100": 22,
         "on_nrtg": 22,
-        "onoff_nrtg": 23
+        "onoff_nrtg": 23,
+        "xpps": 98,
+        "pps_diff": 44,
+        "assisted_pct": 73
       },
       "percentiles_pos": {
         "ppg": 57,
@@ -503,8 +651,39 @@
         "blk_100": 45,
         "fd_100": 29,
         "on_nrtg": 27,
-        "onoff_nrtg": 27
-      }
+        "onoff_nrtg": 27,
+        "xpps": 100,
+        "pps_diff": 49,
+        "assisted_pct": 67
+      },
+      "ast_to": [
+        [
+          "Fekete Viktor Norbert",
+          3
+        ],
+        [
+          "Mucza Tamás",
+          2
+        ],
+        [
+          "Takács Dániel",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Fekete Viktor Norbert",
+          6
+        ],
+        [
+          "Takács Dániel",
+          4
+        ],
+        [
+          "Mucza Tamás",
+          3
+        ]
+      ]
     },
     {
       "name": "Fekete Viktor Norbert",
@@ -557,7 +736,16 @@
       "on_nrtg": -6.8,
       "off_nrtg": -6.5,
       "off_poss": 247.3,
+      "assisted_pct": 60.9,
+      "clutch_poss": 13.0,
+      "clutch_pts": 9,
+      "clutch_ts": 112.5,
+      "clutch_nrtg": -4.1,
       "onoff_nrtg": -0.3,
+      "chart_fga": 58,
+      "xpps": 1.063,
+      "pps": 1.052,
+      "pps_diff": -0.012,
       "photo_filename": "salgotarjani-kse-fekete-viktor-norbert.jpg",
       "height_cm": 189,
       "position": "2-3",
@@ -596,7 +784,10 @@
         "blk_100": 46,
         "fd_100": 61,
         "on_nrtg": 34,
-        "onoff_nrtg": 52
+        "onoff_nrtg": 52,
+        "xpps": 81,
+        "pps_diff": 47,
+        "assisted_pct": 52
       },
       "percentiles_pos": {
         "ppg": 84,
@@ -631,8 +822,39 @@
         "blk_100": 45,
         "fd_100": 67,
         "on_nrtg": 41,
-        "onoff_nrtg": 62
-      }
+        "onoff_nrtg": 62,
+        "xpps": 83,
+        "pps_diff": 54,
+        "assisted_pct": 42
+      },
+      "ast_to": [
+        [
+          "Mucza Tamás",
+          6
+        ],
+        [
+          "Cserényi Marcell",
+          6
+        ],
+        [
+          "Boka-Magó Áron István",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Takács Dániel",
+          5
+        ],
+        [
+          "Mucza Tamás",
+          3
+        ],
+        [
+          "Cserényi Marcell",
+          3
+        ]
+      ]
     },
     {
       "name": "Nagy Ádám Béla",
@@ -685,7 +907,16 @@
       "on_nrtg": 2.0,
       "off_nrtg": -8.2,
       "off_poss": 455.6,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 10.2,
+      "chart_fga": 3,
+      "xpps": 1.29,
+      "pps": 0.667,
+      "pps_diff": -0.623,
       "photo_filename": "salgotarjani-kse-nagy-adam-bela.jpg",
       "height_cm": 202,
       "position": "5",
@@ -746,7 +977,14 @@
         "fd_100": 63,
         "on_nrtg": 63,
         "onoff_nrtg": 70
-      }
+      },
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Mucza Tamás",
+          1
+        ]
+      ]
     },
     {
       "name": "Boka-Magó Áron István",
@@ -799,7 +1037,16 @@
       "on_nrtg": -0.2,
       "off_nrtg": -13.3,
       "off_poss": 269.0,
+      "assisted_pct": 63.2,
+      "clutch_poss": 26.6,
+      "clutch_pts": 3,
+      "clutch_ts": 50.0,
+      "clutch_nrtg": 47.5,
       "onoff_nrtg": 13.1,
+      "chart_fga": 51,
+      "xpps": 0.992,
+      "pps": 1.02,
+      "pps_diff": 0.028,
       "photo_filename": "salgotarjani-kse-boka-mago-aron-istvan.jpg",
       "height_cm": 193,
       "position": "3-4",
@@ -838,7 +1085,10 @@
         "blk_100": 62,
         "fd_100": 19,
         "on_nrtg": 56,
-        "onoff_nrtg": 81
+        "onoff_nrtg": 81,
+        "xpps": 44,
+        "pps_diff": 58,
+        "assisted_pct": 59
       },
       "percentiles_pos": {
         "ppg": 63,
@@ -873,8 +1123,39 @@
         "blk_100": 61,
         "fd_100": 27,
         "on_nrtg": 61,
-        "onoff_nrtg": 88
-      }
+        "onoff_nrtg": 88,
+        "xpps": 37,
+        "pps_diff": 60,
+        "assisted_pct": 50
+      },
+      "ast_to": [
+        [
+          "Kámán Bálint",
+          3
+        ],
+        [
+          "Hargitai Krisztián",
+          3
+        ],
+        [
+          "Osztoics Milán",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Takács Dániel",
+          4
+        ],
+        [
+          "Mucza Tamás",
+          4
+        ],
+        [
+          "Kámán Bálint",
+          2
+        ]
+      ]
     },
     {
       "name": "Hargitai Krisztián",
@@ -927,7 +1208,16 @@
       "on_nrtg": -9.5,
       "off_nrtg": -3.1,
       "off_poss": 254.6,
+      "assisted_pct": 84.6,
+      "clutch_poss": 29.5,
+      "clutch_pts": 7,
+      "clutch_ts": 96.2,
+      "clutch_nrtg": 48.9,
       "onoff_nrtg": -6.5,
+      "chart_fga": 29,
+      "xpps": 1.203,
+      "pps": 0.966,
+      "pps_diff": -0.238,
       "photo_filename": "salgotarjani-kse-hargitai-krisztian.jpg",
       "height_cm": 194,
       "position": "3-4",
@@ -990,7 +1280,35 @@
         "fd_100": 61,
         "on_nrtg": 33,
         "onoff_nrtg": 40
-      }
+      },
+      "ast_to": [
+        [
+          "Kámán Bálint",
+          4
+        ],
+        [
+          "Osztoics Milán",
+          1
+        ],
+        [
+          "Takács Dániel",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Boka-Magó Áron István",
+          3
+        ],
+        [
+          "Kámán Bálint",
+          2
+        ],
+        [
+          "Takács Dániel",
+          2
+        ]
+      ]
     },
     {
       "name": "Kámán Bálint",
@@ -1043,7 +1361,16 @@
       "on_nrtg": -14.2,
       "off_nrtg": -1.3,
       "off_poss": 329.2,
+      "assisted_pct": 47.6,
+      "clutch_poss": 7.4,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 38.1,
       "onoff_nrtg": -12.9,
+      "chart_fga": 54,
+      "xpps": 0.989,
+      "pps": 0.889,
+      "pps_diff": -0.1,
       "photo_filename": "salgotarjani-kse-kaman-balint.jpg",
       "height_cm": 185,
       "position": "1-2",
@@ -1082,7 +1409,10 @@
         "blk_100": 46,
         "fd_100": 98,
         "on_nrtg": 16,
-        "onoff_nrtg": 25
+        "onoff_nrtg": 25,
+        "xpps": 43,
+        "pps_diff": 25,
+        "assisted_pct": 32
       },
       "percentiles_pos": {
         "ppg": 55,
@@ -1117,8 +1447,39 @@
         "blk_100": 65,
         "fd_100": 95,
         "on_nrtg": 18,
-        "onoff_nrtg": 21
-      }
+        "onoff_nrtg": 21,
+        "xpps": 66,
+        "pps_diff": 19,
+        "assisted_pct": 59
+      },
+      "ast_to": [
+        [
+          "Hargitai Krisztián",
+          2
+        ],
+        [
+          "Boka-Magó Áron István",
+          2
+        ],
+        [
+          "Fekete Viktor Norbert",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Hargitai Krisztián",
+          4
+        ],
+        [
+          "Boka-Magó Áron István",
+          3
+        ],
+        [
+          "Cserényi Marcell",
+          1
+        ]
+      ]
     },
     {
       "name": "Németh Atilla Gergő",
@@ -1171,14 +1532,38 @@
       "on_nrtg": 8.8,
       "off_nrtg": -9.7,
       "off_poss": 455.0,
+      "assisted_pct": 60.0,
+      "clutch_poss": 8.1,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 80.2,
       "onoff_nrtg": 18.5,
+      "chart_fga": 9,
+      "xpps": 1.0,
+      "pps": 1.444,
+      "pps_diff": 0.445,
       "photo_filename": "salgotarjani-kse-nemeth-atilla-gergo.jpg",
       "height_cm": 184,
       "position": "2",
       "birth_year": 2008,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Takács Dániel",
+          1
+        ],
+        [
+          "Williams Jr Eric Leval",
+          1
+        ],
+        [
+          "Kámán Bálint",
+          1
+        ]
+      ]
     },
     {
       "name": "Balázs Márton József",
@@ -1231,7 +1616,16 @@
       "on_nrtg": -2.3,
       "off_nrtg": -7.9,
       "off_poss": 431.8,
+      "assisted_pct": null,
+      "clutch_poss": 5.8,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -27.8,
       "onoff_nrtg": 5.6,
+      "chart_fga": 8,
+      "xpps": 0.843,
+      "pps": 0.0,
+      "pps_diff": -0.843,
       "photo_filename": "salgotarjani-kse-balazs-marton-jozsef.jpg",
       "height_cm": 181,
       "position": "1",
@@ -1292,7 +1686,9 @@
         "fd_100": 2,
         "on_nrtg": 50,
         "onoff_nrtg": 58
-      }
+      },
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Osztoics Milán",
@@ -1345,7 +1741,16 @@
       "on_nrtg": -6.4,
       "off_nrtg": -6.6,
       "off_poss": 450.9,
+      "assisted_pct": 71.4,
+      "clutch_poss": 3.6,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 192.3,
       "onoff_nrtg": 0.3,
+      "chart_fga": 14,
+      "xpps": 1.182,
+      "pps": 1.0,
+      "pps_diff": -0.182,
       "photo_filename": "salgotarjani-kse-osztoics-milan.jpg",
       "height_cm": 208,
       "position": "5",
@@ -1406,7 +1811,22 @@
         "fd_100": 70,
         "on_nrtg": 26,
         "onoff_nrtg": 48
-      }
+      },
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Mucza Tamás",
+          2
+        ],
+        [
+          "Boka-Magó Áron István",
+          1
+        ],
+        [
+          "Hargitai Krisztián",
+          1
+        ]
+      ]
     },
     {
       "name": "Cserényi Martin",
@@ -1459,14 +1879,25 @@
       "on_nrtg": 10.3,
       "off_nrtg": -7.0,
       "off_poss": 535.9,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 17.2,
+      "chart_fga": 1,
+      "xpps": 0.887,
+      "pps": 0.0,
+      "pps_diff": -0.887,
       "photo_filename": "salgotarjani-kse-cserenyi-martin.jpg",
       "height_cm": 185,
       "position": "1-2",
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

@@ -63,7 +63,16 @@
       "on_nrtg": 12.8,
       "off_nrtg": -14.4,
       "off_poss": 159.1,
+      "assisted_pct": 45.0,
+      "clutch_poss": 21.6,
+      "clutch_pts": 4,
+      "clutch_ts": 40.0,
+      "clutch_nrtg": 24.0,
       "onoff_nrtg": 27.2,
+      "chart_fga": 70,
+      "xpps": 1.039,
+      "pps": 1.257,
+      "pps_diff": 0.218,
       "photo_filename": "pvsk-panthers-balogh-szilard.jpg",
       "height_cm": 185,
       "position": "1",
@@ -102,7 +111,10 @@
         "blk_100": 46,
         "fd_100": 78,
         "on_nrtg": 86,
-        "onoff_nrtg": 95
+        "onoff_nrtg": 95,
+        "xpps": 65,
+        "pps_diff": 93,
+        "assisted_pct": 29
       },
       "percentiles_pos": {
         "ppg": 92,
@@ -137,8 +149,39 @@
         "blk_100": 65,
         "fd_100": 75,
         "on_nrtg": 88,
-        "onoff_nrtg": 97
-      }
+        "onoff_nrtg": 97,
+        "xpps": 88,
+        "pps_diff": 91,
+        "assisted_pct": 56
+      },
+      "ast_to": [
+        [
+          "Dordevic Nemanja",
+          10
+        ],
+        [
+          "Molnár Mátyás",
+          9
+        ],
+        [
+          "Csaba György",
+          7
+        ]
+      ],
+      "ast_by": [
+        [
+          "Dordevic Nemanja",
+          5
+        ],
+        [
+          "Werner Viktor",
+          5
+        ],
+        [
+          "Molnár Mátyás",
+          4
+        ]
+      ]
     },
     {
       "name": "Molnár Mátyás",
@@ -191,7 +234,16 @@
       "on_nrtg": 11.8,
       "off_nrtg": -7.4,
       "off_poss": 194.0,
+      "assisted_pct": 48.0,
+      "clutch_poss": 21.5,
+      "clutch_pts": 12,
+      "clutch_ts": 81.1,
+      "clutch_nrtg": -1.8,
       "onoff_nrtg": 19.2,
+      "chart_fga": 104,
+      "xpps": 1.012,
+      "pps": 1.192,
+      "pps_diff": 0.18,
       "photo_filename": "pvsk-panthers-molnar-matyas.jpg",
       "height_cm": 188,
       "position": "2",
@@ -230,7 +282,10 @@
         "blk_100": 48,
         "fd_100": 75,
         "on_nrtg": 84,
-        "onoff_nrtg": 86
+        "onoff_nrtg": 86,
+        "xpps": 54,
+        "pps_diff": 85,
+        "assisted_pct": 33
       },
       "percentiles_pos": {
         "ppg": 98,
@@ -265,8 +320,39 @@
         "blk_100": 72,
         "fd_100": 68,
         "on_nrtg": 82,
-        "onoff_nrtg": 84
-      }
+        "onoff_nrtg": 84,
+        "xpps": 69,
+        "pps_diff": 81,
+        "assisted_pct": 62
+      },
+      "ast_to": [
+        [
+          "Csaba György",
+          5
+        ],
+        [
+          "Kertész Dávid",
+          4
+        ],
+        [
+          "Balogh Szilárd",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balogh Szilárd",
+          9
+        ],
+        [
+          "Csaba György",
+          4
+        ],
+        [
+          "Werner Viktor",
+          3
+        ]
+      ]
     },
     {
       "name": "Dordevic Nemanja",
@@ -319,7 +405,16 @@
       "on_nrtg": -3.2,
       "off_nrtg": 16.6,
       "off_poss": 290.8,
+      "assisted_pct": 50.0,
+      "clutch_poss": 18.7,
+      "clutch_pts": 7,
+      "clutch_ts": 67.3,
+      "clutch_nrtg": 9.2,
       "onoff_nrtg": -19.8,
+      "chart_fga": 80,
+      "xpps": 1.052,
+      "pps": 0.95,
+      "pps_diff": -0.102,
       "photo_filename": "pvsk-panthers-dordevic-nemanja.jpg",
       "height_cm": 206,
       "position": "5",
@@ -358,7 +453,10 @@
         "blk_100": 55,
         "fd_100": 90,
         "on_nrtg": 47,
-        "onoff_nrtg": 12
+        "onoff_nrtg": 12,
+        "xpps": 77,
+        "pps_diff": 23,
+        "assisted_pct": 40
       },
       "percentiles_pos": {
         "ppg": 89,
@@ -391,8 +489,39 @@
         "blk_100": 22,
         "fd_100": 96,
         "on_nrtg": 37,
-        "onoff_nrtg": 11
-      }
+        "onoff_nrtg": 11,
+        "xpps": 50,
+        "pps_diff": 29,
+        "assisted_pct": 14
+      },
+      "ast_to": [
+        [
+          "Balogh Szilárd",
+          5
+        ],
+        [
+          "Molnár Mátyás",
+          2
+        ],
+        [
+          "Bunos Oleksandr",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balogh Szilárd",
+          10
+        ],
+        [
+          "Molnár Mátyás",
+          4
+        ],
+        [
+          "Csaba György",
+          1
+        ]
+      ]
     },
     {
       "name": "Bunos Oleksandr",
@@ -445,7 +574,16 @@
       "on_nrtg": 5.1,
       "off_nrtg": 6.8,
       "off_poss": 336.8,
+      "assisted_pct": 84.6,
+      "clutch_poss": 8.8,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 41.4,
       "onoff_nrtg": -1.7,
+      "chart_fga": 38,
+      "xpps": 1.047,
+      "pps": 0.763,
+      "pps_diff": -0.284,
       "photo_filename": "pvsk-panthers-bunos-oleksandr.jpg",
       "height_cm": 193,
       "position": "3",
@@ -483,7 +621,10 @@
         "blk_100": 55,
         "fd_100": 36,
         "on_nrtg": 72,
-        "onoff_nrtg": 47
+        "onoff_nrtg": 47,
+        "xpps": 69,
+        "pps_diff": 5,
+        "assisted_pct": 95
       },
       "percentiles_pos": {
         "ppg": 35,
@@ -517,8 +658,31 @@
         "blk_100": 55,
         "fd_100": 43,
         "on_nrtg": 76,
-        "onoff_nrtg": 50
-      }
+        "onoff_nrtg": 50,
+        "xpps": 69,
+        "pps_diff": 9,
+        "assisted_pct": 92
+      },
+      "ast_to": [
+        [
+          "Csaba György",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Csaba György",
+          4
+        ],
+        [
+          "Balogh Szilárd",
+          2
+        ],
+        [
+          "Dordevic Nemanja",
+          2
+        ]
+      ]
     },
     {
       "name": "Kertész Dávid",
@@ -571,7 +735,16 @@
       "on_nrtg": -9.0,
       "off_nrtg": 23.9,
       "off_poss": 293.3,
+      "assisted_pct": 81.8,
+      "clutch_poss": 10.8,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -4.3,
       "onoff_nrtg": -32.9,
+      "chart_fga": 63,
+      "xpps": 1.051,
+      "pps": 0.778,
+      "pps_diff": -0.273,
       "photo_filename": "pvsk-panthers-kertesz-david.jpg",
       "height_cm": 198,
       "position": "3",
@@ -610,7 +783,10 @@
         "blk_100": 46,
         "fd_100": 24,
         "on_nrtg": 28,
-        "onoff_nrtg": 4
+        "onoff_nrtg": 4,
+        "xpps": 74,
+        "pps_diff": 7,
+        "assisted_pct": 91
       },
       "percentiles_pos": {
         "ppg": 53,
@@ -645,8 +821,39 @@
         "blk_100": 45,
         "fd_100": 31,
         "on_nrtg": 35,
-        "onoff_nrtg": 6
-      }
+        "onoff_nrtg": 6,
+        "xpps": 74,
+        "pps_diff": 14,
+        "assisted_pct": 86
+      },
+      "ast_to": [
+        [
+          "Werner Viktor",
+          2
+        ],
+        [
+          "Molnár Mátyás",
+          2
+        ],
+        [
+          "Czermann Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Molnár Mátyás",
+          4
+        ],
+        [
+          "Balogh Szilárd",
+          4
+        ],
+        [
+          "Czermann Máté",
+          4
+        ]
+      ]
     },
     {
       "name": "Csaba György",
@@ -699,7 +906,16 @@
       "on_nrtg": 5.0,
       "off_nrtg": 6.5,
       "off_poss": 392.1,
+      "assisted_pct": 77.8,
+      "clutch_poss": 6.9,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": -7.5,
       "onoff_nrtg": -1.6,
+      "chart_fga": 36,
+      "xpps": 1.051,
+      "pps": 1.083,
+      "pps_diff": 0.033,
       "photo_filename": "pvsk-panthers-csaba-gyorgy.jpg",
       "height_cm": 194,
       "position": "4",
@@ -736,7 +952,10 @@
         "blk_100": 62,
         "fd_100": 67,
         "on_nrtg": 72,
-        "onoff_nrtg": 49
+        "onoff_nrtg": 49,
+        "xpps": 74,
+        "pps_diff": 60,
+        "assisted_pct": 84
       },
       "percentiles_pos": {
         "ppg": 51,
@@ -769,8 +988,39 @@
         "blk_100": 61,
         "fd_100": 78,
         "on_nrtg": 73,
-        "onoff_nrtg": 54
-      }
+        "onoff_nrtg": 54,
+        "xpps": 74,
+        "pps_diff": 66,
+        "assisted_pct": 78
+      },
+      "ast_to": [
+        [
+          "Bunos Oleksandr",
+          4
+        ],
+        [
+          "Molnár Mátyás",
+          4
+        ],
+        [
+          "Balogh Szilárd",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balogh Szilárd",
+          7
+        ],
+        [
+          "Molnár Mátyás",
+          5
+        ],
+        [
+          "Bunos Oleksandr",
+          2
+        ]
+      ]
     },
     {
       "name": "Aradi Atilla",
@@ -823,7 +1073,16 @@
       "on_nrtg": -28.9,
       "off_nrtg": 13.5,
       "off_poss": 526.9,
+      "assisted_pct": 100.0,
+      "clutch_poss": 6.0,
+      "clutch_pts": 3,
+      "clutch_ts": 37.5,
+      "clutch_nrtg": -36.7,
       "onoff_nrtg": -42.4,
+      "chart_fga": 20,
+      "xpps": 0.928,
+      "pps": 0.75,
+      "pps_diff": -0.178,
       "photo_filename": "pvsk-panthers-aradi-atilla.jpg",
       "height_cm": 198,
       "position": "4",
@@ -886,7 +1145,23 @@
         "fd_100": 4,
         "on_nrtg": 6,
         "onoff_nrtg": 2
-      }
+      },
+      "ast_to": [
+        [
+          "Dordevic Nemanja",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balogh Szilárd",
+          4
+        ],
+        [
+          "Dordevic Nemanja",
+          1
+        ]
+      ]
     },
     {
       "name": "Czermann Máté",
@@ -939,7 +1214,16 @@
       "on_nrtg": 11.7,
       "off_nrtg": -0.7,
       "off_poss": 297.8,
+      "assisted_pct": 33.3,
+      "clutch_poss": 27.5,
+      "clutch_pts": 3,
+      "clutch_ts": 38.7,
+      "clutch_nrtg": -13.2,
       "onoff_nrtg": 12.4,
+      "chart_fga": 49,
+      "xpps": 1.027,
+      "pps": 0.796,
+      "pps_diff": -0.231,
       "photo_filename": "pvsk-panthers-czermann-mate.jpg",
       "height_cm": 190,
       "position": "2",
@@ -978,7 +1262,10 @@
         "blk_100": 46,
         "fd_100": 72,
         "on_nrtg": 84,
-        "onoff_nrtg": 80
+        "onoff_nrtg": 80,
+        "xpps": 62,
+        "pps_diff": 9,
+        "assisted_pct": 12
       },
       "percentiles_pos": {
         "ppg": 32,
@@ -1013,8 +1300,39 @@
         "blk_100": 65,
         "fd_100": 65,
         "on_nrtg": 80,
-        "onoff_nrtg": 76
-      }
+        "onoff_nrtg": 76,
+        "xpps": 84,
+        "pps_diff": 3,
+        "assisted_pct": 25
+      },
+      "ast_to": [
+        [
+          "Kertész Dávid",
+          4
+        ],
+        [
+          "Molnár Mátyás",
+          3
+        ],
+        [
+          "Werner Viktor",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balogh Szilárd",
+          3
+        ],
+        [
+          "Kertész Dávid",
+          1
+        ],
+        [
+          "Molnár Mátyás",
+          1
+        ]
+      ]
     },
     {
       "name": "Werner Viktor",
@@ -1067,7 +1385,16 @@
       "on_nrtg": 30.6,
       "off_nrtg": -9.1,
       "off_poss": 402.0,
+      "assisted_pct": 84.6,
+      "clutch_poss": 7.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -64.6,
       "onoff_nrtg": 39.7,
+      "chart_fga": 18,
+      "xpps": 1.206,
+      "pps": 1.444,
+      "pps_diff": 0.238,
       "photo_filename": "pvsk-panthers-werner-viktor.jpg",
       "height_cm": 204,
       "position": "5",
@@ -1128,7 +1455,35 @@
         "fd_100": 26,
         "on_nrtg": 96,
         "onoff_nrtg": 100
-      }
+      },
+      "ast_to": [
+        [
+          "Balogh Szilárd",
+          5
+        ],
+        [
+          "Molnár Mátyás",
+          3
+        ],
+        [
+          "Kertész Dávid",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balogh Szilárd",
+          4
+        ],
+        [
+          "Molnár Mátyás",
+          2
+        ],
+        [
+          "Kertész Dávid",
+          2
+        ]
+      ]
     },
     {
       "name": "Szita Márton Tibor",
@@ -1181,7 +1536,16 @@
       "on_nrtg": 10.4,
       "off_nrtg": 2.2,
       "off_poss": 351.3,
+      "assisted_pct": 63.2,
+      "clutch_poss": 13.7,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": -13.4,
       "onoff_nrtg": 8.1,
+      "chart_fga": 44,
+      "xpps": 1.008,
+      "pps": 0.977,
+      "pps_diff": -0.031,
       "photo_filename": "pvsk-panthers-szita-marton-tibor.jpg",
       "height_cm": 194,
       "position": "3",
@@ -1219,7 +1583,10 @@
         "blk_100": 76,
         "fd_100": 41,
         "on_nrtg": 81,
-        "onoff_nrtg": 72
+        "onoff_nrtg": 72,
+        "xpps": 51,
+        "pps_diff": 38,
+        "assisted_pct": 59
       },
       "percentiles_pos": {
         "ppg": 47,
@@ -1253,8 +1620,39 @@
         "blk_100": 78,
         "fd_100": 51,
         "on_nrtg": 88,
-        "onoff_nrtg": 77
-      }
+        "onoff_nrtg": 77,
+        "xpps": 49,
+        "pps_diff": 43,
+        "assisted_pct": 50
+      },
+      "ast_to": [
+        [
+          "Kertész Dávid",
+          2
+        ],
+        [
+          "Balogh Szilárd",
+          1
+        ],
+        [
+          "Werner Viktor",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balogh Szilárd",
+          5
+        ],
+        [
+          "Csaba György",
+          2
+        ],
+        [
+          "Molnár Mátyás",
+          2
+        ]
+      ]
     },
     {
       "name": "Hadnagy Csanád",
@@ -1307,13 +1705,24 @@
       "on_nrtg": -81.5,
       "off_nrtg": 7.6,
       "off_poss": 631.2,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -89.2,
+      "chart_fga": 2,
+      "xpps": 0.898,
+      "pps": 0.0,
+      "pps_diff": -0.898,
       "height_cm": 188,
       "position": "2",
       "birth_year": 2007,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Galambos Gábor",
@@ -1366,6 +1775,11 @@
       "on_nrtg": -40.3,
       "off_nrtg": 6.2,
       "off_poss": 638.1,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -46.5,
       "photo_filename": "pvsk-panthers-galambos-gabor.jpg",
       "height_cm": 191,
@@ -1373,7 +1787,9 @@
       "birth_year": 2008,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Arató Gergő",
@@ -1426,6 +1842,11 @@
       "on_nrtg": -77.9,
       "off_nrtg": 6.4,
       "off_poss": 640.0,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -84.3,
       "photo_filename": "pvsk-panthers-arato-gergo.jpg",
       "height_cm": 186,
@@ -1433,7 +1854,9 @@
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Bodonyi Barnabás",
@@ -1486,6 +1909,11 @@
       "on_nrtg": -71.0,
       "off_nrtg": 7.2,
       "off_poss": 632.3,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -78.2,
       "photo_filename": "pvsk-panthers-bodonyi-barnabas.jpg",
       "height_cm": 185,
@@ -1493,7 +1921,9 @@
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

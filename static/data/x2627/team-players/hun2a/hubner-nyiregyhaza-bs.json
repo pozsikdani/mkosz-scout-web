@@ -63,7 +63,16 @@
       "on_nrtg": -18.8,
       "off_nrtg": -16.4,
       "off_poss": 211.8,
+      "assisted_pct": 57.1,
+      "clutch_poss": 16.3,
+      "clutch_pts": 3,
+      "clutch_ts": 23.3,
+      "clutch_nrtg": -68.4,
       "onoff_nrtg": -2.4,
+      "chart_fga": 62,
+      "xpps": 0.924,
+      "pps": 0.887,
+      "pps_diff": -0.037,
       "photo_filename": "hubner-nyiregyhaza-bs-bazso-bruno-tamas.jpg",
       "height_cm": 195,
       "position": "3-4",
@@ -102,7 +111,10 @@
         "blk_100": 55,
         "fd_100": 94,
         "on_nrtg": 9,
-        "onoff_nrtg": 44
+        "onoff_nrtg": 44,
+        "xpps": 11,
+        "pps_diff": 37,
+        "assisted_pct": 49
       },
       "percentiles_pos": {
         "ppg": 94,
@@ -137,8 +149,39 @@
         "blk_100": 55,
         "fd_100": 98,
         "on_nrtg": 14,
-        "onoff_nrtg": 46
-      }
+        "onoff_nrtg": 46,
+        "xpps": 9,
+        "pps_diff": 40,
+        "assisted_pct": 36
+      },
+      "ast_to": [
+        [
+          "Tóth Patrik Kristóf",
+          5
+        ],
+        [
+          "Végső Bálint",
+          4
+        ],
+        [
+          "Orosi Bálint Gábor",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Végső Bálint",
+          5
+        ],
+        [
+          "Kopácsi Ákos",
+          2
+        ],
+        [
+          "Verebélyi Áron",
+          2
+        ]
+      ]
     },
     {
       "name": "Kopácsi Ákos",
@@ -191,7 +234,16 @@
       "on_nrtg": -15.4,
       "off_nrtg": -25.3,
       "off_poss": 139.2,
+      "assisted_pct": 31.0,
+      "clutch_poss": 27.1,
+      "clutch_pts": 8,
+      "clutch_ts": 69.4,
+      "clutch_nrtg": -35.0,
       "onoff_nrtg": 10.0,
+      "chart_fga": 78,
+      "xpps": 0.951,
+      "pps": 1.013,
+      "pps_diff": 0.062,
       "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg",
       "height_cm": 182,
       "position": "1-2",
@@ -230,7 +282,10 @@
         "blk_100": 46,
         "fd_100": 81,
         "on_nrtg": 13,
-        "onoff_nrtg": 73
+        "onoff_nrtg": 73,
+        "xpps": 22,
+        "pps_diff": 67,
+        "assisted_pct": 10
       },
       "percentiles_pos": {
         "ppg": 75,
@@ -265,8 +320,39 @@
         "blk_100": 65,
         "fd_100": 80,
         "on_nrtg": 12,
-        "onoff_nrtg": 71
-      }
+        "onoff_nrtg": 71,
+        "xpps": 34,
+        "pps_diff": 62,
+        "assisted_pct": 19
+      },
+      "ast_to": [
+        [
+          "Tóth Patrik Kristóf",
+          9
+        ],
+        [
+          "Végső Bálint",
+          7
+        ],
+        [
+          "Goór Dániel",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Richter Dániel",
+          3
+        ],
+        [
+          "Bazsó Brúnó Tamás",
+          2
+        ],
+        [
+          "Verebélyi Áron",
+          2
+        ]
+      ]
     },
     {
       "name": "Németh András",
@@ -319,14 +405,39 @@
       "on_nrtg": -27.4,
       "off_nrtg": -17.1,
       "off_poss": 501.8,
+      "assisted_pct": 100.0,
+      "clutch_poss": 1.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -51.0,
       "onoff_nrtg": -10.3,
+      "chart_fga": 13,
+      "xpps": 0.956,
+      "pps": 0.308,
+      "pps_diff": -0.648,
       "photo_filename": "hubner-nyiregyhaza-bs-nemeth-andras.jpg",
       "height_cm": 181,
       "position": "1-2",
       "birth_year": 2003,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Verebélyi Áron",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Verebélyi Áron",
+          1
+        ],
+        [
+          "Orosi Bálint Gábor",
+          1
+        ]
+      ]
     },
     {
       "name": "Tóth Patrik Kristóf",
@@ -379,7 +490,16 @@
       "on_nrtg": -4.4,
       "off_nrtg": -32.8,
       "off_poss": 259.6,
+      "assisted_pct": 78.1,
+      "clutch_poss": 18.6,
+      "clutch_pts": 2,
+      "clutch_ts": 33.3,
+      "clutch_nrtg": -65.7,
       "onoff_nrtg": 28.5,
+      "chart_fga": 57,
+      "xpps": 1.006,
+      "pps": 1.211,
+      "pps_diff": 0.204,
       "photo_filename": "hubner-nyiregyhaza-bs-toth-patrik-kristof.jpg",
       "height_cm": 202,
       "position": "4-5",
@@ -417,7 +537,10 @@
         "blk_100": 76,
         "fd_100": 34,
         "on_nrtg": 42,
-        "onoff_nrtg": 96
+        "onoff_nrtg": 96,
+        "xpps": 49,
+        "pps_diff": 88,
+        "assisted_pct": 85
       },
       "percentiles_pos": {
         "ppg": 85,
@@ -450,8 +573,39 @@
         "blk_100": 41,
         "fd_100": 41,
         "on_nrtg": 33,
-        "onoff_nrtg": 93
-      }
+        "onoff_nrtg": 93,
+        "xpps": 21,
+        "pps_diff": 86,
+        "assisted_pct": 79
+      },
+      "ast_to": [
+        [
+          "Verebélyi Áron",
+          1
+        ],
+        [
+          "Kristóf Péter Kristóf",
+          1
+        ],
+        [
+          "Bazsó Brúnó Tamás",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kopácsi Ákos",
+          9
+        ],
+        [
+          "Végső Bálint",
+          6
+        ],
+        [
+          "Bazsó Brúnó Tamás",
+          5
+        ]
+      ]
     },
     {
       "name": "Hibján Máté",
@@ -504,7 +658,16 @@
       "on_nrtg": -39.3,
       "off_nrtg": -4.0,
       "off_poss": 327.6,
+      "assisted_pct": 75.0,
+      "clutch_poss": 5.3,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -30.7,
       "onoff_nrtg": -35.3,
+      "chart_fga": 35,
+      "xpps": 0.976,
+      "pps": 0.6,
+      "pps_diff": -0.376,
       "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg",
       "height_cm": 190,
       "position": "2-3",
@@ -541,7 +704,10 @@
         "blk_100": 46,
         "fd_100": 28,
         "on_nrtg": 2,
-        "onoff_nrtg": 3
+        "onoff_nrtg": 3,
+        "xpps": 37,
+        "pps_diff": 4,
+        "assisted_pct": 79
       },
       "percentiles_pos": {
         "ppg": 20,
@@ -574,8 +740,39 @@
         "blk_100": 45,
         "fd_100": 37,
         "on_nrtg": 2,
-        "onoff_nrtg": 4
-      }
+        "onoff_nrtg": 4,
+        "xpps": 34,
+        "pps_diff": 6,
+        "assisted_pct": 75
+      },
+      "ast_to": [
+        [
+          "Richter Dániel",
+          1
+        ],
+        [
+          "Orosi Bálint Gábor",
+          1
+        ],
+        [
+          "Bazsó Brúnó Tamás",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Richter Dániel",
+          2
+        ],
+        [
+          "Végső Bálint",
+          2
+        ],
+        [
+          "Kristóf Péter Kristóf",
+          1
+        ]
+      ]
     },
     {
       "name": "Richter Dániel",
@@ -628,7 +825,16 @@
       "on_nrtg": -33.6,
       "off_nrtg": -10.1,
       "off_poss": 368.4,
+      "assisted_pct": 58.3,
+      "clutch_poss": 8.8,
+      "clutch_pts": 3,
+      "clutch_ts": 38.7,
+      "clutch_nrtg": 14.2,
       "onoff_nrtg": -23.5,
+      "chart_fga": 30,
+      "xpps": 1.053,
+      "pps": 0.933,
+      "pps_diff": -0.12,
       "photo_filename": "hubner-nyiregyhaza-bs-richter-daniel.jpg",
       "height_cm": 185,
       "position": "2-3",
@@ -665,7 +871,10 @@
         "blk_100": 46,
         "fd_100": 47,
         "on_nrtg": 3,
-        "onoff_nrtg": 11
+        "onoff_nrtg": 11,
+        "xpps": 78,
+        "pps_diff": 20,
+        "assisted_pct": 50
       },
       "percentiles_pos": {
         "ppg": 49,
@@ -698,8 +907,39 @@
         "blk_100": 45,
         "fd_100": 55,
         "on_nrtg": 4,
-        "onoff_nrtg": 15
-      }
+        "onoff_nrtg": 15,
+        "xpps": 77,
+        "pps_diff": 26,
+        "assisted_pct": 39
+      },
+      "ast_to": [
+        [
+          "Kopácsi Ákos",
+          3
+        ],
+        [
+          "Hibján Máté",
+          2
+        ],
+        [
+          "Tóth Patrik Kristóf",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kopácsi Ákos",
+          2
+        ],
+        [
+          "Bazsó Brúnó Tamás",
+          1
+        ],
+        [
+          "Hibján Máté",
+          1
+        ]
+      ]
     },
     {
       "name": "Végső Bálint",
@@ -752,7 +992,16 @@
       "on_nrtg": 0.9,
       "off_nrtg": -63.9,
       "off_poss": 154.8,
+      "assisted_pct": 41.7,
+      "clutch_poss": 25.2,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -34.4,
       "onoff_nrtg": 64.7,
+      "chart_fga": 88,
+      "xpps": 0.963,
+      "pps": 1.057,
+      "pps_diff": 0.094,
       "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg",
       "height_cm": 180,
       "position": "1-2",
@@ -791,7 +1040,10 @@
         "blk_100": 46,
         "fd_100": 76,
         "on_nrtg": 59,
-        "onoff_nrtg": 100
+        "onoff_nrtg": 100,
+        "xpps": 30,
+        "pps_diff": 70,
+        "assisted_pct": 24
       },
       "percentiles_pos": {
         "ppg": 85,
@@ -826,8 +1078,39 @@
         "blk_100": 65,
         "fd_100": 70,
         "on_nrtg": 58,
-        "onoff_nrtg": 100
-      }
+        "onoff_nrtg": 100,
+        "xpps": 47,
+        "pps_diff": 66,
+        "assisted_pct": 44
+      },
+      "ast_to": [
+        [
+          "Tóth Patrik Kristóf",
+          6
+        ],
+        [
+          "Bazsó Brúnó Tamás",
+          5
+        ],
+        [
+          "Goór Dániel",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kopácsi Ákos",
+          7
+        ],
+        [
+          "Bazsó Brúnó Tamás",
+          4
+        ],
+        [
+          "Orosi Bálint Gábor",
+          1
+        ]
+      ]
     },
     {
       "name": "Verebélyi Áron",
@@ -880,7 +1163,16 @@
       "on_nrtg": -20.7,
       "off_nrtg": -16.2,
       "off_poss": 344.2,
+      "assisted_pct": 70.0,
+      "clutch_poss": 5.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -58.5,
       "onoff_nrtg": -4.5,
+      "chart_fga": 27,
+      "xpps": 0.987,
+      "pps": 0.889,
+      "pps_diff": -0.098,
       "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg",
       "height_cm": 197,
       "position": "1-2-3",
@@ -941,7 +1233,35 @@
         "fd_100": 6,
         "on_nrtg": 10,
         "onoff_nrtg": 44
-      }
+      },
+      "ast_to": [
+        [
+          "Bazsó Brúnó Tamás",
+          2
+        ],
+        [
+          "Kopácsi Ákos",
+          2
+        ],
+        [
+          "Tóth Patrik Kristóf",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Végső Bálint",
+          3
+        ],
+        [
+          "Tóth Patrik Kristóf",
+          1
+        ],
+        [
+          "Németh András",
+          1
+        ]
+      ]
     },
     {
       "name": "Orosi Bálint Gábor",
@@ -994,7 +1314,16 @@
       "on_nrtg": -39.5,
       "off_nrtg": -1.2,
       "off_poss": 306.7,
+      "assisted_pct": 80.0,
+      "clutch_poss": 5.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 64.6,
       "onoff_nrtg": -38.4,
+      "chart_fga": 26,
+      "xpps": 1.036,
+      "pps": 0.808,
+      "pps_diff": -0.228,
       "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg",
       "height_cm": 208,
       "position": "5",
@@ -1057,7 +1386,35 @@
         "fd_100": 48,
         "on_nrtg": 4,
         "onoff_nrtg": 4
-      }
+      },
+      "ast_to": [
+        [
+          "Kristóf Péter Kristóf",
+          1
+        ],
+        [
+          "Németh András",
+          1
+        ],
+        [
+          "Végső Bálint",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bazsó Brúnó Tamás",
+          3
+        ],
+        [
+          "Végső Bálint",
+          2
+        ],
+        [
+          "Hibján Máté",
+          1
+        ]
+      ]
     },
     {
       "name": "Goór Dániel",
@@ -1110,7 +1467,16 @@
       "on_nrtg": -10.4,
       "off_nrtg": -21.8,
       "off_poss": 360.9,
+      "assisted_pct": 81.8,
+      "clutch_poss": 17.9,
+      "clutch_pts": 6,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": -31.7,
       "onoff_nrtg": 11.4,
+      "chart_fga": 24,
+      "xpps": 1.013,
+      "pps": 1.25,
+      "pps_diff": 0.237,
       "photo_filename": "hubner-nyiregyhaza-bs-goor-daniel.jpg",
       "height_cm": 198,
       "position": "2-3",
@@ -1173,7 +1539,35 @@
         "fd_100": 10,
         "on_nrtg": 31,
         "onoff_nrtg": 83
-      }
+      },
+      "ast_to": [
+        [
+          "Tóth Patrik Kristóf",
+          2
+        ],
+        [
+          "Bazsó Brúnó Tamás",
+          1
+        ],
+        [
+          "Hibján Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Végső Bálint",
+          4
+        ],
+        [
+          "Kopácsi Ákos",
+          4
+        ],
+        [
+          "Verebélyi Áron",
+          1
+        ]
+      ]
     },
     {
       "name": "Kristóf Péter Kristóf",
@@ -1226,7 +1620,16 @@
       "on_nrtg": -22.1,
       "off_nrtg": -16.5,
       "off_poss": 416.2,
+      "assisted_pct": 100.0,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -23.7,
       "onoff_nrtg": -5.6,
+      "chart_fga": 8,
+      "xpps": 1.065,
+      "pps": 1.25,
+      "pps_diff": 0.185,
       "photo_filename": "hubner-nyiregyhaza-bs-kristof-peter-kristof.jpg",
       "height_cm": 184,
       "position": "1-2",
@@ -1287,7 +1690,35 @@
         "fd_100": 15,
         "on_nrtg": 2,
         "onoff_nrtg": 39
-      }
+      },
+      "ast_to": [
+        [
+          "Hibján Máté",
+          1
+        ],
+        [
+          "Richter Dániel",
+          1
+        ],
+        [
+          "Végső Bálint",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bazsó Brúnó Tamás",
+          1
+        ],
+        [
+          "Orosi Bálint Gábor",
+          1
+        ],
+        [
+          "Tóth Patrik Kristóf",
+          1
+        ]
+      ]
     },
     {
       "name": "Vajda Dávid Levente",
@@ -1340,13 +1771,29 @@
       "on_nrtg": -2.8,
       "off_nrtg": -19.6,
       "off_poss": 490.2,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 16.8,
+      "chart_fga": 6,
+      "xpps": 1.138,
+      "pps": 0.833,
+      "pps_diff": -0.305,
       "height_cm": 198,
       "position": "3-4",
       "birth_year": 2006,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Kristóf Péter Kristóf",
+          1
+        ]
+      ]
     },
     {
       "name": "Hámornyik Ákos",
@@ -1399,14 +1846,25 @@
       "on_nrtg": -1.5,
       "off_nrtg": -18.5,
       "off_poss": 524.2,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 17.0,
+      "chart_fga": 1,
+      "xpps": 1.164,
+      "pps": 0.0,
+      "pps_diff": -1.164,
       "photo_filename": "hubner-nyiregyhaza-bs-hamornyik-akos.jpg",
       "height_cm": 200,
       "position": "4-5",
       "birth_year": 2006,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Daróczi Zsombor",
@@ -1459,14 +1917,30 @@
       "on_nrtg": -20.7,
       "off_nrtg": -17.7,
       "off_poss": 525.5,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -3.0,
+      "chart_fga": 1,
+      "xpps": 0.887,
+      "pps": 0.0,
+      "pps_diff": -0.887,
       "photo_filename": "hubner-nyiregyhaza-bs-daroczi-zsombor.jpg",
       "height_cm": 190,
       "position": "4",
       "birth_year": 2010,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Orosi Bálint Gábor",
+          1
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Homonyik Péter",
@@ -1519,6 +1993,11 @@
       "on_nrtg": -154.6,
       "off_nrtg": -16.9,
       "off_poss": 543.1,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -137.8,
       "photo_filename": "hubner-nyiregyhaza-bs-homonyik-peter.jpg",
       "height_cm": 180,
@@ -1526,7 +2005,9 @@
       "birth_year": 2009,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Vascsák Noel",
@@ -1579,13 +2060,24 @@
       "on_nrtg": 73.6,
       "off_nrtg": -18.3,
       "off_poss": 544.2,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 91.9,
+      "chart_fga": 1,
+      "xpps": 0.909,
+      "pps": 0.0,
+      "pps_diff": -0.909,
       "height_cm": 195,
       "position": "3",
       "birth_year": 2010,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

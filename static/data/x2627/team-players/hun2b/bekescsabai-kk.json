@@ -63,7 +63,16 @@
       "on_nrtg": -15.8,
       "off_nrtg": -9.0,
       "off_poss": 34.6,
+      "assisted_pct": 75.0,
+      "clutch_poss": 6.2,
+      "clutch_pts": 1,
+      "clutch_ts": 56.8,
+      "clutch_nrtg": 0.3,
       "onoff_nrtg": -6.8,
+      "chart_fga": 57,
+      "xpps": 1.013,
+      "pps": 0.877,
+      "pps_diff": -0.136,
       "photo_filename": "bekescsabai-kk-hajdu-marton.jpg",
       "height_cm": 201,
       "position": "4-5",
@@ -100,7 +109,10 @@
         "stl_100": 15,
         "blk_100": 48,
         "fd_100": 32,
-        "on_nrtg": 17
+        "on_nrtg": 17,
+        "xpps": 82,
+        "pps_diff": 27,
+        "assisted_pct": 84
       },
       "percentiles_pos": {
         "ppg": 62,
@@ -133,8 +145,39 @@
         "stl_100": 12,
         "blk_100": 15,
         "fd_100": 19,
-        "on_nrtg": 15
-      }
+        "on_nrtg": 15,
+        "xpps": 71,
+        "pps_diff": 29,
+        "assisted_pct": 81
+      },
+      "ast_to": [
+        [
+          "Kurtucz Ferenc Krisztián",
+          5
+        ],
+        [
+          "Horváth Ákos",
+          3
+        ],
+        [
+          "Turán Simon",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Vágvölgyi Ákos",
+          5
+        ],
+        [
+          "Balog Gábor",
+          4
+        ],
+        [
+          "Turán Simon",
+          3
+        ]
+      ]
     },
     {
       "name": "Balog Gábor",
@@ -187,14 +230,51 @@
       "on_nrtg": -1.6,
       "off_nrtg": -25.1,
       "off_poss": 265.0,
+      "assisted_pct": 35.3,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 23.5,
+      "chart_fga": 38,
+      "xpps": 0.845,
+      "pps": 1.211,
+      "pps_diff": 0.365,
       "photo_filename": "bekescsabai-kk-balog-gabor.jpg",
       "height_cm": 183,
       "position": "1-2",
       "birth_year": 2001,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Turán Simon",
+          8
+        ],
+        [
+          "Horváth Ákos",
+          6
+        ],
+        [
+          "Hajdu Márton",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Horváth Ákos",
+          3
+        ],
+        [
+          "Faragó Márton",
+          1
+        ],
+        [
+          "Hajdu Márton",
+          1
+        ]
+      ]
     },
     {
       "name": "Horváth Ákos",
@@ -247,7 +327,16 @@
       "on_nrtg": -6.7,
       "off_nrtg": -42.9,
       "off_poss": 106.2,
+      "assisted_pct": 53.3,
+      "clutch_poss": 6.2,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -6.0,
       "onoff_nrtg": 36.2,
+      "chart_fga": 86,
+      "xpps": 0.865,
+      "pps": 0.895,
+      "pps_diff": 0.03,
       "photo_filename": "bekescsabai-kk-horvath-akos.jpg",
       "height_cm": 183,
       "position": "1-2",
@@ -285,7 +374,10 @@
         "blk_100": 43,
         "fd_100": 53,
         "on_nrtg": 32,
-        "onoff_nrtg": 98
+        "onoff_nrtg": 98,
+        "xpps": 6,
+        "pps_diff": 59,
+        "assisted_pct": 36
       },
       "percentiles_pos": {
         "ppg": 84,
@@ -319,8 +411,39 @@
         "blk_100": 60,
         "fd_100": 60,
         "on_nrtg": 28,
-        "onoff_nrtg": 98
-      }
+        "onoff_nrtg": 98,
+        "xpps": 14,
+        "pps_diff": 56,
+        "assisted_pct": 54
+      },
+      "ast_to": [
+        [
+          "Turán Simon",
+          9
+        ],
+        [
+          "Hajdu Márton",
+          3
+        ],
+        [
+          "Kurtucz Ferenc Krisztián",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balog Gábor",
+          6
+        ],
+        [
+          "Hajdu Márton",
+          3
+        ],
+        [
+          "Vágvölgyi Ákos",
+          2
+        ]
+      ]
     },
     {
       "name": "Kurtucz Ferenc Krisztián",
@@ -373,7 +496,16 @@
       "on_nrtg": -3.0,
       "off_nrtg": -31.0,
       "off_poss": 195.8,
+      "assisted_pct": 82.4,
+      "clutch_poss": 6.2,
+      "clutch_pts": 2,
+      "clutch_ts": 53.2,
+      "clutch_nrtg": 0.3,
       "onoff_nrtg": 28.0,
+      "chart_fga": 26,
+      "xpps": 1.125,
+      "pps": 1.308,
+      "pps_diff": 0.183,
       "photo_filename": "bekescsabai-kk-kurtucz-ferenc-krisztian.jpg",
       "height_cm": 201,
       "position": "3-4",
@@ -436,7 +568,35 @@
         "fd_100": 59,
         "on_nrtg": 48,
         "onoff_nrtg": 91
-      }
+      },
+      "ast_to": [
+        [
+          "Horváth Ákos",
+          2
+        ],
+        [
+          "Vágvölgyi Ákos",
+          1
+        ],
+        [
+          "Hajdu Márton",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Hajdu Márton",
+          5
+        ],
+        [
+          "Horváth Ákos",
+          3
+        ],
+        [
+          "Turán Simon",
+          2
+        ]
+      ]
     },
     {
       "name": "Vágvölgyi Ákos",
@@ -489,14 +649,51 @@
       "on_nrtg": -13.8,
       "off_nrtg": -16.8,
       "off_poss": 262.2,
+      "assisted_pct": 55.6,
+      "clutch_poss": 6.2,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 0.3,
       "onoff_nrtg": 3.1,
+      "chart_fga": 27,
+      "xpps": 0.934,
+      "pps": 0.778,
+      "pps_diff": -0.156,
       "photo_filename": "bekescsabai-kk-vagvolgyi-akos.jpg",
       "height_cm": 196,
       "position": "1-4",
       "birth_year": 1996,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Hajdu Márton",
+          5
+        ],
+        [
+          "Faragó Márton",
+          2
+        ],
+        [
+          "Turán Simon",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balikó György",
+          3
+        ],
+        [
+          "Kurtucz Ferenc Krisztián",
+          1
+        ],
+        [
+          "Hajdu Márton",
+          1
+        ]
+      ]
     },
     {
       "name": "Balikó György",
@@ -549,7 +746,16 @@
       "on_nrtg": -33.5,
       "off_nrtg": -1.8,
       "off_poss": 259.2,
+      "assisted_pct": 54.5,
+      "clutch_poss": 3.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 9.8,
       "onoff_nrtg": -31.7,
+      "chart_fga": 24,
+      "xpps": 1.032,
+      "pps": 0.833,
+      "pps_diff": -0.199,
       "photo_filename": "bekescsabai-kk-baliko-gyorgy.jpg",
       "height_cm": 185,
       "position": "2-3",
@@ -610,7 +816,35 @@
         "fd_100": 55,
         "on_nrtg": 5,
         "onoff_nrtg": 7
-      }
+      },
+      "ast_to": [
+        [
+          "Vágvölgyi Ákos",
+          3
+        ],
+        [
+          "Turán Simon",
+          1
+        ],
+        [
+          "Faragó Márton",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Horváth Ákos",
+          2
+        ],
+        [
+          "Faragó Márton",
+          1
+        ],
+        [
+          "Botta-Dukát Károly",
+          1
+        ]
+      ]
     },
     {
       "name": "Faragó Márton",
@@ -663,7 +897,16 @@
       "on_nrtg": -29.0,
       "off_nrtg": -8.5,
       "off_poss": 298.2,
+      "assisted_pct": 44.4,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -20.5,
+      "chart_fga": 21,
+      "xpps": 0.947,
+      "pps": 0.952,
+      "pps_diff": 0.005,
       "photo_filename": "bekescsabai-kk-farago-marton.jpg",
       "height_cm": 187,
       "position": "3-4",
@@ -724,7 +967,35 @@
         "fd_100": 11,
         "on_nrtg": 7,
         "onoff_nrtg": 14
-      }
+      },
+      "ast_to": [
+        [
+          "Balikó György",
+          1
+        ],
+        [
+          "Hajdu Márton",
+          1
+        ],
+        [
+          "Balog Gábor",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Vágvölgyi Ákos",
+          2
+        ],
+        [
+          "Scherber Kornél",
+          1
+        ],
+        [
+          "Balikó György",
+          1
+        ]
+      ]
     },
     {
       "name": "Turán Simon",
@@ -777,7 +1048,16 @@
       "on_nrtg": -4.8,
       "off_nrtg": -31.8,
       "off_poss": 174.2,
+      "assisted_pct": 82.8,
+      "clutch_poss": 2.8,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -41.1,
       "onoff_nrtg": 27.0,
+      "chart_fga": 53,
+      "xpps": 0.902,
+      "pps": 1.491,
+      "pps_diff": 0.589,
       "photo_filename": "bekescsabai-kk-turan-simon.jpg",
       "height_cm": 185,
       "position": "1-2",
@@ -816,7 +1096,10 @@
         "blk_100": 43,
         "fd_100": 88,
         "on_nrtg": 40,
-        "onoff_nrtg": 91
+        "onoff_nrtg": 91,
+        "xpps": 26,
+        "pps_diff": 100,
+        "assisted_pct": 94
       },
       "percentiles_pos": {
         "ppg": 96,
@@ -851,8 +1134,39 @@
         "blk_100": 60,
         "fd_100": 86,
         "on_nrtg": 40,
-        "onoff_nrtg": 88
-      }
+        "onoff_nrtg": 88,
+        "xpps": 36,
+        "pps_diff": 100,
+        "assisted_pct": 97
+      },
+      "ast_to": [
+        [
+          "Hajdu Márton",
+          3
+        ],
+        [
+          "Kurtucz Ferenc Krisztián",
+          2
+        ],
+        [
+          "Horváth Ákos",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Horváth Ákos",
+          9
+        ],
+        [
+          "Balog Gábor",
+          8
+        ],
+        [
+          "Hajdu Márton",
+          3
+        ]
+      ]
     },
     {
       "name": "Reisz Nándor",
@@ -905,7 +1219,16 @@
       "on_nrtg": -23.9,
       "off_nrtg": -11.9,
       "off_poss": 322.0,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -12.0,
+      "chart_fga": 13,
+      "xpps": 0.973,
+      "pps": 0.308,
+      "pps_diff": -0.666,
       "photo_filename": "bekescsabai-kk-reisz-nandor.jpg",
       "height_cm": 194,
       "position": "3-4",
@@ -966,7 +1289,27 @@
         "fd_100": 30,
         "on_nrtg": 14,
         "onoff_nrtg": 27
-      }
+      },
+      "ast_to": [
+        [
+          "Hajdu Márton",
+          1
+        ],
+        [
+          "Balikó György",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Balog Gábor",
+          1
+        ],
+        [
+          "Hajdu Márton",
+          1
+        ]
+      ]
     },
     {
       "name": "Botta-Dukát Károly",
@@ -1019,14 +1362,51 @@
       "on_nrtg": -55.0,
       "off_nrtg": -6.7,
       "off_poss": 372.2,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -48.3,
+      "chart_fga": 12,
+      "xpps": 0.969,
+      "pps": 0.75,
+      "pps_diff": -0.219,
       "photo_filename": "bekescsabai-kk-botta-dukat-karoly.jpg",
       "height_cm": 175,
       "position": "1-2",
       "birth_year": 2009,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Kurtucz Ferenc Krisztián",
+          1
+        ],
+        [
+          "Balikó György",
+          1
+        ],
+        [
+          "Horváth Ákos",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Vágvölgyi Ákos",
+          1
+        ],
+        [
+          "Hajdu Márton",
+          1
+        ],
+        [
+          "Balog Gábor",
+          1
+        ]
+      ]
     },
     {
       "name": "Latorcai Levente",
@@ -1079,14 +1459,25 @@
       "on_nrtg": -86.7,
       "off_nrtg": -13.6,
       "off_poss": 440.8,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -73.1,
+      "chart_fga": 2,
+      "xpps": 0.973,
+      "pps": 0.0,
+      "pps_diff": -0.973,
       "photo_filename": "bekescsabai-kk-latorcai-levente.jpg",
       "height_cm": 184,
       "position": "1-3",
       "birth_year": 2011,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Kohári Kristóf",
@@ -1139,6 +1530,11 @@
       "on_nrtg": 38.0,
       "off_nrtg": -16.2,
       "off_poss": 445.0,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 54.3,
       "photo_filename": "bekescsabai-kk-kohari-kristof.jpg",
       "height_cm": 177,
@@ -1146,7 +1542,9 @@
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Scherber Kornél",
@@ -1199,14 +1597,30 @@
       "on_nrtg": -108.1,
       "off_nrtg": -13.1,
       "off_poss": 440.1,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -95.0,
+      "chart_fga": 1,
+      "xpps": 0.879,
+      "pps": 0.0,
+      "pps_diff": -0.879,
       "photo_filename": "bekescsabai-kk-scherber-kornel.jpg",
       "height_cm": 175,
       "position": "1-2",
       "birth_year": 2009,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Faragó Márton",
+          1
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Csiki Roland",
@@ -1259,14 +1673,25 @@
       "on_nrtg": -160.0,
       "off_nrtg": -14.0,
       "off_poss": 447.0,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -146.0,
+      "chart_fga": 1,
+      "xpps": 1.634,
+      "pps": 0.0,
+      "pps_diff": -1.634,
       "photo_filename": "bekescsabai-kk-csiki-roland.jpg",
       "height_cm": 201,
       "position": "4-5",
       "birth_year": 2009,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

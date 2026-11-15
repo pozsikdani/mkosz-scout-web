@@ -63,7 +63,16 @@
       "on_nrtg": 1.2,
       "off_nrtg": 124.2,
       "off_poss": 3.9,
+      "assisted_pct": 56.0,
+      "clutch_poss": 32.5,
+      "clutch_pts": 6,
+      "clutch_ts": 87.2,
+      "clutch_nrtg": 30.5,
       "onoff_nrtg": -123.0,
+      "chart_fga": 58,
+      "xpps": 0.914,
+      "pps": 1.138,
+      "pps_diff": 0.224,
       "photo_filename": "bkg-prima-akademia-nagy-benedek-agost.jpg",
       "height_cm": 181,
       "position": "1-2",
@@ -101,7 +110,10 @@
         "stl_100": 81,
         "blk_100": 46,
         "fd_100": 39,
-        "on_nrtg": 61
+        "on_nrtg": 61,
+        "xpps": 10,
+        "pps_diff": 94,
+        "assisted_pct": 46
       },
       "percentiles_pos": {
         "ppg": 60,
@@ -135,8 +147,35 @@
         "stl_100": 70,
         "blk_100": 65,
         "fd_100": 28,
-        "on_nrtg": 60
-      }
+        "on_nrtg": 60,
+        "xpps": 19,
+        "pps_diff": 94,
+        "assisted_pct": 75
+      },
+      "ast_to": [
+        [
+          "Nagy Botond Ágoston",
+          17
+        ],
+        [
+          "Reiber Dean Thomas",
+          13
+        ],
+        [
+          "Csécsei Gergő",
+          6
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Botond Ágoston",
+          11
+        ],
+        [
+          "Reiber Dean Thomas",
+          3
+        ]
+      ]
     },
     {
       "name": "Nagy Botond Ágoston",
@@ -189,7 +228,16 @@
       "on_nrtg": 4.0,
       "off_nrtg": -56.0,
       "off_poss": 16.1,
+      "assisted_pct": 43.1,
+      "clutch_poss": 26.2,
+      "clutch_pts": 14,
+      "clutch_ts": 61.4,
+      "clutch_nrtg": 44.7,
       "onoff_nrtg": 60.0,
+      "chart_fga": 153,
+      "xpps": 0.888,
+      "pps": 0.948,
+      "pps_diff": 0.06,
       "photo_filename": "bkg-prima-akademia-nagy-botond-agoston.jpg",
       "height_cm": 178,
       "position": "1-2",
@@ -227,7 +275,10 @@
         "stl_100": 59,
         "blk_100": 46,
         "fd_100": 97,
-        "on_nrtg": 68
+        "on_nrtg": 68,
+        "xpps": 4,
+        "pps_diff": 65,
+        "assisted_pct": 27
       },
       "percentiles_pos": {
         "ppg": 100,
@@ -261,8 +312,39 @@
         "stl_100": 52,
         "blk_100": 65,
         "fd_100": 92,
-        "on_nrtg": 68
-      }
+        "on_nrtg": 68,
+        "xpps": 9,
+        "pps_diff": 59,
+        "assisted_pct": 50
+      },
+      "ast_to": [
+        [
+          "Nagy Benedek Ágost",
+          11
+        ],
+        [
+          "Reiber Dean Thomas",
+          9
+        ],
+        [
+          "Kovács Leonárd",
+          6
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Benedek Ágost",
+          17
+        ],
+        [
+          "Galambos Árpád",
+          2
+        ],
+        [
+          "Reiber Dean Thomas",
+          2
+        ]
+      ]
     },
     {
       "name": "Reiber Dean Thomas",
@@ -315,7 +397,16 @@
       "on_nrtg": 4.7,
       "off_nrtg": -17.3,
       "off_poss": 60.0,
+      "assisted_pct": 64.4,
+      "clutch_poss": 32.5,
+      "clutch_pts": 11,
+      "clutch_ts": 79.9,
+      "clutch_nrtg": 30.5,
       "onoff_nrtg": 22.0,
+      "chart_fga": 112,
+      "xpps": 0.94,
+      "pps": 0.92,
+      "pps_diff": -0.02,
       "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg",
       "height_cm": 204,
       "position": "4-5",
@@ -354,7 +445,10 @@
         "blk_100": 84,
         "fd_100": 78,
         "on_nrtg": 71,
-        "onoff_nrtg": 88
+        "onoff_nrtg": 88,
+        "xpps": 20,
+        "pps_diff": 41,
+        "assisted_pct": 66
       },
       "percentiles_pos": {
         "ppg": 100,
@@ -387,8 +481,39 @@
         "blk_100": 67,
         "fd_100": 78,
         "on_nrtg": 70,
-        "onoff_nrtg": 85
-      }
+        "onoff_nrtg": 85,
+        "xpps": 7,
+        "pps_diff": 43,
+        "assisted_pct": 57
+      },
+      "ast_to": [
+        [
+          "Büki Lóránt",
+          4
+        ],
+        [
+          "Nagy Benedek Ágost",
+          3
+        ],
+        [
+          "Kovács Leonárd",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Benedek Ágost",
+          13
+        ],
+        [
+          "Nagy Botond Ágoston",
+          9
+        ],
+        [
+          "Dokmanovic Milán",
+          6
+        ]
+      ]
     },
     {
       "name": "Galambos Árpád",
@@ -441,14 +566,51 @@
       "on_nrtg": 13.5,
       "off_nrtg": -1.3,
       "off_poss": 396.3,
+      "assisted_pct": 85.7,
+      "clutch_poss": 5.8,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": 62.2,
       "onoff_nrtg": 14.8,
+      "chart_fga": 13,
+      "xpps": 1.059,
+      "pps": 1.077,
+      "pps_diff": 0.018,
       "photo_filename": "bkg-prima-akademia-galambos-arpad.jpg",
       "height_cm": 200,
       "position": "4",
       "birth_year": 2002,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Nagy Botond Ágoston",
+          2
+        ],
+        [
+          "Büki Lóránt",
+          1
+        ],
+        [
+          "Dokmanovic Milán",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Benedek Ágost",
+          3
+        ],
+        [
+          "Nagy Botond Ágoston",
+          2
+        ],
+        [
+          "Reiber Dean Thomas",
+          1
+        ]
+      ]
     },
     {
       "name": "Kovács Leonárd",
@@ -501,7 +663,16 @@
       "on_nrtg": -2.9,
       "off_nrtg": 6.7,
       "off_poss": 270.5,
+      "assisted_pct": 88.2,
+      "clutch_poss": 25.2,
+      "clutch_pts": 5,
+      "clutch_ts": 64.4,
+      "clutch_nrtg": 55.8,
       "onoff_nrtg": -9.5,
+      "chart_fga": 30,
+      "xpps": 1.098,
+      "pps": 1.233,
+      "pps_diff": 0.136,
       "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg",
       "height_cm": 197,
       "position": "3-4",
@@ -537,7 +708,10 @@
         "blk_100": 46,
         "fd_100": 16,
         "on_nrtg": 47,
-        "onoff_nrtg": 32
+        "onoff_nrtg": 32,
+        "xpps": 88,
+        "pps_diff": 80,
+        "assisted_pct": 99
       },
       "percentiles_pos": {
         "ppg": 43,
@@ -569,8 +743,26 @@
         "blk_100": 45,
         "fd_100": 22,
         "on_nrtg": 53,
-        "onoff_nrtg": 33
-      }
+        "onoff_nrtg": 33,
+        "xpps": 89,
+        "pps_diff": 83,
+        "assisted_pct": 97
+      },
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Nagy Botond Ágoston",
+          6
+        ],
+        [
+          "Nagy Benedek Ágost",
+          5
+        ],
+        [
+          "Reiber Dean Thomas",
+          3
+        ]
+      ]
     },
     {
       "name": "Csécsei Gergő",
@@ -623,7 +815,16 @@
       "on_nrtg": 3.9,
       "off_nrtg": 0.8,
       "off_poss": 297.0,
+      "assisted_pct": 90.9,
+      "clutch_poss": 7.3,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -34.4,
       "onoff_nrtg": 3.1,
+      "chart_fga": 21,
+      "xpps": 1.026,
+      "pps": 1.143,
+      "pps_diff": 0.117,
       "photo_filename": "bkg-prima-akademia-csecsei-gergo.jpg",
       "height_cm": 194,
       "position": "3",
@@ -684,7 +885,35 @@
         "fd_100": 20,
         "on_nrtg": 69,
         "onoff_nrtg": 67
-      }
+      },
+      "ast_to": [
+        [
+          "Szanyi Róbert",
+          1
+        ],
+        [
+          "Dokmanovic Milán",
+          1
+        ],
+        [
+          "Nagy Botond Ágoston",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Benedek Ágost",
+          6
+        ],
+        [
+          "Nagy Botond Ágoston",
+          3
+        ],
+        [
+          "Reiber Dean Thomas",
+          1
+        ]
+      ]
     },
     {
       "name": "Dokmanovic Milán",
@@ -737,7 +966,16 @@
       "on_nrtg": -1.9,
       "off_nrtg": 4.1,
       "off_poss": 345.3,
+      "assisted_pct": 66.7,
+      "clutch_poss": 6.8,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": 88.8,
       "onoff_nrtg": -6.0,
+      "chart_fga": 19,
+      "xpps": 0.986,
+      "pps": 0.947,
+      "pps_diff": -0.038,
       "photo_filename": "bkg-prima-akademia-dokmanovic-milan.jpg",
       "height_cm": 204,
       "position": "5",
@@ -798,7 +1036,31 @@
         "fd_100": 26,
         "on_nrtg": 41,
         "onoff_nrtg": 37
-      }
+      },
+      "ast_to": [
+        [
+          "Reiber Dean Thomas",
+          6
+        ],
+        [
+          "Kovács Leonárd",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Botond Ágoston",
+          2
+        ],
+        [
+          "Nagy Benedek Ágost",
+          2
+        ],
+        [
+          "Csécsei Gergő",
+          1
+        ]
+      ]
     },
     {
       "name": "Várszegi Balázs",
@@ -851,7 +1113,16 @@
       "on_nrtg": 23.3,
       "off_nrtg": -2.4,
       "off_poss": 430.1,
+      "assisted_pct": 80.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 25.7,
+      "chart_fga": 9,
+      "xpps": 1.095,
+      "pps": 1.111,
+      "pps_diff": 0.017,
       "photo_filename": "bkg-prima-akademia-varszegi-balazs.jpg",
       "height_cm": 199,
       "position": "4",
@@ -910,7 +1181,27 @@
         "fd_100": 71,
         "on_nrtg": 98,
         "onoff_nrtg": 96
-      }
+      },
+      "ast_to": [
+        [
+          "Nagy Botond Ágoston",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Benedek Ágost",
+          2
+        ],
+        [
+          "Nagy Botond Ágoston",
+          1
+        ],
+        [
+          "Szanyi Róbert",
+          1
+        ]
+      ]
     },
     {
       "name": "Szanyi Róbert",
@@ -963,7 +1254,16 @@
       "on_nrtg": -7.3,
       "off_nrtg": 4.5,
       "off_poss": 410.3,
+      "assisted_pct": 66.7,
+      "clutch_poss": 20.0,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": 1.4,
       "onoff_nrtg": -11.9,
+      "chart_fga": 14,
+      "xpps": 0.924,
+      "pps": 0.857,
+      "pps_diff": -0.067,
       "photo_filename": "bkg-prima-akademia-szanyi-robert.jpg",
       "height_cm": 195,
       "position": "4",
@@ -1024,7 +1324,31 @@
         "fd_100": 16,
         "on_nrtg": 39,
         "onoff_nrtg": 29
-      }
+      },
+      "ast_to": [
+        [
+          "Reiber Dean Thomas",
+          1
+        ],
+        [
+          "Demeter Levente",
+          1
+        ],
+        [
+          "Várszegi Balázs",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Botond Ágoston",
+          3
+        ],
+        [
+          "Csécsei Gergő",
+          1
+        ]
+      ]
     },
     {
       "name": "Büki Lóránt",
@@ -1077,7 +1401,16 @@
       "on_nrtg": -22.9,
       "off_nrtg": 8.5,
       "off_poss": 411.1,
+      "assisted_pct": 100.0,
+      "clutch_poss": 6.3,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -21.3,
       "onoff_nrtg": -31.5,
+      "chart_fga": 24,
+      "xpps": 0.945,
+      "pps": 0.958,
+      "pps_diff": 0.014,
       "photo_filename": "bkg-prima-akademia-buki-lorant.jpg",
       "height_cm": 188,
       "position": "3",
@@ -1140,7 +1473,27 @@
         "fd_100": 8,
         "on_nrtg": 8,
         "onoff_nrtg": 8
-      }
+      },
+      "ast_to": [
+        [
+          "Nagy Botond Ágoston",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Reiber Dean Thomas",
+          4
+        ],
+        [
+          "Nagy Botond Ágoston",
+          2
+        ],
+        [
+          "Galambos Árpád",
+          1
+        ]
+      ]
     },
     {
       "name": "Demeter Levente",
@@ -1193,7 +1546,16 @@
       "on_nrtg": 1.2,
       "off_nrtg": 2.3,
       "off_poss": 461.6,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -1.2,
+      "chart_fga": 5,
+      "xpps": 1.139,
+      "pps": 1.6,
+      "pps_diff": 0.461,
       "photo_filename": "bkg-prima-akademia-demeter-levente.jpg",
       "height_cm": 200,
       "position": "4",
@@ -1252,7 +1614,27 @@
         "fd_100": 4,
         "on_nrtg": 65,
         "onoff_nrtg": 56
-      }
+      },
+      "ast_to": [
+        [
+          "Nagy Botond Ágoston",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Nagy Benedek Ágost",
+          1
+        ],
+        [
+          "Szanyi Róbert",
+          1
+        ],
+        [
+          "Reiber Dean Thomas",
+          1
+        ]
+      ]
     }
   ]
 }

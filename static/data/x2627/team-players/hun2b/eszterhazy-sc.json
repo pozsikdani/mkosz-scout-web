@@ -63,10 +63,39 @@
       "on_nrtg": 2.1,
       "off_nrtg": -1.3,
       "off_poss": 468.2,
+      "assisted_pct": 100.0,
+      "clutch_poss": 8.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 19.7,
       "onoff_nrtg": 3.4,
+      "chart_fga": 8,
+      "xpps": 1.085,
+      "pps": 0.25,
+      "pps_diff": -0.835,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Botka Botond",
+          2
+        ],
+        [
+          "Vágner Áron",
+          1
+        ],
+        [
+          "Német Ákos",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Botka Botond",
+          1
+        ]
+      ]
     },
     {
       "name": "Botka Botond",
@@ -119,7 +148,16 @@
       "on_nrtg": 2.1,
       "off_nrtg": -13.9,
       "off_poss": 94.1,
+      "assisted_pct": 67.7,
+      "clutch_poss": 22.5,
+      "clutch_pts": 5,
+      "clutch_ts": 31.7,
+      "clutch_nrtg": 12.9,
       "onoff_nrtg": 16.0,
+      "chart_fga": 72,
+      "xpps": 0.908,
+      "pps": 1.056,
+      "pps_diff": 0.147,
       "photo_filename": "eszterhazy-sc-botka-botond.jpg",
       "height_cm": 180,
       "position": "1",
@@ -158,7 +196,10 @@
         "blk_100": 43,
         "fd_100": 20,
         "on_nrtg": 56,
-        "onoff_nrtg": 79
+        "onoff_nrtg": 79,
+        "xpps": 29,
+        "pps_diff": 80,
+        "assisted_pct": 67
       },
       "percentiles_pos": {
         "ppg": 80,
@@ -193,8 +234,39 @@
         "blk_100": 60,
         "fd_100": 22,
         "on_nrtg": 56,
-        "onoff_nrtg": 82
-      }
+        "onoff_nrtg": 82,
+        "xpps": 42,
+        "pps_diff": 81,
+        "assisted_pct": 86
+      },
+      "ast_to": [
+        [
+          "Cvijin Patrik",
+          6
+        ],
+        [
+          "Gazibegovic Vanja",
+          6
+        ],
+        [
+          "Német Ákos",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kiss Kolos",
+          6
+        ],
+        [
+          "Cvijin Patrik",
+          4
+        ],
+        [
+          "Német Ákos",
+          4
+        ]
+      ]
     },
     {
       "name": "Gazibegovic Vanja",
@@ -247,7 +319,16 @@
       "on_nrtg": -2.4,
       "off_nrtg": 2.0,
       "off_poss": 187.6,
+      "assisted_pct": 71.0,
+      "clutch_poss": 14.6,
+      "clutch_pts": 2,
+      "clutch_ts": 53.2,
+      "clutch_nrtg": 31.7,
       "onoff_nrtg": -4.5,
+      "chart_fga": 58,
+      "xpps": 0.99,
+      "pps": 1.31,
+      "pps_diff": 0.32,
       "photo_filename": "eszterhazy-sc-gazibegovic-vanja.jpg",
       "height_cm": 208,
       "position": "5",
@@ -286,7 +367,10 @@
         "blk_100": 78,
         "fd_100": 77,
         "on_nrtg": 48,
-        "onoff_nrtg": 36
+        "onoff_nrtg": 36,
+        "xpps": 72,
+        "pps_diff": 96,
+        "assisted_pct": 73
       },
       "percentiles_pos": {
         "ppg": 88,
@@ -320,8 +404,39 @@
         "blk_100": 38,
         "fd_100": 77,
         "on_nrtg": 50,
-        "onoff_nrtg": 32
-      }
+        "onoff_nrtg": 32,
+        "xpps": 52,
+        "pps_diff": 100,
+        "assisted_pct": 57
+      },
+      "ast_to": [
+        [
+          "Szicsák Bence",
+          3
+        ],
+        [
+          "Botka Botond",
+          3
+        ],
+        [
+          "Cvijin Patrik",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kiss Kolos",
+          7
+        ],
+        [
+          "Botka Botond",
+          6
+        ],
+        [
+          "Cvijin Patrik",
+          5
+        ]
+      ]
     },
     {
       "name": "Német Ákos",
@@ -374,7 +489,16 @@
       "on_nrtg": 1.3,
       "off_nrtg": -15.0,
       "off_poss": 66.2,
+      "assisted_pct": 58.1,
+      "clutch_poss": 23.5,
+      "clutch_pts": 10,
+      "clutch_ts": 128.9,
+      "clutch_nrtg": 26.4,
       "onoff_nrtg": 16.3,
+      "chart_fga": 66,
+      "xpps": 0.98,
+      "pps": 0.985,
+      "pps_diff": 0.005,
       "photo_filename": "eszterhazy-sc-nemet-akos.jpg",
       "height_cm": 179,
       "position": "1",
@@ -413,7 +537,10 @@
         "blk_100": 43,
         "fd_100": 53,
         "on_nrtg": 54,
-        "onoff_nrtg": 80
+        "onoff_nrtg": 80,
+        "xpps": 66,
+        "pps_diff": 53,
+        "assisted_pct": 48
       },
       "percentiles_pos": {
         "ppg": 76,
@@ -448,8 +575,39 @@
         "blk_100": 60,
         "fd_100": 60,
         "on_nrtg": 54,
-        "onoff_nrtg": 84
-      }
+        "onoff_nrtg": 84,
+        "xpps": 78,
+        "pps_diff": 50,
+        "assisted_pct": 65
+      },
+      "ast_to": [
+        [
+          "Szicsák Bence",
+          5
+        ],
+        [
+          "Botka Botond",
+          4
+        ],
+        [
+          "Gazibegovic Vanja",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kiss Kolos",
+          5
+        ],
+        [
+          "Botka Botond",
+          4
+        ],
+        [
+          "Cvijin Patrik",
+          4
+        ]
+      ]
     },
     {
       "name": "Cvijin Patrik",
@@ -502,7 +660,16 @@
       "on_nrtg": 4.1,
       "off_nrtg": -15.0,
       "off_poss": 139.4,
+      "assisted_pct": 76.7,
+      "clutch_poss": 17.6,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 18.7,
       "onoff_nrtg": 19.1,
+      "chart_fga": 78,
+      "xpps": 1.038,
+      "pps": 0.885,
+      "pps_diff": -0.154,
       "photo_filename": "eszterhazy-sc-cvijin-patrik.jpg",
       "height_cm": 198,
       "position": "3",
@@ -541,7 +708,10 @@
         "blk_100": 74,
         "fd_100": 47,
         "on_nrtg": 59,
-        "onoff_nrtg": 86
+        "onoff_nrtg": 86,
+        "xpps": 89,
+        "pps_diff": 19,
+        "assisted_pct": 88
       },
       "percentiles_pos": {
         "ppg": 80,
@@ -576,8 +746,39 @@
         "blk_100": 73,
         "fd_100": 52,
         "on_nrtg": 59,
-        "onoff_nrtg": 80
-      }
+        "onoff_nrtg": 80,
+        "xpps": 89,
+        "pps_diff": 21,
+        "assisted_pct": 82
+      },
+      "ast_to": [
+        [
+          "Gazibegovic Vanja",
+          5
+        ],
+        [
+          "Botka Botond",
+          4
+        ],
+        [
+          "Német Ákos",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Botka Botond",
+          6
+        ],
+        [
+          "Szicsák Bence",
+          6
+        ],
+        [
+          "Német Ákos",
+          3
+        ]
+      ]
     },
     {
       "name": "Kerekes Hunor Ákos",
@@ -630,7 +831,16 @@
       "on_nrtg": 3.5,
       "off_nrtg": -2.2,
       "off_poss": 413.3,
+      "assisted_pct": 80.0,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 107.6,
       "onoff_nrtg": 5.8,
+      "chart_fga": 15,
+      "xpps": 0.955,
+      "pps": 0.8,
+      "pps_diff": -0.155,
       "photo_filename": "eszterhazy-sc-kerekes-hunor-akos.jpg",
       "height_cm": 185,
       "position": "3-4",
@@ -691,7 +901,31 @@
         "fd_100": 50,
         "on_nrtg": 57,
         "onoff_nrtg": 57
-      }
+      },
+      "ast_to": [
+        [
+          "Német Ákos",
+          1
+        ],
+        [
+          "Botka Botond",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Botka Botond",
+          1
+        ],
+        [
+          "Német Ákos",
+          1
+        ],
+        [
+          "Kiss Kolos",
+          1
+        ]
+      ]
     },
     {
       "name": "Szicsák Bence",
@@ -744,7 +978,16 @@
       "on_nrtg": -6.2,
       "off_nrtg": 7.3,
       "off_poss": 216.8,
+      "assisted_pct": 55.6,
+      "clutch_poss": 16.6,
+      "clutch_pts": 6,
+      "clutch_ts": 61.5,
+      "clutch_nrtg": 8.5,
       "onoff_nrtg": -13.6,
+      "chart_fga": 55,
+      "xpps": 0.895,
+      "pps": 1.055,
+      "pps_diff": 0.159,
       "photo_filename": "eszterhazy-sc-szicsak-bence.jpg",
       "height_cm": 200,
       "position": "4",
@@ -782,7 +1025,10 @@
         "blk_100": 70,
         "fd_100": 68,
         "on_nrtg": 37,
-        "onoff_nrtg": 20
+        "onoff_nrtg": 20,
+        "xpps": 20,
+        "pps_diff": 87,
+        "assisted_pct": 42
       },
       "percentiles_pos": {
         "ppg": 75,
@@ -816,8 +1062,39 @@
         "blk_100": 68,
         "fd_100": 75,
         "on_nrtg": 36,
-        "onoff_nrtg": 23
-      }
+        "onoff_nrtg": 23,
+        "xpps": 21,
+        "pps_diff": 96,
+        "assisted_pct": 21
+      },
+      "ast_to": [
+        [
+          "Cvijin Patrik",
+          6
+        ],
+        [
+          "Német Ákos",
+          2
+        ],
+        [
+          "Botka Botond",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Német Ákos",
+          5
+        ],
+        [
+          "Kiss Kolos",
+          4
+        ],
+        [
+          "Gazibegovic Vanja",
+          3
+        ]
+      ]
     },
     {
       "name": "Vágner Áron",
@@ -870,14 +1147,35 @@
       "on_nrtg": -4.9,
       "off_nrtg": -0.5,
       "off_poss": 509.1,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -4.4,
+      "chart_fga": 4,
+      "xpps": 0.905,
+      "pps": 1.25,
+      "pps_diff": 0.345,
       "photo_filename": "eszterhazy-sc-vagner-aron.jpg",
       "height_cm": 188,
       "position": "2",
       "birth_year": 2007,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Cvijin Patrik",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Vanja Gazibegovic",
+          1
+        ]
+      ]
     },
     {
       "name": "Kiss Kolos",
@@ -930,7 +1228,16 @@
       "on_nrtg": -0.0,
       "off_nrtg": -2.5,
       "off_poss": 166.8,
+      "assisted_pct": 25.9,
+      "clutch_poss": 10.8,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": 68.9,
       "onoff_nrtg": 2.5,
+      "chart_fga": 60,
+      "xpps": 0.987,
+      "pps": 1.0,
+      "pps_diff": 0.013,
       "photo_filename": "eszterhazy-sc-kiss-kolos.jpg",
       "height_cm": 191,
       "position": "2",
@@ -969,7 +1276,10 @@
         "blk_100": 58,
         "fd_100": 72,
         "on_nrtg": 53,
-        "onoff_nrtg": 55
+        "onoff_nrtg": 55,
+        "xpps": 71,
+        "pps_diff": 54,
+        "assisted_pct": 7
       },
       "percentiles_pos": {
         "ppg": 64,
@@ -1004,8 +1314,39 @@
         "blk_100": 76,
         "fd_100": 74,
         "on_nrtg": 52,
-        "onoff_nrtg": 63
-      }
+        "onoff_nrtg": 63,
+        "xpps": 89,
+        "pps_diff": 53,
+        "assisted_pct": 16
+      },
+      "ast_to": [
+        [
+          "Gazibegovic Vanja",
+          7
+        ],
+        [
+          "Botka Botond",
+          6
+        ],
+        [
+          "Német Ákos",
+          5
+        ]
+      ],
+      "ast_by": [
+        [
+          "Cvijin Patrik",
+          3
+        ],
+        [
+          "Német Ákos",
+          1
+        ],
+        [
+          "Botka Botond",
+          1
+        ]
+      ]
     },
     {
       "name": "Bolla Norbert Tamás",
@@ -1058,7 +1399,16 @@
       "on_nrtg": -21.5,
       "off_nrtg": 2.2,
       "off_poss": 472.2,
+      "assisted_pct": 50.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -23.7,
+      "chart_fga": 6,
+      "xpps": 1.054,
+      "pps": 1.667,
+      "pps_diff": 0.613,
       "photo_filename": "eszterhazy-sc-bolla-norbert-tamas.jpg",
       "height_cm": 187,
       "position": "1-2",
@@ -1119,7 +1469,18 @@
         "fd_100": 4,
         "on_nrtg": 10,
         "onoff_nrtg": 12
-      }
+      },
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Kiss Kolos",
+          1
+        ],
+        [
+          "Szicsák Bence",
+          1
+        ]
+      ]
     },
     {
       "name": "Molnár Bálint",
@@ -1172,14 +1533,25 @@
       "on_nrtg": -49.3,
       "off_nrtg": 2.0,
       "off_poss": 511.0,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -51.3,
+      "chart_fga": 4,
+      "xpps": 0.769,
+      "pps": 0.0,
+      "pps_diff": -0.769,
       "photo_filename": "eszterhazy-sc-molnar-balint.jpg",
       "height_cm": 187,
       "position": "2-3",
       "birth_year": 2004,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

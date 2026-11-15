@@ -63,7 +63,16 @@
       "on_nrtg": -4.1,
       "off_nrtg": -1.9,
       "off_poss": 149.1,
+      "assisted_pct": 44.8,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 133.3,
       "onoff_nrtg": -2.2,
+      "chart_fga": 75,
+      "xpps": 0.969,
+      "pps": 0.947,
+      "pps_diff": -0.023,
       "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
       "height_cm": 194,
       "position": "1-2",
@@ -102,7 +111,10 @@
         "blk_100": 46,
         "fd_100": 91,
         "on_nrtg": 44,
-        "onoff_nrtg": 45
+        "onoff_nrtg": 45,
+        "xpps": 33,
+        "pps_diff": 40,
+        "assisted_pct": 28
       },
       "percentiles_pos": {
         "ppg": 72,
@@ -137,8 +149,39 @@
         "blk_100": 65,
         "fd_100": 85,
         "on_nrtg": 48,
-        "onoff_nrtg": 45
-      }
+        "onoff_nrtg": 45,
+        "xpps": 50,
+        "pps_diff": 38,
+        "assisted_pct": 53
+      },
+      "ast_to": [
+        [
+          "Gáspár Mátyás",
+          7
+        ],
+        [
+          "Homoki Donát László",
+          5
+        ],
+        [
+          "Plézer Gábor",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Farkas Attila",
+          3
+        ],
+        [
+          "Makkos Dávid",
+          2
+        ],
+        [
+          "Homoki Donát László",
+          2
+        ]
+      ]
     },
     {
       "name": "Homoki Donát László",
@@ -191,7 +234,16 @@
       "on_nrtg": -5.2,
       "off_nrtg": -1.7,
       "off_poss": 255.1,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -3.6,
+      "chart_fga": 64,
+      "xpps": 0.983,
+      "pps": 1.0,
+      "pps_diff": 0.017,
       "photo_filename": "vasas-akademia-homoki-donat-laszlo.jpg",
       "height_cm": 205,
       "position": "4-5",
@@ -230,7 +282,10 @@
         "blk_100": 46,
         "fd_100": 57,
         "on_nrtg": 41,
-        "onoff_nrtg": 42
+        "onoff_nrtg": 42,
+        "xpps": 40,
+        "pps_diff": 54,
+        "assisted_pct": 79
       },
       "percentiles_pos": {
         "ppg": 96,
@@ -263,8 +318,39 @@
         "blk_100": 19,
         "fd_100": 59,
         "on_nrtg": 30,
-        "onoff_nrtg": 41
-      }
+        "onoff_nrtg": 41,
+        "xpps": 14,
+        "pps_diff": 64,
+        "assisted_pct": 64
+      },
+      "ast_to": [
+        [
+          "Zöldi Péter András",
+          2
+        ],
+        [
+          "Heimann Gergő",
+          1
+        ],
+        [
+          "Farkas Attila",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zöldi Péter András",
+          5
+        ],
+        [
+          "Heimann Gergő",
+          5
+        ],
+        [
+          "Plézer Gábor",
+          4
+        ]
+      ]
     },
     {
       "name": "Gáspár Mátyás",
@@ -317,7 +403,16 @@
       "on_nrtg": -6.9,
       "off_nrtg": 2.7,
       "off_poss": 193.0,
+      "assisted_pct": 64.3,
+      "clutch_poss": 3.9,
+      "clutch_pts": 2,
+      "clutch_ts": 100.0,
+      "clutch_nrtg": 128.9,
       "onoff_nrtg": -9.6,
+      "chart_fga": 67,
+      "xpps": 1.051,
+      "pps": 0.851,
+      "pps_diff": -0.201,
       "photo_filename": "vasas-akademia-gaspar-matyas.jpg",
       "height_cm": 199,
       "position": "4-5",
@@ -355,7 +450,10 @@
         "blk_100": 90,
         "fd_100": 59,
         "on_nrtg": 32,
-        "onoff_nrtg": 31
+        "onoff_nrtg": 31,
+        "xpps": 74,
+        "pps_diff": 11,
+        "assisted_pct": 65
       },
       "percentiles_pos": {
         "ppg": 74,
@@ -388,8 +486,39 @@
         "blk_100": 81,
         "fd_100": 67,
         "on_nrtg": 19,
-        "onoff_nrtg": 33
-      }
+        "onoff_nrtg": 33,
+        "xpps": 36,
+        "pps_diff": 14,
+        "assisted_pct": 50
+      },
+      "ast_to": [
+        [
+          "Farkas Attila",
+          3
+        ],
+        [
+          "Homoki Donát László",
+          2
+        ],
+        [
+          "Plézer Gábor",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zöldi Péter András",
+          7
+        ],
+        [
+          "Heimann Gergő",
+          3
+        ],
+        [
+          "Makkos Dávid",
+          2
+        ]
+      ]
     },
     {
       "name": "Farkas Attila",
@@ -442,7 +571,16 @@
       "on_nrtg": -1.0,
       "off_nrtg": -7.3,
       "off_poss": 209.4,
+      "assisted_pct": 77.8,
+      "clutch_poss": 0.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 6.2,
+      "chart_fga": 45,
+      "xpps": 0.928,
+      "pps": 0.956,
+      "pps_diff": 0.028,
       "photo_filename": "vasas-akademia-farkas-attila.jpg",
       "height_cm": 193,
       "position": "1-2",
@@ -479,7 +617,10 @@
         "blk_100": 71,
         "fd_100": 10,
         "on_nrtg": 55,
-        "onoff_nrtg": 66
+        "onoff_nrtg": 66,
+        "xpps": 14,
+        "pps_diff": 58,
+        "assisted_pct": 84
       },
       "percentiles_pos": {
         "ppg": 40,
@@ -512,8 +653,39 @@
         "blk_100": 98,
         "fd_100": 10,
         "on_nrtg": 55,
-        "onoff_nrtg": 61
-      }
+        "onoff_nrtg": 61,
+        "xpps": 22,
+        "pps_diff": 53,
+        "assisted_pct": 97
+      },
+      "ast_to": [
+        [
+          "Zöldi Péter András",
+          3
+        ],
+        [
+          "Homoki Donát László",
+          3
+        ],
+        [
+          "Erdős Artúr",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Makkos Dávid",
+          4
+        ],
+        [
+          "Pleesz Ádám",
+          3
+        ],
+        [
+          "Gáspár Mátyás",
+          3
+        ]
+      ]
     },
     {
       "name": "Makkos Dávid",
@@ -566,7 +738,16 @@
       "on_nrtg": 2.7,
       "off_nrtg": -9.7,
       "off_poss": 267.4,
+      "assisted_pct": 7.7,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 133.3,
       "onoff_nrtg": 12.4,
+      "chart_fga": 30,
+      "xpps": 1.061,
+      "pps": 0.9,
+      "pps_diff": -0.161,
       "photo_filename": "vasas-akademia-makkos-david.jpg",
       "height_cm": 190,
       "position": "1-2",
@@ -603,7 +784,10 @@
         "blk_100": 46,
         "fd_100": 67,
         "on_nrtg": 64,
-        "onoff_nrtg": 80
+        "onoff_nrtg": 80,
+        "xpps": 80,
+        "pps_diff": 17,
+        "assisted_pct": 1
       },
       "percentiles_pos": {
         "ppg": 35,
@@ -636,8 +820,31 @@
         "blk_100": 65,
         "fd_100": 55,
         "on_nrtg": 62,
-        "onoff_nrtg": 76
-      }
+        "onoff_nrtg": 76,
+        "xpps": 94,
+        "pps_diff": 9,
+        "assisted_pct": 3
+      },
+      "ast_to": [
+        [
+          "Erdős Artúr",
+          4
+        ],
+        [
+          "Farkas Attila",
+          4
+        ],
+        [
+          "Zöldi Péter András",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Erdős Artúr",
+          1
+        ]
+      ]
     },
     {
       "name": "Plézer Gábor",
@@ -690,7 +897,16 @@
       "on_nrtg": -11.9,
       "off_nrtg": 7.4,
       "off_poss": 233.4,
+      "assisted_pct": 36.4,
+      "clutch_poss": 3.0,
+      "clutch_pts": 2,
+      "clutch_ts": 50.0,
+      "clutch_nrtg": 133.3,
       "onoff_nrtg": -19.2,
+      "chart_fga": 65,
+      "xpps": 0.933,
+      "pps": 0.769,
+      "pps_diff": -0.164,
       "photo_filename": "vasas-akademia-plezer-gabor.jpg",
       "height_cm": 197,
       "position": "3",
@@ -729,7 +945,10 @@
         "blk_100": 46,
         "fd_100": 87,
         "on_nrtg": 22,
-        "onoff_nrtg": 14
+        "onoff_nrtg": 14,
+        "xpps": 15,
+        "pps_diff": 15,
+        "assisted_pct": 16
       },
       "percentiles_pos": {
         "ppg": 67,
@@ -764,8 +983,39 @@
         "blk_100": 45,
         "fd_100": 90,
         "on_nrtg": 27,
-        "onoff_nrtg": 17
-      }
+        "onoff_nrtg": 17,
+        "xpps": 14,
+        "pps_diff": 23,
+        "assisted_pct": 8
+      },
+      "ast_to": [
+        [
+          "Homoki Donát László",
+          4
+        ],
+        [
+          "Heimann Gergő",
+          2
+        ],
+        [
+          "Gáspár Mátyás",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zöldi Péter András",
+          3
+        ],
+        [
+          "Farkas Attila",
+          2
+        ],
+        [
+          "Gáspár Mátyás",
+          2
+        ]
+      ]
     },
     {
       "name": "Pleesz Ádám",
@@ -818,7 +1068,16 @@
       "on_nrtg": -1.7,
       "off_nrtg": -5.1,
       "off_poss": 298.4,
+      "assisted_pct": 66.7,
+      "clutch_poss": 0.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 3.4,
+      "chart_fga": 32,
+      "xpps": 1.03,
+      "pps": 0.75,
+      "pps_diff": -0.28,
       "photo_filename": "vasas-akademia-pleesz-adam.jpg",
       "height_cm": 204,
       "position": "3-4",
@@ -855,7 +1114,10 @@
         "blk_100": 92,
         "fd_100": 53,
         "on_nrtg": 53,
-        "onoff_nrtg": 60
+        "onoff_nrtg": 60,
+        "xpps": 64,
+        "pps_diff": 6,
+        "assisted_pct": 72
       },
       "percentiles_pos": {
         "ppg": 33,
@@ -888,8 +1150,39 @@
         "blk_100": 90,
         "fd_100": 61,
         "on_nrtg": 59,
-        "onoff_nrtg": 71
-      }
+        "onoff_nrtg": 71,
+        "xpps": 60,
+        "pps_diff": 11,
+        "assisted_pct": 64
+      },
+      "ast_to": [
+        [
+          "Farkas Attila",
+          3
+        ],
+        [
+          "Erdős Artúr",
+          2
+        ],
+        [
+          "Gáspár Mátyás",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Zöldi Péter András",
+          3
+        ],
+        [
+          "Makkos Dávid",
+          2
+        ],
+        [
+          "Farkas Attila",
+          1
+        ]
+      ]
     },
     {
       "name": "Heimann Gergő",
@@ -942,7 +1235,16 @@
       "on_nrtg": -5.7,
       "off_nrtg": -1.7,
       "off_poss": 298.8,
+      "assisted_pct": 62.5,
+      "clutch_poss": 3.9,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 128.9,
       "onoff_nrtg": -4.0,
+      "chart_fga": 38,
+      "xpps": 0.849,
+      "pps": 1.079,
+      "pps_diff": 0.23,
       "photo_filename": "vasas-akademia-heimann-gergo.jpg",
       "height_cm": 190,
       "position": "1-2",
@@ -979,7 +1281,10 @@
         "blk_100": 62,
         "fd_100": 33,
         "on_nrtg": 37,
-        "onoff_nrtg": 42
+        "onoff_nrtg": 42,
+        "xpps": 1,
+        "pps_diff": 95,
+        "assisted_pct": 56
       },
       "percentiles_pos": {
         "ppg": 28,
@@ -1012,8 +1317,39 @@
         "blk_100": 88,
         "fd_100": 22,
         "on_nrtg": 38,
-        "onoff_nrtg": 42
-      }
+        "onoff_nrtg": 42,
+        "xpps": 3,
+        "pps_diff": 97,
+        "assisted_pct": 84
+      },
+      "ast_to": [
+        [
+          "Homoki Donát László",
+          5
+        ],
+        [
+          "Gáspár Mátyás",
+          3
+        ],
+        [
+          "Erdős Artúr",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Plézer Gábor",
+          2
+        ],
+        [
+          "Zöldi Péter András",
+          2
+        ],
+        [
+          "Farkas Attila",
+          2
+        ]
+      ]
     },
     {
       "name": "Erdős Artúr",
@@ -1066,7 +1402,16 @@
       "on_nrtg": 1.5,
       "off_nrtg": -6.0,
       "off_poss": 354.8,
+      "assisted_pct": 77.8,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 7.5,
+      "chart_fga": 36,
+      "xpps": 1.185,
+      "pps": 1.0,
+      "pps_diff": -0.185,
       "photo_filename": "vasas-akademia-erdos-artur.jpg",
       "height_cm": 205,
       "position": "4-5",
@@ -1102,7 +1447,10 @@
         "blk_100": 71,
         "fd_100": 29,
         "on_nrtg": 62,
-        "onoff_nrtg": 71
+        "onoff_nrtg": 71,
+        "xpps": 100,
+        "pps_diff": 12,
+        "assisted_pct": 84
       },
       "percentiles_pos": {
         "ppg": 52,
@@ -1134,8 +1482,39 @@
         "blk_100": 33,
         "fd_100": 33,
         "on_nrtg": 59,
-        "onoff_nrtg": 67
-      }
+        "onoff_nrtg": 67,
+        "xpps": 100,
+        "pps_diff": 21,
+        "assisted_pct": 71
+      },
+      "ast_to": [
+        [
+          "Homoki Donát László",
+          1
+        ],
+        [
+          "Heimann Gergő",
+          1
+        ],
+        [
+          "Makkos Dávid",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Makkos Dávid",
+          4
+        ],
+        [
+          "Farkas Attila",
+          3
+        ],
+        [
+          "Heimann Gergő",
+          2
+        ]
+      ]
     },
     {
       "name": "Kis Botond",
@@ -1188,7 +1567,16 @@
       "on_nrtg": -5.2,
       "off_nrtg": -3.1,
       "off_poss": 452.2,
+      "assisted_pct": 33.3,
+      "clutch_poss": 0.9,
+      "clutch_pts": 1,
+      "clutch_ts": 56.8,
+      "clutch_nrtg": null,
       "onoff_nrtg": -2.0,
+      "chart_fga": 11,
+      "xpps": 1.039,
+      "pps": 0.636,
+      "pps_diff": -0.403,
       "photo_filename": "vasas-akademia-kis-botond.jpg",
       "height_cm": 196,
       "position": "2-3",
@@ -1251,7 +1639,14 @@
         "fd_100": 78,
         "on_nrtg": 47,
         "onoff_nrtg": 48
-      }
+      },
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Farkas Attila",
+          1
+        ]
+      ]
     },
     {
       "name": "Saincaize Dániel Noel",
@@ -1304,14 +1699,30 @@
       "on_nrtg": 52.8,
       "off_nrtg": -4.3,
       "off_poss": 529.1,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 57.1,
+      "chart_fga": 1,
+      "xpps": 1.115,
+      "pps": 0.0,
+      "pps_diff": -1.115,
       "photo_filename": "vasas-akademia-saincaize-daniel-noel.jpg",
       "height_cm": 190,
       "position": "2-3",
       "birth_year": 2009,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Erdős Artúr",
+          1
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Temesvári Marcell Zoltán",
@@ -1364,6 +1775,11 @@
       "on_nrtg": 16.5,
       "off_nrtg": -4.0,
       "off_poss": 524.5,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 20.5,
       "photo_filename": "vasas-akademia-temesvari-marcell-zoltan.jpg",
       "height_cm": 199,
@@ -1371,7 +1787,9 @@
       "birth_year": 2009,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Pichovszky Bertalan",
@@ -1424,14 +1842,25 @@
       "on_nrtg": 33.0,
       "off_nrtg": -4.6,
       "off_poss": 521.6,
+      "assisted_pct": 0.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 37.6,
+      "chart_fga": 2,
+      "xpps": 0.909,
+      "pps": 2.0,
+      "pps_diff": 1.091,
       "photo_filename": "vasas-akademia-pichovszky-bertalan.jpg",
       "height_cm": 198,
       "position": "3-4",
       "birth_year": 2009,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

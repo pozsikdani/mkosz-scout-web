@@ -63,10 +63,47 @@
       "on_nrtg": -3.7,
       "off_nrtg": 8.4,
       "off_poss": 262.1,
+      "assisted_pct": 40.9,
+      "clutch_poss": 20.1,
+      "clutch_pts": 6,
+      "clutch_ts": 52.1,
+      "clutch_nrtg": 19.8,
       "onoff_nrtg": -12.1,
+      "chart_fga": 56,
+      "xpps": 0.98,
+      "pps": 0.875,
+      "pps_diff": -0.105,
       "pos_group": null,
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Gerőcs Roland Bálint",
+          6
+        ],
+        [
+          "Ormai Botond Gábor",
+          5
+        ],
+        [
+          "Lucey Ciarán József",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lucey Ciarán József",
+          4
+        ],
+        [
+          "Ormai Botond Gábor",
+          2
+        ],
+        [
+          "Pap Levente",
+          1
+        ]
+      ]
     },
     {
       "name": "Ervin Carlbe Lee",
@@ -119,14 +156,51 @@
       "on_nrtg": 12.4,
       "off_nrtg": -3.4,
       "off_poss": 345.9,
+      "assisted_pct": 20.0,
+      "clutch_poss": 18.5,
+      "clutch_pts": 9,
+      "clutch_ts": 67.8,
+      "clutch_nrtg": 40.4,
       "onoff_nrtg": 15.9,
+      "chart_fga": 36,
+      "xpps": 1.0,
+      "pps": 0.917,
+      "pps_diff": -0.083,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ervin-carlbe-lee.jpg",
       "height_cm": 190,
       "position": "1-2",
       "birth_year": 1995,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Mayer Ákos",
+          4
+        ],
+        [
+          "Ormai Botond Gábor",
+          3
+        ],
+        [
+          "Polster Attila",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lucey Ciarán József",
+          1
+        ],
+        [
+          "Polster Attila",
+          1
+        ],
+        [
+          "Ormai Botond Gábor",
+          1
+        ]
+      ]
     },
     {
       "name": "Lucey Ciarán József",
@@ -179,7 +253,16 @@
       "on_nrtg": 11.5,
       "off_nrtg": -12.9,
       "off_poss": 205.5,
+      "assisted_pct": 62.5,
+      "clutch_poss": 34.6,
+      "clutch_pts": 2,
+      "clutch_ts": 25.8,
+      "clutch_nrtg": 33.8,
       "onoff_nrtg": 24.4,
+      "chart_fga": 42,
+      "xpps": 1.132,
+      "pps": 1.238,
+      "pps_diff": 0.106,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg",
       "height_cm": 196,
       "position": "1-2",
@@ -216,7 +299,10 @@
         "blk_100": 46,
         "fd_100": 91,
         "on_nrtg": 83,
-        "onoff_nrtg": 93
+        "onoff_nrtg": 93,
+        "xpps": 95,
+        "pps_diff": 75,
+        "assisted_pct": 56
       },
       "percentiles_pos": {
         "ppg": 45,
@@ -249,8 +335,39 @@
         "blk_100": 65,
         "fd_100": 88,
         "on_nrtg": 78,
-        "onoff_nrtg": 95
-      }
+        "onoff_nrtg": 95,
+        "xpps": 100,
+        "pps_diff": 69,
+        "assisted_pct": 84
+      },
+      "ast_to": [
+        [
+          "Ormai Botond Gábor",
+          4
+        ],
+        [
+          "Polster Attila",
+          4
+        ],
+        [
+          "Carlbe Lee Ervin",
+          4
+        ]
+      ],
+      "ast_by": [
+        [
+          "Polster Attila",
+          4
+        ],
+        [
+          "Carlbe Lee Ervin",
+          4
+        ],
+        [
+          "Ormai Botond Gábor",
+          3
+        ]
+      ]
     },
     {
       "name": "Mester Márk",
@@ -303,7 +420,16 @@
       "on_nrtg": -5.5,
       "off_nrtg": 11.4,
       "off_poss": 243.8,
+      "assisted_pct": 65.2,
+      "clutch_poss": 3.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -22.5,
       "onoff_nrtg": -16.9,
+      "chart_fga": 55,
+      "xpps": 0.954,
+      "pps": 1.091,
+      "pps_diff": 0.137,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg",
       "height_cm": 192,
       "position": "2-3",
@@ -342,7 +468,10 @@
         "blk_100": 46,
         "fd_100": 49,
         "on_nrtg": 38,
-        "onoff_nrtg": 16
+        "onoff_nrtg": 16,
+        "xpps": 23,
+        "pps_diff": 81,
+        "assisted_pct": 70
       },
       "percentiles_pos": {
         "ppg": 76,
@@ -377,8 +506,39 @@
         "blk_100": 45,
         "fd_100": 57,
         "on_nrtg": 45,
-        "onoff_nrtg": 21
-      }
+        "onoff_nrtg": 21,
+        "xpps": 20,
+        "pps_diff": 86,
+        "assisted_pct": 61
+      },
+      "ast_to": [
+        [
+          "Polster Attila",
+          2
+        ],
+        [
+          "Pap Levente",
+          2
+        ],
+        [
+          "Ormai Botond Gábor",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Lucey Ciarán József",
+          3
+        ],
+        [
+          "Mayer Ákos",
+          3
+        ],
+        [
+          "Polster Attila",
+          3
+        ]
+      ]
     },
     {
       "name": "Ormai Botond Gábor",
@@ -431,7 +591,16 @@
       "on_nrtg": 3.0,
       "off_nrtg": 0.3,
       "off_poss": 167.4,
+      "assisted_pct": 64.0,
+      "clutch_poss": 20.0,
+      "clutch_pts": 3,
+      "clutch_ts": 38.7,
+      "clutch_nrtg": 22.7,
       "onoff_nrtg": 2.8,
+      "chart_fga": 41,
+      "xpps": 1.18,
+      "pps": 1.171,
+      "pps_diff": -0.009,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ormai-botond-gabor.jpg",
       "height_cm": 195,
       "position": "4-5",
@@ -468,7 +637,10 @@
         "blk_100": 92,
         "fd_100": 27,
         "on_nrtg": 65,
-        "onoff_nrtg": 58
+        "onoff_nrtg": 58,
+        "xpps": 99,
+        "pps_diff": 48,
+        "assisted_pct": 62
       },
       "percentiles_pos": {
         "ppg": 70,
@@ -501,8 +673,39 @@
         "blk_100": 85,
         "fd_100": 30,
         "on_nrtg": 67,
-        "onoff_nrtg": 56
-      }
+        "onoff_nrtg": 56,
+        "xpps": 93,
+        "pps_diff": 50,
+        "assisted_pct": 36
+      },
+      "ast_to": [
+        [
+          "Polster Attila",
+          6
+        ],
+        [
+          "Mayer Ákos",
+          5
+        ],
+        [
+          "Lucey Ciarán József",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Carlbe Lee Ervin",
+          5
+        ],
+        [
+          "Lucey Ciarán József",
+          4
+        ],
+        [
+          "Ervin Carlbe Lee",
+          3
+        ]
+      ]
     },
     {
       "name": "Polster Attila",
@@ -555,7 +758,16 @@
       "on_nrtg": 3.7,
       "off_nrtg": -0.7,
       "off_poss": 181.6,
+      "assisted_pct": 88.5,
+      "clutch_poss": 37.6,
+      "clutch_pts": 3,
+      "clutch_ts": 75.0,
+      "clutch_nrtg": 30.3,
       "onoff_nrtg": 4.4,
+      "chart_fga": 71,
+      "xpps": 0.967,
+      "pps": 1.0,
+      "pps_diff": 0.033,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-polster-attila.jpg",
       "height_cm": 200,
       "position": "3-4",
@@ -593,7 +805,10 @@
         "blk_100": 55,
         "fd_100": 6,
         "on_nrtg": 66,
-        "onoff_nrtg": 63
+        "onoff_nrtg": 63,
+        "xpps": 32,
+        "pps_diff": 60,
+        "assisted_pct": 100
       },
       "percentiles_pos": {
         "ppg": 78,
@@ -627,8 +842,39 @@
         "blk_100": 55,
         "fd_100": 12,
         "on_nrtg": 67,
-        "onoff_nrtg": 75
-      }
+        "onoff_nrtg": 75,
+        "xpps": 29,
+        "pps_diff": 66,
+        "assisted_pct": 100
+      },
+      "ast_to": [
+        [
+          "Lucey Ciarán József",
+          4
+        ],
+        [
+          "Mester Márk",
+          3
+        ],
+        [
+          "Gerőcs Roland Bálint",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Ormai Botond Gábor",
+          6
+        ],
+        [
+          "Lucey Ciarán József",
+          4
+        ],
+        [
+          "Carlbe Lee Ervin",
+          4
+        ]
+      ]
     },
     {
       "name": "Gerőcs Roland Bálint",
@@ -681,7 +927,16 @@
       "on_nrtg": 0.5,
       "off_nrtg": 3.3,
       "off_poss": 340.1,
+      "assisted_pct": 79.2,
+      "clutch_poss": 18.6,
+      "clutch_pts": 12,
+      "clutch_ts": 85.7,
+      "clutch_nrtg": 33.5,
       "onoff_nrtg": -2.8,
+      "chart_fga": 47,
+      "xpps": 1.028,
+      "pps": 1.128,
+      "pps_diff": 0.099,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg",
       "height_cm": 204,
       "position": "4-5",
@@ -717,7 +972,10 @@
         "blk_100": 99,
         "fd_100": 19,
         "on_nrtg": 58,
-        "onoff_nrtg": 43
+        "onoff_nrtg": 43,
+        "xpps": 63,
+        "pps_diff": 73,
+        "assisted_pct": 88
       },
       "percentiles_pos": {
         "ppg": 67,
@@ -749,8 +1007,39 @@
         "blk_100": 100,
         "fd_100": 11,
         "on_nrtg": 52,
-        "onoff_nrtg": 44
-      }
+        "onoff_nrtg": 44,
+        "xpps": 29,
+        "pps_diff": 79,
+        "assisted_pct": 86
+      },
+      "ast_to": [
+        [
+          "Mester Márk",
+          2
+        ],
+        [
+          "Lucey Ciarán József",
+          1
+        ],
+        [
+          "Mayer Ákos",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Carlbe Lee Ervin",
+          6
+        ],
+        [
+          "Polster Attila",
+          3
+        ],
+        [
+          "Lucey Ciarán József",
+          3
+        ]
+      ]
     },
     {
       "name": "Szabadfi Márk",
@@ -803,14 +1092,51 @@
       "on_nrtg": 4.8,
       "off_nrtg": 0.6,
       "off_poss": 338.5,
+      "assisted_pct": 57.9,
+      "clutch_poss": 21.6,
+      "clutch_pts": 5,
+      "clutch_ts": 33.6,
+      "clutch_nrtg": 19.4,
       "onoff_nrtg": 4.2,
+      "chart_fga": 43,
+      "xpps": 0.839,
+      "pps": 1.047,
+      "pps_diff": 0.207,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-szabadfi-mark.jpg",
       "height_cm": 191,
       "position": "1-2",
       "birth_year": 2004,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Pap Levente",
+          3
+        ],
+        [
+          "Ormai Botond Gábor",
+          1
+        ],
+        [
+          "Gerőcs Roland Bálint",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pap Levente",
+          4
+        ],
+        [
+          "Ormai Botond Gábor",
+          3
+        ],
+        [
+          "Polster Attila",
+          2
+        ]
+      ]
     },
     {
       "name": "Mayer Ákos",
@@ -863,7 +1189,16 @@
       "on_nrtg": 5.7,
       "off_nrtg": -1.1,
       "off_poss": 279.3,
+      "assisted_pct": 80.0,
+      "clutch_poss": 14.5,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 52.7,
       "onoff_nrtg": 6.7,
+      "chart_fga": 32,
+      "xpps": 1.105,
+      "pps": 1.375,
+      "pps_diff": 0.27,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mayer-akos.jpg",
       "height_cm": 204,
       "position": "4-5",
@@ -900,7 +1235,10 @@
         "blk_100": 90,
         "fd_100": 75,
         "on_nrtg": 73,
-        "onoff_nrtg": 68
+        "onoff_nrtg": 68,
+        "xpps": 90,
+        "pps_diff": 98,
+        "assisted_pct": 89
       },
       "percentiles_pos": {
         "ppg": 56,
@@ -933,8 +1271,39 @@
         "blk_100": 81,
         "fd_100": 74,
         "on_nrtg": 74,
-        "onoff_nrtg": 63
-      }
+        "onoff_nrtg": 63,
+        "xpps": 79,
+        "pps_diff": 100,
+        "assisted_pct": 93
+      },
+      "ast_to": [
+        [
+          "Mester Márk",
+          3
+        ],
+        [
+          "Pap Levente",
+          2
+        ],
+        [
+          "Polster Attila",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Ormai Botond Gábor",
+          5
+        ],
+        [
+          "Ervin Carlbe Lee",
+          4
+        ],
+        [
+          "Polster Attila",
+          2
+        ]
+      ]
     },
     {
       "name": "Pap Levente",
@@ -987,7 +1356,16 @@
       "on_nrtg": -12.9,
       "off_nrtg": 11.5,
       "off_poss": 334.2,
+      "assisted_pct": 88.2,
+      "clutch_poss": 4.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": 0.0,
       "onoff_nrtg": -24.4,
+      "chart_fga": 36,
+      "xpps": 0.986,
+      "pps": 1.194,
+      "pps_diff": 0.209,
       "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-pap-levente.jpg",
       "height_cm": 181,
       "position": "1-2",
@@ -1024,7 +1402,10 @@
         "blk_100": 46,
         "fd_100": 9,
         "on_nrtg": 17,
-        "onoff_nrtg": 10
+        "onoff_nrtg": 10,
+        "xpps": 42,
+        "pps_diff": 89,
+        "assisted_pct": 99
       },
       "percentiles_pos": {
         "ppg": 25,
@@ -1057,8 +1438,39 @@
         "blk_100": 65,
         "fd_100": 8,
         "on_nrtg": 22,
-        "onoff_nrtg": 8
-      }
+        "onoff_nrtg": 8,
+        "xpps": 62,
+        "pps_diff": 88,
+        "assisted_pct": 100
+      },
+      "ast_to": [
+        [
+          "Szabadfi Márk",
+          4
+        ],
+        [
+          "Gerőcs Roland Bálint",
+          1
+        ],
+        [
+          "Carlbe Lee Ervin",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Carlbe Lee Ervin",
+          4
+        ],
+        [
+          "Szabadfi Márk",
+          3
+        ],
+        [
+          "Mayer Ákos",
+          2
+        ]
+      ]
     }
   ]
 }

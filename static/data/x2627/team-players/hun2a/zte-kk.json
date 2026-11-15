@@ -63,7 +63,16 @@
       "on_nrtg": 25.3,
       "off_nrtg": 1.8,
       "off_poss": 140.2,
+      "assisted_pct": 35.1,
+      "clutch_poss": 1.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 208.3,
       "onoff_nrtg": 23.5,
+      "chart_fga": 68,
+      "xpps": 0.972,
+      "pps": 1.309,
+      "pps_diff": 0.336,
       "photo_filename": "zte-kk-pongo-mate.jpg",
       "height_cm": 183,
       "position": "1",
@@ -102,7 +111,10 @@
         "blk_100": 46,
         "fd_100": 42,
         "on_nrtg": 97,
-        "onoff_nrtg": 89
+        "onoff_nrtg": 89,
+        "xpps": 36,
+        "pps_diff": 100,
+        "assisted_pct": 15
       },
       "percentiles_pos": {
         "ppg": 78,
@@ -137,8 +149,39 @@
         "blk_100": 65,
         "fd_100": 30,
         "on_nrtg": 100,
-        "onoff_nrtg": 87
-      }
+        "onoff_nrtg": 87,
+        "xpps": 53,
+        "pps_diff": 100,
+        "assisted_pct": 31
+      },
+      "ast_to": [
+        [
+          "Kucsora Csaba Ákos",
+          6
+        ],
+        [
+          "Cardet Jr Wesley Elijah",
+          5
+        ],
+        [
+          "Tóth Ádám",
+          5
+        ]
+      ],
+      "ast_by": [
+        [
+          "Cardet Jr Wesley Elijah",
+          5
+        ],
+        [
+          "Gerencsér Botond",
+          3
+        ],
+        [
+          "Glatz Gábor Soma",
+          1
+        ]
+      ]
     },
     {
       "name": "Gerencsér Botond",
@@ -191,7 +234,16 @@
       "on_nrtg": 17.8,
       "off_nrtg": 29.2,
       "off_poss": 112.5,
+      "assisted_pct": 69.2,
+      "clutch_poss": 1.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 208.3,
       "onoff_nrtg": -11.4,
+      "chart_fga": 56,
+      "xpps": 1.104,
+      "pps": 1.054,
+      "pps_diff": -0.051,
       "photo_filename": "zte-kk-gerencser-botond.jpg",
       "height_cm": 190,
       "position": "2",
@@ -230,7 +282,10 @@
         "blk_100": 48,
         "fd_100": 39,
         "on_nrtg": 93,
-        "onoff_nrtg": 28
+        "onoff_nrtg": 28,
+        "xpps": 89,
+        "pps_diff": 32,
+        "assisted_pct": 76
       },
       "percentiles_pos": {
         "ppg": 48,
@@ -265,8 +320,39 @@
         "blk_100": 72,
         "fd_100": 28,
         "on_nrtg": 95,
-        "onoff_nrtg": 24
-      }
+        "onoff_nrtg": 24,
+        "xpps": 97,
+        "pps_diff": 31,
+        "assisted_pct": 91
+      },
+      "ast_to": [
+        [
+          "Kucsora Csaba Ákos",
+          4
+        ],
+        [
+          "Pongó Máté",
+          3
+        ],
+        [
+          "Tóth Ádám",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Cardet Jr Wesley Elijah",
+          7
+        ],
+        [
+          "Pongó Máté",
+          4
+        ],
+        [
+          "Tóth Ádám",
+          3
+        ]
+      ]
     },
     {
       "name": "Cardet Jr Wesley Elijah",
@@ -319,7 +405,16 @@
       "on_nrtg": 14.5,
       "off_nrtg": 43.5,
       "off_poss": 112.6,
+      "assisted_pct": 15.5,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -29.0,
+      "chart_fga": 117,
+      "xpps": 1.02,
+      "pps": 1.094,
+      "pps_diff": 0.074,
       "photo_filename": "zte-kk-cardet-jr-wesley-elijah.jpg",
       "height_cm": 198,
       "position": "2-4",
@@ -358,7 +453,10 @@
         "blk_100": 71,
         "fd_100": 92,
         "on_nrtg": 89,
-        "onoff_nrtg": 6
+        "onoff_nrtg": 6,
+        "xpps": 59,
+        "pps_diff": 68,
+        "assisted_pct": 5
       },
       "percentiles_pos": {
         "ppg": 100,
@@ -393,8 +491,39 @@
         "blk_100": 69,
         "fd_100": 94,
         "on_nrtg": 90,
-        "onoff_nrtg": 10
-      }
+        "onoff_nrtg": 10,
+        "xpps": 57,
+        "pps_diff": 74,
+        "assisted_pct": 6
+      },
+      "ast_to": [
+        [
+          "Tóth Ádám",
+          9
+        ],
+        [
+          "Gerencsér Botond",
+          7
+        ],
+        [
+          "Pongó Máté",
+          5
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pongó Máté",
+          5
+        ],
+        [
+          "Kucsora Csaba Ákos",
+          1
+        ],
+        [
+          "Gerencsér Botond",
+          1
+        ]
+      ]
     },
     {
       "name": "Tóth Ádám",
@@ -447,7 +576,16 @@
       "on_nrtg": 7.2,
       "off_nrtg": 26.7,
       "off_poss": 393.7,
+      "assisted_pct": 83.3,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -19.5,
+      "chart_fga": 44,
+      "xpps": 1.128,
+      "pps": 1.364,
+      "pps_diff": 0.236,
       "photo_filename": "zte-kk-toth-adam.jpg",
       "height_cm": 208,
       "position": "5",
@@ -484,7 +622,10 @@
         "blk_100": 80,
         "fd_100": 96,
         "on_nrtg": 77,
-        "onoff_nrtg": 13
+        "onoff_nrtg": 13,
+        "xpps": 94,
+        "pps_diff": 96,
+        "assisted_pct": 94
       },
       "percentiles_pos": {
         "ppg": 78,
@@ -517,8 +658,39 @@
         "blk_100": 56,
         "fd_100": 100,
         "on_nrtg": 81,
-        "onoff_nrtg": 15
-      }
+        "onoff_nrtg": 15,
+        "xpps": 86,
+        "pps_diff": 93,
+        "assisted_pct": 100
+      },
+      "ast_to": [
+        [
+          "Gerencsér Botond",
+          3
+        ],
+        [
+          "Pongó Máté",
+          1
+        ],
+        [
+          "Kucsora Csaba Ákos",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Cardet Jr Wesley Elijah",
+          9
+        ],
+        [
+          "Kis Attila Raul",
+          5
+        ],
+        [
+          "Pongó Máté",
+          5
+        ]
+      ]
     },
     {
       "name": "Kis Attila Raul",
@@ -571,7 +743,16 @@
       "on_nrtg": 18.9,
       "off_nrtg": 20.5,
       "off_poss": 365.8,
+      "assisted_pct": 73.3,
+      "clutch_poss": 1.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 208.3,
       "onoff_nrtg": -1.6,
+      "chart_fga": 37,
+      "xpps": 0.934,
+      "pps": 0.973,
+      "pps_diff": 0.039,
       "height_cm": 206,
       "position": "3-4",
       "birth_year": 1996,
@@ -607,7 +788,10 @@
         "blk_100": 92,
         "fd_100": 19,
         "on_nrtg": 94,
-        "onoff_nrtg": 49
+        "onoff_nrtg": 49,
+        "xpps": 17,
+        "pps_diff": 62,
+        "assisted_pct": 77
       },
       "percentiles_pos": {
         "ppg": 37,
@@ -640,8 +824,39 @@
         "blk_100": 90,
         "fd_100": 27,
         "on_nrtg": 96,
-        "onoff_nrtg": 54
-      }
+        "onoff_nrtg": 54,
+        "xpps": 17,
+        "pps_diff": 69,
+        "assisted_pct": 72
+      },
+      "ast_to": [
+        [
+          "Tóth Ádám",
+          5
+        ],
+        [
+          "Mokánszki Máté",
+          2
+        ],
+        [
+          "Gerencsér Botond",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pongó Máté",
+          5
+        ],
+        [
+          "Cardet Jr Wesley Elijah",
+          4
+        ],
+        [
+          "Gerencsér Botond",
+          2
+        ]
+      ]
     },
     {
       "name": "Szalay Domonkos",
@@ -694,7 +909,16 @@
       "on_nrtg": 10.5,
       "off_nrtg": 23.8,
       "off_poss": 424.8,
+      "assisted_pct": 75.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -13.3,
+      "chart_fga": 23,
+      "xpps": 0.957,
+      "pps": 1.348,
+      "pps_diff": 0.391,
       "photo_filename": "zte-kk-szalay-domonkos.jpg",
       "height_cm": 190,
       "position": "2",
@@ -759,7 +983,27 @@
         "fd_100": 50,
         "on_nrtg": 75,
         "onoff_nrtg": 16
-      }
+      },
+      "ast_to": [
+        [
+          "Pongó Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Cardet Jr Wesley Elijah",
+          3
+        ],
+        [
+          "Tóth Ádám",
+          1
+        ],
+        [
+          "Gerencsér Botond",
+          1
+        ]
+      ]
     },
     {
       "name": "Kucsora Csaba Ákos",
@@ -812,7 +1056,16 @@
       "on_nrtg": 24.0,
       "off_nrtg": 17.0,
       "off_poss": 355.3,
+      "assisted_pct": 66.7,
+      "clutch_poss": 1.4,
+      "clutch_pts": 3,
+      "clutch_ts": 104.2,
+      "clutch_nrtg": 208.3,
       "onoff_nrtg": 7.0,
+      "chart_fga": 56,
+      "xpps": 0.958,
+      "pps": 1.161,
+      "pps_diff": 0.203,
       "photo_filename": "zte-kk-kucsora-csaba-akos.jpg",
       "height_cm": 190,
       "position": "2",
@@ -851,7 +1104,10 @@
         "blk_100": 62,
         "fd_100": 51,
         "on_nrtg": 96,
-        "onoff_nrtg": 69
+        "onoff_nrtg": 69,
+        "xpps": 27,
+        "pps_diff": 86,
+        "assisted_pct": 72
       },
       "percentiles_pos": {
         "ppg": 50,
@@ -886,8 +1142,39 @@
         "blk_100": 88,
         "fd_100": 42,
         "on_nrtg": 98,
-        "onoff_nrtg": 66
-      }
+        "onoff_nrtg": 66,
+        "xpps": 41,
+        "pps_diff": 84,
+        "assisted_pct": 88
+      },
+      "ast_to": [
+        [
+          "Mokánszki Máté",
+          2
+        ],
+        [
+          "Gerencsér Botond",
+          1
+        ],
+        [
+          "Cardet Jr Wesley Elijah",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pongó Máté",
+          6
+        ],
+        [
+          "Gerencsér Botond",
+          4
+        ],
+        [
+          "Cardet Jr Wesley Elijah",
+          4
+        ]
+      ]
     },
     {
       "name": "Mokánszki Máté",
@@ -940,7 +1227,16 @@
       "on_nrtg": 24.5,
       "off_nrtg": 13.5,
       "off_poss": 247.8,
+      "assisted_pct": 48.4,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 11.0,
+      "chart_fga": 64,
+      "xpps": 1.052,
+      "pps": 1.047,
+      "pps_diff": -0.005,
       "photo_filename": "zte-kk-mokanszki-mate.jpg",
       "height_cm": 204,
       "position": "5",
@@ -979,7 +1275,10 @@
         "blk_100": 77,
         "fd_100": 86,
         "on_nrtg": 97,
-        "onoff_nrtg": 76
+        "onoff_nrtg": 76,
+        "xpps": 77,
+        "pps_diff": 49,
+        "assisted_pct": 34
       },
       "percentiles_pos": {
         "ppg": 85,
@@ -1012,8 +1311,39 @@
         "blk_100": 44,
         "fd_100": 89,
         "on_nrtg": 93,
-        "onoff_nrtg": 74
-      }
+        "onoff_nrtg": 74,
+        "xpps": 50,
+        "pps_diff": 57,
+        "assisted_pct": 7
+      },
+      "ast_to": [
+        [
+          "Glatz Gábor Soma",
+          2
+        ],
+        [
+          "Pongó Máté",
+          1
+        ],
+        [
+          "Török-Papp Benedek",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Pongó Máté",
+          5
+        ],
+        [
+          "Glatz Gábor Soma",
+          2
+        ],
+        [
+          "Cardet Jr Wesley Elijah",
+          2
+        ]
+      ]
     },
     {
       "name": "Glatz Gábor Soma",
@@ -1066,7 +1396,16 @@
       "on_nrtg": 25.8,
       "off_nrtg": 16.4,
       "off_poss": 378.2,
+      "assisted_pct": 41.7,
+      "clutch_poss": 1.4,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": 208.3,
       "onoff_nrtg": 9.4,
+      "chart_fga": 33,
+      "xpps": 0.965,
+      "pps": 0.788,
+      "pps_diff": -0.177,
       "photo_filename": "zte-kk-glatz-gabor-soma.jpg",
       "height_cm": 200,
       "position": "4",
@@ -1103,7 +1442,10 @@
         "blk_100": 62,
         "fd_100": 85,
         "on_nrtg": 98,
-        "onoff_nrtg": 73
+        "onoff_nrtg": 73,
+        "xpps": 31,
+        "pps_diff": 14,
+        "assisted_pct": 24
       },
       "percentiles_pos": {
         "ppg": 43,
@@ -1136,8 +1478,39 @@
         "blk_100": 61,
         "fd_100": 88,
         "on_nrtg": 100,
-        "onoff_nrtg": 79
-      }
+        "onoff_nrtg": 79,
+        "xpps": 26,
+        "pps_diff": 20,
+        "assisted_pct": 17
+      },
+      "ast_to": [
+        [
+          "Tóth Ádám",
+          4
+        ],
+        [
+          "Mokánszki Máté",
+          2
+        ],
+        [
+          "Pongó Máté",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Mokánszki Máté",
+          2
+        ],
+        [
+          "Cardet Jr Wesley Elijah",
+          1
+        ],
+        [
+          "Kucsora Csaba Ákos",
+          1
+        ]
+      ]
     },
     {
       "name": "Török-Papp Benedek",
@@ -1190,14 +1563,47 @@
       "on_nrtg": 41.9,
       "off_nrtg": 17.1,
       "off_poss": 537.4,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 24.7,
+      "chart_fga": 6,
+      "xpps": 0.982,
+      "pps": 1.0,
+      "pps_diff": 0.018,
       "photo_filename": "zte-kk-torok-papp-benedek.jpg",
       "height_cm": 185,
       "position": "2",
       "birth_year": 2007,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Kucsora Csaba Ákos",
+          2
+        ],
+        [
+          "Mokánszki Máté",
+          1
+        ],
+        [
+          "Szalay Domonkos",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Mokánszki Máté",
+          1
+        ],
+        [
+          "Cardet Jr Wesley Elijah",
+          1
+        ]
+      ]
     },
     {
       "name": "Garai Dávid Gábor",
@@ -1250,14 +1656,34 @@
       "on_nrtg": 30.3,
       "off_nrtg": 19.3,
       "off_poss": 563.6,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 11.0,
+      "chart_fga": 1,
+      "xpps": 0.887,
+      "pps": 0.0,
+      "pps_diff": -0.887,
       "photo_filename": "zte-kk-garai-david-gabor.jpg",
       "height_cm": 180,
       "position": "1",
       "birth_year": 2006,
       "pos_group": "G",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Mokánszki Máté",
+          1
+        ],
+        [
+          "Cardet Jr Wesley Elijah",
+          1
+        ]
+      ],
+      "ast_by": []
     },
     {
       "name": "Ruzsics Barnabás",
@@ -1310,14 +1736,25 @@
       "on_nrtg": 0.0,
       "off_nrtg": 20.0,
       "off_poss": 603.0,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -20.0,
+      "chart_fga": 1,
+      "xpps": 1.115,
+      "pps": 0.0,
+      "pps_diff": -1.115,
       "photo_filename": "zte-kk-ruzsics-barnabas.jpg",
       "height_cm": 190,
       "position": "3-4",
       "birth_year": 2007,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }

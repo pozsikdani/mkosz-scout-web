@@ -63,7 +63,16 @@
       "on_nrtg": 13.6,
       "off_nrtg": 6.1,
       "off_poss": 119.8,
+      "assisted_pct": 57.5,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -243.1,
       "onoff_nrtg": 7.4,
+      "chart_fga": 76,
+      "xpps": 1.06,
+      "pps": 1.053,
+      "pps_diff": -0.008,
       "photo_filename": "vasarhelyi-kosarsuli-anda-david.jpg",
       "height_cm": 213,
       "position": "5",
@@ -101,7 +110,10 @@
         "blk_100": 91,
         "fd_100": 81,
         "on_nrtg": 80,
-        "onoff_nrtg": 64
+        "onoff_nrtg": 64,
+        "xpps": 94,
+        "pps_diff": 52,
+        "assisted_pct": 43
       },
       "percentiles_pos": {
         "ppg": 100,
@@ -135,8 +147,39 @@
         "blk_100": 73,
         "fd_100": 81,
         "on_nrtg": 81,
-        "onoff_nrtg": 64
-      }
+        "onoff_nrtg": 64,
+        "xpps": 76,
+        "pps_diff": 67,
+        "assisted_pct": 43
+      },
+      "ast_to": [
+        [
+          "Balogh László",
+          1
+        ],
+        [
+          "Kelemen Balázs",
+          1
+        ],
+        [
+          "Bősz Richárd",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Polányi Kristóf Áron",
+          10
+        ],
+        [
+          "Kruzslicz Alex",
+          3
+        ],
+        [
+          "Kelemen Balázs",
+          3
+        ]
+      ]
     },
     {
       "name": "Bálint Erik",
@@ -189,7 +232,16 @@
       "on_nrtg": -2.4,
       "off_nrtg": 53.8,
       "off_poss": 143.7,
+      "assisted_pct": 63.6,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -56.2,
+      "chart_fga": 84,
+      "xpps": 0.877,
+      "pps": 0.905,
+      "pps_diff": 0.028,
       "photo_filename": "vasarhelyi-kosarsuli-balint-erik.jpg",
       "height_cm": 200,
       "position": "3-4",
@@ -228,7 +280,10 @@
         "blk_100": 43,
         "fd_100": 30,
         "on_nrtg": 48,
-        "onoff_nrtg": 1
+        "onoff_nrtg": 1,
+        "xpps": 11,
+        "pps_diff": 55,
+        "assisted_pct": 58
       },
       "percentiles_pos": {
         "ppg": 86,
@@ -263,8 +318,39 @@
         "blk_100": 43,
         "fd_100": 39,
         "on_nrtg": 50,
-        "onoff_nrtg": 2
-      }
+        "onoff_nrtg": 2,
+        "xpps": 14,
+        "pps_diff": 50,
+        "assisted_pct": 46
+      },
+      "ast_to": [
+        [
+          "Kruzslicz Alex",
+          3
+        ],
+        [
+          "Anda Dávid",
+          3
+        ],
+        [
+          "Polányi Kristóf Áron",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Polányi Kristóf Áron",
+          10
+        ],
+        [
+          "Kelemen Balázs",
+          4
+        ],
+        [
+          "Balogh László",
+          3
+        ]
+      ]
     },
     {
       "name": "Kruzslicz Alex",
@@ -317,7 +403,16 @@
       "on_nrtg": 8.7,
       "off_nrtg": 21.6,
       "off_poss": 143.5,
+      "assisted_pct": 65.5,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -243.1,
       "onoff_nrtg": -12.9,
+      "chart_fga": 56,
+      "xpps": 0.93,
+      "pps": 1.304,
+      "pps_diff": 0.373,
       "photo_filename": "vasarhelyi-kosarsuli-kruzslicz-alex.jpg",
       "height_cm": 190,
       "position": "2",
@@ -356,7 +451,10 @@
         "blk_100": 43,
         "fd_100": 32,
         "on_nrtg": 68,
-        "onoff_nrtg": 21
+        "onoff_nrtg": 21,
+        "xpps": 40,
+        "pps_diff": 98,
+        "assisted_pct": 62
       },
       "percentiles_pos": {
         "ppg": 76,
@@ -391,8 +489,39 @@
         "blk_100": 60,
         "fd_100": 34,
         "on_nrtg": 72,
-        "onoff_nrtg": 24
-      }
+        "onoff_nrtg": 24,
+        "xpps": 58,
+        "pps_diff": 94,
+        "assisted_pct": 78
+      },
+      "ast_to": [
+        [
+          "Polányi Kristóf Áron",
+          3
+        ],
+        [
+          "Anda Dávid",
+          3
+        ],
+        [
+          "Kelemen Balázs",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Polányi Kristóf Áron",
+          6
+        ],
+        [
+          "Balogh László",
+          4
+        ],
+        [
+          "Bálint Erik",
+          3
+        ]
+      ]
     },
     {
       "name": "Polányi Kristóf Áron",
@@ -445,7 +574,16 @@
       "on_nrtg": 4.8,
       "off_nrtg": 23.1,
       "off_poss": 220.6,
+      "assisted_pct": 40.0,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -243.1,
       "onoff_nrtg": -18.3,
+      "chart_fga": 67,
+      "xpps": 0.933,
+      "pps": 1.06,
+      "pps_diff": 0.127,
       "photo_filename": "vasarhelyi-kosarsuli-polanyi-kristof-aron.jpg",
       "height_cm": 188,
       "position": "1",
@@ -484,7 +622,10 @@
         "blk_100": 43,
         "fd_100": 62,
         "on_nrtg": 60,
-        "onoff_nrtg": 14
+        "onoff_nrtg": 14,
+        "xpps": 42,
+        "pps_diff": 73,
+        "assisted_pct": 15
       },
       "percentiles_pos": {
         "ppg": 68,
@@ -519,8 +660,39 @@
         "blk_100": 60,
         "fd_100": 70,
         "on_nrtg": 60,
-        "onoff_nrtg": 16
-      }
+        "onoff_nrtg": 16,
+        "xpps": 61,
+        "pps_diff": 69,
+        "assisted_pct": 27
+      },
+      "ast_to": [
+        [
+          "Bálint Erik",
+          10
+        ],
+        [
+          "Anda Dávid",
+          10
+        ],
+        [
+          "Kruzslicz Alex",
+          6
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kelemen Balázs",
+          6
+        ],
+        [
+          "Kruzslicz Alex",
+          3
+        ],
+        [
+          "Bálint Erik",
+          3
+        ]
+      ]
     },
     {
       "name": "Kelemen Balázs",
@@ -573,7 +745,16 @@
       "on_nrtg": 15.5,
       "off_nrtg": 1.7,
       "off_poss": 139.9,
+      "assisted_pct": 59.3,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": 0.0,
+      "clutch_nrtg": -243.1,
       "onoff_nrtg": 13.8,
+      "chart_fga": 74,
+      "xpps": 0.937,
+      "pps": 0.905,
+      "pps_diff": -0.031,
       "photo_filename": "vasarhelyi-kosarsuli-kelemen-balazs.jpg",
       "height_cm": 190,
       "position": "3-4",
@@ -612,7 +793,10 @@
         "blk_100": 48,
         "fd_100": 87,
         "on_nrtg": 88,
-        "onoff_nrtg": 75
+        "onoff_nrtg": 75,
+        "xpps": 44,
+        "pps_diff": 48,
+        "assisted_pct": 50
       },
       "percentiles_pos": {
         "ppg": 82,
@@ -647,8 +831,39 @@
         "blk_100": 45,
         "fd_100": 91,
         "on_nrtg": 86,
-        "onoff_nrtg": 70
-      }
+        "onoff_nrtg": 70,
+        "xpps": 54,
+        "pps_diff": 46,
+        "assisted_pct": 32
+      },
+      "ast_to": [
+        [
+          "Polányi Kristóf Áron",
+          6
+        ],
+        [
+          "Bálint Erik",
+          4
+        ],
+        [
+          "Anda Dávid",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bősz Richárd",
+          6
+        ],
+        [
+          "Kruzslicz Alex",
+          3
+        ],
+        [
+          "Polányi Kristóf Áron",
+          2
+        ]
+      ]
     },
     {
       "name": "Balogh László",
@@ -701,7 +916,16 @@
       "on_nrtg": 26.0,
       "off_nrtg": -2.3,
       "off_poss": 271.7,
+      "assisted_pct": 60.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 28.2,
+      "chart_fga": 20,
+      "xpps": 0.92,
+      "pps": 1.2,
+      "pps_diff": 0.28,
       "photo_filename": "vasarhelyi-kosarsuli-balogh-laszlo.jpg",
       "height_cm": 190,
       "position": "2",
@@ -764,7 +988,35 @@
         "fd_100": 50,
         "on_nrtg": 98,
         "onoff_nrtg": 90
-      }
+      },
+      "ast_to": [
+        [
+          "Kruzslicz Alex",
+          4
+        ],
+        [
+          "Anda Dávid",
+          3
+        ],
+        [
+          "Bálint Erik",
+          3
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kelemen Balázs",
+          2
+        ],
+        [
+          "Bősz Richárd",
+          2
+        ],
+        [
+          "Anda Dávid",
+          1
+        ]
+      ]
     },
     {
       "name": "Bősz Richárd",
@@ -817,7 +1069,16 @@
       "on_nrtg": 22.9,
       "off_nrtg": 4.1,
       "off_poss": 317.7,
+      "assisted_pct": 30.8,
+      "clutch_poss": 3.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": -212.8,
       "onoff_nrtg": 18.8,
+      "chart_fga": 41,
+      "xpps": 0.906,
+      "pps": 0.732,
+      "pps_diff": -0.175,
       "photo_filename": "vasarhelyi-kosarsuli-bosz-richard.jpg",
       "height_cm": 182,
       "position": "1",
@@ -855,7 +1116,10 @@
         "blk_100": 64,
         "fd_100": 42,
         "on_nrtg": 95,
-        "onoff_nrtg": 85
+        "onoff_nrtg": 85,
+        "xpps": 28,
+        "pps_diff": 15,
+        "assisted_pct": 9
       },
       "percentiles_pos": {
         "ppg": 44,
@@ -889,8 +1153,39 @@
         "blk_100": 86,
         "fd_100": 48,
         "on_nrtg": 94,
-        "onoff_nrtg": 86
-      }
+        "onoff_nrtg": 86,
+        "xpps": 39,
+        "pps_diff": 17,
+        "assisted_pct": 22
+      },
+      "ast_to": [
+        [
+          "Kelemen Balázs",
+          6
+        ],
+        [
+          "Kruzslicz Alex",
+          2
+        ],
+        [
+          "Niksic Alexander",
+          2
+        ]
+      ],
+      "ast_by": [
+        [
+          "Anda Dávid",
+          1
+        ],
+        [
+          "Kruzslicz Alex",
+          1
+        ],
+        [
+          "Kelemen Balázs",
+          1
+        ]
+      ]
     },
     {
       "name": "Szombati Tamás",
@@ -943,14 +1238,25 @@
       "on_nrtg": -0.2,
       "off_nrtg": 12.8,
       "off_poss": 517.5,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -13.0,
+      "chart_fga": 5,
+      "xpps": 0.81,
+      "pps": 0.0,
+      "pps_diff": -0.81,
       "photo_filename": "vasarhelyi-kosarsuli-szombati-tamas.jpg",
       "height_cm": 195,
       "position": "5",
       "birth_year": 2002,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     },
     {
       "name": "Niksic Alexander",
@@ -1003,7 +1309,16 @@
       "on_nrtg": 37.2,
       "off_nrtg": 7.1,
       "off_poss": 462.6,
+      "assisted_pct": 85.7,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 30.2,
+      "chart_fga": 13,
+      "xpps": 0.969,
+      "pps": 1.308,
+      "pps_diff": 0.339,
       "photo_filename": "vasarhelyi-kosarsuli-niksic-alexander.jpg",
       "height_cm": 192,
       "position": "3",
@@ -1064,7 +1379,27 @@
         "fd_100": 27,
         "on_nrtg": 100,
         "onoff_nrtg": 93
-      }
+      },
+      "ast_to": [
+        [
+          "Kelemen Balázs",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Bősz Richárd",
+          2
+        ],
+        [
+          "Balogh László",
+          2
+        ],
+        [
+          "Polányi Kristóf Áron",
+          1
+        ]
+      ]
     },
     {
       "name": "Utasi Gergő",
@@ -1117,7 +1452,16 @@
       "on_nrtg": 13.1,
       "off_nrtg": 11.8,
       "off_poss": 461.3,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": 1.3,
+      "chart_fga": 3,
+      "xpps": 1.133,
+      "pps": 1.333,
+      "pps_diff": 0.2,
       "photo_filename": "vasarhelyi-kosarsuli-utasi-gergo.jpg",
       "height_cm": 194,
       "position": "4",
@@ -1176,7 +1520,18 @@
         "fd_100": 77,
         "on_nrtg": 77,
         "onoff_nrtg": 48
-      }
+      },
+      "ast_to": [],
+      "ast_by": [
+        [
+          "Kelemen Balázs",
+          1
+        ],
+        [
+          "Kruzslicz Alex",
+          1
+        ]
+      ]
     },
     {
       "name": "Utasi Zsombor",
@@ -1229,14 +1584,35 @@
       "on_nrtg": 0.6,
       "off_nrtg": 12.2,
       "off_poss": 535.6,
+      "assisted_pct": 100.0,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -11.6,
+      "chart_fga": 2,
+      "xpps": 0.819,
+      "pps": 1.0,
+      "pps_diff": 0.181,
       "photo_filename": "vasarhelyi-kosarsuli-utasi-zsombor.jpg",
       "height_cm": 200,
       "position": "5",
       "birth_year": 2005,
       "pos_group": "C",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [
+        [
+          "Kruzslicz Alex",
+          1
+        ]
+      ],
+      "ast_by": [
+        [
+          "Kruzslicz Alex",
+          1
+        ]
+      ]
     },
     {
       "name": "Wolf Dominik",
@@ -1289,14 +1665,25 @@
       "on_nrtg": -35.8,
       "off_nrtg": 13.3,
       "off_poss": 538.6,
+      "assisted_pct": null,
+      "clutch_poss": 0.0,
+      "clutch_pts": 0,
+      "clutch_ts": null,
+      "clutch_nrtg": null,
       "onoff_nrtg": -49.1,
+      "chart_fga": 2,
+      "xpps": 0.974,
+      "pps": 0.0,
+      "pps_diff": -0.974,
       "photo_filename": "vasarhelyi-kosarsuli-wolf-dominik.jpg",
       "height_cm": 188,
       "position": "4",
       "birth_year": 2008,
       "pos_group": "F",
       "percentiles": {},
-      "percentiles_pos": {}
+      "percentiles_pos": {},
+      "ast_to": [],
+      "ast_by": []
     }
   ]
 }
