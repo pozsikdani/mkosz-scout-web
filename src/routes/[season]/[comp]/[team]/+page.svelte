@@ -20,6 +20,8 @@
 	const playersData = $derived(data.players);
 	const playerShotsData = $derived(data.playerShots);
 	const hasPlayers = $derived((playersData?.players?.length ?? 0) > 0);
+	// Archív szezonok exportja még nem tartalmazza a hatékonysági mezőket
+	const hasEfficiency = $derived((playersData?.players ?? []).some((p) => p.ts_pct !== undefined));
 	const lineupsData = $derived(data.lineups);
 	const hasLineups = $derived((lineupsData?.matches?.length ?? 0) > 0);
 	const possessionsData = $derived(data.possessions);
@@ -529,6 +531,7 @@
 					Ehhez a csapathoz még nincs játékos-statisztika az adatbázisban.
 				</div>
 			{:else}
+				{#if hasEfficiency}
 				<div class="mb-4 flex gap-1 rounded-lg border border-border bg-card p-1 text-sm font-semibold w-fit" role="group" aria-label="Nézet">
 					<button
 						class="rounded px-3 py-1 transition-colors"
@@ -547,7 +550,8 @@
 						onclick={() => (playersView = 'eff')}>Hatékonyság</button
 					>
 				</div>
-				{#if playersView === 'eff'}
+				{/if}
+				{#if playersView === 'eff' && hasEfficiency}
 					<PlayerEfficiency data={playersData} />
 				{:else}
 					<PlayerCards data={playersData} playerShots={playerShotsData} />
