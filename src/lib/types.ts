@@ -178,6 +178,8 @@ export interface PlayerSeason {
 	on_ortg?: number | null;
 	on_drtg?: number | null;
 	on_nrtg?: number | null;
+	off_ortg?: number | null;
+	off_drtg?: number | null;
 	off_nrtg?: number | null;
 	onoff_nrtg?: number | null;
 	// 3. fázis — dobásminőség (lövéstérkép), gólpassz-kapcsolatok, szoros végjáték

@@ -189,6 +189,10 @@
 		return 'bg-negative/45 text-fg';
 	}
 
+	function diff(a: number | null | undefined, b: number | null | undefined): number | null {
+		return a == null || b == null ? null : a - b;
+	}
+
 	function fmt(v: number | null | undefined, digits = 1, signed = false): string {
 		if (v === null || v === undefined || !isFinite(v)) return '—';
 		const s = v.toLocaleString('hu-HU', { minimumFractionDigits: digits, maximumFractionDigits: digits });
@@ -421,18 +425,24 @@
 				<div class="rounded bg-card-hover p-2">
 					<p class="text-xl font-bold tabular-nums" class:text-positive={(sel.on_nrtg ?? 0) >= 0} class:text-negative={(sel.on_nrtg ?? 0) < 0}>{fmt(sel.on_nrtg, 1, true)}</p>
 					<p class="text-[10px] uppercase tracking-wider text-muted">pályán</p>
-					<p class="text-[10px] text-muted">{fmt(sel.on_ortg)} / {fmt(sel.on_drtg)}</p>
+					<p class="text-[10px] text-muted tabular-nums">ORtg {fmt(sel.on_ortg)}</p>
+					<p class="text-[10px] text-muted tabular-nums">DRtg {fmt(sel.on_drtg)}</p>
 				</div>
 				<div class="rounded bg-card-hover p-2">
 					<p class="text-xl font-bold tabular-nums" class:text-positive={(sel.off_nrtg ?? 0) >= 0} class:text-negative={(sel.off_nrtg ?? 0) < 0}>{fmt(sel.off_nrtg, 1, true)}</p>
 					<p class="text-[10px] uppercase tracking-wider text-muted">padon</p>
+					<p class="text-[10px] text-muted tabular-nums">ORtg {fmt(sel.off_ortg)}</p>
+					<p class="text-[10px] text-muted tabular-nums">DRtg {fmt(sel.off_drtg)}</p>
 					<p class="text-[10px] text-muted">{fmt(sel.off_poss, 0)} poss</p>
 				</div>
 				<div class="rounded bg-card-hover p-2">
 					<p class="text-xl font-bold tabular-nums" class:text-positive={(sel.onoff_nrtg ?? 0) >= 0} class:text-negative={(sel.onoff_nrtg ?? 0) < 0}>{fmt(sel.onoff_nrtg, 1, true)}</p>
 					<p class="text-[10px] uppercase tracking-wider text-muted">különbség</p>
+					<p class="text-[10px] text-muted tabular-nums">ORtg {fmt(diff(sel.on_ortg, sel.off_ortg), 1, true)}</p>
+					<p class="text-[10px] text-muted tabular-nums">DRtg {fmt(diff(sel.on_drtg, sel.off_drtg), 1, true)}</p>
 				</div>
 			</div>
+			<p class="mt-2 text-[11px] text-muted">ORtg = a csapat szerzett pontja, DRtg = a kapott pont, mindkettő 100 labdabirtoklásra. A DRtg-nél a kisebb a jobb, ezért ott a negatív különbség a kedvező.</p>
 			{#if (sel.off_poss ?? 0) < minPoss}
 				<p class="mt-2 text-xs text-muted">Keveset ült a padon ({fmt(sel.off_poss, 0)} labdabirtoklás), ezért a „padon” érték és a különbség bizonytalan.</p>
 			{/if}

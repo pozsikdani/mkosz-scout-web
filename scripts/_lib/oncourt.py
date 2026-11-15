@@ -283,6 +283,8 @@ def player_metrics(team_total: dict, a: dict) -> dict:
         "on_ortg": _r(on_o),
         "on_drtg": _r(on_d),
         "on_nrtg": _r(on_n),
+        "off_ortg": _r(off_o),
+        "off_drtg": _r(off_d),
         "off_nrtg": _r(off_n),
         "off_poss": _r(off_poss),
         # 3. fázis — gólpassz-párosítás és szoros végjáték
