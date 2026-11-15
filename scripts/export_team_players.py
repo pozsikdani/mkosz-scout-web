@@ -45,6 +45,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _lib.name_key import norm_full, player_dedup_key  # noqa: E402
+from _lib.oncourt import player_metrics, team_oncourt_season  # noqa: E402
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -65,6 +66,7 @@ MIN_FGA = 50
 MIN_3PA = 15
 MIN_FTA = 10
 MIN_FGA_EFF = 30  # TS%/eFG%/FT-arány/3PA arány: e alatt "kicsi minta"
+MIN_POSS = 50  # pályán töltött labdabirtoklás: e alatt a 2. fázis mutatói "kicsi minta"
 MIN_POS_POOL = 8  # pozíciós percentilishez min. ennyi összevethető játékos
 
 
@@ -277,6 +279,12 @@ PERCENTILE_STATS = [
     ("fg_pct", "fg_att"), ("three_pct", "three_att"), ("ft_pct", "ft_att"),
     ("ts_pct", "fg_att"), ("efg_pct", "fg_att"), ("ft_rate", "fg_att"), ("three_rate", "fg_att"),
     ("ato", None),
+    # 2. fázis — pályán töltött idő alapján (tov_pct / tov_100: kevesebb = jobb, a UI fordít)
+    ("usg_pct", "poss_on"), ("ast_pct", "poss_on"), ("tov_pct", "poss_on"),
+    ("oreb_pct", "poss_on"), ("dreb_pct", "poss_on"),
+    ("pts_100", "poss_on"), ("reb_100", "poss_on"), ("ast_100", "poss_on"), ("tov_100", "poss_on"),
+    ("stl_100", "poss_on"), ("blk_100", "poss_on"), ("fd_100", "poss_on"),
+    ("on_nrtg", "poss_on"), ("onoff_nrtg", "off_poss"),
 ]
 
 # Volume-küszöb statonként (None = nincs)
@@ -287,8 +295,15 @@ VOLUME_MIN = {
 }
 
 
+for _stat, _vol in PERCENTILE_STATS:
+    if _vol in ("poss_on", "off_poss"):
+        VOLUME_MIN[_stat] = (_vol, MIN_POSS)
+
+
 def eligible(stat: str, f: dict) -> bool:
     if f.get(stat) is None:
+        return False
+    if stat == "onoff_nrtg" and (f.get("poss_on") or 0) < MIN_POSS:
         return False
     vol = VOLUME_MIN.get(stat)
     return not vol or (f.get(vol[0]) or 0) >= vol[1]
@@ -333,8 +348,19 @@ def main() -> int:
 
     # Aggregate everyone first; then compute league percentile distribution.
     per_team_aggs: dict[str, dict] = {}
+    oncourt: dict[str, tuple] = {}
     for team in teams:
         per_team_aggs[team] = aggregate_team_players(conn, team, args.season)
+        aliases = TEAM_ALIASES.get(team, [])
+        oncourt[team] = team_oncourt_season(
+            conn, team, args.season, COMPS, lambda n, t=team, al=aliases: team_matches(t, n, al)
+        )
+
+    def enrich(team: str, key: str, f: dict) -> dict:
+        team_total, oc = oncourt[team]
+        if key in oc:
+            f.update(player_metrics(team_total, oc[key]))
+        return f
 
     # Build league pools per stat (filtered by GP + per-stat volume threshold)
     league_pools: dict[str, list[float]] = defaultdict(list)
@@ -344,7 +370,7 @@ def main() -> int:
         for key, a in agg.items():
             if a["gp"] < MIN_GP_FOR_PERCENTILE:
                 continue
-            f = finalize_player(a)
+            f = enrich(team, key, finalize_player(a))
             meta = roster_lookup.get((team_slug, roster_match_key(f["name"]))) or {}
             grp = pos_group(meta.get("position"))
             for stat, _ in PERCENTILE_STATS:
@@ -363,7 +389,7 @@ def main() -> int:
         team_max_gp = max((a["gp"] for a in agg.values()), default=0)
         players: list[dict] = []
         for key, a in agg.items():
-            f = finalize_player(a)
+            f = enrich(team, key, finalize_player(a))
             # Cross-reference rosters JSON for photo + position + height + birth_year.
             # Roster jersey is authoritative — override scoresheet jersey if present.
             meta = roster_lookup.get((team_slug, roster_match_key(f["name"])))
@@ -412,7 +438,7 @@ def main() -> int:
             "thresholds": {
                 "min_gp_for_percentile": MIN_GP_FOR_PERCENTILE,
                 "min_fga": MIN_FGA, "min_3pa": MIN_3PA, "min_fta": MIN_FTA,
-                "min_fga_eff": MIN_FGA_EFF, "min_pos_pool": MIN_POS_POOL,
+                "min_fga_eff": MIN_FGA_EFF, "min_pos_pool": MIN_POS_POOL, "min_poss": MIN_POSS,
             },
             "players": players,
         }

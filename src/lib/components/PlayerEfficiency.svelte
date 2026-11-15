@@ -10,9 +10,13 @@
 	let scope = $state<Scope>('rotation');
 
 	const minFga = $derived(data.thresholds.min_fga_eff ?? 30);
+	const minPoss = $derived(data.thresholds.min_poss ?? 50);
 	const minGp = $derived(data.thresholds.min_gp_for_percentile);
 
 	const GRP_LABEL: Record<string, string> = { G: 'hátvéd', F: 'bedobó/erőcsatár', C: 'center' };
+
+	// Kevesebb = jobb: a színezés megfordul
+	const INVERTED = new Set<PercentileStat>(['tov_pct', 'tov_100']);
 
 	type Col = {
 		key: string;
@@ -23,70 +27,99 @@
 		digits?: number;
 		pct?: PercentileStat;
 		neutral?: boolean;
-		group?: boolean;
+		signed?: boolean;
+		group?: string; // csoport első oszlopán: a csoport neve
 	};
+
+	const P100 = '· 100 / saját labdabirtoklás a pályán';
 
 	const COLS: Col[] = [
 		{ key: 'gp', label: 'GP', title: 'Lejátszott meccsek.', value: (p) => p.gp, digits: 0 },
 		{ key: 'mpg', label: 'MIN', title: 'Átlagos játékperc meccsenként.', value: (p) => p.mpg },
-		{ key: 'ppg', label: 'PTS', title: 'Pont meccsenként.', value: (p) => p.ppg, pct: 'ppg' },
 		{
-			key: 'ts_pct',
-			label: 'TS%',
+			key: 'ts_pct', label: 'TS%', group: 'Dobás',
 			title: 'Valódi dobószázalék: a tripla többletértékét és a büntetőket is számolja. A pontszerzés hatékonyságának legjobb egyszámos mutatója.',
-			formula: 'PTS / (2 · (FGA + 0,44 · FTA))',
-			value: (p) => p.ts_pct,
-			pct: 'ts_pct',
-			group: true
+			formula: 'PTS / (2 · (FGA + 0,44 · FTA))', value: (p) => p.ts_pct, pct: 'ts_pct'
 		},
 		{
-			key: 'efg_pct',
-			label: 'eFG%',
+			key: 'efg_pct', label: 'eFG%',
 			title: 'Effektív mezőnyszázalék: a tripla 1,5 dobásnak számít. A büntetőket nem nézi.',
-			formula: '(FGM + 0,5 · 3PM) / FGA',
-			value: (p) => p.efg_pct,
-			pct: 'efg_pct'
+			formula: '(FGM + 0,5 · 3PM) / FGA', value: (p) => p.efg_pct, pct: 'efg_pct'
 		},
 		{
-			key: 'ft_rate',
-			label: 'FT-arány',
+			key: 'ft_rate', label: 'FT-arány',
 			title: 'Mennyi büntetőt harcol ki mezőnydobásonként, vagyis mennyire támad a gyűrű felé.',
-			formula: 'FTA / FGA',
-			value: (p) => p.ft_rate,
-			pct: 'ft_rate'
+			formula: 'FTA / FGA', value: (p) => p.ft_rate, pct: 'ft_rate'
 		},
 		{
-			key: 'three_rate',
-			label: '3PA arány',
+			key: 'three_rate', label: '3PA arány',
 			title: 'A mezőnydobások hány %-a tripla. Játékstílust mutat, ezért nincs jó/rossz színezése.',
-			formula: '3PA / FGA',
-			value: (p) => p.three_rate,
-			pct: 'three_rate',
-			neutral: true
+			formula: '3PA / FGA', value: (p) => p.three_rate, pct: 'three_rate', neutral: true
 		},
 		{
-			key: 'ato',
-			label: 'AST/TO',
-			title: 'Gólpassz és eladott labda aránya.',
-			formula: 'AST / TOV',
-			value: (p) => p.ato,
-			digits: 2,
-			pct: 'ato',
-			group: true
+			key: 'usg_pct', label: 'USG%', group: 'Szerep',
+			title: 'A csapat labdabirtoklásainak hány %-át fejezi be (dobás, büntető vagy eladott labda), amíg a pályán van. Megmutatja, ki az első opció.',
+			formula: '(FGA + 0,44 · FTA + TOV) / ugyanez a csapatra, amíg pályán van', value: (p) => p.usg_pct, pct: 'usg_pct'
 		},
 		{
-			key: 'fg_att',
-			label: 'FGA',
-			title: 'A minta nagysága: összes mezőnydobás-kísérlet a szezonban. Ez alatt a küszöb alatt nincs percentilis-színezés.',
-			value: (p) => p.fg_att,
-			digits: 0,
-			group: true
+			key: 'ast_pct', label: 'AST%',
+			title: 'Amíg a pályán van, a csapattársak kosarainak hány %-át készíti elő.',
+			formula: 'AST / (csapat FGM a pályán − saját FGM)', value: (p) => p.ast_pct, pct: 'ast_pct'
+		},
+		{
+			key: 'tov_pct', label: 'TOV%',
+			title: 'A saját befejezett labdabirtoklásainak hány %-a eladott labda. Kevesebb = jobb.',
+			formula: 'TOV / (FGA + 0,44 · FTA + TOV)', value: (p) => p.tov_pct, pct: 'tov_pct'
+		},
+		{
+			key: 'ato', label: 'AST/TO', title: 'Gólpassz és eladott labda aránya.',
+			formula: 'AST / TOV', value: (p) => p.ato, digits: 2, pct: 'ato'
+		},
+		{ key: 'pts_100', label: 'PTS', group: '/100 labdabirtoklás', title: 'Pont 100 labdabirtoklásra, amíg a pályán van. A sok és kevés percet játszók így összevethetők.', formula: `PTS ${P100}`, value: (p) => p.pts_100, pct: 'pts_100' },
+		{ key: 'reb_100', label: 'REB', title: 'Lepattanó 100 labdabirtoklásra.', formula: `REB ${P100}`, value: (p) => p.reb_100, pct: 'reb_100' },
+		{ key: 'ast_100', label: 'AST', title: 'Gólpassz 100 labdabirtoklásra.', formula: `AST ${P100}`, value: (p) => p.ast_100, pct: 'ast_100' },
+		{ key: 'tov_100', label: 'TOV', title: 'Eladott labda 100 labdabirtoklásra. Kevesebb = jobb.', formula: `TOV ${P100}`, value: (p) => p.tov_100, pct: 'tov_100' },
+		{ key: 'stl_100', label: 'STL', title: 'Szerzett labda 100 labdabirtoklásra.', formula: `STL ${P100}`, value: (p) => p.stl_100, pct: 'stl_100' },
+		{ key: 'blk_100', label: 'BLK', title: 'Blokk 100 labdabirtoklásra. A rögzítése jegyzőkönyvíró-függő.', formula: `BLK ${P100}`, value: (p) => p.blk_100, pct: 'blk_100' },
+		{ key: 'fd_100', label: 'FD', title: 'Kiharcolt személyi hiba 100 labdabirtoklásra.', formula: `kiharcolt fault ${P100}`, value: (p) => p.fd_100, pct: 'fd_100' },
+		{
+			key: 'oreb_pct', label: 'OREB%', group: 'Lepattanó',
+			title: 'A támadó lepattanó-lehetőségek hány %-át szerzi meg, amíg a pályán van.',
+			formula: 'OREB / (csapat OREB + ellenfél DREB), pályán', value: (p) => p.oreb_pct, pct: 'oreb_pct'
+		},
+		{
+			key: 'dreb_pct', label: 'DREB%',
+			title: 'A védő lepattanó-lehetőségek hány %-át szerzi meg, amíg a pályán van.',
+			formula: 'DREB / (csapat DREB + ellenfél OREB), pályán', value: (p) => p.dreb_pct, pct: 'dreb_pct'
+		},
+		{
+			key: 'on_nrtg', label: 'ON NRtg', group: 'Hatás', signed: true,
+			title: 'A csapat nettó ratingje (100 labdabirtoklásra), amíg a játékos a pályán van.',
+			formula: '100 · PF / poss − 100 · PA / ellenfél-poss', value: (p) => p.on_nrtg, pct: 'on_nrtg'
+		},
+		{
+			key: 'onoff_nrtg', label: 'ON–OFF', signed: true,
+			title: `Mennyivel jobb a csapat nettó ratingje vele, mint nélküle (a szezon összes meccsén). Ha a játékos keveset ült a padon (${'<'} 50 labdabirtoklás), nincs színezés.`,
+			formula: 'ON NRtg − OFF NRtg', value: (p) => p.onoff_nrtg, pct: 'onoff_nrtg'
+		},
+		{
+			key: 'poss_on', label: 'Poss',
+			title: 'A minta nagysága: labdabirtoklások, amíg a pályán volt. 50 alatt kicsi minta.',
+			formula: 'FGA + 0,44 · FTA + TOV − OREB (csapat, pályán)', value: (p) => p.poss_on, digits: 0
 		}
 	];
 
+	const GROUP_SPANS = $derived.by(() => {
+		const spans: { label: string; span: number }[] = [];
+		for (const c of COLS) {
+			if (c.group || spans.length === 0) spans.push({ label: c.group ?? '', span: 1 });
+			else spans[spans.length - 1].span++;
+		}
+		return spans;
+	});
+
 	let sortKey = $state<string>('mpg');
 	let sortDesc = $state(true);
-
 	function setSort(key: string) {
 		if (sortKey === key) sortDesc = !sortDesc;
 		else {
@@ -95,7 +128,8 @@
 		}
 	}
 
-	const small = (p: PlayerSeason) => p.gp < minGp || p.fg_att < minFga;
+	const small = (p: PlayerSeason) =>
+		p.gp < minGp || (p.poss_on !== undefined ? p.poss_on < minPoss : p.fg_att < minFga);
 
 	const rows = $derived.by(() => {
 		const col = COLS.find((c) => c.key === sortKey)!;
@@ -107,15 +141,17 @@
 		});
 	});
 
-	/** Percentilis a választott alapon; pozíciós módban hiány esetén liga + jelölés. */
+	/** Percentilis a választott alapon (fordított mutatónál már "jóság" szerint). */
 	function pctOf(p: PlayerSeason, key: PercentileStat): { v: number; fallback: boolean } | null {
 		const liga = p.percentiles[key];
+		let out: { v: number; fallback: boolean } | null = null;
 		if (mode === 'poz') {
 			const pos = p.percentiles_pos?.[key];
-			if (pos !== undefined) return { v: pos, fallback: false };
-			return liga !== undefined ? { v: liga, fallback: true } : null;
-		}
-		return liga !== undefined ? { v: liga, fallback: false } : null;
+			if (pos !== undefined) out = { v: pos, fallback: false };
+			else if (liga !== undefined) out = { v: liga, fallback: true };
+		} else if (liga !== undefined) out = { v: liga, fallback: false };
+		if (out && INVERTED.has(key)) out.v = 100 - out.v;
+		return out;
 	}
 
 	function shade(v: number): string {
@@ -125,10 +161,27 @@
 		return 'bg-negative/45 text-fg';
 	}
 
-	function fmt(v: number | null | undefined, digits = 1): string {
+	function fmt(v: number | null | undefined, digits = 1, signed = false): string {
 		if (v === null || v === undefined || !isFinite(v)) return '—';
-		return v.toLocaleString('hu-HU', { minimumFractionDigits: digits, maximumFractionDigits: digits });
+		const s = v.toLocaleString('hu-HU', { minimumFractionDigits: digits, maximumFractionDigits: digits });
+		return signed && v > 0 ? `+${s}` : s;
 	}
+
+	// Részlet-panel
+	let selected = $state<string | null>(null);
+	const sel = $derived(rows.find((p) => p.name === selected) ?? null);
+	const BARS: { label: string; key: PercentileStat; value: (p: PlayerSeason) => number | null | undefined; digits?: number }[] = [
+		{ label: 'TS%', key: 'ts_pct', value: (p) => p.ts_pct },
+		{ label: 'eFG%', key: 'efg_pct', value: (p) => p.efg_pct },
+		{ label: 'FT-arány', key: 'ft_rate', value: (p) => p.ft_rate },
+		{ label: 'USG%', key: 'usg_pct', value: (p) => p.usg_pct },
+		{ label: 'AST%', key: 'ast_pct', value: (p) => p.ast_pct },
+		{ label: 'TOV% (ford.)', key: 'tov_pct', value: (p) => p.tov_pct },
+		{ label: 'OREB%', key: 'oreb_pct', value: (p) => p.oreb_pct },
+		{ label: 'DREB%', key: 'dreb_pct', value: (p) => p.dreb_pct },
+		{ label: 'STL/100', key: 'stl_100', value: (p) => p.stl_100 },
+		{ label: 'ON–OFF', key: 'onoff_nrtg', value: (p) => p.onoff_nrtg }
+	];
 
 	// Képlet-tooltip: hover / fókusz / koppintás
 	let tipCol = $state<Col | null>(null);
@@ -151,7 +204,7 @@
 	<div>
 		<h2 class="text-xl font-bold tracking-tight">Hatékonyság</h2>
 		<p class="mt-1 text-xs text-muted">
-			Szezonbeli értékek · a cella színe a percentilis ({mode === 'liga' ? 'liga' : 'pozíción belül'})
+			Szezonbeli értékek · a cella színe a percentilis ({mode === 'liga' ? 'liga' : 'pozíción belül'}) · kattints egy sorra a részletekhez
 		</p>
 	</div>
 	<div class="flex flex-wrap gap-2">
@@ -209,6 +262,12 @@
 	<table class="w-full border-collapse text-sm tabular-nums">
 		<thead>
 			<tr class="bg-card text-[10px] uppercase tracking-wider text-muted">
+				<th class="sticky left-0 z-10 bg-card"></th>
+				{#each GROUP_SPANS as g, i (i)}
+					<th colspan={g.span} class="px-2 pt-2 text-left font-semibold text-fg/70" class:border-l={g.label} class:border-border={g.label}>{g.label}</th>
+				{/each}
+			</tr>
+			<tr class="bg-card text-[10px] uppercase tracking-wider text-muted">
 				<th class="sticky left-0 z-10 bg-card px-3 py-2 text-left font-semibold">Játékos</th>
 				{#each COLS as c (c.key)}
 					<th class="whitespace-nowrap px-2 py-2 text-right font-semibold" class:border-l={c.group} class:border-border={c.group}>
@@ -238,8 +297,13 @@
 		<tbody>
 			{#each rows as p (p.name)}
 				{@const isSmall = small(p)}
-				<tr class="border-t border-border hover:bg-card-hover" class:opacity-55={isSmall}>
-					<td class="sticky left-0 z-10 whitespace-nowrap bg-card px-3 py-1.5">
+				<tr
+					class="cursor-pointer border-t border-border hover:bg-card-hover"
+					class:opacity-55={isSmall}
+					class:bg-card-hover={selected === p.name}
+					onclick={() => (selected = selected === p.name ? null : p.name)}
+				>
+					<td class="sticky left-0 z-10 whitespace-nowrap bg-card px-3 py-1.5" class:!bg-card-hover={selected === p.name}>
 						<div class="flex max-w-[8.5rem] items-baseline gap-1 sm:max-w-none" title={p.name}>
 							<span class="hidden font-mono text-xs text-muted sm:inline">{p.jersey != null ? `#${p.jersey}` : ''}</span>
 							<span class="truncate font-semibold">{p.name}</span>
@@ -251,13 +315,13 @@
 						{@const v = c.value(p)}
 						{@const pc = c.pct && !c.neutral ? pctOf(p, c.pct) : null}
 						<td class="whitespace-nowrap px-2 py-1.5 text-right" class:border-l={c.group} class:border-border={c.group}>
-							{#if pc && !isSmall}
+							{#if pc}
 								<span
 									class="inline-block min-w-[3.2em] rounded px-1.5 py-0.5 {shade(pc.v)}"
-									title={`${pc.fallback ? 'liga' : mode === 'poz' ? GRP_LABEL[p.pos_group ?? ''] ?? 'liga' : 'liga'}-percentilis: ${pc.v}.`}
-								>{fmt(v, c.digits ?? 1)}{pc.fallback ? '†' : ''}</span>
+									title={`${pc.fallback || mode === 'liga' ? 'liga' : GRP_LABEL[p.pos_group ?? ''] ?? 'liga'}-percentilis: ${pc.v}.`}
+								>{fmt(v, c.digits ?? 1, c.signed)}{pc.fallback ? '†' : ''}</span>
 							{:else}
-								<span class="inline-block min-w-[3.2em] px-1.5 py-0.5">{fmt(v, c.digits ?? 1)}</span>
+								<span class="inline-block min-w-[3.2em] px-1.5 py-0.5">{fmt(v, c.digits ?? 1, c.signed)}</span>
 							{/if}
 						</td>
 					{/each}
@@ -266,6 +330,71 @@
 		</tbody>
 	</table>
 </div>
+
+{#if sel}
+	<div class="mt-4 grid gap-4 rounded-lg border border-border bg-card p-4 md:grid-cols-2">
+		<div class="min-w-0">
+			<div class="mb-3 flex items-baseline justify-between gap-2">
+				<h3 class="text-lg font-bold">{sel.name}</h3>
+				<button class="text-xs text-muted hover:text-fg" onclick={() => (selected = null)}>bezár ✕</button>
+			</div>
+			<p class="mb-3 font-mono text-xs text-muted">
+				{sel.position ? `poz. ${sel.position}` : ''}{sel.height_cm ? ` · ${sel.height_cm} cm` : ''} · {sel.gp} meccs ·
+				{fmt(sel.mpg)} perc · {fmt(sel.poss_on, 0)} labdabirtoklás a pályán
+			</p>
+			<div class="mb-1 flex justify-between text-[10px] uppercase tracking-wider text-muted">
+				<span>mutató</span>
+				<span>percentilis ({mode === 'liga' ? 'liga' : GRP_LABEL[sel.pos_group ?? ''] ?? 'liga'})</span>
+			</div>
+			<div class="grid gap-1.5">
+				{#each BARS as b (b.key)}
+					{@const pc = pctOf(sel, b.key)}
+					<div class="grid grid-cols-[6.5rem_1fr_3rem] items-center gap-2 text-xs">
+						<span>{b.label} <span class="text-muted">{fmt(b.value(sel), 1, b.key === 'onoff_nrtg')}</span></span>
+						<div class="relative h-2 overflow-hidden rounded bg-card-hover">
+							{#if pc}
+								<div class="absolute inset-y-0 left-0 rounded" class:bg-positive={pc.v >= 50} class:bg-negative={pc.v < 50} style:width="{pc.v}%"></div>
+							{/if}
+							<div class="absolute inset-y-[-2px] left-1/2 w-px bg-muted/70"></div>
+						</div>
+						<span class="text-right tabular-nums text-muted">{pc ? `${pc.v}.` : '—'}</span>
+					</div>
+				{/each}
+			</div>
+		</div>
+		<div class="min-w-0">
+			<h4 class="mb-2 text-sm font-semibold">Hatás a csapatra <span class="font-normal text-muted">/100 labdabirtoklás</span></h4>
+			<div class="grid grid-cols-3 gap-2 text-center">
+				<div class="rounded bg-card-hover p-2">
+					<p class="text-xl font-bold tabular-nums" class:text-positive={(sel.on_nrtg ?? 0) >= 0} class:text-negative={(sel.on_nrtg ?? 0) < 0}>{fmt(sel.on_nrtg, 1, true)}</p>
+					<p class="text-[10px] uppercase tracking-wider text-muted">pályán</p>
+					<p class="text-[10px] text-muted">{fmt(sel.on_ortg)} / {fmt(sel.on_drtg)}</p>
+				</div>
+				<div class="rounded bg-card-hover p-2">
+					<p class="text-xl font-bold tabular-nums" class:text-positive={(sel.off_nrtg ?? 0) >= 0} class:text-negative={(sel.off_nrtg ?? 0) < 0}>{fmt(sel.off_nrtg, 1, true)}</p>
+					<p class="text-[10px] uppercase tracking-wider text-muted">padon</p>
+					<p class="text-[10px] text-muted">{fmt(sel.off_poss, 0)} poss</p>
+				</div>
+				<div class="rounded bg-card-hover p-2">
+					<p class="text-xl font-bold tabular-nums" class:text-positive={(sel.onoff_nrtg ?? 0) >= 0} class:text-negative={(sel.onoff_nrtg ?? 0) < 0}>{fmt(sel.onoff_nrtg, 1, true)}</p>
+					<p class="text-[10px] uppercase tracking-wider text-muted">különbség</p>
+				</div>
+			</div>
+			{#if (sel.off_poss ?? 0) < minPoss}
+				<p class="mt-2 text-xs text-muted">Keveset ült a padon ({fmt(sel.off_poss, 0)} labdabirtoklás), ezért a „padon” érték és a különbség bizonytalan.</p>
+			{/if}
+			<h4 class="mb-2 mt-4 text-sm font-semibold">100 labdabirtoklásra <span class="font-normal text-muted">amíg pályán van</span></h4>
+			<div class="grid grid-cols-4 gap-2 text-center sm:grid-cols-7">
+				{#each [['PTS', sel.pts_100], ['REB', sel.reb_100], ['AST', sel.ast_100], ['TOV', sel.tov_100], ['STL', sel.stl_100], ['BLK', sel.blk_100], ['FD', sel.fd_100]] as [l, v] (l)}
+					<div class="rounded bg-card-hover p-2">
+						<p class="text-[10px] uppercase tracking-wider text-muted">{l}</p>
+						<p class="font-semibold tabular-nums">{fmt(v as number | null | undefined)}</p>
+					</div>
+				{/each}
+			</div>
+		</div>
+	</div>
+{/if}
 
 {#if tipCol}
 	<div
@@ -282,7 +411,9 @@
 
 <p class="mt-4 text-xs text-muted">
 	Forrás: play-by-play (a pontok és dobások egyeznek a hivatalos box score-ral) · alapszakasz + rájátszás ·
-	Percentilis: legalább {minGp} meccs és {minFga} mezőnydobás; ez alatt „kicsi minta”, színezés nélkül ·
+	Labdabirtoklás = FGA + 0,44·FTA + TOV − OREB, a cserék alapján a pályán töltött időre ·
+	Percentilis: legalább {minGp} meccs; dobásmutatókhoz {minFga} mezőnydobás, a többihez {minPoss} labdabirtoklás a
+	pályán — ez alatt nincs színezés („kicsi minta”) · ON–OFF: a szezon összes meccsének padon töltött idejéhez mérve ·
 	Pozíción belüli percentilis csak ott, ahol legalább {data.thresholds.min_pos_pool ?? 8} összevethető játékos van ·
 	A 3PA arány stílusmutató, nem kap színt.
 </p>

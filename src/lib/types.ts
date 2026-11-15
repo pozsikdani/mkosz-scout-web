@@ -103,7 +103,21 @@ export type PercentileStat =
 	| 'efg_pct'
 	| 'ft_rate'
 	| 'three_rate'
-	| 'ato';
+	| 'ato'
+	| 'usg_pct'
+	| 'ast_pct'
+	| 'tov_pct'
+	| 'oreb_pct'
+	| 'dreb_pct'
+	| 'pts_100'
+	| 'reb_100'
+	| 'ast_100'
+	| 'tov_100'
+	| 'stl_100'
+	| 'blk_100'
+	| 'fd_100'
+	| 'on_nrtg'
+	| 'onoff_nrtg';
 
 export interface PlayerSeason {
 	name: string;
@@ -142,6 +156,27 @@ export interface PlayerSeason {
 	ft_rate?: number | null;
 	three_rate?: number | null;
 	pos_group?: 'G' | 'F' | 'C' | null;
+	// 2. fázis — pályán töltött idő alapján (/100 = 100 saját labdabirtoklásra a pályán)
+	min_on?: number;
+	poss_on?: number;
+	off_poss?: number;
+	usg_pct?: number | null;
+	ast_pct?: number | null;
+	tov_pct?: number | null;
+	oreb_pct?: number | null;
+	dreb_pct?: number | null;
+	pts_100?: number | null;
+	reb_100?: number | null;
+	ast_100?: number | null;
+	tov_100?: number | null;
+	stl_100?: number | null;
+	blk_100?: number | null;
+	fd_100?: number | null;
+	on_ortg?: number | null;
+	on_drtg?: number | null;
+	on_nrtg?: number | null;
+	off_nrtg?: number | null;
+	onoff_nrtg?: number | null;
 	percentiles: Partial<Record<PercentileStat, number>>;
 	percentiles_pos?: Partial<Record<PercentileStat, number>>;
 }
@@ -319,6 +354,7 @@ export interface TeamPlayers {
 		min_fta: number;
 		min_fga_eff?: number;
 		min_pos_pool?: number;
+		min_poss?: number;
 	};
 	players: PlayerSeason[];
 }
