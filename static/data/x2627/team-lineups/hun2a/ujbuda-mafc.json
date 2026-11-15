@@ -224,7 +224,7 @@
           "name": "Molnár Tamás",
           "jersey": 18,
           "minutes": 32,
-          "points": 21,
+          "points": 23,
           "reb": 5,
           "ast": 6,
           "photo_filename": "ujbuda-mafc-molnar-tamas.jpg",
@@ -276,7 +276,7 @@
           "name": "Polgárdy Ádám",
           "jersey": 1,
           "minutes": 23,
-          "points": 10,
+          "points": 9,
           "reb": 1,
           "ast": 5,
           "photo_filename": "ujbuda-mafc-polgardy-adam.jpg",
@@ -309,7 +309,7 @@
           "name": "Pápai Máté Barnabás",
           "jersey": 27,
           "minutes": 29,
-          "points": 10,
+          "points": 12,
           "reb": 10,
           "ast": 5,
           "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg",
@@ -364,23 +364,6 @@
           "subs": []
         },
         {
-          "name": "Bordács Soma",
-          "jersey": null,
-          "minutes": 37,
-          "points": 12,
-          "reb": 12,
-          "ast": 3,
-          "subs": [
-            {
-              "name": "Kovács Levente Hetény",
-              "jersey": 7,
-              "minutes": 19,
-              "count": 1,
-              "photo_filename": "ujbuda-mafc-kovacs-levente-heteny.jpg"
-            }
-          ]
-        },
-        {
           "name": "Molnár Tamás",
           "jersey": 18,
           "minutes": 26,
@@ -403,7 +386,7 @@
           "name": "Pintér Dávid",
           "jersey": 24,
           "minutes": 19,
-          "points": 12,
+          "points": 10,
           "reb": 0,
           "ast": 1,
           "photo_filename": "ujbuda-mafc-pinter-david.jpg",
@@ -455,6 +438,32 @@
               "minutes": 19,
               "count": 1,
               "photo_filename": "ujbuda-mafc-kovacs-levente-heteny.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pápai Máté Barnabás",
+          "jersey": 27,
+          "minutes": 34,
+          "points": 21,
+          "reb": 17,
+          "ast": 5,
+          "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Pintér Dávid",
+              "jersey": 24,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-pinter-david.jpg"
+            },
+            {
+              "name": "Balázs Barnabás",
+              "jersey": 14,
+              "minutes": 6,
+              "count": 1,
+              "photo_filename": "ujbuda-mafc-balazs-barnabas.jpg"
             }
           ]
         }
@@ -528,7 +537,7 @@
           "name": "Pintér Dávid",
           "jersey": 24,
           "minutes": 20,
-          "points": 3,
+          "points": 6,
           "reb": 2,
           "ast": 1,
           "photo_filename": "ujbuda-mafc-pinter-david.jpg",

@@ -1,7 +1,7 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2a_135759",
@@ -169,6 +169,34 @@
         "fta": 20,
         "oreb": 13,
         "tov_total": 11
+      }
+    },
+    {
+      "gamecode": "hun2a_135835",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-14",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": false,
+      "result": "W",
+      "our_score": 72,
+      "their_score": 69,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 12,
+        "mid_m": 3,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 15,
+        "close_x": 15,
+        "mid_x": 2,
+        "three_x": 9,
+        "dunk_x": 0,
+        "tov": 12,
+        "fga": 57,
+        "fta": 29,
+        "oreb": 8,
+        "tov_total": 12
       }
     }
   ]

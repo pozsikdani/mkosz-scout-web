@@ -1,8 +1,135 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2a_135843",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-14",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 80,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Carlbe Lee Ervin",
+          "jersey": null,
+          "minutes": 39,
+          "points": 26,
+          "reb": 7,
+          "ast": 11,
+          "subs": [
+            {
+              "name": "Mester Márk",
+              "jersey": 8,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg"
+            },
+            {
+              "name": "Gerőcs Roland Bálint",
+              "jersey": 13,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ervin Carlbe Lee",
+          "jersey": 5,
+          "minutes": 0,
+          "points": 26,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ervin-carlbe-lee.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Gerőcs Roland Bálint",
+          "jersey": 13,
+          "minutes": 25,
+          "points": 14,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Mayer Ákos",
+              "jersey": 20,
+              "minutes": 21,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mayer-akos.jpg"
+            },
+            {
+              "name": "Ormai Botond Gábor",
+              "jersey": 22,
+              "minutes": 31,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ormai-botond-gabor.jpg"
+            },
+            {
+              "name": "Polster Attila",
+              "jersey": 7,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-polster-attila.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Lucey Ciarán József",
+          "jersey": 44,
+          "minutes": 26,
+          "points": 10,
+          "reb": 5,
+          "ast": 4,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Pap Levente",
+              "jersey": 6,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-pap-levente.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mester Márk",
+          "jersey": 8,
+          "minutes": 24,
+          "points": 9,
+          "reb": 3,
+          "ast": 2,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Polster Attila",
+              "jersey": 7,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-polster-attila.jpg"
+            },
+            {
+              "name": "Mayer Ákos",
+              "jersey": 20,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mayer-akos.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135831",
       "comp_code": "hun2a",
@@ -76,7 +203,7 @@
           "name": "Ormai Botond Gábor",
           "jersey": 22,
           "minutes": 36,
-          "points": 18,
+          "points": 20,
           "reb": 6,
           "ast": 4,
           "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ormai-botond-gabor.jpg",

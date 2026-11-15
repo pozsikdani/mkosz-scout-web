@@ -210,26 +210,27 @@
       "time": "18:00",
       "home": false,
       "opponent": "ZTE KK",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
-      "has_pbp": true
-    },
-    {
-      "gamecode": "hun2a_135857",
-      "comp_code": "hun2a",
-      "phase": "alapszakasz",
-      "round": "9. forduló",
-      "date": "2026-11-20",
-      "time": "17:00",
-      "home": true,
-      "opponent": "TF-BP",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 59,
+      "their_score": 70,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 13,
+          "their": 22
+        },
+        {
+          "our": 18,
+          "their": 22
+        },
+        {
+          "our": 17,
+          "their": 13
+        },
+        {
+          "our": 11,
+          "their": 13
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },
@@ -266,11 +267,27 @@
       "has_pbp": true
     },
     {
+      "gamecode": "hun2a_135857",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "round": "9. forduló",
+      "date": "2026-12-09",
+      "time": "17:00",
+      "home": true,
+      "opponent": "TF-BP",
+      "our_score": null,
+      "their_score": null,
+      "result": null,
+      "quarter_scores": null,
+      "has_scoresheet": false,
+      "has_pbp": true
+    },
+    {
       "gamecode": "hun2a_135899",
       "comp_code": "hun2a",
       "phase": "alapszakasz",
       "round": "12. forduló",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "17:00",
       "home": true,
       "opponent": "Vasas Akadémia",

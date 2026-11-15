@@ -209,12 +209,29 @@
       "date": "2026-11-14",
       "time": "18:00",
       "home": false,
-      "opponent": "Salgótarjáni KSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
-      "has_scoresheet": false,
+      "opponent": "SALGÓTARJÁNI KSE",
+      "our_score": 72,
+      "their_score": 69,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 23,
+          "their": 22
+        },
+        {
+          "our": 10,
+          "their": 12
+        },
+        {
+          "our": 23,
+          "their": 16
+        },
+        {
+          "our": 16,
+          "their": 19
+        }
+      ],
+      "has_scoresheet": true,
       "has_pbp": true
     },
     {
@@ -270,7 +287,7 @@
       "comp_code": "hun2a",
       "phase": "alapszakasz",
       "round": "12. forduló",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "17:00",
       "home": false,
       "opponent": "Jászberényi KSE",

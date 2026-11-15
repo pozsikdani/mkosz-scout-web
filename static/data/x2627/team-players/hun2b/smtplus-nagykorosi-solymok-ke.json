@@ -6,7 +6,9 @@
     "min_gp_for_percentile": 5,
     "min_fga": 50,
     "min_3pa": 15,
-    "min_fta": 10
+    "min_fta": 10,
+    "min_fga_eff": 30,
+    "min_pos_pool": 8
   },
   "players": [
     {
@@ -36,10 +38,16 @@
       "ft_made": 10,
       "ft_att": 16,
       "ft_pct": 62.5,
+      "ts_att": 70.0,
+      "ts_pct": 43.5,
+      "efg_pct": 40.5,
+      "ft_rate": 25.4,
+      "three_rate": 39.7,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-gyorgy-julian.jpg",
       "height_cm": 185,
       "position": "1",
       "birth_year": 2007,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 55,
         "rpg": 92,
@@ -54,7 +62,33 @@
         "fpg": 42,
         "fg_pct": 27,
         "three_pct": 25,
-        "ft_pct": 25
+        "ft_pct": 25,
+        "ts_pct": 17,
+        "efg_pct": 21,
+        "ft_rate": 42,
+        "three_rate": 51,
+        "ato": 89
+      },
+      "percentiles_pos": {
+        "ppg": 52,
+        "rpg": 98,
+        "oreb_pg": 98,
+        "dreb_pg": 96,
+        "apg": 82,
+        "spg": 98,
+        "bpg": 60,
+        "fdpg": 64,
+        "mpg": 88,
+        "tpg": 70,
+        "fpg": 44,
+        "fg_pct": 30,
+        "three_pct": 17,
+        "ft_pct": 23,
+        "ts_pct": 19,
+        "efg_pct": 22,
+        "ft_rate": 51,
+        "three_rate": 35,
+        "ato": 80
       }
     },
     {
@@ -84,10 +118,16 @@
       "ft_made": 19,
       "ft_att": 30,
       "ft_pct": 63.3,
+      "ts_att": 94.2,
+      "ts_pct": 48.8,
+      "efg_pct": 45.1,
+      "ft_rate": 37.0,
+      "three_rate": 39.5,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-feher-peter-jozsef.jpg",
       "height_cm": 186,
       "position": "2",
       "birth_year": 1997,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 75,
         "rpg": 45,
@@ -102,7 +142,33 @@
         "fpg": 8,
         "fg_pct": 38,
         "three_pct": 48,
-        "ft_pct": 30
+        "ft_pct": 30,
+        "ts_pct": 42,
+        "efg_pct": 47,
+        "ft_rate": 66,
+        "three_rate": 50,
+        "ato": 97
+      },
+      "percentiles_pos": {
+        "ppg": 72,
+        "rpg": 64,
+        "oreb_pg": 34,
+        "dreb_pg": 66,
+        "apg": 64,
+        "spg": 64,
+        "bpg": 60,
+        "fdpg": 76,
+        "mpg": 80,
+        "tpg": 34,
+        "fpg": 10,
+        "fg_pct": 43,
+        "three_pct": 47,
+        "ft_pct": 26,
+        "ts_pct": 43,
+        "efg_pct": 46,
+        "ft_rate": 76,
+        "three_rate": 32,
+        "ato": 94
       }
     },
     {
@@ -132,10 +198,16 @@
       "ft_made": 14,
       "ft_att": 19,
       "ft_pct": 73.7,
+      "ts_att": 71.4,
+      "ts_pct": 61.0,
+      "efg_pct": 57.9,
+      "ft_rate": 30.2,
+      "three_rate": 7.9,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-csorvasi-milan.jpg",
       "height_cm": 208,
       "position": "5",
       "birth_year": 1988,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 79,
         "rpg": 100,
@@ -149,7 +221,32 @@
         "tpg": 44,
         "fpg": 58,
         "fg_pct": 98,
-        "ft_pct": 60
+        "ft_pct": 60,
+        "ts_pct": 85,
+        "efg_pct": 85,
+        "ft_rate": 57,
+        "three_rate": 6,
+        "ato": 95
+      },
+      "percentiles_pos": {
+        "ppg": 81,
+        "rpg": 100,
+        "oreb_pg": 85,
+        "dreb_pg": 96,
+        "apg": 96,
+        "spg": 50,
+        "bpg": 92,
+        "fdpg": 73,
+        "mpg": 73,
+        "tpg": 46,
+        "fpg": 46,
+        "fg_pct": 100,
+        "ft_pct": 80,
+        "ts_pct": 81,
+        "efg_pct": 81,
+        "ft_rate": 33,
+        "three_rate": 24,
+        "ato": 100
       }
     },
     {
@@ -179,10 +276,16 @@
       "ft_made": 23,
       "ft_att": 30,
       "ft_pct": 76.7,
+      "ts_att": 116.2,
+      "ts_pct": 59.4,
+      "efg_pct": 55.8,
+      "ft_rate": 29.1,
+      "three_rate": 48.5,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-lakosa-akos.jpg",
       "height_cm": 188,
       "position": "1-2",
       "birth_year": 1992,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 98,
         "rpg": 96,
@@ -197,7 +300,33 @@
         "fpg": 48,
         "fg_pct": 73,
         "three_pct": 69,
-        "ft_pct": 67
+        "ft_pct": 67,
+        "ts_pct": 80,
+        "efg_pct": 80,
+        "ft_rate": 53,
+        "three_rate": 62,
+        "ato": 50
+      },
+      "percentiles_pos": {
+        "ppg": 98,
+        "rpg": 100,
+        "oreb_pg": 100,
+        "dreb_pg": 100,
+        "apg": 72,
+        "spg": 70,
+        "bpg": 80,
+        "fdpg": 92,
+        "mpg": 72,
+        "tpg": 100,
+        "fpg": 52,
+        "fg_pct": 87,
+        "three_pct": 69,
+        "ft_pct": 65,
+        "ts_pct": 81,
+        "efg_pct": 84,
+        "ft_rate": 62,
+        "three_rate": 46,
+        "ato": 36
       }
     },
     {
@@ -227,10 +356,16 @@
       "ft_made": 13,
       "ft_att": 16,
       "ft_pct": 81.2,
+      "ts_att": 71.0,
+      "ts_pct": 53.5,
+      "efg_pct": 49.2,
+      "ft_rate": 25.0,
+      "three_rate": 70.3,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-meszaros-bence.jpg",
       "height_cm": 180,
       "position": "1",
       "birth_year": 1996,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 61,
         "rpg": 17,
@@ -245,7 +380,33 @@
         "fpg": 45,
         "fg_pct": 29,
         "three_pct": 67,
-        "ft_pct": 82
+        "ft_pct": 82,
+        "ts_pct": 62,
+        "efg_pct": 58,
+        "ft_rate": 41,
+        "three_rate": 92,
+        "ato": 86
+      },
+      "percentiles_pos": {
+        "ppg": 58,
+        "rpg": 30,
+        "oreb_pg": 52,
+        "dreb_pg": 26,
+        "apg": 60,
+        "spg": 48,
+        "bpg": 60,
+        "fdpg": 54,
+        "mpg": 60,
+        "tpg": 46,
+        "fpg": 48,
+        "fg_pct": 35,
+        "three_pct": 67,
+        "ft_pct": 77,
+        "ts_pct": 62,
+        "efg_pct": 59,
+        "ft_rate": 49,
+        "three_rate": 84,
+        "ato": 76
       }
     },
     {
@@ -275,10 +436,16 @@
       "ft_made": 15,
       "ft_att": 25,
       "ft_pct": 60.0,
+      "ts_att": 109.0,
+      "ts_pct": 49.1,
+      "efg_pct": 46.9,
+      "ft_rate": 25.5,
+      "three_rate": 37.8,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-gera-ferenc.jpg",
       "height_cm": 190,
       "position": "2",
       "birth_year": 2005,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 84,
         "rpg": 78,
@@ -293,7 +460,33 @@
         "fpg": 48,
         "fg_pct": 51,
         "three_pct": 27,
-        "ft_pct": 21
+        "ft_pct": 21,
+        "ts_pct": 45,
+        "efg_pct": 51,
+        "ft_rate": 43,
+        "three_rate": 44,
+        "ato": 27
+      },
+      "percentiles_pos": {
+        "ppg": 82,
+        "rpg": 92,
+        "oreb_pg": 94,
+        "dreb_pg": 88,
+        "apg": 36,
+        "spg": 84,
+        "bpg": 60,
+        "fdpg": 54,
+        "mpg": 48,
+        "tpg": 54,
+        "fpg": 52,
+        "fg_pct": 52,
+        "three_pct": 19,
+        "ft_pct": 19,
+        "ts_pct": 46,
+        "efg_pct": 51,
+        "ft_rate": 54,
+        "three_rate": 22,
+        "ato": 16
       }
     },
     {
@@ -323,11 +516,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 3.0,
+      "ts_pct": 0.0,
+      "efg_pct": 0.0,
+      "ft_rate": 0.0,
+      "three_rate": 66.7,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-lintner-kristof-barnabas.jpg",
       "height_cm": 185,
       "position": "1-2",
       "birth_year": 2003,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Szokonya Gergő",
@@ -356,10 +556,16 @@
       "ft_made": 1,
       "ft_att": 5,
       "ft_pct": 20.0,
+      "ts_att": 24.2,
+      "ts_pct": 47.5,
+      "efg_pct": 50.0,
+      "ft_rate": 22.7,
+      "three_rate": 86.4,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-szokonya-gergo.jpg",
       "height_cm": 190,
       "position": "1",
       "birth_year": 2010,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 22,
         "rpg": 12,
@@ -372,7 +578,23 @@
         "mpg": 20,
         "tpg": 32,
         "fpg": 4,
-        "three_pct": 56
+        "three_pct": 56,
+        "ato": 5
+      },
+      "percentiles_pos": {
+        "ppg": 22,
+        "rpg": 20,
+        "oreb_pg": 34,
+        "dreb_pg": 26,
+        "apg": 4,
+        "spg": 16,
+        "bpg": 60,
+        "fdpg": 26,
+        "mpg": 20,
+        "tpg": 30,
+        "fpg": 6,
+        "three_pct": 56,
+        "ato": 4
       }
     },
     {
@@ -402,10 +624,16 @@
       "ft_made": 1,
       "ft_att": 8,
       "ft_pct": 12.5,
+      "ts_att": 26.5,
+      "ts_pct": 43.4,
+      "efg_pct": 47.8,
+      "ft_rate": 34.8,
+      "three_rate": 0.0,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-okoh-victor-kelechi.jpg",
       "height_cm": 202,
       "position": "5",
       "birth_year": 2000,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 13,
         "rpg": 62,
@@ -417,7 +645,22 @@
         "fdpg": 31,
         "mpg": 22,
         "tpg": 8,
-        "fpg": 58
+        "fpg": 58,
+        "ato": 3
+      },
+      "percentiles_pos": {
+        "ppg": 12,
+        "rpg": 23,
+        "oreb_pg": 46,
+        "dreb_pg": 15,
+        "apg": 8,
+        "spg": 8,
+        "bpg": 50,
+        "fdpg": 15,
+        "mpg": 19,
+        "tpg": 4,
+        "fpg": 46,
+        "ato": 8
       }
     },
     {
@@ -447,11 +690,18 @@
       "ft_made": 1,
       "ft_att": 4,
       "ft_pct": 25.0,
+      "ts_att": 6.8,
+      "ts_pct": 7.4,
+      "efg_pct": 0.0,
+      "ft_rate": 80.0,
+      "three_rate": 40.0,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-marton-akos.jpg",
       "height_cm": 195,
       "position": "5",
       "birth_year": 2009,
-      "percentiles": {}
+      "pos_group": "C",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Béres Benedek",
@@ -480,10 +730,16 @@
       "ft_made": 5,
       "ft_att": 10,
       "ft_pct": 50.0,
+      "ts_att": 24.4,
+      "ts_pct": 63.5,
+      "efg_pct": 65.0,
+      "ft_rate": 50.0,
+      "three_rate": 20.0,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-beres-benedek.jpg",
       "height_cm": 185,
       "position": "3",
       "birth_year": 2001,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 23,
         "rpg": 17,
@@ -496,7 +752,23 @@
         "mpg": 14,
         "tpg": 26,
         "fpg": 32,
-        "ft_pct": 10
+        "ft_pct": 10,
+        "ato": 58
+      },
+      "percentiles_pos": {
+        "ppg": 30,
+        "rpg": 11,
+        "oreb_pg": 34,
+        "dreb_pg": 18,
+        "apg": 48,
+        "spg": 55,
+        "bpg": 55,
+        "fdpg": 39,
+        "mpg": 16,
+        "tpg": 32,
+        "fpg": 34,
+        "ft_pct": 14,
+        "ato": 67
       }
     },
     {
@@ -526,11 +798,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 1.0,
+      "ts_pct": 0.0,
+      "efg_pct": 0.0,
+      "ft_rate": 0.0,
+      "three_rate": 0.0,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-kovacs-gergely.jpg",
       "height_cm": 187,
       "position": "2",
       "birth_year": 2005,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Kocsis Attila",
@@ -559,10 +838,16 @@
       "ft_made": 3,
       "ft_att": 4,
       "ft_pct": 75.0,
+      "ts_att": 13.8,
+      "ts_pct": 25.4,
+      "efg_pct": 16.7,
+      "ft_rate": 33.3,
+      "three_rate": 41.7,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-kocsis-attila.jpg",
       "height_cm": 180,
       "position": "1",
       "birth_year": 2003,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 2,
         "rpg": 17,
@@ -574,7 +859,22 @@
         "fdpg": 31,
         "mpg": 1,
         "tpg": 41,
-        "fpg": 2
+        "fpg": 2,
+        "ato": 10
+      },
+      "percentiles_pos": {
+        "ppg": 4,
+        "rpg": 30,
+        "oreb_pg": 64,
+        "dreb_pg": 16,
+        "apg": 6,
+        "spg": 16,
+        "bpg": 60,
+        "fdpg": 32,
+        "mpg": 2,
+        "tpg": 38,
+        "fpg": 2,
+        "ato": 6
       }
     },
     {
@@ -604,11 +904,18 @@
       "ft_made": 1,
       "ft_att": 2,
       "ft_pct": 50.0,
+      "ts_att": 3.9,
+      "ts_pct": 38.7,
+      "efg_pct": 33.3,
+      "ft_rate": 66.7,
+      "three_rate": 66.7,
       "photo_filename": "smtplus-nagykorosi-solymok-ke-molnar-bence.jpg",
       "height_cm": 194,
       "position": "2",
       "birth_year": 1993,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     }
   ]
 }

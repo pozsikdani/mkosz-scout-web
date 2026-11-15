@@ -6,7 +6,9 @@
     "min_gp_for_percentile": 5,
     "min_fga": 50,
     "min_3pa": 15,
-    "min_fta": 10
+    "min_fta": 10,
+    "min_fga_eff": 30,
+    "min_pos_pool": 8
   },
   "players": [
     {
@@ -36,7 +38,14 @@
       "ft_made": 3,
       "ft_att": 3,
       "ft_pct": 100.0,
-      "percentiles": {}
+      "ts_att": 8.3,
+      "ts_pct": 36.1,
+      "efg_pct": 21.4,
+      "ft_rate": 42.9,
+      "three_rate": 71.4,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Sövegjártó Ábel György",
@@ -65,7 +74,14 @@
       "ft_made": 1,
       "ft_att": 2,
       "ft_pct": 50.0,
-      "percentiles": {}
+      "ts_att": 15.9,
+      "ts_pct": 59.8,
+      "efg_pct": 60.0,
+      "ft_rate": 13.3,
+      "three_rate": 33.3,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Tóth Dániel",
@@ -94,7 +110,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 4.0,
+      "ts_pct": 25.0,
+      "efg_pct": 25.0,
+      "ft_rate": 0.0,
+      "three_rate": 50.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Tóth Bence Miklós",
@@ -123,10 +146,16 @@
       "ft_made": 14,
       "ft_att": 17,
       "ft_pct": 82.4,
+      "ts_att": 53.5,
+      "ts_pct": 68.2,
+      "efg_pct": 64.1,
+      "ft_rate": 37.0,
+      "three_rate": 45.7,
       "photo_filename": "szazhalombattai-kse-toth-bence-miklos.jpg",
       "height_cm": 182,
       "position": "1-2",
       "birth_year": 2000,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 78,
         "rpg": 69,
@@ -140,7 +169,32 @@
         "tpg": 93,
         "fpg": 69,
         "three_pct": 91,
-        "ft_pct": 88
+        "ft_pct": 88,
+        "ts_pct": 98,
+        "efg_pct": 95,
+        "ft_rate": 66,
+        "three_rate": 59,
+        "ato": 91
+      },
+      "percentiles_pos": {
+        "ppg": 78,
+        "rpg": 84,
+        "oreb_pg": 74,
+        "dreb_pg": 82,
+        "apg": 98,
+        "spg": 66,
+        "bpg": 94,
+        "fdpg": 84,
+        "mpg": 76,
+        "tpg": 86,
+        "fpg": 72,
+        "three_pct": 94,
+        "ft_pct": 84,
+        "ts_pct": 97,
+        "efg_pct": 95,
+        "ft_rate": 76,
+        "three_rate": 43,
+        "ato": 84
       }
     },
     {
@@ -170,10 +224,16 @@
       "ft_made": 8,
       "ft_att": 9,
       "ft_pct": 88.9,
+      "ts_att": 56.0,
+      "ts_pct": 51.8,
+      "efg_pct": 48.1,
+      "ft_rate": 17.3,
+      "three_rate": 59.6,
       "photo_filename": "szazhalombattai-kse-kozari-gergo.jpg",
       "height_cm": 194,
       "position": "3-4",
       "birth_year": 2006,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 64,
         "rpg": 42,
@@ -187,7 +247,32 @@
         "tpg": 14,
         "fpg": 42,
         "fg_pct": 47,
-        "three_pct": 22
+        "three_pct": 22,
+        "ts_pct": 57,
+        "efg_pct": 55,
+        "ft_rate": 24,
+        "three_rate": 80,
+        "ato": 88
+      },
+      "percentiles_pos": {
+        "ppg": 70,
+        "rpg": 43,
+        "oreb_pg": 43,
+        "dreb_pg": 43,
+        "apg": 57,
+        "spg": 30,
+        "bpg": 98,
+        "fdpg": 30,
+        "mpg": 66,
+        "tpg": 20,
+        "fpg": 50,
+        "fg_pct": 58,
+        "three_pct": 36,
+        "ts_pct": 64,
+        "efg_pct": 57,
+        "ft_rate": 36,
+        "three_rate": 82,
+        "ato": 95
       }
     },
     {
@@ -217,7 +302,14 @@
       "ft_made": 2,
       "ft_att": 2,
       "ft_pct": 100.0,
-      "percentiles": {}
+      "ts_att": 6.9,
+      "ts_pct": 36.3,
+      "efg_pct": 25.0,
+      "ft_rate": 33.3,
+      "three_rate": 33.3,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Góbi Marcell",
@@ -246,7 +338,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 4.0,
+      "ts_pct": 62.5,
+      "efg_pct": 62.5,
+      "ft_rate": 0.0,
+      "three_rate": 75.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Bagó Martin",
@@ -275,10 +374,16 @@
       "ft_made": 10,
       "ft_att": 15,
       "ft_pct": 66.7,
+      "ts_att": 43.6,
+      "ts_pct": 50.5,
+      "efg_pct": 45.9,
+      "ft_rate": 40.5,
+      "three_rate": 8.1,
       "photo_filename": "szazhalombattai-kse-bago-martin.jpg",
       "height_cm": 208,
       "position": "4-5",
       "birth_year": 1996,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 56,
         "rpg": 91,
@@ -291,7 +396,31 @@
         "mpg": 63,
         "tpg": 22,
         "fpg": 63,
-        "ft_pct": 42
+        "ft_pct": 42,
+        "ts_pct": 51,
+        "efg_pct": 49,
+        "ft_rate": 73,
+        "three_rate": 7,
+        "ato": 67
+      },
+      "percentiles_pos": {
+        "ppg": 50,
+        "rpg": 69,
+        "oreb_pg": 85,
+        "dreb_pg": 62,
+        "apg": 54,
+        "spg": 12,
+        "bpg": 96,
+        "fdpg": 77,
+        "mpg": 58,
+        "tpg": 27,
+        "fpg": 58,
+        "ft_pct": 70,
+        "ts_pct": 52,
+        "efg_pct": 48,
+        "ft_rate": 62,
+        "three_rate": 29,
+        "ato": 88
       }
     },
     {
@@ -321,10 +450,16 @@
       "ft_made": 6,
       "ft_att": 7,
       "ft_pct": 85.7,
+      "ts_att": 50.1,
+      "ts_pct": 46.9,
+      "efg_pct": 43.6,
+      "ft_rate": 14.9,
+      "three_rate": 63.8,
       "photo_filename": "szazhalombattai-kse-tichov-dominik.jpg",
       "height_cm": 178,
       "position": "2-3",
       "birth_year": 1999,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 59,
         "rpg": 31,
@@ -337,7 +472,31 @@
         "mpg": 58,
         "tpg": 61,
         "fpg": 77,
-        "three_pct": 77
+        "three_pct": 77,
+        "ts_pct": 31,
+        "efg_pct": 33,
+        "ft_rate": 21,
+        "three_rate": 87,
+        "ato": 16
+      },
+      "percentiles_pos": {
+        "ppg": 68,
+        "rpg": 27,
+        "oreb_pg": 9,
+        "dreb_pg": 43,
+        "apg": 45,
+        "spg": 52,
+        "bpg": 43,
+        "fdpg": 80,
+        "mpg": 61,
+        "tpg": 80,
+        "fpg": 73,
+        "three_pct": 77,
+        "ts_pct": 36,
+        "efg_pct": 36,
+        "ft_rate": 29,
+        "three_rate": 89,
+        "ato": 16
       }
     },
     {
@@ -367,10 +526,16 @@
       "ft_made": 11,
       "ft_att": 17,
       "ft_pct": 64.7,
+      "ts_att": 49.5,
+      "ts_pct": 48.5,
+      "efg_pct": 44.0,
+      "ft_rate": 40.5,
+      "three_rate": 31.0,
       "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg",
       "height_cm": 200,
       "position": "4-5",
       "birth_year": 1995,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 51,
         "rpg": 86,
@@ -383,7 +548,31 @@
         "mpg": 44,
         "tpg": 44,
         "fpg": 73,
-        "ft_pct": 38
+        "ft_pct": 38,
+        "ts_pct": 40,
+        "efg_pct": 35,
+        "ft_rate": 73,
+        "three_rate": 33,
+        "ato": 7
+      },
+      "percentiles_pos": {
+        "ppg": 42,
+        "rpg": 58,
+        "oreb_pg": 96,
+        "dreb_pg": 50,
+        "apg": 19,
+        "spg": 38,
+        "bpg": 12,
+        "fdpg": 65,
+        "mpg": 42,
+        "tpg": 46,
+        "fpg": 73,
+        "ft_pct": 55,
+        "ts_pct": 33,
+        "efg_pct": 33,
+        "ft_rate": 62,
+        "three_rate": 71,
+        "ato": 19
       }
     },
     {
@@ -413,10 +602,16 @@
       "ft_made": 5,
       "ft_att": 11,
       "ft_pct": 45.5,
+      "ts_att": 24.8,
+      "ts_pct": 74.5,
+      "efg_pct": 80.0,
+      "ft_rate": 55.0,
+      "three_rate": 10.0,
       "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg",
       "height_cm": 204,
       "position": "4-5",
       "birth_year": 2001,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 43,
         "rpg": 59,
@@ -429,7 +624,23 @@
         "mpg": 28,
         "tpg": 14,
         "fpg": 63,
-        "ft_pct": 7
+        "ft_pct": 7,
+        "ato": 58
+      },
+      "percentiles_pos": {
+        "ppg": 31,
+        "rpg": 19,
+        "oreb_pg": 15,
+        "dreb_pg": 23,
+        "apg": 27,
+        "spg": 50,
+        "bpg": 38,
+        "fdpg": 27,
+        "mpg": 27,
+        "tpg": 12,
+        "fpg": 58,
+        "ft_pct": 5,
+        "ato": 77
       }
     },
     {
@@ -459,10 +670,16 @@
       "ft_made": 2,
       "ft_att": 4,
       "ft_pct": 50.0,
+      "ts_att": 20.8,
+      "ts_pct": 48.2,
+      "efg_pct": 47.4,
+      "ft_rate": 21.1,
+      "three_rate": 21.1,
       "photo_filename": "szazhalombattai-kse-kovacs-marcell.jpg",
       "height_cm": 190,
       "position": "3-4",
       "birth_year": 1999,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 19,
         "rpg": 25,
@@ -474,7 +691,22 @@
         "fdpg": 14,
         "mpg": 17,
         "tpg": 14,
-        "fpg": 13
+        "fpg": 13,
+        "ato": 58
+      },
+      "percentiles_pos": {
+        "ppg": 25,
+        "rpg": 20,
+        "oreb_pg": 18,
+        "dreb_pg": 30,
+        "apg": 25,
+        "spg": 52,
+        "bpg": 43,
+        "fdpg": 16,
+        "mpg": 20,
+        "tpg": 20,
+        "fpg": 11,
+        "ato": 67
       }
     },
     {
@@ -504,11 +736,18 @@
       "ft_made": 2,
       "ft_att": 6,
       "ft_pct": 33.3,
+      "ts_att": 15.6,
+      "ts_pct": 35.2,
+      "efg_pct": 34.6,
+      "ft_rate": 46.2,
+      "three_rate": 61.5,
       "photo_filename": "szazhalombattai-kse-toth-balazs.jpg",
       "height_cm": 190,
       "position": "2-3",
       "birth_year": 2004,
-      "percentiles": {}
+      "pos_group": "F",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Fazekas Máté",
@@ -537,10 +776,16 @@
       "ft_made": 4,
       "ft_att": 4,
       "ft_pct": 100.0,
+      "ts_att": 32.8,
+      "ts_pct": 65.6,
+      "efg_pct": 62.9,
+      "ft_rate": 12.9,
+      "three_rate": 35.5,
       "photo_filename": "szazhalombattai-kse-fazekas-mate.jpg",
       "height_cm": 212,
       "position": "4-5",
       "birth_year": 2000,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 54,
         "rpg": 53,
@@ -552,7 +797,30 @@
         "fdpg": 18,
         "mpg": 26,
         "tpg": 17,
-        "fpg": 63
+        "fpg": 63,
+        "ts_pct": 93,
+        "efg_pct": 93,
+        "ft_rate": 16,
+        "three_rate": 40,
+        "ato": 85
+      },
+      "percentiles_pos": {
+        "ppg": 46,
+        "rpg": 15,
+        "oreb_pg": 8,
+        "dreb_pg": 31,
+        "apg": 54,
+        "spg": 27,
+        "bpg": 50,
+        "fdpg": 8,
+        "mpg": 23,
+        "tpg": 19,
+        "fpg": 58,
+        "ts_pct": 90,
+        "efg_pct": 90,
+        "ft_rate": 10,
+        "three_rate": 86,
+        "ato": 96
       }
     },
     {
@@ -582,10 +850,16 @@
       "ft_made": 30,
       "ft_att": 32,
       "ft_pct": 93.8,
+      "ts_att": 76.1,
+      "ts_pct": 57.2,
+      "efg_pct": 46.0,
+      "ft_rate": 51.6,
+      "three_rate": 35.5,
       "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg",
       "height_cm": 177,
       "position": "1-2",
       "birth_year": 1993,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 89,
         "rpg": 82,
@@ -600,7 +874,33 @@
         "fpg": 82,
         "fg_pct": 42,
         "three_pct": 59,
-        "ft_pct": 99
+        "ft_pct": 99,
+        "ts_pct": 74,
+        "efg_pct": 50,
+        "ft_rate": 85,
+        "three_rate": 40,
+        "ato": 77
+      },
+      "percentiles_pos": {
+        "ppg": 90,
+        "rpg": 94,
+        "oreb_pg": 92,
+        "dreb_pg": 92,
+        "apg": 92,
+        "spg": 88,
+        "bpg": 96,
+        "fdpg": 96,
+        "mpg": 50,
+        "tpg": 94,
+        "fpg": 90,
+        "fg_pct": 48,
+        "three_pct": 58,
+        "ft_pct": 100,
+        "ts_pct": 76,
+        "efg_pct": 49,
+        "ft_rate": 92,
+        "three_rate": 14,
+        "ato": 60
       }
     },
     {
@@ -630,10 +930,16 @@
       "ft_made": 1,
       "ft_att": 3,
       "ft_pct": 33.3,
+      "ts_att": 16.3,
+      "ts_pct": 64.3,
+      "efg_pct": 66.7,
+      "ft_rate": 20.0,
+      "three_rate": 33.3,
       "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg",
       "height_cm": 185,
       "position": "1-2",
       "birth_year": 2006,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 20,
         "rpg": 18,
@@ -645,7 +951,22 @@
         "fdpg": 6,
         "mpg": 25,
         "tpg": 32,
-        "fpg": 13
+        "fpg": 13,
+        "ato": 58
+      },
+      "percentiles_pos": {
+        "ppg": 18,
+        "rpg": 32,
+        "oreb_pg": 34,
+        "dreb_pg": 36,
+        "apg": 34,
+        "spg": 18,
+        "bpg": 94,
+        "fdpg": 10,
+        "mpg": 26,
+        "tpg": 30,
+        "fpg": 14,
+        "ato": 40
       }
     },
     {
@@ -675,7 +996,14 @@
       "ft_made": 6,
       "ft_att": 6,
       "ft_pct": 100.0,
-      "percentiles": {}
+      "ts_att": 11.6,
+      "ts_pct": 81.6,
+      "efg_pct": 72.2,
+      "ft_rate": 66.7,
+      "three_rate": 77.8,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Sólyom László",
@@ -704,7 +1032,14 @@
       "ft_made": 2,
       "ft_att": 4,
       "ft_pct": 50.0,
-      "percentiles": {}
+      "ts_att": 7.8,
+      "ts_pct": 90.2,
+      "efg_pct": 100.0,
+      "ft_rate": 66.7,
+      "three_rate": 0.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Dani Balázs Dominik",
@@ -733,7 +1068,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 1.0,
+      "ts_pct": 0.0,
+      "efg_pct": 0.0,
+      "ft_rate": 0.0,
+      "three_rate": 100.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Vincz Botond",
@@ -762,11 +1104,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 3.0,
+      "ts_pct": 66.7,
+      "efg_pct": 66.7,
+      "ft_rate": 0.0,
+      "three_rate": 0.0,
       "photo_filename": "szazhalombattai-kse-vincz-botond.jpg",
       "height_cm": 194,
       "position": "3-4",
       "birth_year": 2006,
-      "percentiles": {}
+      "pos_group": "F",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Gombos Bálint Zalán",
@@ -795,7 +1144,14 @@
       "ft_made": 0,
       "ft_att": 1,
       "ft_pct": 0.0,
-      "percentiles": {}
+      "ts_att": 2.4,
+      "ts_pct": 41.0,
+      "efg_pct": 50.0,
+      "ft_rate": 50.0,
+      "three_rate": 50.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Cseh Bence",
@@ -824,11 +1180,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 9.0,
+      "ts_pct": 11.1,
+      "efg_pct": 11.1,
+      "ft_rate": 0.0,
+      "three_rate": 44.4,
       "photo_filename": "szazhalombattai-kse-cseh-bence.jpg",
       "height_cm": 190,
       "position": "3-4",
       "birth_year": 2006,
-      "percentiles": {}
+      "pos_group": "F",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Karácsonyi Dániel",
@@ -857,7 +1220,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 0.0,
+      "ts_pct": null,
+      "efg_pct": null,
+      "ft_rate": null,
+      "three_rate": null,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Glázer Manó",
@@ -886,11 +1256,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 1.0,
+      "ts_pct": 0.0,
+      "efg_pct": 0.0,
+      "ft_rate": 0.0,
+      "three_rate": 100.0,
       "photo_filename": "szazhalombattai-kse-glazer-mano.jpg",
       "height_cm": 187,
       "position": "1-2",
       "birth_year": 2007,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     }
   ]
 }

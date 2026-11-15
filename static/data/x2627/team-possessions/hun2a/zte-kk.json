@@ -1,7 +1,7 @@
 {
   "team": "ZTE KK",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -196,6 +196,34 @@
         "fga": 71,
         "fta": 34,
         "oreb": 20,
+        "tov_total": 14
+      }
+    },
+    {
+      "gamecode": "hun2a_135841",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-14",
+      "opponent": "Jászberényi KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 70,
+      "their_score": 59,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 13,
+        "mid_m": 3,
+        "three_m": 6,
+        "dunk_m": 1,
+        "ft": 13,
+        "close_x": 6,
+        "mid_x": 5,
+        "three_x": 16,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 56,
+        "fta": 23,
+        "oreb": 7,
         "tov_total": 14
       }
     }

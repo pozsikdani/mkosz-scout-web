@@ -1,7 +1,7 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -169,6 +169,34 @@
         "fta": 23,
         "oreb": 9,
         "tov_total": 11
+      }
+    },
+    {
+      "gamecode": "hun2a_135843",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-14",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 80,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 28,
+        "mid_m": 4,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 10,
+        "close_x": 9,
+        "mid_x": 2,
+        "three_x": 10,
+        "dunk_x": 0,
+        "tov": 10,
+        "fga": 67,
+        "fta": 18,
+        "oreb": 9,
+        "tov_total": 10
       }
     }
   ]

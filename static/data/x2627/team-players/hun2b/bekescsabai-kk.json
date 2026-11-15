@@ -6,7 +6,9 @@
     "min_gp_for_percentile": 5,
     "min_fga": 50,
     "min_3pa": 15,
-    "min_fta": 10
+    "min_fta": 10,
+    "min_fga_eff": 30,
+    "min_pos_pool": 8
   },
   "players": [
     {
@@ -36,10 +38,16 @@
       "ft_made": 10,
       "ft_att": 17,
       "ft_pct": 58.8,
+      "ts_att": 64.5,
+      "ts_pct": 46.5,
+      "efg_pct": 43.9,
+      "ft_rate": 29.8,
+      "three_rate": 19.3,
       "photo_filename": "bekescsabai-kk-hajdu-marton.jpg",
       "height_cm": 201,
       "position": "4-5",
       "birth_year": 1994,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 66,
         "rpg": 97,
@@ -53,7 +61,32 @@
         "tpg": 76,
         "fpg": 69,
         "fg_pct": 45,
-        "ft_pct": 18
+        "ft_pct": 18,
+        "ts_pct": 30,
+        "efg_pct": 34,
+        "ft_rate": 56,
+        "three_rate": 17,
+        "ato": 66
+      },
+      "percentiles_pos": {
+        "ppg": 62,
+        "rpg": 85,
+        "oreb_pg": 54,
+        "dreb_pg": 85,
+        "apg": 92,
+        "spg": 38,
+        "bpg": 31,
+        "fdpg": 54,
+        "mpg": 100,
+        "tpg": 73,
+        "fpg": 65,
+        "fg_pct": 31,
+        "ft_pct": 20,
+        "ts_pct": 19,
+        "efg_pct": 29,
+        "ft_rate": 29,
+        "three_rate": 52,
+        "ato": 85
       }
     },
     {
@@ -83,11 +116,18 @@
       "ft_made": 2,
       "ft_att": 4,
       "ft_pct": 50.0,
+      "ts_att": 39.8,
+      "ts_pct": 60.4,
+      "efg_pct": 60.5,
+      "ft_rate": 10.5,
+      "three_rate": 63.2,
       "photo_filename": "bekescsabai-kk-balog-gabor.jpg",
       "height_cm": 183,
       "position": "1-2",
       "birth_year": 2001,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Horváth Ákos",
@@ -116,10 +156,16 @@
       "ft_made": 5,
       "ft_att": 9,
       "ft_pct": 55.6,
+      "ts_att": 91.0,
+      "ts_pct": 45.1,
+      "efg_pct": 44.3,
+      "ft_rate": 10.3,
+      "three_rate": 59.8,
       "photo_filename": "bekescsabai-kk-horvath-akos.jpg",
       "height_cm": 183,
       "position": "1-2",
       "birth_year": 2005,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 85,
         "rpg": 59,
@@ -133,7 +179,32 @@
         "tpg": 96,
         "fpg": 53,
         "fg_pct": 15,
-        "three_pct": 62
+        "three_pct": 62,
+        "ts_pct": 23,
+        "efg_pct": 38,
+        "ft_rate": 8,
+        "three_rate": 81,
+        "ato": 62
+      },
+      "percentiles_pos": {
+        "ppg": 84,
+        "rpg": 74,
+        "oreb_pg": 88,
+        "dreb_pg": 72,
+        "apg": 68,
+        "spg": 56,
+        "bpg": 60,
+        "fdpg": 66,
+        "mpg": 90,
+        "tpg": 92,
+        "fpg": 56,
+        "fg_pct": 13,
+        "three_pct": 64,
+        "ts_pct": 24,
+        "efg_pct": 38,
+        "ft_rate": 8,
+        "three_rate": 70,
+        "ato": 44
       }
     },
     {
@@ -163,10 +234,16 @@
       "ft_made": 7,
       "ft_att": 18,
       "ft_pct": 38.9,
+      "ts_att": 34.9,
+      "ts_pct": 60.1,
+      "efg_pct": 64.8,
+      "ft_rate": 66.7,
+      "three_rate": 25.9,
       "photo_filename": "bekescsabai-kk-kurtucz-ferenc-krisztian.jpg",
       "height_cm": 201,
       "position": "3-4",
       "birth_year": 2006,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 52,
         "rpg": 68,
@@ -179,7 +256,23 @@
         "mpg": 72,
         "tpg": 41,
         "fpg": 37,
-        "ft_pct": 4
+        "ft_pct": 4,
+        "ato": 42
+      },
+      "percentiles_pos": {
+        "ppg": 64,
+        "rpg": 75,
+        "oreb_pg": 84,
+        "dreb_pg": 68,
+        "apg": 57,
+        "spg": 9,
+        "bpg": 100,
+        "fdpg": 70,
+        "mpg": 77,
+        "tpg": 48,
+        "fpg": 41,
+        "ft_pct": 9,
+        "ato": 44
       }
     },
     {
@@ -209,11 +302,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 27.0,
+      "ts_pct": 38.9,
+      "efg_pct": 38.9,
+      "ft_rate": 0.0,
+      "three_rate": 48.1,
       "photo_filename": "bekescsabai-kk-vagvolgyi-akos.jpg",
       "height_cm": 196,
       "position": "1-4",
       "birth_year": 1996,
-      "percentiles": {}
+      "pos_group": "F",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Balikó György",
@@ -242,10 +342,16 @@
       "ft_made": 2,
       "ft_att": 8,
       "ft_pct": 25.0,
+      "ts_att": 28.5,
+      "ts_pct": 42.1,
+      "efg_pct": 44.0,
+      "ft_rate": 32.0,
+      "three_rate": 28.0,
       "photo_filename": "bekescsabai-kk-baliko-gyorgy.jpg",
       "height_cm": 185,
       "position": "2-3",
       "birth_year": 2006,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 25,
         "rpg": 38,
@@ -257,7 +363,22 @@
         "fdpg": 37,
         "mpg": 34,
         "tpg": 61,
-        "fpg": 32
+        "fpg": 32,
+        "ato": 29
+      },
+      "percentiles_pos": {
+        "ppg": 32,
+        "rpg": 39,
+        "oreb_pg": 82,
+        "dreb_pg": 11,
+        "apg": 59,
+        "spg": 20,
+        "bpg": 43,
+        "fdpg": 45,
+        "mpg": 34,
+        "tpg": 80,
+        "fpg": 34,
+        "ato": 30
       }
     },
     {
@@ -287,10 +408,16 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 21.0,
+      "ts_pct": 47.6,
+      "efg_pct": 47.6,
+      "ft_rate": 0.0,
+      "three_rate": 38.1,
       "photo_filename": "bekescsabai-kk-farago-marton.jpg",
       "height_cm": 187,
       "position": "3-4",
       "birth_year": 2004,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 19,
         "rpg": 18,
@@ -302,7 +429,22 @@
         "fdpg": 10,
         "mpg": 22,
         "tpg": 14,
-        "fpg": 20
+        "fpg": 20,
+        "ato": 58
+      },
+      "percentiles_pos": {
+        "ppg": 25,
+        "rpg": 14,
+        "oreb_pg": 18,
+        "dreb_pg": 23,
+        "apg": 25,
+        "spg": 45,
+        "bpg": 43,
+        "fdpg": 11,
+        "mpg": 27,
+        "tpg": 20,
+        "fpg": 20,
+        "ato": 67
       }
     },
     {
@@ -332,10 +474,16 @@
       "ft_made": 17,
       "ft_att": 24,
       "ft_pct": 70.8,
+      "ts_att": 64.6,
+      "ts_pct": 76.7,
+      "efg_pct": 75.9,
+      "ft_rate": 44.4,
+      "three_rate": 81.5,
       "photo_filename": "bekescsabai-kk-turan-simon.jpg",
       "height_cm": 185,
       "position": "1-2",
       "birth_year": 2003,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 98,
         "rpg": 13,
@@ -350,7 +498,33 @@
         "fpg": 53,
         "fg_pct": 93,
         "three_pct": 98,
-        "ft_pct": 52
+        "ft_pct": 52,
+        "ts_pct": 100,
+        "efg_pct": 100,
+        "ft_rate": 76,
+        "three_rate": 99,
+        "ato": 17
+      },
+      "percentiles_pos": {
+        "ppg": 96,
+        "rpg": 24,
+        "oreb_pg": 44,
+        "dreb_pg": 26,
+        "apg": 34,
+        "spg": 56,
+        "bpg": 60,
+        "fdpg": 90,
+        "mpg": 56,
+        "tpg": 64,
+        "fpg": 56,
+        "fg_pct": 100,
+        "three_pct": 97,
+        "ft_pct": 45,
+        "ts_pct": 100,
+        "efg_pct": 100,
+        "ft_rate": 78,
+        "three_rate": 97,
+        "ato": 10
       }
     },
     {
@@ -380,10 +554,16 @@
       "ft_made": 0,
       "ft_att": 2,
       "ft_pct": 0.0,
+      "ts_att": 13.9,
+      "ts_pct": 14.4,
+      "efg_pct": 15.4,
+      "ft_rate": 15.4,
+      "three_rate": 46.2,
       "photo_filename": "bekescsabai-kk-reisz-nandor.jpg",
       "height_cm": 194,
       "position": "3-4",
       "birth_year": 2008,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 1,
         "rpg": 48,
@@ -395,7 +575,22 @@
         "fdpg": 18,
         "mpg": 18,
         "tpg": 32,
-        "fpg": 45
+        "fpg": 45,
+        "ato": 26
+      },
+      "percentiles_pos": {
+        "ppg": 2,
+        "rpg": 50,
+        "oreb_pg": 52,
+        "dreb_pg": 50,
+        "apg": 32,
+        "spg": 20,
+        "bpg": 43,
+        "fdpg": 25,
+        "mpg": 25,
+        "tpg": 39,
+        "fpg": 52,
+        "ato": 28
       }
     },
     {
@@ -425,11 +620,18 @@
       "ft_made": 2,
       "ft_att": 4,
       "ft_pct": 50.0,
+      "ts_att": 13.8,
+      "ts_pct": 40.0,
+      "efg_pct": 37.5,
+      "ft_rate": 33.3,
+      "three_rate": 50.0,
       "photo_filename": "bekescsabai-kk-botta-dukat-karoly.jpg",
       "height_cm": 175,
       "position": "1-2",
       "birth_year": 2009,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Latorcai Levente",
@@ -458,11 +660,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 2.0,
+      "ts_pct": 0.0,
+      "efg_pct": 0.0,
+      "ft_rate": 0.0,
+      "three_rate": 50.0,
       "photo_filename": "bekescsabai-kk-latorcai-levente.jpg",
       "height_cm": 184,
       "position": "1-3",
       "birth_year": 2011,
-      "percentiles": {}
+      "pos_group": "F",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Kohári Kristóf",
@@ -491,11 +700,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 0.0,
+      "ts_pct": null,
+      "efg_pct": null,
+      "ft_rate": null,
+      "three_rate": null,
       "photo_filename": "bekescsabai-kk-kohari-kristof.jpg",
       "height_cm": 177,
       "position": "1-2",
       "birth_year": 2006,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Scherber Kornél",
@@ -524,11 +740,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 1.0,
+      "ts_pct": 0.0,
+      "efg_pct": 0.0,
+      "ft_rate": 0.0,
+      "three_rate": 100.0,
       "photo_filename": "bekescsabai-kk-scherber-kornel.jpg",
       "height_cm": 175,
       "position": "1-2",
       "birth_year": 2009,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Csiki Roland",
@@ -557,11 +780,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 1.0,
+      "ts_pct": 0.0,
+      "efg_pct": 0.0,
+      "ft_rate": 0.0,
+      "three_rate": 0.0,
       "photo_filename": "bekescsabai-kk-csiki-roland.jpg",
       "height_cm": 201,
       "position": "4-5",
       "birth_year": 2009,
-      "percentiles": {}
+      "pos_group": "C",
+      "percentiles": {},
+      "percentiles_pos": {}
     }
   ]
 }

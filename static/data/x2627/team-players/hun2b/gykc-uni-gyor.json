@@ -6,7 +6,9 @@
     "min_gp_for_percentile": 5,
     "min_fga": 50,
     "min_3pa": 15,
-    "min_fta": 10
+    "min_fta": 10,
+    "min_fga_eff": 30,
+    "min_pos_pool": 8
   },
   "players": [
     {
@@ -36,7 +38,14 @@
       "ft_made": 4,
       "ft_att": 4,
       "ft_pct": 100.0,
-      "percentiles": {}
+      "ts_att": 12.8,
+      "ts_pct": 78.4,
+      "efg_pct": 72.7,
+      "ft_rate": 36.4,
+      "three_rate": 63.6,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Kozári Gerg?",
@@ -65,7 +74,14 @@
       "ft_made": 0,
       "ft_att": 1,
       "ft_pct": 0.0,
-      "percentiles": {}
+      "ts_att": 7.4,
+      "ts_pct": 53.8,
+      "efg_pct": 57.1,
+      "ft_rate": 14.3,
+      "three_rate": 14.3,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Habel Andrich Clemens",
@@ -94,7 +110,14 @@
       "ft_made": 4,
       "ft_att": 5,
       "ft_pct": 80.0,
-      "percentiles": {}
+      "ts_att": 7.2,
+      "ts_pct": 83.3,
+      "efg_pct": 80.0,
+      "ft_rate": 100.0,
+      "three_rate": 0.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Tóth Dániel",
@@ -123,10 +146,16 @@
       "ft_made": 7,
       "ft_att": 12,
       "ft_pct": 58.3,
+      "ts_att": 50.3,
+      "ts_pct": 50.7,
+      "efg_pct": 48.9,
+      "ft_rate": 26.7,
+      "three_rate": 26.7,
       "photo_filename": "gykc-uni-gyor-toth-daniel.jpg",
       "height_cm": 181,
       "position": "1-2",
       "birth_year": 2005,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 53,
         "rpg": 42,
@@ -139,7 +168,31 @@
         "mpg": 75,
         "tpg": 76,
         "fpg": 63,
-        "ft_pct": 16
+        "ft_pct": 16,
+        "ts_pct": 53,
+        "efg_pct": 57,
+        "ft_rate": 47,
+        "three_rate": 28,
+        "ato": 93
+      },
+      "percentiles_pos": {
+        "ppg": 50,
+        "rpg": 60,
+        "oreb_pg": 88,
+        "dreb_pg": 44,
+        "apg": 86,
+        "spg": 100,
+        "bpg": 60,
+        "fdpg": 58,
+        "mpg": 78,
+        "tpg": 64,
+        "fpg": 64,
+        "ft_pct": 16,
+        "ts_pct": 51,
+        "efg_pct": 57,
+        "ft_rate": 57,
+        "three_rate": 8,
+        "ato": 90
       }
     },
     {
@@ -169,10 +222,16 @@
       "ft_made": 19,
       "ft_att": 23,
       "ft_pct": 82.6,
+      "ts_att": 60.1,
+      "ts_pct": 50.7,
+      "efg_pct": 42.0,
+      "ft_rate": 46.0,
+      "three_rate": 60.0,
       "photo_filename": "gykc-uni-gyor-gobi-marcell.jpg",
       "height_cm": 197,
       "position": "3-4",
       "birth_year": 2002,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 67,
         "rpg": 55,
@@ -187,7 +246,33 @@
         "fpg": 79,
         "fg_pct": 4,
         "three_pct": 67,
-        "ft_pct": 89
+        "ft_pct": 89,
+        "ts_pct": 53,
+        "efg_pct": 26,
+        "ft_rate": 80,
+        "three_rate": 83,
+        "ato": 67
+      },
+      "percentiles_pos": {
+        "ppg": 73,
+        "rpg": 61,
+        "oreb_pg": 43,
+        "dreb_pg": 75,
+        "apg": 77,
+        "spg": 91,
+        "bpg": 80,
+        "fdpg": 84,
+        "mpg": 70,
+        "tpg": 50,
+        "fpg": 75,
+        "fg_pct": 11,
+        "three_pct": 68,
+        "ft_pct": 91,
+        "ts_pct": 57,
+        "efg_pct": 29,
+        "ft_rate": 86,
+        "three_rate": 86,
+        "ato": 79
       }
     },
     {
@@ -217,10 +302,16 @@
       "ft_made": 14,
       "ft_att": 18,
       "ft_pct": 77.8,
+      "ts_att": 70.9,
+      "ts_pct": 59.9,
+      "efg_pct": 56.3,
+      "ft_rate": 28.6,
+      "three_rate": 23.8,
       "photo_filename": "gykc-uni-gyor-gaal-bence.jpg",
       "height_cm": 197,
       "position": "4",
       "birth_year": 2002,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 88,
         "rpg": 83,
@@ -235,7 +326,33 @@
         "fpg": 42,
         "fg_pct": 85,
         "three_pct": 67,
-        "ft_pct": 71
+        "ft_pct": 71,
+        "ts_pct": 81,
+        "efg_pct": 81,
+        "ft_rate": 51,
+        "three_rate": 24,
+        "ato": 3
+      },
+      "percentiles_pos": {
+        "ppg": 91,
+        "rpg": 89,
+        "oreb_pg": 98,
+        "dreb_pg": 82,
+        "apg": 11,
+        "spg": 52,
+        "bpg": 43,
+        "fdpg": 70,
+        "mpg": 57,
+        "tpg": 73,
+        "fpg": 50,
+        "fg_pct": 84,
+        "three_pct": 68,
+        "ft_pct": 68,
+        "ts_pct": 86,
+        "efg_pct": 86,
+        "ft_rate": 61,
+        "three_rate": 21,
+        "ato": 2
       }
     },
     {
@@ -265,11 +382,18 @@
       "ft_made": 2,
       "ft_att": 3,
       "ft_pct": 66.7,
+      "ts_att": 13.3,
+      "ts_pct": 78.8,
+      "efg_pct": 79.2,
+      "ft_rate": 25.0,
+      "three_rate": 25.0,
       "photo_filename": "gykc-uni-gyor-gadacsi-david.jpg",
       "height_cm": 188,
       "position": "2",
       "birth_year": 2006,
-      "percentiles": {}
+      "pos_group": "G",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Barócsi Ádám",
@@ -298,7 +422,14 @@
       "ft_made": 1,
       "ft_att": 2,
       "ft_pct": 50.0,
-      "percentiles": {}
+      "ts_att": 4.9,
+      "ts_pct": 82.0,
+      "efg_pct": 87.5,
+      "ft_rate": 50.0,
+      "three_rate": 50.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Tichov Dominik",
@@ -327,7 +458,14 @@
       "ft_made": 1,
       "ft_att": 1,
       "ft_pct": 100.0,
-      "percentiles": {}
+      "ts_att": 5.4,
+      "ts_pct": 73.5,
+      "efg_pct": 70.0,
+      "ft_rate": 20.0,
+      "three_rate": 40.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Rácz Gábor",
@@ -356,10 +494,16 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 58.0,
+      "ts_pct": 37.9,
+      "efg_pct": 37.9,
+      "ft_rate": 0.0,
+      "three_rate": 53.4,
       "photo_filename": "gykc-uni-gyor-racz-gabor.jpg",
       "height_cm": 195,
       "position": "2-3",
       "birth_year": 2008,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 48,
         "rpg": 59,
@@ -373,7 +517,32 @@
         "tpg": 51,
         "fpg": 98,
         "fg_pct": 9,
-        "three_pct": 22
+        "three_pct": 22,
+        "ts_pct": 5,
+        "efg_pct": 13,
+        "ft_rate": 1,
+        "three_rate": 69,
+        "ato": 65
+      },
+      "percentiles_pos": {
+        "ppg": 59,
+        "rpg": 66,
+        "oreb_pg": 77,
+        "dreb_pg": 52,
+        "apg": 80,
+        "spg": 70,
+        "bpg": 80,
+        "fdpg": 11,
+        "mpg": 84,
+        "tpg": 64,
+        "fpg": 100,
+        "fg_pct": 21,
+        "three_pct": 36,
+        "ts_pct": 11,
+        "efg_pct": 18,
+        "ft_rate": 4,
+        "three_rate": 64,
+        "ato": 77
       }
     },
     {
@@ -403,10 +572,16 @@
       "ft_made": 11,
       "ft_att": 16,
       "ft_pct": 68.8,
+      "ts_att": 43.0,
+      "ts_pct": 40.7,
+      "efg_pct": 33.3,
+      "ft_rate": 44.4,
+      "three_rate": 11.1,
       "photo_filename": "gykc-uni-gyor-solyom-laszlo.jpg",
       "height_cm": 201,
       "position": "5",
       "birth_year": 2003,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 39,
         "rpg": 76,
@@ -419,7 +594,31 @@
         "mpg": 42,
         "tpg": 61,
         "fpg": 42,
-        "ft_pct": 47
+        "ft_pct": 47,
+        "ts_pct": 10,
+        "efg_pct": 3,
+        "ft_rate": 76,
+        "three_rate": 12,
+        "ato": 39
+      },
+      "percentiles_pos": {
+        "ppg": 27,
+        "rpg": 38,
+        "oreb_pg": 100,
+        "dreb_pg": 12,
+        "apg": 81,
+        "spg": 88,
+        "bpg": 81,
+        "fdpg": 54,
+        "mpg": 38,
+        "tpg": 58,
+        "fpg": 27,
+        "ft_pct": 75,
+        "ts_pct": 10,
+        "efg_pct": 5,
+        "ft_rate": 67,
+        "three_rate": 38,
+        "ato": 65
       }
     },
     {
@@ -449,10 +648,16 @@
       "ft_made": 5,
       "ft_att": 7,
       "ft_pct": 71.4,
+      "ts_att": 63.1,
+      "ts_pct": 61.8,
+      "efg_pct": 60.8,
+      "ft_rate": 11.7,
+      "three_rate": 23.3,
       "photo_filename": "gykc-uni-gyor-sovegjarto-abel-gyorgy.jpg",
       "height_cm": 198,
       "position": "3-4",
       "birth_year": 2002,
+      "pos_group": "F",
       "percentiles": {
         "ppg": 94,
         "rpg": 94,
@@ -465,7 +670,31 @@
         "mpg": 72,
         "tpg": 41,
         "fpg": 94,
-        "fg_pct": 96
+        "fg_pct": 96,
+        "ts_pct": 86,
+        "efg_pct": 90,
+        "ft_rate": 13,
+        "three_rate": 22,
+        "ato": 71
+      },
+      "percentiles_pos": {
+        "ppg": 93,
+        "rpg": 100,
+        "oreb_pg": 89,
+        "dreb_pg": 100,
+        "apg": 73,
+        "spg": 93,
+        "bpg": 95,
+        "fdpg": 50,
+        "mpg": 77,
+        "tpg": 48,
+        "fpg": 93,
+        "fg_pct": 95,
+        "ts_pct": 89,
+        "efg_pct": 96,
+        "ft_rate": 18,
+        "three_rate": 18,
+        "ato": 84
       }
     },
     {
@@ -495,7 +724,14 @@
       "ft_made": 2,
       "ft_att": 3,
       "ft_pct": 66.7,
-      "percentiles": {}
+      "ts_att": 17.3,
+      "ts_pct": 40.4,
+      "efg_pct": 37.5,
+      "ft_rate": 18.8,
+      "three_rate": 31.2,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Bakon Csanád",
@@ -524,10 +760,16 @@
       "ft_made": 15,
       "ft_att": 18,
       "ft_pct": 83.3,
+      "ts_att": 63.9,
+      "ts_pct": 49.3,
+      "efg_pct": 42.9,
+      "ft_rate": 32.1,
+      "three_rate": 64.3,
       "photo_filename": "gykc-uni-gyor-bakon-csanad.jpg",
       "height_cm": 186,
       "position": "1-2",
       "birth_year": 2000,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 68,
         "rpg": 60,
@@ -542,7 +784,33 @@
         "fpg": 32,
         "fg_pct": 13,
         "three_pct": 47,
-        "ft_pct": 92
+        "ft_pct": 92,
+        "ts_pct": 47,
+        "efg_pct": 29,
+        "ft_rate": 59,
+        "three_rate": 88,
+        "ato": 99
+      },
+      "percentiles_pos": {
+        "ppg": 66,
+        "rpg": 76,
+        "oreb_pg": 44,
+        "dreb_pg": 80,
+        "apg": 82,
+        "spg": 36,
+        "bpg": 94,
+        "fdpg": 76,
+        "mpg": 52,
+        "tpg": 38,
+        "fpg": 36,
+        "fg_pct": 9,
+        "three_pct": 44,
+        "ft_pct": 90,
+        "ts_pct": 49,
+        "efg_pct": 35,
+        "ft_rate": 70,
+        "three_rate": 81,
+        "ato": 100
       }
     },
     {
@@ -572,10 +840,16 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 22.0,
+      "ts_pct": 77.3,
+      "efg_pct": 77.3,
+      "ft_rate": 0.0,
+      "three_rate": 77.3,
       "photo_filename": "gykc-uni-gyor-dani-balazs-dominik.jpg",
       "height_cm": 188,
       "position": "1",
       "birth_year": 2004,
+      "pos_group": "G",
       "percentiles": {
         "ppg": 47,
         "rpg": 12,
@@ -588,7 +862,23 @@
         "mpg": 32,
         "tpg": 76,
         "fpg": 29,
-        "three_pct": 100
+        "three_pct": 100,
+        "ato": 29
+      },
+      "percentiles_pos": {
+        "ppg": 46,
+        "rpg": 20,
+        "oreb_pg": 34,
+        "dreb_pg": 26,
+        "apg": 40,
+        "spg": 4,
+        "bpg": 60,
+        "fdpg": 26,
+        "mpg": 32,
+        "tpg": 64,
+        "fpg": 32,
+        "three_pct": 100,
+        "ato": 18
       }
     },
     {
@@ -618,7 +908,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 3.0,
+      "ts_pct": 66.7,
+      "efg_pct": 66.7,
+      "ft_rate": 0.0,
+      "three_rate": 33.3,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Fazekas Máté",
@@ -647,7 +944,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 5.0,
+      "ts_pct": 60.0,
+      "efg_pct": 60.0,
+      "ft_rate": 0.0,
+      "three_rate": 40.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Tóth Balázs",
@@ -676,7 +980,14 @@
       "ft_made": 1,
       "ft_att": 2,
       "ft_pct": 50.0,
-      "percentiles": {}
+      "ts_att": 5.9,
+      "ts_pct": 25.5,
+      "efg_pct": 20.0,
+      "ft_rate": 40.0,
+      "three_rate": 60.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Gombos Bálint Zalán",
@@ -705,10 +1016,16 @@
       "ft_made": 2,
       "ft_att": 5,
       "ft_pct": 40.0,
+      "ts_att": 12.2,
+      "ts_pct": 41.0,
+      "efg_pct": 40.0,
+      "ft_rate": 50.0,
+      "three_rate": 0.0,
       "photo_filename": "gykc-uni-gyor-gombos-balint-zalan.jpg",
       "height_cm": 197,
       "position": "5",
       "birth_year": 2007,
+      "pos_group": "C",
       "percentiles": {
         "ppg": 8,
         "rpg": 49,
@@ -720,7 +1037,22 @@
         "fdpg": 34,
         "mpg": 7,
         "tpg": 17,
-        "fpg": 13
+        "fpg": 13,
+        "ato": 71
+      },
+      "percentiles_pos": {
+        "ppg": 8,
+        "rpg": 8,
+        "oreb_pg": 23,
+        "dreb_pg": 12,
+        "apg": 38,
+        "spg": 27,
+        "bpg": 12,
+        "fdpg": 19,
+        "mpg": 8,
+        "tpg": 19,
+        "fpg": 15,
+        "ato": 92
       }
     },
     {
@@ -750,7 +1082,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 1.0,
+      "ts_pct": 150.0,
+      "efg_pct": 150.0,
+      "ft_rate": 0.0,
+      "three_rate": 100.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Gosztola Gábor Donát",
@@ -779,11 +1118,18 @@
       "ft_made": 1,
       "ft_att": 10,
       "ft_pct": 10.0,
+      "ts_att": 6.4,
+      "ts_pct": 7.8,
+      "efg_pct": 0.0,
+      "ft_rate": 500.0,
+      "three_rate": 50.0,
       "photo_filename": "gykc-uni-gyor-gosztola-gabor-donat.jpg",
       "height_cm": 190,
       "position": "3",
       "birth_year": 2002,
-      "percentiles": {}
+      "pos_group": "F",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Karácsonyi Dániel",
@@ -812,11 +1158,18 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
+      "ts_att": 9.0,
+      "ts_pct": 11.1,
+      "efg_pct": 11.1,
+      "ft_rate": 0.0,
+      "three_rate": 55.6,
       "photo_filename": "gykc-uni-gyor-karacsonyi-daniel.jpg",
       "height_cm": 191,
       "position": "2-3",
       "birth_year": 2010,
-      "percentiles": {}
+      "pos_group": "F",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Csicsely Márton",
@@ -845,11 +1198,18 @@
       "ft_made": 1,
       "ft_att": 3,
       "ft_pct": 33.3,
+      "ts_att": 1.3,
+      "ts_pct": 37.9,
+      "efg_pct": null,
+      "ft_rate": null,
+      "three_rate": null,
       "photo_filename": "gykc-uni-gyor-csicsely-marton.jpg",
       "height_cm": 203,
       "position": "5",
       "birth_year": 2007,
-      "percentiles": {}
+      "pos_group": "C",
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Cseh Bence",
@@ -878,7 +1238,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 1.0,
+      "ts_pct": 100.0,
+      "efg_pct": 100.0,
+      "ft_rate": 0.0,
+      "three_rate": 0.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     },
     {
       "name": "Vincz Botond",
@@ -907,7 +1274,14 @@
       "ft_made": 0,
       "ft_att": 0,
       "ft_pct": null,
-      "percentiles": {}
+      "ts_att": 1.0,
+      "ts_pct": 0.0,
+      "efg_pct": 0.0,
+      "ft_rate": 0.0,
+      "three_rate": 100.0,
+      "pos_group": null,
+      "percentiles": {},
+      "percentiles_pos": {}
     }
   ]
 }
