@@ -64,6 +64,8 @@ MIN_GP_FOR_PERCENTILE = 5
 MIN_FGA = 50
 MIN_3PA = 15
 MIN_FTA = 10
+MIN_FGA_EFF = 30  # TS%/eFG%/FT-arány/3PA arány: e alatt "kicsi minta"
+MIN_POS_POOL = 8  # pozíciós percentilishez min. ennyi összevethető játékos
 
 
 def team_matches(canonical_name: str, db_name: str, aliases: list[str]) -> bool:
@@ -246,7 +248,23 @@ def finalize_player(a: dict) -> dict:
         "three_pct": round(100 * a["fg3m"] / a["fg3a"], 1) if a["fg3a"] > 0 else None,
         "ft_made": a["ftm"], "ft_att": a["fta"],
         "ft_pct": round(100 * a["ftm"] / a["fta"], 1) if a["fta"] > 0 else None,
+        # Hatékonysági mutatók (1. fázis) — a pont a PBP-ből jön, egyezik a hivatalossal
+        "ts_att": round(fg_att + 0.44 * a["fta"], 1),
+        "ts_pct": round(100 * a["pts"] / (2 * (fg_att + 0.44 * a["fta"])), 1)
+        if (fg_att + a["fta"]) > 0 else None,
+        "efg_pct": round(100 * (fg_made + 0.5 * a["fg3m"]) / fg_att, 1) if fg_att > 0 else None,
+        "ft_rate": round(100 * a["fta"] / fg_att, 1) if fg_att > 0 else None,
+        "three_rate": round(100 * a["fg3a"] / fg_att, 1) if fg_att > 0 else None,
     }
+
+
+def pos_group(position: str | None) -> str | None:
+    """G (1–2) · F (3–4) · C (5) — a legmagasabb számjegy dönt, mint a kártyákon."""
+    digits = [int(c) for c in (position or "") if c.isdigit()]
+    if not digits:
+        return None
+    hi = max(digits)
+    return "G" if hi <= 2 else "F" if hi <= 4 else "C"
 
 
 # Stat keys to percentile-rank, with optional volume threshold
@@ -257,7 +275,23 @@ PERCENTILE_STATS = [
     ("tpg", None),  # invert in UI (lower better)
     ("fpg", None),  # invert in UI
     ("fg_pct", "fg_att"), ("three_pct", "three_att"), ("ft_pct", "ft_att"),
+    ("ts_pct", "fg_att"), ("efg_pct", "fg_att"), ("ft_rate", "fg_att"), ("three_rate", "fg_att"),
+    ("ato", None),
 ]
+
+# Volume-küszöb statonként (None = nincs)
+VOLUME_MIN = {
+    "fg_pct": ("fg_att", MIN_FGA), "three_pct": ("three_att", MIN_3PA), "ft_pct": ("ft_att", MIN_FTA),
+    "ts_pct": ("fg_att", MIN_FGA_EFF), "efg_pct": ("fg_att", MIN_FGA_EFF),
+    "ft_rate": ("fg_att", MIN_FGA_EFF), "three_rate": ("fg_att", MIN_FGA_EFF),
+}
+
+
+def eligible(stat: str, f: dict) -> bool:
+    if f.get(stat) is None:
+        return False
+    vol = VOLUME_MIN.get(stat)
+    return not vol or (f.get(vol[0]) or 0) >= vol[1]
 
 
 def percentile_rank(values: list[float], v: float) -> int:
@@ -304,22 +338,21 @@ def main() -> int:
 
     # Build league pools per stat (filtered by GP + per-stat volume threshold)
     league_pools: dict[str, list[float]] = defaultdict(list)
-    flat_finals: dict[tuple[str, str], dict] = {}
+    pos_pools: dict[tuple[str, str], list[float]] = defaultdict(list)
     for team, agg in per_team_aggs.items():
+        team_slug = slugify(team)
         for key, a in agg.items():
             if a["gp"] < MIN_GP_FOR_PERCENTILE:
                 continue
             f = finalize_player(a)
-            flat_finals[(team, key)] = f
-            for stat, vol_key in PERCENTILE_STATS:
-                v = f.get(stat)
-                if v is None:
+            meta = roster_lookup.get((team_slug, roster_match_key(f["name"]))) or {}
+            grp = pos_group(meta.get("position"))
+            for stat, _ in PERCENTILE_STATS:
+                if not eligible(stat, f):
                     continue
-                # Volume threshold for shooting %
-                if stat == "fg_pct" and (f.get("fg_att") or 0) < MIN_FGA: continue
-                if stat == "three_pct" and (f.get("three_att") or 0) < MIN_3PA: continue
-                if stat == "ft_pct" and (f.get("ft_att") or 0) < MIN_FTA: continue
-                league_pools[stat].append(v)
+                league_pools[stat].append(f[stat])
+                if grp:
+                    pos_pools[(grp, stat)].append(f[stat])
 
     out_dir = Path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -351,18 +384,20 @@ def main() -> int:
                 if meta.get("name"):
                     f["name"] = meta["name"]
             # Percentiles only for players who meet volume threshold
-            pct = {}
+            pct, pct_pos = {}, {}
+            grp = pos_group(f.get("position"))
+            f["pos_group"] = grp
             if a["gp"] >= MIN_GP_FOR_PERCENTILE:
                 for stat, _ in PERCENTILE_STATS:
-                    v = f.get(stat)
-                    if v is None:
+                    if not eligible(stat, f):
                         continue
-                    if stat == "fg_pct" and (f.get("fg_att") or 0) < MIN_FGA: continue
-                    if stat == "three_pct" and (f.get("three_att") or 0) < MIN_3PA: continue
-                    if stat == "ft_pct" and (f.get("ft_att") or 0) < MIN_FTA: continue
-                    pool = league_pools.get(stat, [])
-                    pct[stat] = percentile_rank(pool, v)
+                    pct[stat] = percentile_rank(league_pools.get(stat, []), f[stat])
+                    # Pozíción belül csak ha van elég összevetési alap
+                    pool = pos_pools.get((grp, stat), []) if grp else []
+                    if len(pool) >= MIN_POS_POOL:
+                        pct_pos[stat] = percentile_rank(pool, f[stat])
             f["percentiles"] = pct
+            f["percentiles_pos"] = pct_pos
             players.append(f)
 
         # Sort: starters (gs_rate >= 0.5) first by ppg desc, then rotation by mpg desc
@@ -377,6 +412,7 @@ def main() -> int:
             "thresholds": {
                 "min_gp_for_percentile": MIN_GP_FOR_PERCENTILE,
                 "min_fga": MIN_FGA, "min_3pa": MIN_3PA, "min_fta": MIN_FTA,
+                "min_fga_eff": MIN_FGA_EFF, "min_pos_pool": MIN_POS_POOL,
             },
             "players": players,
         }

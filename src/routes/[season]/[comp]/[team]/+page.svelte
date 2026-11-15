@@ -4,6 +4,7 @@
 	import LineupNRtg from '$lib/components/LineupNRtg.svelte';
 	import QuarterAnalysis from '$lib/components/QuarterAnalysis.svelte';
 	import PlayerCards from '$lib/components/PlayerCards.svelte';
+	import PlayerEfficiency from '$lib/components/PlayerEfficiency.svelte';
 	import PossessionBreakdown from '$lib/components/PossessionBreakdown.svelte';
 	import Shotchart from '$lib/components/Shotchart.svelte';
 	import ShotchartZones from '$lib/components/ShotchartZones.svelte';
@@ -44,6 +45,7 @@
 
 	const hasQuarterData = $derived(allMatches.some((m) => m.quarter_scores && m.result !== null));
 	let activeTab = $state<Tab>('info');
+	let playersView = $state<'cards' | 'eff'>('cards');
 
 	type PhaseFilter = 'all' | 'alapszakasz' | 'rajatszas';
 	let phaseFilter = $state<PhaseFilter>('all');
@@ -527,7 +529,29 @@
 					Ehhez a csapathoz még nincs játékos-statisztika az adatbázisban.
 				</div>
 			{:else}
-				<PlayerCards data={playersData} playerShots={playerShotsData} />
+				<div class="mb-4 flex gap-1 rounded-lg border border-border bg-card p-1 text-sm font-semibold w-fit" role="group" aria-label="Nézet">
+					<button
+						class="rounded px-3 py-1 transition-colors"
+						class:bg-accent={playersView === 'cards'}
+						class:text-fg={playersView === 'cards'}
+						class:text-muted={playersView !== 'cards'}
+						aria-pressed={playersView === 'cards'}
+						onclick={() => (playersView = 'cards')}>Kártyák</button
+					>
+					<button
+						class="rounded px-3 py-1 transition-colors"
+						class:bg-accent={playersView === 'eff'}
+						class:text-fg={playersView === 'eff'}
+						class:text-muted={playersView !== 'eff'}
+						aria-pressed={playersView === 'eff'}
+						onclick={() => (playersView = 'eff')}>Hatékonyság</button
+					>
+				</div>
+				{#if playersView === 'eff'}
+					<PlayerEfficiency data={playersData} />
+				{:else}
+					<PlayerCards data={playersData} playerShots={playerShotsData} />
+				{/if}
 			{/if}
 		</section>
 	{:else if activeTab === 'quarters'}

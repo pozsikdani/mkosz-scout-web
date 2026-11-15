@@ -212,14 +212,15 @@
 			</div>
 
 			<!-- Defensive extras + scoring panel -->
-			<div class="grid grid-cols-2 gap-px bg-border text-center">
+			<div class="grid grid-cols-[2fr_5fr] gap-px bg-border text-center">
 				<div class="grid grid-cols-2 gap-px bg-border">
 					{@render statCell('STL', fmt(p.spg), p, 'spg')}
 					{@render statCell('BLK', fmt(p.bpg), p, 'bpg')}
 				</div>
-				<!-- Scoring panel: PPG | FG% | 3P% | FT% -->
-				<div class="grid grid-cols-4 gap-px bg-border">
+				<!-- Scoring panel: PPG | TS% | FG% | 3P% | FT% -->
+				<div class="grid grid-cols-5 gap-px bg-border">
 					{@render statCell('PPG', fmt(p.ppg), p, 'ppg', 'ppg')}
+					{@render statCell('TS%', pct(p.ts_pct), p, 'ts_pct')}
 					{@render shotCell('FG%', pct(p.fg_pct), `${p.fg_made}/${p.fg_att}`, p, 'fg_pct')}
 					{@render shotCell(
 						'3P%',

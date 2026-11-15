@@ -98,7 +98,12 @@ export type PercentileStat =
 	| 'fpg'
 	| 'fg_pct'
 	| 'three_pct'
-	| 'ft_pct';
+	| 'ft_pct'
+	| 'ts_pct'
+	| 'efg_pct'
+	| 'ft_rate'
+	| 'three_rate'
+	| 'ato';
 
 export interface PlayerSeason {
 	name: string;
@@ -131,7 +136,14 @@ export interface PlayerSeason {
 	ft_made: number;
 	ft_att: number;
 	ft_pct: number | null;
+	ts_att?: number;
+	ts_pct?: number | null;
+	efg_pct?: number | null;
+	ft_rate?: number | null;
+	three_rate?: number | null;
+	pos_group?: 'G' | 'F' | 'C' | null;
 	percentiles: Partial<Record<PercentileStat, number>>;
+	percentiles_pos?: Partial<Record<PercentileStat, number>>;
 }
 
 export interface SubInfo {
@@ -305,6 +317,8 @@ export interface TeamPlayers {
 		min_fga: number;
 		min_3pa: number;
 		min_fta: number;
+		min_fga_eff?: number;
+		min_pos_pool?: number;
 	};
 	players: PlayerSeason[];
 }
