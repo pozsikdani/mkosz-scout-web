@@ -156,6 +156,9 @@ def aggregate_team_players(conn: sqlite3.Connection, team_name: str, season: str
         JOIN matches m USING(gamecode)
         WHERE m.season = ?
           AND m.comp_code IN ({",".join("?" for _ in COMPS)})
+          -- PBP-s meccsen a csak-jegyzőkönyvi sor (más névalak, OCR-hiba, üres név)
+          -- duplikálná a játékost; a PBP egyezik a hivatalos box score-ral.
+          AND (COALESCE(m.has_pbp, 0) = 0 OR pgs.source != 'scoresheet')
         """,
         (season, *COMPS),
     ).fetchall()
