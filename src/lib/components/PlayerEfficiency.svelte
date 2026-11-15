@@ -1,8 +1,13 @@
 <script lang="ts">
 	import type { PercentileStat, PlayerSeason, TeamPlayers } from '$lib/types';
 
-	type Props = { data: TeamPlayers };
-	let { data }: Props = $props();
+	import { base } from '$app/paths';
+
+	// league: liga-szintű ranglista (csapat-oszlop, keresés); seasonId/compId a csapat-linkhez
+	type Props = { data: TeamPlayers; league?: boolean; seasonId?: string; compId?: string };
+	let { data, league = false, seasonId = '', compId = '' }: Props = $props();
+	let query = $state('');
+	const rowKey = (p: PlayerSeason) => `${p.team_slug ?? ''}/${p.name}`;
 
 	type Mode = 'liga' | 'poz';
 	type Scope = 'rotation' | 'all';
@@ -103,7 +108,22 @@
 			formula: 'ON NRtg − OFF NRtg', value: (p) => p.onoff_nrtg, pct: 'onoff_nrtg'
 		},
 		{
-			key: 'poss_on', label: 'Poss',
+			key: 'xpps', label: 'xPPS', group: 'Dobásminőség', digits: 2,
+			title: 'Várható pont dobásonként: a játékos dobásai a lövéstérkép zónáiban mennyit érnének liga-átlagos értékesítéssel. A dobásválasztás minősége (gyűrű közeli és sarok-tripla = jó, középtáv = gyenge).',
+			formula: 'Σ (zóna liga-FG% × zóna értéke) / dobások', value: (p) => p.xpps, pct: 'xpps'
+		},
+		{
+			key: 'pps_diff', label: 'Többlet', digits: 2, signed: true,
+			title: 'Ténylegesen szerzett pont dobásonként mínusz a várható. Pozitív = a liga-átlagnál jobban értékesíti a saját dobásait.',
+			formula: 'PPS − xPPS (büntetők nélkül)', value: (p) => p.pps_diff, pct: 'pps_diff'
+		},
+		{
+			key: 'assisted_pct', label: 'Gólpasszból',
+			title: 'A saját mezőnykosarainak hány %-a jött gólpasszból. Stílusmutató: alacsony = maga teremti a helyzetét, magas = befejező. Nincs jó/rossz színezése.',
+			formula: 'gólpasszhoz párosított FGM / FGM', value: (p) => p.assisted_pct, pct: 'assisted_pct', neutral: true
+		},
+		{
+			key: 'poss_on', label: 'Poss', group: 'Minta',
 			title: 'A minta nagysága: labdabirtoklások, amíg a pályán volt. 50 alatt kicsi minta.',
 			formula: 'FGA + 0,44 · FTA + TOV − OREB (csapat, pályán)', value: (p) => p.poss_on, digits: 0
 		}
@@ -133,8 +153,16 @@
 
 	const rows = $derived.by(() => {
 		const col = COLS.find((c) => c.key === sortKey)!;
-		const base = data.players.filter((p) => scope === 'all' || (p.mpg >= 10 && p.gp >= 2));
-		return base.slice().sort((a, b) => {
+		const q = query.trim().toLowerCase();
+		const pool = data.players.filter(
+			(p) =>
+				(scope === 'all' || (p.mpg >= 10 && p.gp >= 2)) &&
+				(!q || p.name.toLowerCase().includes(q) || (p.team ?? '').toLowerCase().includes(q))
+		);
+		// Elég mintával rendelkezők (van percentilisük az adott mutatóra) előre kerülnek
+		const ok = (p: PlayerSeason) => (col.pct ? p.percentiles[col.pct] !== undefined : true);
+		return pool.slice().sort((a, b) => {
+			if (ok(a) !== ok(b)) return ok(a) ? -1 : 1;
 			const va = col.value(a) ?? -Infinity;
 			const vb = col.value(b) ?? -Infinity;
 			return sortDesc ? vb - va : va - vb;
@@ -169,7 +197,7 @@
 
 	// Részlet-panel
 	let selected = $state<string | null>(null);
-	const sel = $derived(rows.find((p) => p.name === selected) ?? null);
+	let wrapW = $state(0);
 	const BARS: { label: string; key: PercentileStat; value: (p: PlayerSeason) => number | null | undefined; digits?: number }[] = [
 		{ label: 'TS%', key: 'ts_pct', value: (p) => p.ts_pct },
 		{ label: 'eFG%', key: 'efg_pct', value: (p) => p.efg_pct },
@@ -180,8 +208,11 @@
 		{ label: 'OREB%', key: 'oreb_pct', value: (p) => p.oreb_pct },
 		{ label: 'DREB%', key: 'dreb_pct', value: (p) => p.dreb_pct },
 		{ label: 'STL/100', key: 'stl_100', value: (p) => p.stl_100 },
-		{ label: 'ON–OFF', key: 'onoff_nrtg', value: (p) => p.onoff_nrtg }
+		{ label: 'ON–OFF', key: 'onoff_nrtg', value: (p) => p.onoff_nrtg },
+		{ label: 'xPPS', key: 'xpps', value: (p) => p.xpps, digits: 2 },
+		{ label: 'Többlet', key: 'pps_diff', value: (p) => p.pps_diff, digits: 2 }
 	];
+	const CLUTCH_MIN = 10;
 
 	// Képlet-tooltip: hover / fókusz / koppintás
 	let tipCol = $state<Col | null>(null);
@@ -202,12 +233,21 @@
 
 <div class="mb-4 flex flex-wrap items-end justify-between gap-3">
 	<div>
-		<h2 class="text-xl font-bold tracking-tight">Hatékonyság</h2>
+		<h2 class="text-xl font-bold tracking-tight">{league ? 'Játékos-ranglista' : 'Hatékonyság'}</h2>
 		<p class="mt-1 text-xs text-muted">
 			Szezonbeli értékek · a cella színe a percentilis ({mode === 'liga' ? 'liga' : 'pozíción belül'}) · kattints egy sorra a részletekhez
 		</p>
 	</div>
 	<div class="flex flex-wrap gap-2">
+		{#if league}
+			<input
+				id="player-search"
+				type="search"
+				bind:value={query}
+				placeholder="Játékos vagy csapat…"
+				class="w-44 rounded-lg border border-border bg-card px-3 py-1 text-xs placeholder:text-muted focus:border-accent focus:outline-none"
+			/>
+		{/if}
 		<div class="flex gap-1 rounded-lg border border-border bg-card p-1 text-xs font-semibold" role="group" aria-label="Játékosok">
 			<button
 				class="rounded px-3 py-1 transition-colors"
@@ -258,7 +298,7 @@
 	<span>oszlopfejléc: rendezés · <span class="font-serif italic">i</span>: képlet</span>
 </div>
 
-<div class="overflow-x-auto rounded-lg border border-border">
+<div class="overflow-x-auto rounded-lg border border-border" bind:clientWidth={wrapW}>
 	<table class="w-full border-collapse text-sm tabular-nums">
 		<thead>
 			<tr class="bg-card text-[10px] uppercase tracking-wider text-muted">
@@ -295,21 +335,24 @@
 			</tr>
 		</thead>
 		<tbody>
-			{#each rows as p (p.name)}
+			{#each rows as p (rowKey(p))}
 				{@const isSmall = small(p)}
 				<tr
 					class="cursor-pointer border-t border-border hover:bg-card-hover"
 					class:opacity-55={isSmall}
-					class:bg-card-hover={selected === p.name}
-					onclick={() => (selected = selected === p.name ? null : p.name)}
+					class:bg-card-hover={selected === rowKey(p)}
+					onclick={() => (selected = selected === rowKey(p) ? null : rowKey(p))}
 				>
-					<td class="sticky left-0 z-10 whitespace-nowrap bg-card px-3 py-1.5" class:!bg-card-hover={selected === p.name}>
+					<td class="sticky left-0 z-10 whitespace-nowrap bg-card px-3 py-1.5" class:!bg-card-hover={selected === rowKey(p)}>
 						<div class="flex max-w-[8.5rem] items-baseline gap-1 sm:max-w-none" title={p.name}>
 							<span class="hidden font-mono text-xs text-muted sm:inline">{p.jersey != null ? `#${p.jersey}` : ''}</span>
 							<span class="truncate font-semibold">{p.name}</span>
 							{#if p.pos_group}<span class="text-[10px] text-muted">{p.pos_group}</span>{/if}
 							{#if isSmall}<span class="hidden text-[10px] text-muted sm:inline">· kicsi minta</span>{/if}
 						</div>
+						{#if league && p.team}
+							<div class="max-w-[8.5rem] truncate text-[10px] text-muted sm:max-w-[16rem]">{p.team}</div>
+						{/if}
 					</td>
 					{#each COLS as c (c.key)}
 						{@const v = c.value(p)}
@@ -326,16 +369,26 @@
 						</td>
 					{/each}
 				</tr>
+				{#if selected === rowKey(p)}
+					<tr>
+						<td colspan={COLS.length + 1} class="p-0">{@render detail(p)}</td>
+					</tr>
+				{/if}
 			{/each}
 		</tbody>
 	</table>
 </div>
 
-{#if sel}
-	<div class="mt-4 grid gap-4 rounded-lg border border-border bg-card p-4 md:grid-cols-2">
+{#snippet detail(sel: PlayerSeason)}
+	<div class="sticky left-0 grid gap-4 border-y border-border bg-card p-4 md:grid-cols-2" style:width="{wrapW}px">
 		<div class="min-w-0">
 			<div class="mb-3 flex items-baseline justify-between gap-2">
-				<h3 class="text-lg font-bold">{sel.name}</h3>
+				<h3 class="text-lg font-bold">
+					{sel.name}
+					{#if league && sel.team_slug}
+						<a class="ml-1 text-sm font-normal text-muted underline hover:text-fg" href={`${base}/${seasonId}/${compId}/${sel.team_slug}/`}>{sel.team}</a>
+					{/if}
+				</h3>
 				<button class="text-xs text-muted hover:text-fg" onclick={() => (selected = null)}>bezár ✕</button>
 			</div>
 			<p class="mb-3 font-mono text-xs text-muted">
@@ -349,8 +402,8 @@
 			<div class="grid gap-1.5">
 				{#each BARS as b (b.key)}
 					{@const pc = pctOf(sel, b.key)}
-					<div class="grid grid-cols-[6.5rem_1fr_3rem] items-center gap-2 text-xs">
-						<span>{b.label} <span class="text-muted">{fmt(b.value(sel), 1, b.key === 'onoff_nrtg')}</span></span>
+					<div class="grid grid-cols-[8rem_1fr_3rem] items-center gap-2 text-xs">
+						<span>{b.label} <span class="text-muted">{fmt(b.value(sel), b.digits ?? 1, b.key === 'onoff_nrtg' || b.key === 'pps_diff')}</span></span>
 						<div class="relative h-2 overflow-hidden rounded bg-card-hover">
 							{#if pc}
 								<div class="absolute inset-y-0 left-0 rounded" class:bg-positive={pc.v >= 50} class:bg-negative={pc.v < 50} style:width="{pc.v}%"></div>
@@ -392,9 +445,37 @@
 					</div>
 				{/each}
 			</div>
+
+			<div class="mt-4 grid gap-4 sm:grid-cols-2">
+				<div>
+					<h4 class="mb-2 text-sm font-semibold">Gólpassz-kapcsolatok</h4>
+					<p class="text-[10px] uppercase tracking-wider text-muted">neki passzol</p>
+					{#each sel.ast_to ?? [] as [n, c] (n)}
+						<p class="flex justify-between text-xs"><span class="truncate">{n}</span><span class="tabular-nums text-muted">{c}</span></p>
+					{:else}<p class="text-xs text-muted">—</p>{/each}
+					<p class="mt-2 text-[10px] uppercase tracking-wider text-muted">tőle kap · kosarai {fmt(sel.assisted_pct, 0)}%-a gólpasszból</p>
+					{#each sel.ast_by ?? [] as [n, c] (n)}
+						<p class="flex justify-between text-xs"><span class="truncate">{n}</span><span class="tabular-nums text-muted">{c}</span></p>
+					{:else}<p class="text-xs text-muted">—</p>{/each}
+				</div>
+				<div>
+					<h4 class="mb-2 text-sm font-semibold">Szoros végjáték</h4>
+					<p class="mb-2 text-[11px] text-muted">utolsó 5 perc + hosszabbítás, legfeljebb 5 pontos különbségnél</p>
+					{#if (sel.clutch_poss ?? 0) >= CLUTCH_MIN}
+						<div class="grid grid-cols-3 gap-2 text-center">
+							<div class="rounded bg-card-hover p-2"><p class="text-[10px] uppercase tracking-wider text-muted">pont</p><p class="font-semibold tabular-nums">{sel.clutch_pts ?? 0}</p></div>
+							<div class="rounded bg-card-hover p-2"><p class="text-[10px] uppercase tracking-wider text-muted">TS%</p><p class="font-semibold tabular-nums">{fmt(sel.clutch_ts)}</p></div>
+							<div class="rounded bg-card-hover p-2"><p class="text-[10px] uppercase tracking-wider text-muted">NRtg</p><p class="font-semibold tabular-nums" class:text-positive={(sel.clutch_nrtg ?? 0) >= 0} class:text-negative={(sel.clutch_nrtg ?? 0) < 0}>{fmt(sel.clutch_nrtg, 1, true)}</p></div>
+						</div>
+						<p class="mt-1 text-[11px] text-muted">{fmt(sel.clutch_poss, 0)} labdabirtoklás a pályán ilyen helyzetben</p>
+					{:else}
+						<p class="text-xs text-muted">Kevés szoros végjáték a pályán ({fmt(sel.clutch_poss ?? 0, 0)} labdabirtoklás, legalább {CLUTCH_MIN} kell).</p>
+					{/if}
+				</div>
+			</div>
 		</div>
 	</div>
-{/if}
+{/snippet}
 
 {#if tipCol}
 	<div
@@ -414,6 +495,7 @@
 	Labdabirtoklás = FGA + 0,44·FTA + TOV − OREB, a cserék alapján a pályán töltött időre ·
 	Percentilis: legalább {minGp} meccs; dobásmutatókhoz {minFga} mezőnydobás, a többihez {minPoss} labdabirtoklás a
 	pályán — ez alatt nincs színezés („kicsi minta”) · ON–OFF: a szezon összes meccsének padon töltött idejéhez mérve ·
-	Pozíción belüli percentilis csak ott, ahol legalább {data.thresholds.min_pos_pool ?? 8} összevethető játékos van ·
+	Dobásminőség: lövéstérkép-zónák liga-átlaga alapján (büntetők nélkül) · Gólpassz-párosítás: a gólpassz a mellette álló
+	csapattárs-kosárhoz kötve · Pozíción belüli percentilis csak ott, ahol legalább {data.thresholds.min_pos_pool ?? 8} összevethető játékos van ·
 	A 3PA arány stílusmutató, nem kap színt.
 </p>

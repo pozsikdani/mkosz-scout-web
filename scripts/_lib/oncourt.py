@@ -27,7 +27,28 @@ FTA = {"FT_MADE", "FT_MISS"}
 
 # Pályán-számlálók (csapat = mi, o_ = ellenfél), játékos-szintű saját számlálók
 TEAM_KEYS = ("pf", "pa", "poss", "oposs", "fga", "fgm", "fta", "tov", "oreb", "dreb", "o_oreb", "o_dreb")
-OWN_KEYS = ("pts", "fga", "fgm", "fg3a", "fta", "ftm", "tov", "ast", "oreb", "dreb", "stl", "blk", "fd")
+OWN_KEYS = ("pts", "fga", "fgm", "fg3a", "fta", "ftm", "tov", "ast", "oreb", "dreb", "stl", "blk", "fd",
+            "fgm_ast",  # gólpasszból jött saját mezőnykosár
+            "c_pts", "c_fga", "c_fta")  # szoros végjáték (c_): utolsó 5 perc + hosszabbítás, ±5 pont
+CLUTCH_KEYS = ("pf", "pa", "poss", "oposs")
+
+
+def _assist_pairs(evs: list) -> dict[int, str]:
+    """{made-FG eseményindex: gólpasszt adó név}. A gólpassz a kosár mellett áll
+    (többnyire előtte, néha utána); a legközelebbi, még nem párosított csapattárs-kosárhoz
+    kötjük ±3 eseményen belül. A büntetőhöz adott gólpassz (FIBA) párosítatlan marad."""
+    pairs: dict[int, str] = {}
+    for i, (_, _, tm, pname, etype, _) in enumerate(evs):
+        if etype != "AST" or not pname:
+            continue
+        for off in (-1, 1, -2, 2, -3, 3):
+            j = i + off
+            if 0 <= j < len(evs) and j not in pairs:
+                _, _, tm2, p2, et2, _ = evs[j]
+                if tm2 == tm and et2 in FGM and p2 and p2 != pname:
+                    pairs[j] = pname
+                    break
+    return pairs
 
 
 def _new_team() -> dict:
@@ -106,19 +127,27 @@ def game_oncourt(conn: sqlite3.Connection, gamecode: str, side: str):
         seen.add(seq)
         subs.append((seq, 0, "sub", mn or 0, player_dedup_key(in_n), player_dedup_key(out_n), 0))
 
-    evs = []
-    for seq, mn, tm, pname, etype, pts in conn.execute(
+    raw = conn.execute(
         "SELECT event_seq, minute, team, player_name, event_type, points FROM pbp_events "
         "WHERE gamecode=? ORDER BY event_seq", (gamecode,)
-    ):
-        evs.append((seq, 1, "ev", mn or 0, tm, pname, (etype, pts or 0)))
+    ).fetchall()
+    ast_pairs = _assist_pairs(raw)
+    evs = []
+    for idx, (seq, mn, tm, pname, etype, pts) in enumerate(raw):
+        evs.append((seq, 1, "ev", mn or 0, tm, pname, (etype, pts or 0, idx)))
 
     max_q = conn.execute("SELECT MAX(quarter) FROM pbp_events WHERE gamecode=?", (gamecode,)).fetchone()[0] or 4
     end_time = 40 + max(0, int(max_q) - 4) * 5
 
     on = set(starters)
+    score = {"A": 0, "B": 0}
     total = _new_team()
-    players: dict[str, dict] = defaultdict(lambda: {"on": _new_team(), "own": {k: 0 for k in OWN_KEYS}, "min": 0.0})
+    players: dict[str, dict] = defaultdict(lambda: {
+        "on": _new_team(), "own": {k: 0 for k in OWN_KEYS}, "min": 0.0,
+        "clutch": {k: 0.0 for k in CLUTCH_KEYS},
+        "ast_to": defaultdict(int),   # kinek adott gólpasszt (név-kulcs → db)
+        "ast_by": defaultdict(int),   # kitől kapott gólpasszt
+    })
     last_t = 0.0
 
     def add_time(t: float) -> None:
@@ -135,17 +164,32 @@ def game_oncourt(conn: sqlite3.Connection, gamecode: str, side: str):
             on.discard(out_k)
             on.add(in_k)
             continue
-        _, _, _, gt, tm, pname, (etype, pts) = row
+        _, _, _, gt, tm, pname, (etype, pts, idx) = row
         ours = tm == side
+        # Szoros végjáték: a 36. perctől (utolsó 5 perc) és hosszabbításban, ha az
+        # esemény előtti állás legfeljebb 5 pont
+        clutch = gt > 35 and abs(score[side] - score["B" if side == "A" else "A"]) <= 5
         delta = _team_delta(etype, pts, ours)
         for k, v in delta.items():
             total[k] += v
             for pk in on:
                 players[pk]["on"][k] += v
+                if clutch and k in CLUTCH_KEYS:
+                    players[pk]["clutch"][k] += v
         if ours and pname:
-            own = players[player_dedup_key(pname)]["own"]
+            me = player_dedup_key(pname)
+            own = players[me]["own"]
             for k, v in _own_delta(etype, pts).items():
                 own[k] += v
+                if clutch and k in ("pts", "fga", "fta"):
+                    own["c_" + k] += v
+            if idx in ast_pairs:
+                giver = player_dedup_key(ast_pairs[idx])
+                own["fgm_ast"] += 1
+                players[me]["ast_by"][giver] += 1
+                players[giver]["ast_to"][me] += 1
+        if pts:
+            score[tm] = score.get(tm, 0) + pts
     add_time(end_time)
     return total, dict(players)
 
@@ -176,11 +220,20 @@ def team_oncourt_season(
         for k, v in total.items():
             team_total[k] += v
         for key, p in players.items():
-            a = agg.setdefault(key, {"on": _new_team(), "own": {k: 0 for k in OWN_KEYS}, "min": 0.0, "gp": 0})
+            a = agg.setdefault(key, {
+                "on": _new_team(), "own": {k: 0 for k in OWN_KEYS}, "min": 0.0, "gp": 0,
+                "clutch": {k: 0.0 for k in CLUTCH_KEYS}, "ast_to": defaultdict(int), "ast_by": defaultdict(int),
+            })
             for k, v in p["on"].items():
                 a["on"][k] += v
             for k, v in p["own"].items():
                 a["own"][k] += v
+            for k, v in p["clutch"].items():
+                a["clutch"][k] += v
+            for k, v in p["ast_to"].items():
+                a["ast_to"][k] += v
+            for k, v in p["ast_by"].items():
+                a["ast_by"][k] += v
             a["min"] += p["min"]
             a["gp"] += 1
     return team_total, agg
@@ -232,5 +285,13 @@ def player_metrics(team_total: dict, a: dict) -> dict:
         "on_nrtg": _r(on_n),
         "off_nrtg": _r(off_n),
         "off_poss": _r(off_poss),
+        # 3. fázis — gólpassz-párosítás és szoros végjáték
+        "assisted_pct": rate(own["fgm_ast"], own["fgm"]),
+        "clutch_poss": _r(a["clutch"]["poss"]),
+        "clutch_pts": own["c_pts"],
+        "clutch_ts": _r(100 * own["c_pts"] / (2 * (own["c_fga"] + 0.44 * own["c_fta"])))
+        if (own["c_fga"] + own["c_fta"]) > 0 else None,
+        "clutch_nrtg": _r(100 * a["clutch"]["pf"] / a["clutch"]["poss"] - 100 * a["clutch"]["pa"] / a["clutch"]["oposs"])
+        if a["clutch"]["poss"] >= 1 and a["clutch"]["oposs"] >= 1 else None,
         "onoff_nrtg": _r(on_n - off_n) if on_n is not None and off_n is not None else None,
     }

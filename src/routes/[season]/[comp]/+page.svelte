@@ -44,6 +44,14 @@
 			Alapszakasz · {standings.teams.length} csapat · frissítve
 			{new Date(standings.scraped_at).toLocaleDateString('hu-HU')}
 		</p>
+		{#if !archive}
+			<a
+				href={`${base}/${season.id}/${comp.id}/jatekosok/`}
+				class="mt-4 inline-flex items-center gap-2 rounded-lg border border-border bg-card px-3 py-1.5 text-sm font-semibold transition hover:border-accent hover:text-accent"
+			>
+				Játékos-ranglista <span aria-hidden="true">→</span>
+			</a>
+		{/if}
 	</header>
 
 	<ul class="divide-y divide-border overflow-hidden rounded-lg border border-border bg-card">

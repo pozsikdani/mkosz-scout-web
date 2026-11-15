@@ -117,7 +117,10 @@ export type PercentileStat =
 	| 'blk_100'
 	| 'fd_100'
 	| 'on_nrtg'
-	| 'onoff_nrtg';
+	| 'onoff_nrtg'
+	| 'xpps'
+	| 'pps_diff'
+	| 'assisted_pct';
 
 export interface PlayerSeason {
 	name: string;
@@ -177,6 +180,21 @@ export interface PlayerSeason {
 	on_nrtg?: number | null;
 	off_nrtg?: number | null;
 	onoff_nrtg?: number | null;
+	// 3. fázis — dobásminőség (lövéstérkép), gólpassz-kapcsolatok, szoros végjáték
+	chart_fga?: number;
+	xpps?: number;
+	pps?: number;
+	pps_diff?: number;
+	assisted_pct?: number | null;
+	ast_to?: [string, number][];
+	ast_by?: [string, number][];
+	clutch_poss?: number | null;
+	clutch_pts?: number;
+	clutch_ts?: number | null;
+	clutch_nrtg?: number | null;
+	// csak a liga-szintű listában
+	team?: string;
+	team_slug?: string;
 	percentiles: Partial<Record<PercentileStat, number>>;
 	percentiles_pos?: Partial<Record<PercentileStat, number>>;
 }

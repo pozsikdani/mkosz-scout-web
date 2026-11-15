@@ -46,6 +46,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _lib.name_key import norm_full, player_dedup_key  # noqa: E402
 from _lib.oncourt import player_metrics, team_oncourt_season  # noqa: E402
+from _lib.shotquality import league_shot_quality, player_shot_metrics  # noqa: E402
+from export_team_player_shots import extract_team_id  # noqa: E402
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -285,6 +287,8 @@ PERCENTILE_STATS = [
     ("pts_100", "poss_on"), ("reb_100", "poss_on"), ("ast_100", "poss_on"), ("tov_100", "poss_on"),
     ("stl_100", "poss_on"), ("blk_100", "poss_on"), ("fd_100", "poss_on"),
     ("on_nrtg", "poss_on"), ("onoff_nrtg", "off_poss"),
+    # 3. fázis — dobásminőség (lövéstérkép) és gólpasszból jött kosarak (stílus)
+    ("xpps", "chart_fga"), ("pps_diff", "chart_fga"), ("assisted_pct", "fg_att"),
 ]
 
 # Volume-küszöb statonként (None = nincs)
@@ -298,6 +302,8 @@ VOLUME_MIN = {
 for _stat, _vol in PERCENTILE_STATS:
     if _vol in ("poss_on", "off_poss"):
         VOLUME_MIN[_stat] = (_vol, MIN_POSS)
+    elif _vol in ("chart_fga",) or _stat == "assisted_pct":
+        VOLUME_MIN[_stat] = (_vol, MIN_FGA_EFF)
 
 
 def eligible(stat: str, f: dict) -> bool:
@@ -342,6 +348,7 @@ def main() -> int:
         return 1
     standings = json.loads(standings_path.read_text(encoding="utf-8"))
     teams = [t["team"] for t in standings["teams"]]
+    team_ids = {t["team"]: extract_team_id(t.get("team_url")) for t in standings["teams"]}
     roster_lookup = load_roster_lookup(Path(args.rosters))
 
     conn = sqlite3.connect(args.db)
@@ -356,11 +363,18 @@ def main() -> int:
             conn, team, args.season, COMPS, lambda n, t=team, al=aliases: team_matches(t, n, al)
         )
 
+    _, shot_q = league_shot_quality(conn, args.season, COMPS)
+
     def enrich(team: str, key: str, f: dict) -> dict:
         team_total, oc = oncourt[team]
         if key in oc:
             f.update(player_metrics(team_total, oc[key]))
+            f["_ast_to"] = dict(oc[key]["ast_to"])
+            f["_ast_by"] = dict(oc[key]["ast_by"])
+        f.update(player_shot_metrics(shot_q.get((team_ids.get(team), key))))
         return f
+
+    league_rows: list[dict] = []
 
     # Build league pools per stat (filtered by GP + per-stat volume threshold)
     league_pools: dict[str, list[float]] = defaultdict(list)
@@ -424,7 +438,18 @@ def main() -> int:
                         pct_pos[stat] = percentile_rank(pool, f[stat])
             f["percentiles"] = pct
             f["percentiles_pos"] = pct_pos
+            f["_key"] = key
             players.append(f)
+
+        # Gólpassz-kapcsolatok: kulcs → megjelenített név, top 3 mindkét irányban
+        key_name = {p["_key"]: p["name"] for p in players}
+        for p in players:
+            for src, dst in (("_ast_to", "ast_to"), ("_ast_by", "ast_by")):
+                rel = sorted(p.pop(src, {}).items(), key=lambda kv: -kv[1])[:3]
+                p[dst] = [[key_name.get(k, k.title()), n] for k, n in rel if n > 0]
+        for p in players:
+            p.pop("_key", None)
+            league_rows.append({**p, "team": team, "team_slug": team_slug})
 
         # Sort: starters (gs_rate >= 0.5) first by ppg desc, then rotation by mpg desc
         def _sort_key(p):
@@ -446,6 +471,17 @@ def main() -> int:
         out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         written += 1
         print(f"  {team:<40} → {len(players)} játékos")
+
+    # Liga-szintű lista a játékos-ranglistához: static/data/{season}/league-players/{comp}.json
+    league_dir = REPO_ROOT / "static" / "data" / args.season / "league-players"
+    league_dir.mkdir(parents=True, exist_ok=True)
+    (league_dir / f"{args.comp}.json").write_text(json.dumps({
+        "season": args.season,
+        "comp": args.comp,
+        "team_max_gp": max((p["gp"] for p in league_rows), default=0),
+        "thresholds": payload["thresholds"] if written else {},
+        "players": league_rows,
+    }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     conn.close()
     print(f"\nÖsszesen: {written} fájl → {out_dir}")
