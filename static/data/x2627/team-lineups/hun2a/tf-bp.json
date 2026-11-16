@@ -1,8 +1,180 @@
 {
   "team": "TF-BP",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135845",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-15",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": true,
+      "result": "L",
+      "our_score": 76,
+      "their_score": 77,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Antoni Csanád Zoltán",
+          "jersey": 31,
+          "minutes": 34,
+          "points": 21,
+          "reb": 9,
+          "ast": 2,
+          "photo_filename": "tf-bp-antoni-csanad-zoltan.jpg",
+          "position": "2-4",
+          "subs": [
+            {
+              "name": "Imre Milán",
+              "jersey": 4,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "tf-bp-imre-milan.jpg"
+            },
+            {
+              "name": "Swanson Kevin Wade",
+              "jersey": 33,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "tf-bp-swanson-kevin-wade.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Boros Márk",
+          "jersey": 7,
+          "minutes": 29,
+          "points": 14,
+          "reb": 5,
+          "ast": 8,
+          "photo_filename": "tf-bp-boros-mark.jpg",
+          "position": "1-3",
+          "subs": [
+            {
+              "name": "Swanson Kevin Wade",
+              "jersey": 33,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "tf-bp-swanson-kevin-wade.jpg"
+            },
+            {
+              "name": "Fábián Szabolcs",
+              "jersey": null,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "tf-bp-fabian-szabolcs.jpg"
+            },
+            {
+              "name": "Molnár Marcell József",
+              "jersey": null,
+              "minutes": 7,
+              "count": 1,
+              "photo_filename": "tf-bp-molnar-marcell-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Horváth Botond",
+          "jersey": 23,
+          "minutes": 26,
+          "points": 9,
+          "reb": 6,
+          "ast": 1,
+          "photo_filename": "tf-bp-horvath-botond.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Inalegwu Marcell Sámuel",
+              "jersey": 9,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg"
+            },
+            {
+              "name": "Hidvégi Gergő",
+              "jersey": 11,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "tf-bp-hidvegi-gergo.jpg"
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 31,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "tf-bp-antoni-csanad-zoltan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Molnár Dániel",
+          "jersey": 5,
+          "minutes": 22,
+          "points": 8,
+          "reb": 3,
+          "ast": 1,
+          "photo_filename": "tf-bp-molnar-daniel.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Hidvégi Gergő",
+              "jersey": 11,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "tf-bp-hidvegi-gergo.jpg"
+            },
+            {
+              "name": "Lőrincz Boldizsár Zalán",
+              "jersey": null,
+              "minutes": 5,
+              "count": 2,
+              "photo_filename": "tf-bp-lorincz-boldizsar-zalan.jpg"
+            },
+            {
+              "name": "Swanson Kevin Wade",
+              "jersey": 33,
+              "minutes": 28,
+              "count": 1,
+              "photo_filename": "tf-bp-swanson-kevin-wade.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Swanson Kevin Wade",
+          "jersey": 33,
+          "minutes": 28,
+          "points": 6,
+          "reb": 11,
+          "ast": 2,
+          "photo_filename": "tf-bp-swanson-kevin-wade.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Fábián Szabolcs",
+              "jersey": null,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "tf-bp-fabian-szabolcs.jpg"
+            },
+            {
+              "name": "Inalegwu Marcell Sámuel",
+              "jersey": 9,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tf-bp-inalegwu-marcell-samuel.jpg"
+            },
+            {
+              "name": "Antoni Csanád Zoltán",
+              "jersey": 31,
+              "minutes": 34,
+              "count": 1,
+              "photo_filename": "tf-bp-antoni-csanad-zoltan.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135831",
       "comp_code": "hun2a",

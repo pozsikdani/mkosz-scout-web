@@ -1,7 +1,7 @@
 {
   "team": "Békéscsabai KK",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2b_136101",
@@ -169,6 +169,34 @@
         "fta": 10,
         "oreb": 14,
         "tov_total": 11
+      }
+    },
+    {
+      "gamecode": "hun2b_136209",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-15",
+      "opponent": "Foody-BasketBaja",
+      "home": false,
+      "result": "L",
+      "our_score": 72,
+      "their_score": 92,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 1,
+        "three_m": 7,
+        "dunk_m": 0,
+        "ft": 9,
+        "close_x": 6,
+        "mid_x": 4,
+        "three_x": 17,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 56,
+        "fta": 17,
+        "oreb": 3,
+        "tov_total": 14
       }
     }
   ]
