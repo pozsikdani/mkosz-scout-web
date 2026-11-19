@@ -1,8 +1,77 @@
 {
   "team": "DEAC U23",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2a_135837",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-18",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 92,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 0,
+          "points": 28,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-flasar-botond.jpg",
+          "position": "4-5",
+          "subs": []
+        },
+        {
+          "name": "Gál Csongor",
+          "jersey": 2,
+          "minutes": 0,
+          "points": 5,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-gal-csongor.jpg",
+          "position": "2",
+          "subs": []
+        },
+        {
+          "name": "Kiss Tamás",
+          "jersey": 77,
+          "minutes": 0,
+          "points": 20,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-kiss-tamas.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 24,
+          "minutes": 0,
+          "points": 7,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-szasz-veres-mark.jpg",
+          "position": "3-4",
+          "subs": []
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 7,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-varszegi-adam.jpg",
+          "position": "3",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135805",
       "comp_code": "hun2a",

@@ -1,8 +1,77 @@
 {
   "team": "Újbuda MAFC",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135837",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-18",
+      "opponent": "DEAC U23",
+      "home": true,
+      "result": "L",
+      "our_score": 92,
+      "their_score": 95,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bordács Gábor Soma",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 10,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "ujbuda-mafc-bordacs-gabor-soma.jpg",
+          "position": "4",
+          "subs": []
+        },
+        {
+          "name": "Kovács Levente Hetény",
+          "jersey": 7,
+          "minutes": 0,
+          "points": 19,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "ujbuda-mafc-kovacs-levente-heteny.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Molnár Tamás",
+          "jersey": 18,
+          "minutes": 0,
+          "points": 20,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "ujbuda-mafc-molnar-tamas.jpg",
+          "position": "2-3",
+          "subs": []
+        },
+        {
+          "name": "Polgárdy Ádám",
+          "jersey": 1,
+          "minutes": 0,
+          "points": 25,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "ujbuda-mafc-polgardy-adam.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Pápai Máté Barnabás",
+          "jersey": 27,
+          "minutes": 0,
+          "points": 8,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "ujbuda-mafc-papai-mate-barnabas.jpg",
+          "position": "5",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135825",
       "comp_code": "hun2a",

@@ -1,7 +1,7 @@
 {
   "team": "DEAC U23",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
     {
       "gamecode": "hun2a_135745",
@@ -170,6 +170,19 @@
         "oreb": 15,
         "tov_total": 13
       }
+    },
+    {
+      "gamecode": "hun2a_135837",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-18",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 92,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

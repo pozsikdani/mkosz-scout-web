@@ -1,8 +1,88 @@
 {
   "team": "DEAC U23",
   "season": "x2627",
-  "match_count": 6,
+  "match_count": 7,
   "matches": [
+    {
+      "gamecode": "hun2a_135837",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-18",
+      "opponent": "ÚJBUDA MAFC",
+      "home": false,
+      "result": "W",
+      "our_score": 95,
+      "their_score": 92,
+      "has_pbp": true,
+      "starters": [
+        "Flasár Botond",
+        "Gál Csongor",
+        "Kiss Tamás",
+        "Szász-veres Márk",
+        "Várszegi Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Flasár Botond",
+            "Gál Csongor",
+            "Kiss Tamás",
+            "Szász-veres Márk",
+            "Várszegi Ádám"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135805",
       "comp_code": "hun2a",
