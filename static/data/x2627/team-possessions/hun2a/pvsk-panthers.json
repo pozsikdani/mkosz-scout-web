@@ -1,7 +1,7 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
     {
       "gamecode": "hun2a_135743",
@@ -226,6 +226,19 @@
         "oreb": 20,
         "tov_total": 8
       }
+    },
+    {
+      "gamecode": "hun2a_135855",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-19",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 68,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

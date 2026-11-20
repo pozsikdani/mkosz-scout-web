@@ -1,8 +1,88 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135855",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-19",
+      "opponent": "PVSK-PANTHERS",
+      "home": false,
+      "result": "L",
+      "our_score": 68,
+      "their_score": 89,
+      "has_pbp": true,
+      "starters": [
+        "Ervin Carlbe Lee",
+        "Gerőcs Roland Bálint",
+        "Lucey Ciarán József",
+        "Mester Márk",
+        "Ormai Botond Gábor"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Ervin Carlbe Lee",
+            "Gerőcs Roland Bálint",
+            "Lucey Ciarán József",
+            "Mester Márk",
+            "Ormai Botond Gábor"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135843",
       "comp_code": "hun2a",

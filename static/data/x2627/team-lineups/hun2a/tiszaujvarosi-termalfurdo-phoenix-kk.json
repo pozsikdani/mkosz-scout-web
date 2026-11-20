@@ -1,8 +1,77 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135855",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-19",
+      "opponent": "PVSK-PANTHERS",
+      "home": false,
+      "result": "L",
+      "our_score": 68,
+      "their_score": 89,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Ervin Carlbe Lee",
+          "jersey": 5,
+          "minutes": 0,
+          "points": 15,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ervin-carlbe-lee.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Gerőcs Roland Bálint",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 6,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-gerocs-roland-balint.jpg",
+          "position": "4-5",
+          "subs": []
+        },
+        {
+          "name": "Lucey Ciarán József",
+          "jersey": 44,
+          "minutes": 0,
+          "points": 5,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-lucey-ciaran-jozsef.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Mester Márk",
+          "jersey": 8,
+          "minutes": 0,
+          "points": 10,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-mester-mark.jpg",
+          "position": "2-3",
+          "subs": []
+        },
+        {
+          "name": "Ormai Botond Gábor",
+          "jersey": 22,
+          "minutes": 0,
+          "points": 9,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "tiszaujvarosi-termalfurdo-phoenix-kk-ormai-botond-gabor.jpg",
+          "position": "4-5",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135843",
       "comp_code": "hun2a",

@@ -18,57 +18,139 @@
         {
           "name": "Flasár Botond",
           "jersey": 33,
-          "minutes": 0,
+          "minutes": 37,
           "points": 28,
-          "reb": 0,
-          "ast": 0,
+          "reb": 14,
+          "ast": 4,
           "photo_filename": "deac-u23-flasar-botond.jpg",
           "position": "4-5",
-          "subs": []
+          "subs": [
+            {
+              "name": "Bankó Zoltán Martin",
+              "jersey": 19,
+              "minutes": 19,
+              "count": 3,
+              "photo_filename": "deac-u23-banko-zoltan-martin.jpg"
+            }
+          ]
         },
         {
           "name": "Gál Csongor",
           "jersey": 2,
-          "minutes": 0,
+          "minutes": 15,
           "points": 5,
           "reb": 0,
-          "ast": 0,
+          "ast": 3,
           "photo_filename": "deac-u23-gal-csongor.jpg",
           "position": "2",
-          "subs": []
+          "subs": [
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "deac-u23-varszegi-adam.jpg"
+            },
+            {
+              "name": "Deme Dániel",
+              "jersey": 98,
+              "minutes": 2,
+              "count": 1,
+              "photo_filename": "deac-u23-deme-daniel.jpg"
+            }
+          ]
         },
         {
           "name": "Kiss Tamás",
           "jersey": 77,
-          "minutes": 0,
+          "minutes": 31,
           "points": 20,
-          "reb": 0,
-          "ast": 0,
+          "reb": 8,
+          "ast": 3,
           "photo_filename": "deac-u23-kiss-tamas.jpg",
           "position": "1-2",
-          "subs": []
+          "subs": [
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 24,
+              "count": 4,
+              "photo_filename": "deac-u23-varga-ferenc.jpg"
+            },
+            {
+              "name": "Vadai Balázs",
+              "jersey": 97,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "deac-u23-vadai-balazs.jpg"
+            }
+          ]
         },
         {
           "name": "Szász-Veres Márk",
           "jersey": 24,
-          "minutes": 0,
+          "minutes": 22,
           "points": 7,
-          "reb": 0,
-          "ast": 0,
+          "reb": 5,
+          "ast": 2,
           "photo_filename": "deac-u23-szasz-veres-mark.jpg",
           "position": "3-4",
-          "subs": []
+          "subs": [
+            {
+              "name": "Kiss Tamás",
+              "jersey": 77,
+              "minutes": 31,
+              "count": 3,
+              "photo_filename": "deac-u23-kiss-tamas.jpg"
+            },
+            {
+              "name": "Várszegi Ádám",
+              "jersey": 13,
+              "minutes": 19,
+              "count": 2,
+              "photo_filename": "deac-u23-varszegi-adam.jpg"
+            },
+            {
+              "name": "Flasár Botond",
+              "jersey": 33,
+              "minutes": 37,
+              "count": 1,
+              "photo_filename": "deac-u23-flasar-botond.jpg"
+            }
+          ]
         },
         {
           "name": "Várszegi Ádám",
           "jersey": 13,
-          "minutes": 0,
+          "minutes": 19,
           "points": 7,
-          "reb": 0,
-          "ast": 0,
+          "reb": 4,
+          "ast": 3,
           "photo_filename": "deac-u23-varszegi-adam.jpg",
           "position": "3",
-          "subs": []
+          "subs": [
+            {
+              "name": "Fekete Balázs",
+              "jersey": 30,
+              "minutes": 8,
+              "count": 2,
+              "photo_filename": "deac-u23-fekete-balazs.jpg"
+            },
+            {
+              "name": "Varga Ferenc",
+              "jersey": 10,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "deac-u23-varga-ferenc.jpg"
+            },
+            {
+              "name": "Gál Csongor",
+              "jersey": 2,
+              "minutes": 15,
+              "count": 1,
+              "photo_filename": "deac-u23-gal-csongor.jpg"
+            }
+          ]
         }
       ]
     },

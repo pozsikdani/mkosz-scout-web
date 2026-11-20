@@ -1,7 +1,7 @@
 {
   "team": "Tiszaújvárosi Termálfürdő Phoenix KK",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -198,6 +198,19 @@
         "oreb": 9,
         "tov_total": 10
       }
+    },
+    {
+      "gamecode": "hun2a_135855",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-19",
+      "opponent": "PVSK-PANTHERS",
+      "home": false,
+      "result": "L",
+      "our_score": 68,
+      "their_score": 89,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

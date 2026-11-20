@@ -1,8 +1,77 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2a_135855",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-19",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Balogh Szilárd",
+          "jersey": 11,
+          "minutes": 0,
+          "points": 5,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pvsk-panthers-balogh-szilard.jpg",
+          "position": "1",
+          "subs": []
+        },
+        {
+          "name": "Bunos Oleksandr",
+          "jersey": 15,
+          "minutes": 0,
+          "points": 2,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pvsk-panthers-bunos-oleksandr.jpg",
+          "position": "3",
+          "subs": []
+        },
+        {
+          "name": "Csaba György",
+          "jersey": 33,
+          "minutes": 0,
+          "points": 23,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pvsk-panthers-csaba-gyorgy.jpg",
+          "position": "4",
+          "subs": []
+        },
+        {
+          "name": "Dordevic Nemanja",
+          "jersey": 3,
+          "minutes": 0,
+          "points": 20,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pvsk-panthers-dordevic-nemanja.jpg",
+          "position": "5",
+          "subs": []
+        },
+        {
+          "name": "Molnár Mátyás",
+          "jersey": 27,
+          "minutes": 0,
+          "points": 15,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "pvsk-panthers-molnar-matyas.jpg",
+          "position": "2",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135839",
       "comp_code": "hun2a",

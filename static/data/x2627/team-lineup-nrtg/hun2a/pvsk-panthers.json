@@ -1,8 +1,88 @@
 {
   "team": "PVSK-Panthers",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2a_135855",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-19",
+      "opponent": "TISZAÚJVÁROSI TERMÁLFÜRDŐ PHOENIX KK",
+      "home": true,
+      "result": "W",
+      "our_score": 89,
+      "their_score": 68,
+      "has_pbp": true,
+      "starters": [
+        "Balogh Szilárd",
+        "Bunos Oleksandr",
+        "Csaba György",
+        "Dordevic Nemanja",
+        "Molnár Mátyás"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Balogh Szilárd",
+            "Bunos Oleksandr",
+            "Csaba György",
+            "Dordevic Nemanja",
+            "Molnár Mátyás"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135839",
       "comp_code": "hun2a",
