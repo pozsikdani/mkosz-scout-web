@@ -2,7 +2,7 @@
   "season": "x2627",
   "comp": "hun2b",
   "display_name": "NB1 B Zöld",
-  "scraped_at": "2026-11-20T16:18:36+00:00",
+  "scraped_at": "2026-11-21T15:31:41+00:00",
   "source_url": "https://mkosz.hu/bajnoksag/x2627/hun2b",
   "teams": [
     {
@@ -78,13 +78,13 @@
     {
       "rank": 6,
       "team": "GYKC UNI Győr",
-      "gp": 8,
-      "w": 4,
+      "gp": 9,
+      "w": 5,
       "l": 4,
-      "scored": 617,
-      "allowed": 615,
-      "streak": "W1",
-      "home": "2-1",
+      "scored": 703,
+      "allowed": 693,
+      "streak": "W2",
+      "home": "3-1",
       "away": "2-3",
       "last5": "2-3",
       "team_url": "https://mkosz.hu/csapat/x2627/hun2b/40011/gykc-uni-gyor"
@@ -133,20 +133,6 @@
     },
     {
       "rank": 10,
-      "team": "NEOsport Kozármisleny SE",
-      "gp": 7,
-      "w": 2,
-      "l": 5,
-      "scored": 505,
-      "allowed": 572,
-      "streak": "L4",
-      "home": "0-3",
-      "away": "2-2",
-      "last5": "1-4",
-      "team_url": "https://mkosz.hu/csapat/x2627/hun2b/10304/neosport-kozarmisleny-se"
-    },
-    {
-      "rank": 11,
       "team": "Békéscsabai KK",
       "gp": 7,
       "w": 2,
@@ -160,32 +146,46 @@
       "team_url": "https://mkosz.hu/csapat/x2627/hun2b/40005/bekescsabai-kk"
     },
     {
-      "rank": 12,
-      "team": "PTE-PEAC",
+      "rank": 11,
+      "team": "NEOsport Kozármisleny SE",
       "gp": 8,
       "w": 2,
       "l": 6,
-      "scored": 541,
-      "allowed": 638,
-      "streak": "L2",
-      "home": "2-3",
+      "scored": 583,
+      "allowed": 658,
+      "streak": "L5",
+      "home": "0-3",
+      "away": "2-3",
+      "last5": "0-5",
+      "team_url": "https://mkosz.hu/csapat/x2627/hun2b/10304/neosport-kozarmisleny-se"
+    },
+    {
+      "rank": 12,
+      "team": "TFSE",
+      "gp": 9,
+      "w": 2,
+      "l": 7,
+      "scored": 622,
+      "allowed": 682,
+      "streak": "W1",
+      "home": "2-4",
       "away": "0-3",
       "last5": "1-4",
-      "team_url": "https://mkosz.hu/csapat/x2627/hun2b/40012/pte-peac"
+      "team_url": "https://mkosz.hu/csapat/x2627/hun2b/9236/tfse"
     },
     {
       "rank": 13,
-      "team": "TFSE",
-      "gp": 8,
-      "w": 1,
+      "team": "PTE-PEAC",
+      "gp": 9,
+      "w": 2,
       "l": 7,
-      "scored": 524,
-      "allowed": 617,
-      "streak": "L7",
-      "home": "1-4",
-      "away": "0-3",
-      "last5": "0-5",
-      "team_url": "https://mkosz.hu/csapat/x2627/hun2b/9236/tfse"
+      "scored": 606,
+      "allowed": 736,
+      "streak": "L3",
+      "home": "2-3",
+      "away": "0-4",
+      "last5": "1-4",
+      "team_url": "https://mkosz.hu/csapat/x2627/hun2b/40012/pte-peac"
     }
   ]
 }
