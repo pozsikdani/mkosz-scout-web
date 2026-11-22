@@ -276,10 +276,27 @@
       "time": "20:45",
       "home": false,
       "opponent": "TFSE",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 65,
+      "their_score": 98,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 6,
+          "their": 25
+        },
+        {
+          "our": 32,
+          "their": 27
+        },
+        {
+          "our": 19,
+          "their": 23
+        },
+        {
+          "our": 8,
+          "their": 23
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

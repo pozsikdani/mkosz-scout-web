@@ -1,7 +1,7 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2a_135737",
@@ -198,6 +198,19 @@
         "oreb": 14,
         "tov_total": 13
       }
+    },
+    {
+      "gamecode": "hun2a_135859",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "L",
+      "our_score": 79,
+      "their_score": 82,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

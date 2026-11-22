@@ -1,8 +1,187 @@
 {
   "team": "NEOsport Kozármisleny SE",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2b_136211",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-20",
+      "opponent": "GYKC UNI Győr",
+      "home": false,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 86,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bíró Levente",
+          "jersey": 11,
+          "minutes": 32,
+          "points": 20,
+          "reb": 1,
+          "ast": 2,
+          "photo_filename": "neosport-kozarmisleny-se-biro-levente.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Halász Ákos",
+              "jersey": 19,
+              "minutes": 34,
+              "count": 2,
+              "photo_filename": "neosport-kozarmisleny-se-halasz-akos.jpg"
+            },
+            {
+              "name": "László János",
+              "jersey": 5,
+              "minutes": 20,
+              "count": 2,
+              "photo_filename": "neosport-kozarmisleny-se-laszlo-janos.jpg"
+            },
+            {
+              "name": "Fonyó Botond",
+              "jersey": 9,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-fonyo-botond.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bíró Olivér",
+          "jersey": 7,
+          "minutes": 35,
+          "points": 24,
+          "reb": 15,
+          "ast": 0,
+          "photo_filename": "neosport-kozarmisleny-se-biro-oliver.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Nagy Noel",
+              "jersey": 22,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "neosport-kozarmisleny-se-nagy-noel.jpg"
+            },
+            {
+              "name": "Fehér Benjamin",
+              "jersey": 3,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-feher-benjamin.jpg"
+            },
+            {
+              "name": "László János",
+              "jersey": 5,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-laszlo-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Halász Ákos",
+          "jersey": 19,
+          "minutes": 34,
+          "points": 16,
+          "reb": 4,
+          "ast": 7,
+          "photo_filename": "neosport-kozarmisleny-se-halasz-akos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Fonyó Botond",
+              "jersey": 9,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-fonyo-botond.jpg"
+            },
+            {
+              "name": "Nagy Noel",
+              "jersey": 22,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-nagy-noel.jpg"
+            },
+            {
+              "name": "Bíró Levente",
+              "jersey": 11,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-biro-levente.jpg"
+            }
+          ]
+        },
+        {
+          "name": "László János",
+          "jersey": 5,
+          "minutes": 20,
+          "points": 3,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "neosport-kozarmisleny-se-laszlo-janos.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Fehér Benjamin",
+              "jersey": 3,
+              "minutes": 4,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-feher-benjamin.jpg"
+            },
+            {
+              "name": "Kövecs Martin",
+              "jersey": 6,
+              "minutes": 25,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-kovecs-martin.jpg"
+            },
+            {
+              "name": "Szabó Zoltán",
+              "jersey": 10,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-szabo-zoltan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nagy Noel",
+          "jersey": 22,
+          "minutes": 17,
+          "points": 8,
+          "reb": 2,
+          "ast": 1,
+          "photo_filename": "neosport-kozarmisleny-se-nagy-noel.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Kövecs Martin",
+              "jersey": 6,
+              "minutes": 25,
+              "count": 2,
+              "photo_filename": "neosport-kozarmisleny-se-kovecs-martin.jpg"
+            },
+            {
+              "name": "Bíró Olivér",
+              "jersey": 7,
+              "minutes": 35,
+              "count": 2,
+              "photo_filename": "neosport-kozarmisleny-se-biro-oliver.jpg"
+            },
+            {
+              "name": "Bíró Levente",
+              "jersey": 11,
+              "minutes": 32,
+              "count": 1,
+              "photo_filename": "neosport-kozarmisleny-se-biro-levente.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136199",
       "comp_code": "hun2b",

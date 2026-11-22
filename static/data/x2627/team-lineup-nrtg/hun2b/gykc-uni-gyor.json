@@ -1,8 +1,855 @@
 {
   "team": "GYKC UNI Győr",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2b_136211",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-20",
+      "opponent": "NEOsport Kozármisleny SE",
+      "home": true,
+      "result": "W",
+      "our_score": 86,
+      "their_score": 78,
+      "has_pbp": true,
+      "starters": [
+        "Gadácsi Dávid",
+        "Gaál Bence",
+        "Góbi Marcell",
+        "Sövegjártó Ábel György",
+        "Tóth Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Gadácsi Dávid",
+            "Gaál Bence",
+            "Góbi Marcell",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 9.0,
+          "pf": 8,
+          "pa": 17,
+          "poss": 14.88,
+          "oposs": 16.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              5,
+              1.0,
+              2.0
+            ],
+            [
+              4.0,
+              4,
+              7,
+              7.88,
+              7.0
+            ],
+            [
+              4.0,
+              4,
+              5,
+              6.0,
+              7.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gadácsi Dávid",
+            "Góbi Marcell",
+            "Sólyom László",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 9.0,
+          "pf": 26,
+          "pa": 17,
+          "poss": 16.2,
+          "oposs": 15.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              4.0,
+              11,
+              11,
+              8.32,
+              7.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              5.0,
+              15,
+              6,
+              7.88,
+              8.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Góbi Marcell",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 2,
+          "poss": 6.0,
+          "oposs": 4.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              4,
+              0,
+              4.0,
+              2.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              2,
+              2.0,
+              2.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Góbi Marcell",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 6,
+          "poss": 5.88,
+          "oposs": 7.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              4,
+              6,
+              5.88,
+              7.32
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gadácsi Dávid",
+            "Góbi Marcell",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 3.0,
+          "pf": 4,
+          "pa": 6,
+          "poss": 5.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              4,
+              6,
+              5.0,
+              5.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gadácsi Dávid",
+            "Gaál Bence",
+            "Rácz Gábor",
+            "Sólyom László"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 2,
+          "poss": 4.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              0,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              1.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gosztola Gábor Donát",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 1,
+          "poss": 2.88,
+          "oposs": 2.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              1,
+              0.0,
+              0.88
+            ],
+            [
+              2.0,
+              4,
+              0,
+              2.88,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gaál Bence",
+            "Gosztola Gábor Donát",
+            "Rácz Gábor",
+            "Sólyom László"
+          ],
+          "min": 2.0,
+          "pf": 10,
+          "pa": 14,
+          "poss": 4.76,
+          "oposs": 6.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              10,
+              14,
+              4.76,
+              6.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gadácsi Dávid",
+            "Gaál Bence",
+            "Góbi Marcell",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 2.0,
+          "pf": 4,
+          "pa": 6,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              6,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gaál Bence",
+            "Góbi Marcell",
+            "Rácz Gábor",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 2,
+          "poss": 4.44,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              4,
+              0,
+              3.0,
+              2.0
+            ],
+            [
+              1.0,
+              1,
+              2,
+              1.44,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gosztola Gábor Donát",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 2.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              3,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gadácsi Dávid",
+            "Rácz Gábor",
+            "Sólyom László",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 0.88,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              0.88,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Dani Balázs Dominik",
+            "Gadácsi Dávid",
+            "Gosztola Gábor Donát",
+            "Góbi Marcell",
+            "Sövegjártó Ábel György"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 2,
+          "poss": 0.88,
+          "oposs": 2.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              2,
+              0.88,
+              2.32
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gadácsi Dávid",
+            "Góbi Marcell",
+            "Rácz Gábor",
+            "Sövegjártó Ábel György",
+            "Tóth Dániel"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 0.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136197",
       "comp_code": "hun2b",

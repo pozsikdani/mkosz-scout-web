@@ -1,8 +1,88 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135859",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "L",
+      "our_score": 79,
+      "their_score": 82,
+      "has_pbp": true,
+      "starters": [
+        "Dunai Zétény Péter",
+        "Kékesi Kolos",
+        "Ragályi Levente Gergely",
+        "Velkey János",
+        "Árva-file Balázs"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Dunai Zétény Péter",
+            "Kékesi Kolos",
+            "Ragályi Levente Gergely",
+            "Velkey János",
+            "Árva-file Balázs"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135845",
       "comp_code": "hun2a",

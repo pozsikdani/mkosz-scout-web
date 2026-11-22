@@ -1,8 +1,159 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2b_136213",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-20",
+      "opponent": "TFSE",
+      "home": false,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 98,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Csizmadia Attila",
+          "jersey": 34,
+          "minutes": 23,
+          "points": 8,
+          "reb": 10,
+          "ast": 0,
+          "photo_filename": "pte-peac-csizmadia-attila.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Győr Bálint Gergely",
+              "jersey": null,
+              "minutes": 16,
+              "count": 3,
+              "photo_filename": "pte-peac-gyor-balint-gergely.jpg"
+            },
+            {
+              "name": "Korszunszkij Bohdan",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "pte-peac-korszunszkij-bohdan.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Győr Bálint Gergely",
+          "jersey": null,
+          "minutes": 16,
+          "points": 9,
+          "reb": 7,
+          "ast": 0,
+          "photo_filename": "pte-peac-gyor-balint-gergely.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Schuj Márton János",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            },
+            {
+              "name": "Korszunszkij Bohdan",
+              "jersey": null,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "pte-peac-korszunszkij-bohdan.jpg"
+            },
+            {
+              "name": "Antal Donát Gergő",
+              "jersey": null,
+              "minutes": 5,
+              "count": 1,
+              "photo_filename": "pte-peac-antal-donat-gergo.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Korszunszkij Bohdan",
+          "jersey": null,
+          "minutes": 19,
+          "points": 6,
+          "reb": 1,
+          "ast": 1,
+          "photo_filename": "pte-peac-korszunszkij-bohdan.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Ravasz Márk",
+              "jersey": 21,
+              "minutes": 24,
+              "count": 2,
+              "photo_filename": "pte-peac-ravasz-mark.jpg"
+            },
+            {
+              "name": "Csizmadia Attila",
+              "jersey": 34,
+              "minutes": 23,
+              "count": 2,
+              "photo_filename": "pte-peac-csizmadia-attila.jpg"
+            },
+            {
+              "name": "Schuj Márton János",
+              "jersey": null,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "pte-peac-schuj-marton-janos.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Teszárik Márton",
+          "jersey": null,
+          "minutes": 30,
+          "points": 9,
+          "reb": 7,
+          "ast": 9,
+          "photo_filename": "pte-peac-teszarik-marton.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Gurzó Róbert",
+              "jersey": null,
+              "minutes": 10,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
+        },
+        {
+          "name": "Zalay Zsombor",
+          "jersey": null,
+          "minutes": 18,
+          "points": 1,
+          "reb": 0,
+          "ast": 2,
+          "photo_filename": "pte-peac-zalay-zsombor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Füzesi András",
+              "jersey": null,
+              "minutes": 7,
+              "count": 3,
+              "photo_filename": "pte-peac-fuzesi-andras.jpg"
+            },
+            {
+              "name": "Zalay Botond",
+              "jersey": null,
+              "minutes": 15,
+              "count": 2,
+              "photo_filename": "pte-peac-zalay-botond.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136201",
       "comp_code": "hun2b",

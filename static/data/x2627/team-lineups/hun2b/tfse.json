@@ -1,8 +1,166 @@
 {
   "team": "TFSE",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2b_136213",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-20",
+      "opponent": "PTE-PEAC",
+      "home": true,
+      "result": "W",
+      "our_score": 98,
+      "their_score": 65,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Körömi László",
+          "jersey": 15,
+          "minutes": 18,
+          "points": 6,
+          "reb": 4,
+          "ast": 0,
+          "photo_filename": "tfse-koromi-laszlo.jpg",
+          "position": "5",
+          "subs": [
+            {
+              "name": "Keresztesi Dávid József",
+              "jersey": 1,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "tfse-keresztesi-david-jozsef.jpg"
+            },
+            {
+              "name": "Vígh Marcell Péter",
+              "jersey": 4,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tfse-vigh-marcell-peter.jpg"
+            },
+            {
+              "name": "Pozsik Zsombor",
+              "jersey": 25,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "tfse-pozsik-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pozsik Zsombor",
+          "jersey": 25,
+          "minutes": 22,
+          "points": 6,
+          "reb": 5,
+          "ast": 3,
+          "photo_filename": "tfse-pozsik-zsombor.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Alcser Dániel Balázs",
+              "jersey": 88,
+              "minutes": 17,
+              "count": 2,
+              "photo_filename": "tfse-alcser-daniel-balazs.jpg"
+            },
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 14,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tfse-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Keresztesi Dávid József",
+              "jersey": 1,
+              "minutes": 19,
+              "count": 1,
+              "photo_filename": "tfse-keresztesi-david-jozsef.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Szalontai Máté",
+          "jersey": 5,
+          "minutes": 17,
+          "points": 8,
+          "reb": 4,
+          "ast": 1,
+          "photo_filename": "tfse-szalontai-mate.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Blaskovits Márk Mihály",
+              "jersey": 12,
+              "minutes": 18,
+              "count": 2,
+              "photo_filename": "tfse-blaskovits-mark-mihaly.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vámos László",
+          "jersey": 22,
+          "minutes": 19,
+          "points": 10,
+          "reb": 3,
+          "ast": 0,
+          "photo_filename": "tfse-vamos-laszlo.jpg",
+          "position": "2-3",
+          "subs": [
+            {
+              "name": "Nagy Kevin Krisztián",
+              "jersey": 14,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "tfse-nagy-kevin-krisztian.jpg"
+            },
+            {
+              "name": "Pozsik Zsombor",
+              "jersey": 25,
+              "minutes": 22,
+              "count": 1,
+              "photo_filename": "tfse-pozsik-zsombor.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vígh Marcell Péter",
+          "jersey": 4,
+          "minutes": 24,
+          "points": 10,
+          "reb": 9,
+          "ast": 7,
+          "photo_filename": "tfse-vigh-marcell-peter.jpg",
+          "position": "4",
+          "subs": [
+            {
+              "name": "Körömi László",
+              "jersey": 15,
+              "minutes": 18,
+              "count": 1,
+              "photo_filename": "tfse-koromi-laszlo.jpg"
+            },
+            {
+              "name": "Alcser Dániel Balázs",
+              "jersey": 88,
+              "minutes": 17,
+              "count": 1,
+              "photo_filename": "tfse-alcser-daniel-balazs.jpg"
+            },
+            {
+              "name": "Garancz Milán",
+              "jersey": 11,
+              "minutes": 16,
+              "count": 1,
+              "photo_filename": "tfse-garancz-milan.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136197",
       "comp_code": "hun2b",

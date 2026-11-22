@@ -1,8 +1,1150 @@
 {
   "team": "PTE-PEAC",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2b_136213",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-20",
+      "opponent": "TFSE",
+      "home": false,
+      "result": "L",
+      "our_score": 65,
+      "their_score": 98,
+      "has_pbp": true,
+      "starters": [
+        "Csizmadia Attila",
+        "Gy?r Bálint Gergely",
+        "Korszunszkij Bohdan",
+        "Teszárik Márton",
+        "Zalay Zsombor"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Gy?r Bálint Gergely",
+            "Korszunszkij Bohdan",
+            "Teszárik Márton",
+            "Zalay Zsombor"
+          ],
+          "min": 7.0,
+          "pf": 6,
+          "pa": 17,
+          "poss": 14.64,
+          "oposs": 14.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              2,
+              5,
+              2.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              6.0,
+              4,
+              12,
+              11.64,
+              11.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Schuj Márton János",
+            "Teszárik Márton",
+            "Zalay Zsombor"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 19,
+          "poss": 9.64,
+          "oposs": 10.4,
+          "is_starter": false,
+          "opp": [
+            [
+              1.0,
+              4,
+              4,
+              1.88,
+              2.32
+            ],
+            [
+              3.0,
+              2,
+              11,
+              5.44,
+              6.32
+            ],
+            [
+              1.0,
+              5,
+              4,
+              2.32,
+              1.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gy?r Bálint Gergely",
+            "Ravasz Márk",
+            "Schuj Márton János",
+            "Teszárik Márton",
+            "Zalay Botond"
+          ],
+          "min": 4.0,
+          "pf": 6,
+          "pa": 3,
+          "poss": 6.0,
+          "oposs": 5.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              1,
+              1.0,
+              0.88
+            ],
+            [
+              3.0,
+              6,
+              2,
+              5.0,
+              4.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Korszunszkij Bohdan",
+            "Schuj Márton János",
+            "Teszárik Márton",
+            "Zalay Zsombor"
+          ],
+          "min": 3.0,
+          "pf": 2,
+          "pa": 3,
+          "poss": 2.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              3,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              1.0,
+              1.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Ravasz Márk",
+            "Schuj Márton János",
+            "Teszárik Márton",
+            "Zalay Botond"
+          ],
+          "min": 3.0,
+          "pf": 10,
+          "pa": 7,
+          "poss": 7.0,
+          "oposs": 7.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              10,
+              3,
+              5.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              4,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Füzesi András",
+            "Gurzó Róbert",
+            "Ravasz Márk",
+            "Sáfrán Botond"
+          ],
+          "min": 3.0,
+          "pf": 3,
+          "pa": 9,
+          "poss": 5.0,
+          "oposs": 6.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              3,
+              9,
+              5.0,
+              6.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antal Donát Gerg?",
+            "Füzesi András",
+            "Gurzó Róbert",
+            "Gy?r Bálint Gergely",
+            "Sáfrán Botond"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 3,
+          "poss": 10.32,
+          "oposs": 9.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              0,
+              4.32,
+              3.0
+            ],
+            [
+              2.0,
+              0,
+              3,
+              6.0,
+              6.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gy?r Bálint Gergely",
+            "Schuj Márton János",
+            "Sáfrán Botond",
+            "Teszárik Márton",
+            "Zalay Botond"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 6,
+          "poss": 6.0,
+          "oposs": 5.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              7,
+              6,
+              6.0,
+              5.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Teszárik Márton",
+            "Zalay Botond"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 2.44,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              0,
+              2.44,
+              2.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antal Donát Gerg?",
+            "Ravasz Márk",
+            "Schuj Márton János",
+            "Teszárik Márton",
+            "Zalay Zsombor"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 1,
+          "poss": 2.0,
+          "oposs": 1.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              0,
+              1,
+              2.0,
+              1.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Gurzó Róbert",
+            "Ravasz Márk",
+            "Schuj Márton János",
+            "Zalay Botond"
+          ],
+          "min": 2.0,
+          "pf": 0,
+          "pa": 6,
+          "poss": 2.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              2.0,
+              0,
+              6,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Ravasz Márk",
+            "Schuj Márton János",
+            "Teszárik Márton",
+            "Zalay Zsombor"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 5,
+          "poss": 2.0,
+          "oposs": 2.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              5,
+              2.0,
+              2.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Korszunszkij Bohdan",
+            "Schuj Márton János",
+            "Teszárik Márton",
+            "Zalay Botond"
+          ],
+          "min": 1.0,
+          "pf": 7,
+          "pa": 7,
+          "poss": 4.88,
+          "oposs": 4.32,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              2,
+              3.0,
+              2.44
+            ],
+            [
+              1.0,
+              4,
+              5,
+              1.88,
+              1.88
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Füzesi András",
+            "Gurzó Róbert",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Schuj Márton János"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 3.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              1.0,
+              2,
+              0,
+              3.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Gurzó Róbert",
+            "Ravasz Márk",
+            "Sáfrán Botond",
+            "Zalay Botond"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 3.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              1.0,
+              0,
+              2,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Füzesi András",
+            "Korszunszkij Bohdan",
+            "Ravasz Márk",
+            "Schuj Márton János",
+            "Teszárik Márton"
+          ],
+          "min": 0.0,
+          "pf": 19,
+          "pa": 2,
+          "poss": 2.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              19,
+              2,
+              2.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Antal Donát Gerg?",
+            "Ravasz Márk",
+            "Schuj Márton János",
+            "Teszárik Márton",
+            "Zalay Botond"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 5,
+          "poss": 1.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              3,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Füzesi András",
+            "Gurzó Róbert",
+            "Ravasz Márk",
+            "Schuj Márton János"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "poss": 1.0,
+          "oposs": 0.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              1,
+              1.0,
+              0.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Csizmadia Attila",
+            "Gurzó Róbert",
+            "Ravasz Márk",
+            "Sáfrán Botond",
+            "Zalay Zsombor"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 1.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              2,
+              0.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136201",
       "comp_code": "hun2b",

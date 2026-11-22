@@ -1,7 +1,7 @@
 {
   "team": "NEOsport Kozármisleny SE",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2b_136109",
@@ -197,6 +197,34 @@
         "fta": 13,
         "oreb": 8,
         "tov_total": 12
+      }
+    },
+    {
+      "gamecode": "hun2b_136211",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-20",
+      "opponent": "GYKC UNI Győr",
+      "home": false,
+      "result": "L",
+      "our_score": 78,
+      "their_score": 86,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 18,
+        "mid_m": 2,
+        "three_m": 9,
+        "dunk_m": 0,
+        "ft": 8,
+        "close_x": 5,
+        "mid_x": 4,
+        "three_x": 12,
+        "dunk_x": 0,
+        "tov": 17,
+        "fga": 58,
+        "fta": 15,
+        "oreb": 8,
+        "tov_total": 17
       }
     }
   ]

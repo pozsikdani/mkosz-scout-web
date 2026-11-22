@@ -1,7 +1,7 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
     {
       "gamecode": "hun2a_135739",
@@ -226,6 +226,19 @@
         "oreb": 14,
         "tov_total": 15
       }
+    },
+    {
+      "gamecode": "hun2a_135859",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "W",
+      "our_score": 82,
+      "their_score": 79,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

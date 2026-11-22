@@ -243,10 +243,27 @@
       "time": "19:00",
       "home": false,
       "opponent": "GYKC UNI Győr",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 78,
+      "their_score": 86,
+      "result": "L",
+      "quarter_scores": [
+        {
+          "our": 13,
+          "their": 19
+        },
+        {
+          "our": 21,
+          "their": 16
+        },
+        {
+          "our": 24,
+          "their": 31
+        },
+        {
+          "our": 20,
+          "their": 20
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

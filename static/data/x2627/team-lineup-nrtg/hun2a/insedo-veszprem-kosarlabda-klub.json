@@ -1,8 +1,88 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2a_135859",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "W",
+      "our_score": 82,
+      "their_score": 79,
+      "has_pbp": true,
+      "starters": [
+        "Bonifert Bendegúz",
+        "Illés Máté Csongor",
+        "Kass Balázs",
+        "Milosevic Nemanja",
+        "Varga Ádám Dániel"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bonifert Bendegúz",
+            "Illés Máté Csongor",
+            "Kass Balázs",
+            "Milosevic Nemanja",
+            "Varga Ádám Dániel"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135843",
       "comp_code": "hun2a",

@@ -1,8 +1,77 @@
 {
   "team": "Peka Bau-MEAFC Wolves",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135859",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "INSEDO VESZPRÉM KOSÁRLABDA KLUB",
+      "home": true,
+      "result": "L",
+      "our_score": 79,
+      "their_score": 82,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Dunai Zétény Péter",
+          "jersey": 10,
+          "minutes": 0,
+          "points": 4,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "peka-bau-meafc-wolves-dunai-zeteny-peter.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Kékesi Kolos",
+          "jersey": 17,
+          "minutes": 0,
+          "points": 16,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "peka-bau-meafc-wolves-kekesi-kolos.jpg",
+          "position": "2-1",
+          "subs": []
+        },
+        {
+          "name": "Ragályi Levente Gergely",
+          "jersey": 77,
+          "minutes": 0,
+          "points": 2,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "peka-bau-meafc-wolves-ragalyi-levente-gergely.jpg",
+          "position": "5-4",
+          "subs": []
+        },
+        {
+          "name": "Velkey János",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 15,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "peka-bau-meafc-wolves-velkey-janos.jpg",
+          "position": "3-2",
+          "subs": []
+        },
+        {
+          "name": "Árva-File Balázs",
+          "jersey": 8,
+          "minutes": 0,
+          "points": 11,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "peka-bau-meafc-wolves-arva-file-balazs.jpg",
+          "position": "4-3",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135845",
       "comp_code": "hun2a",

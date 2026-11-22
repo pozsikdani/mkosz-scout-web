@@ -1,8 +1,77 @@
 {
   "team": "Insedo Veszprém Kosárlabda Klub",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2a_135859",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "PEKA BAU-MEAFC WOLVES",
+      "home": false,
+      "result": "W",
+      "our_score": 82,
+      "their_score": 79,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bonifert Bendegúz",
+          "jersey": 33,
+          "minutes": 0,
+          "points": 2,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-bonifert-bendeguz.jpg",
+          "position": "3-4",
+          "subs": []
+        },
+        {
+          "name": "Illés Máté Csongor",
+          "jersey": 71,
+          "minutes": 0,
+          "points": 24,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-illes-mate-csongor.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Kass Balázs",
+          "jersey": 17,
+          "minutes": 0,
+          "points": 3,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-kass-balazs.jpg",
+          "position": "2-3",
+          "subs": []
+        },
+        {
+          "name": "Milosevic Nemanja",
+          "jersey": 23,
+          "minutes": 0,
+          "points": 31,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-milosevic-nemanja.jpg",
+          "position": "4-5",
+          "subs": []
+        },
+        {
+          "name": "Varga Ádám Dániel",
+          "jersey": 88,
+          "minutes": 0,
+          "points": 8,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "insedo-veszprem-kosarlabda-klub-varga-adam-daniel.jpg",
+          "position": "2-3",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135843",
       "comp_code": "hun2a",
