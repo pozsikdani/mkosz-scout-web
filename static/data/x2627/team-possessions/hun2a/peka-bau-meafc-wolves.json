@@ -209,8 +209,23 @@
       "result": "L",
       "our_score": 79,
       "their_score": 82,
-      "has_pbp": false,
-      "counts": null
+      "has_pbp": true,
+      "counts": {
+        "close_m": 25,
+        "mid_m": 1,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 11,
+        "close_x": 16,
+        "mid_x": 1,
+        "three_x": 13,
+        "dunk_x": 0,
+        "tov": 13,
+        "fga": 70,
+        "fta": 22,
+        "oreb": 9,
+        "tov_total": 13
+      }
     }
   ]
 }

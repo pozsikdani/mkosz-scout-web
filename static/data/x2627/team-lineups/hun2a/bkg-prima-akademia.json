@@ -1,8 +1,77 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135847",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 63,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Galambos Árpád",
+          "jersey": 7,
+          "minutes": 0,
+          "points": 5,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-galambos-arpad.jpg",
+          "position": "4",
+          "subs": []
+        },
+        {
+          "name": "Kovács Leonárd",
+          "jersey": 16,
+          "minutes": 0,
+          "points": 2,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-kovacs-leonard.jpg",
+          "position": "3-4",
+          "subs": []
+        },
+        {
+          "name": "Nagy Benedek Ágost",
+          "jersey": 9,
+          "minutes": 0,
+          "points": 9,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-nagy-benedek-agost.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Nagy Botond Ágoston",
+          "jersey": 14,
+          "minutes": 0,
+          "points": 26,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-nagy-botond-agoston.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Reiber Dean Thomas",
+          "jersey": 5,
+          "minutes": 0,
+          "points": 25,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "bkg-prima-akademia-reiber-dean-thomas.jpg",
+          "position": "4-5",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135819",
       "comp_code": "hun2a",

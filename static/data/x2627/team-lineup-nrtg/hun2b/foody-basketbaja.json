@@ -1,8 +1,855 @@
 {
   "team": "Foody-BasketBaja",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2b_136221",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "Budapesti Bikák",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 71,
+      "has_pbp": true,
+      "starters": [
+        "Goldring József Bence",
+        "Hódos Patrik",
+        "Lakatos Máté",
+        "Orgona Gerg? Milán",
+        "Szugyiczki Máté"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Szugyiczki Máté"
+          ],
+          "min": 12.0,
+          "pf": 21,
+          "pa": 18,
+          "poss": 18.76,
+          "oposs": 18.64,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              4,
+              3,
+              3.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              4.0,
+              4,
+              4,
+              5.76,
+              5.88
+            ],
+            [
+              6.0,
+              13,
+              11,
+              10.0,
+              9.76
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Szugyiczki Máté"
+          ],
+          "min": 6.0,
+          "pf": 5,
+          "pa": 9,
+          "poss": 9.32,
+          "oposs": 8.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              4,
+              2,
+              4.0,
+              4.0
+            ],
+            [
+              3.0,
+              0,
+              7,
+              5.0,
+              4.76
+            ],
+            [
+              0.0,
+              1,
+              0,
+              0.32,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Cseresznyés Csoma",
+            "Goldring József Bence",
+            "Simon Dávid",
+            "Szugyiczki Máté"
+          ],
+          "min": 5.0,
+          "pf": 11,
+          "pa": 5,
+          "poss": 9.76,
+          "oposs": 9.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.0,
+              2.0
+            ],
+            [
+              4.0,
+              11,
+              5,
+              8.76,
+              7.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Orgona Gerg? Milán",
+            "Szugyiczki Máté"
+          ],
+          "min": 4.0,
+          "pf": 9,
+          "pa": 4,
+          "poss": 9.0,
+          "oposs": 9.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              2.0,
+              2.0
+            ],
+            [
+              4.0,
+              7,
+              4,
+              7.0,
+              7.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Orgona Gerg? Milán",
+            "Simon Dávid"
+          ],
+          "min": 3.0,
+          "pf": 5,
+          "pa": 7,
+          "poss": 5.0,
+          "oposs": 6.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              5,
+              7,
+              5.0,
+              6.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Simon Dávid"
+          ],
+          "min": 3.0,
+          "pf": 7,
+          "pa": 9,
+          "poss": 4.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              7,
+              9,
+              4.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Cseresznyés Csoma",
+            "Lakatos Máté",
+            "Simon Dávid",
+            "Szugyiczki Máté"
+          ],
+          "min": 2.0,
+          "pf": 2,
+          "pa": 7,
+          "poss": 3.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              2,
+              7,
+              3.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Simon Dávid",
+            "Szugyiczki Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Simon Dávid",
+            "Szugyiczki Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 2.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              3,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cseresznyés Csoma",
+            "Goldring József Bence",
+            "Lakatos Máté",
+            "Simon Dávid",
+            "Szugyiczki Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 4,
+          "poss": 2.0,
+          "oposs": 1.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              4,
+              2.0,
+              1.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Cseresznyés Csoma",
+            "Goldring József Bence",
+            "Lakatos Máté",
+            "Szugyiczki Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 3,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              3,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Cseresznyés Csoma",
+            "Goldring József Bence",
+            "Orgona Gerg? Milán",
+            "Szugyiczki Máté"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Goldring József Bence",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Szugyiczki Máté"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 1,
+          "poss": 1.0,
+          "oposs": 1.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              1,
+              1.0,
+              1.44
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bán Tibor",
+            "Hódos Patrik",
+            "Lakatos Máté",
+            "Orgona Gerg? Milán",
+            "Simon Dávid"
+          ],
+          "min": 0.0,
+          "pf": 3,
+          "pa": 1,
+          "poss": 1.0,
+          "oposs": 0.88,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              3,
+              1,
+              1.0,
+              0.88
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136209",
       "comp_code": "hun2b",

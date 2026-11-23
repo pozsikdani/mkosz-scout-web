@@ -1,8 +1,88 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135847",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 84,
+      "has_pbp": true,
+      "starters": [
+        "Cserényi Marcell",
+        "Fekete Viktor Norbert",
+        "Kámán Bálint",
+        "Mucza Tamás",
+        "Nagy Ádám Béla"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Cserényi Marcell",
+            "Fekete Viktor Norbert",
+            "Kámán Bálint",
+            "Mucza Tamás",
+            "Nagy Ádám Béla"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135835",
       "comp_code": "hun2a",

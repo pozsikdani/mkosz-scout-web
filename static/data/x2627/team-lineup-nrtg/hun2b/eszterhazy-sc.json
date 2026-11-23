@@ -1,8 +1,737 @@
 {
   "team": "Eszterházy SC",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2b_136219",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "BUDAFOK",
+      "home": true,
+      "result": "W",
+      "our_score": 77,
+      "their_score": 58,
+      "has_pbp": true,
+      "starters": [
+        "Cvijin Patrik",
+        "Gazibegovic Vanja",
+        "Kerekes Hunor Ákos",
+        "Kiss Kolos",
+        "Német Ákos"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos"
+          ],
+          "min": 18.0,
+          "pf": 32,
+          "pa": 31,
+          "poss": 32.2,
+          "oposs": 29.76,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              6.0,
+              15,
+              8,
+              10.88,
+              12.0
+            ],
+            [
+              12.0,
+              14,
+              21,
+              19.88,
+              16.76
+            ],
+            [
+              0.0,
+              3,
+              2,
+              1.44,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos",
+            "Német Ákos"
+          ],
+          "min": 11.0,
+          "pf": 11,
+          "pa": 15,
+          "poss": 16.44,
+          "oposs": 18.76,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              0,
+              2,
+              3.0,
+              6.0
+            ],
+            [
+              5.0,
+              6,
+              9,
+              8.44,
+              8.76
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              3.0,
+              5,
+              4,
+              5.0,
+              4.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gazibegovic Vanja",
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 2.0,
+          "pf": 6,
+          "pa": 3,
+          "poss": 4.0,
+          "oposs": 5.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              6,
+              3,
+              4.0,
+              5.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Szicsák Bence"
+          ],
+          "min": 2.0,
+          "pf": 5,
+          "pa": 6,
+          "poss": 6.0,
+          "oposs": 6.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              3,
+              4,
+              4.0,
+              3.0
+            ],
+            [
+              1.0,
+              2,
+              2,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kerekes Hunor Ákos",
+            "Német Ákos",
+            "Vágner Áron"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 0,
+          "poss": 5.0,
+          "oposs": 4.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              2.0,
+              7,
+              0,
+              5.0,
+              4.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos"
+          ],
+          "min": 2.0,
+          "pf": 7,
+          "pa": 1,
+          "poss": 7.0,
+          "oposs": 4.44,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              1,
+              4.0,
+              2.44
+            ],
+            [
+              1.0,
+              5,
+              0,
+              3.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Gazibegovic Vanja",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Szicsák Bence"
+          ],
+          "min": 1.0,
+          "pf": 5,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              5,
+              0,
+              2.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Gazibegovic Vanja",
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos",
+            "Német Ákos",
+            "Vágner Áron"
+          ],
+          "min": 1.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 2.0,
+          "oposs": 3.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              2,
+              0,
+              2.0,
+              3.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Cvijin Patrik",
+            "Kerekes Hunor Ákos",
+            "Német Ákos",
+            "Vágner Áron"
+          ],
+          "min": 1.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 1.44,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              1.0,
+              0,
+              0,
+              1.44,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Cvijin Patrik",
+            "Kerekes Hunor Ákos",
+            "Kiss Kolos",
+            "Német Ákos"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Német Ákos",
+            "Vágner Áron"
+          ],
+          "min": 0.0,
+          "pf": 2,
+          "pa": 0,
+          "poss": 1.0,
+          "oposs": 1.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              2,
+              0,
+              1.0,
+              1.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "players": [
+            "Bolla Norbert Tamás",
+            "Cvijin Patrik",
+            "Gazibegovic Vanja",
+            "Kerekes Hunor Ákos",
+            "Vágner Áron"
+          ],
+          "min": 0.0,
+          "pf": 0,
+          "pa": 2,
+          "poss": 0.0,
+          "oposs": 2.0,
+          "is_starter": false,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              2,
+              0.0,
+              2.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136203",
       "comp_code": "hun2b",

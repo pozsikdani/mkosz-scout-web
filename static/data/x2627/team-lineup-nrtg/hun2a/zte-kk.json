@@ -1,8 +1,88 @@
 {
   "team": "ZTE KK",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2a_135853",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 83,
+      "their_score": 69,
+      "has_pbp": true,
+      "starters": [
+        "Cardet Jr Wesley Elijah",
+        "Kis Attila Raul",
+        "Pongó Máté",
+        "Szalay Domonkos",
+        "Tóth Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Cardet Jr Wesley Elijah",
+            "Kis Attila Raul",
+            "Pongó Máté",
+            "Szalay Domonkos",
+            "Tóth Ádám"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135841",
       "comp_code": "hun2a",

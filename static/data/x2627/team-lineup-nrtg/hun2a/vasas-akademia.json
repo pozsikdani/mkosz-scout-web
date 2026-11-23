@@ -1,8 +1,88 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135851",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": true,
+      "result": "W",
+      "our_score": 78,
+      "their_score": 68,
+      "has_pbp": true,
+      "starters": [
+        "Gáspár Mátyás",
+        "Heimann Gergő",
+        "Homoki Donát László",
+        "Plézer Gábor",
+        "Zöldi Péter András"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Gáspár Mátyás",
+            "Heimann Gergő",
+            "Homoki Donát László",
+            "Plézer Gábor",
+            "Zöldi Péter András"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135835",
       "comp_code": "hun2a",

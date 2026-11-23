@@ -1,8 +1,77 @@
 {
   "team": "Vasas Akadémia",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135851",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "HÜBNER NYÍREGYHÁZA BS",
+      "home": true,
+      "result": "W",
+      "our_score": 78,
+      "their_score": 68,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Gáspár Mátyás",
+          "jersey": 17,
+          "minutes": 0,
+          "points": 19,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-gaspar-matyas.jpg",
+          "position": "4-5",
+          "subs": []
+        },
+        {
+          "name": "Heimann Gergő",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 13,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-heimann-gergo.jpg",
+          "position": "1-2",
+          "subs": []
+        },
+        {
+          "name": "Homoki Donát László",
+          "jersey": 4,
+          "minutes": 0,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-homoki-donat-laszlo.jpg",
+          "position": "4-5",
+          "subs": []
+        },
+        {
+          "name": "Plézer Gábor",
+          "jersey": 8,
+          "minutes": 0,
+          "points": 17,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-plezer-gabor.jpg",
+          "position": "3",
+          "subs": []
+        },
+        {
+          "name": "Zöldi Péter András",
+          "jersey": 1,
+          "minutes": 0,
+          "points": 6,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "vasas-akademia-zoldi-peter-andras.jpg",
+          "position": "1-2",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135835",
       "comp_code": "hun2a",

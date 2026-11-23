@@ -1,8 +1,88 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135847",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 63,
+      "has_pbp": true,
+      "starters": [
+        "Galambos Árpád",
+        "Kovács Leonárd",
+        "Nagy Benedek Ágost",
+        "Nagy Botond Ágoston",
+        "Reiber Dean Thomas"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Galambos Árpád",
+            "Kovács Leonárd",
+            "Nagy Benedek Ágost",
+            "Nagy Botond Ágoston",
+            "Reiber Dean Thomas"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135819",
       "comp_code": "hun2a",

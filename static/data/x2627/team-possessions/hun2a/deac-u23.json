@@ -1,7 +1,7 @@
 {
   "team": "DEAC U23",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2a_135745",
@@ -198,6 +198,19 @@
         "oreb": 21,
         "tov_total": 17
       }
+    },
+    {
+      "gamecode": "hun2a_135853",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "ZTE KK",
+      "home": true,
+      "result": "L",
+      "our_score": 69,
+      "their_score": 83,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

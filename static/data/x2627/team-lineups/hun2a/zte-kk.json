@@ -1,8 +1,76 @@
 {
   "team": "ZTE KK",
   "season": "x2627",
-  "match_count": 8,
+  "match_count": 9,
   "matches": [
+    {
+      "gamecode": "hun2a_135853",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "DEAC U23",
+      "home": false,
+      "result": "W",
+      "our_score": 83,
+      "their_score": 69,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Cardet Jr Wesley Elijah",
+          "jersey": 11,
+          "minutes": 0,
+          "points": 21,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "zte-kk-cardet-jr-wesley-elijah.jpg",
+          "position": "2-4",
+          "subs": []
+        },
+        {
+          "name": "Kis Attila Raul",
+          "jersey": 1,
+          "minutes": 0,
+          "points": 11,
+          "reb": 0,
+          "ast": 0,
+          "position": "3-4",
+          "subs": []
+        },
+        {
+          "name": "Pongó Máté",
+          "jersey": 22,
+          "minutes": 0,
+          "points": 9,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "zte-kk-pongo-mate.jpg",
+          "position": "1",
+          "subs": []
+        },
+        {
+          "name": "Szalay Domonkos",
+          "jersey": 2,
+          "minutes": 0,
+          "points": 8,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "zte-kk-szalay-domonkos.jpg",
+          "position": "2",
+          "subs": []
+        },
+        {
+          "name": "Tóth Ádám",
+          "jersey": 15,
+          "minutes": 0,
+          "points": 3,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "zte-kk-toth-adam.jpg",
+          "position": "5",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135841",
       "comp_code": "hun2a",
@@ -521,7 +589,7 @@
         },
         {
           "name": "Kis Attila Raul",
-          "jersey": null,
+          "jersey": 1,
           "minutes": 10,
           "points": 2,
           "reb": 4,

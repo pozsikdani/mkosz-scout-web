@@ -1,8 +1,88 @@
 {
   "team": "DEAC U23",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135853",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "ZTE KK",
+      "home": true,
+      "result": "L",
+      "our_score": 69,
+      "their_score": 83,
+      "has_pbp": true,
+      "starters": [
+        "Flasár Botond",
+        "Szász-veres Márk",
+        "Székely Bence",
+        "Varga Ferenc",
+        "Várszegi Ádám"
+      ],
+      "lineups": [
+        {
+          "players": [
+            "Flasár Botond",
+            "Szász-veres Márk",
+            "Székely Bence",
+            "Varga Ferenc",
+            "Várszegi Ádám"
+          ],
+          "min": 40.0,
+          "pf": 0,
+          "pa": 0,
+          "poss": 0.0,
+          "oposs": 0.0,
+          "is_starter": true,
+          "opp": [
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ],
+            [
+              40.0,
+              0,
+              0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135837",
       "comp_code": "hun2a",

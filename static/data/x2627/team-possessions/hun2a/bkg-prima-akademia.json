@@ -1,7 +1,7 @@
 {
   "team": "BKG PRIMA Akadémia",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2a_135735",
@@ -198,6 +198,19 @@
         "oreb": 10,
         "tov_total": 10
       }
+    },
+    {
+      "gamecode": "hun2a_135847",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "SALGÓTARJÁNI KSE",
+      "home": true,
+      "result": "W",
+      "our_score": 84,
+      "their_score": 63,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }

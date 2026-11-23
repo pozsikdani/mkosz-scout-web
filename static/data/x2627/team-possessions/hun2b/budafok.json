@@ -1,7 +1,7 @@
 {
   "team": "BUDAFOK",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2b_136101",
@@ -197,6 +197,34 @@
         "fta": 24,
         "oreb": 8,
         "tov_total": 22
+      }
+    },
+    {
+      "gamecode": "hun2b_136219",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-21",
+      "opponent": "Eszterházy SC",
+      "home": false,
+      "result": "L",
+      "our_score": 58,
+      "their_score": 77,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 14,
+        "mid_m": 3,
+        "three_m": 6,
+        "dunk_m": 0,
+        "ft": 5,
+        "close_x": 11,
+        "mid_x": 7,
+        "three_x": 18,
+        "dunk_x": 0,
+        "tov": 14,
+        "fga": 74,
+        "fta": 9,
+        "oreb": 15,
+        "tov_total": 14
       }
     }
   ]

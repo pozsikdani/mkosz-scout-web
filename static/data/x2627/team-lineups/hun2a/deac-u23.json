@@ -1,8 +1,77 @@
 {
   "team": "DEAC U23",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2a_135853",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "ZTE KK",
+      "home": true,
+      "result": "L",
+      "our_score": 69,
+      "their_score": 83,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Flasár Botond",
+          "jersey": 33,
+          "minutes": 0,
+          "points": 23,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-flasar-botond.jpg",
+          "position": "4-5",
+          "subs": []
+        },
+        {
+          "name": "Szász-Veres Márk",
+          "jersey": 24,
+          "minutes": 0,
+          "points": 5,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-szasz-veres-mark.jpg",
+          "position": "3-4",
+          "subs": []
+        },
+        {
+          "name": "Székely Bence",
+          "jersey": 39,
+          "minutes": 0,
+          "points": 4,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-szekely-bence.jpg",
+          "position": "2-3",
+          "subs": []
+        },
+        {
+          "name": "Varga Ferenc",
+          "jersey": 10,
+          "minutes": 0,
+          "points": 9,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-varga-ferenc.jpg",
+          "position": "1",
+          "subs": []
+        },
+        {
+          "name": "Várszegi Ádám",
+          "jersey": 13,
+          "minutes": 0,
+          "points": 7,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "deac-u23-varszegi-adam.jpg",
+          "position": "3",
+          "subs": []
+        }
+      ]
+    },
     {
       "gamecode": "hun2a_135837",
       "comp_code": "hun2a",

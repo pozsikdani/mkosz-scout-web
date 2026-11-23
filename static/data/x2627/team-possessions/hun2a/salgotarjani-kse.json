@@ -1,7 +1,7 @@
 {
   "team": "Salgótarjáni KSE",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2a_135745",
@@ -198,6 +198,19 @@
         "oreb": 9,
         "tov_total": 15
       }
+    },
+    {
+      "gamecode": "hun2a_135847",
+      "comp_code": "hun2a",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "BKG PRIMA AKADÉMIA",
+      "home": false,
+      "result": "L",
+      "our_score": 63,
+      "their_score": 84,
+      "has_pbp": false,
+      "counts": null
     }
   ]
 }
