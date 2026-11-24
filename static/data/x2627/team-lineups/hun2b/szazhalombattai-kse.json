@@ -1,8 +1,159 @@
 {
   "team": "Százhalombattai KSE",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
+    {
+      "gamecode": "hun2b_136215",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "Vásárhelyi Kosársuli",
+      "home": true,
+      "result": "W",
+      "our_score": 105,
+      "their_score": 90,
+      "has_subs": true,
+      "starters": [
+        {
+          "name": "Bagó Martin",
+          "jersey": 22,
+          "minutes": 21,
+          "points": 6,
+          "reb": 7,
+          "ast": 3,
+          "photo_filename": "szazhalombattai-kse-bago-martin.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Habel Andrich Clemens",
+              "jersey": 17,
+              "minutes": 11,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg"
+            },
+            {
+              "name": "Fazekas Máté",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-fazekas-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Barócsi Ádám",
+          "jersey": 11,
+          "minutes": 28,
+          "points": 25,
+          "reb": 7,
+          "ast": 1,
+          "photo_filename": "szazhalombattai-kse-barocsi-adam.jpg",
+          "position": "4-5",
+          "subs": [
+            {
+              "name": "Habel Andrich Clemens",
+              "jersey": 17,
+              "minutes": 11,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-habel-andrich-clemens.jpg"
+            },
+            {
+              "name": "Vincz Botond",
+              "jersey": 14,
+              "minutes": 13,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-vincz-botond.jpg"
+            },
+            {
+              "name": "Bagó Martin",
+              "jersey": 22,
+              "minutes": 21,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-bago-martin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Seregély Balázs",
+          "jersey": 10,
+          "minutes": 33,
+          "points": 11,
+          "reb": 5,
+          "ast": 6,
+          "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Vincz Botond",
+              "jersey": 14,
+              "minutes": 13,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-vincz-botond.jpg"
+            },
+            {
+              "name": "Fazekas Máté",
+              "jersey": 15,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-fazekas-mate.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Tóth Bence Miklós",
+          "jersey": 4,
+          "minutes": 24,
+          "points": 21,
+          "reb": 2,
+          "ast": 7,
+          "photo_filename": "szazhalombattai-kse-toth-bence-miklos.jpg",
+          "position": "1-2",
+          "subs": [
+            {
+              "name": "Tóth Balázs",
+              "jersey": 5,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-toth-balazs.jpg"
+            },
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": 7,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Vincz Botond",
+          "jersey": 14,
+          "minutes": 13,
+          "points": 0,
+          "reb": 0,
+          "ast": 0,
+          "photo_filename": "szazhalombattai-kse-vincz-botond.jpg",
+          "position": "3-4",
+          "subs": [
+            {
+              "name": "Seregély Balázs",
+              "jersey": 10,
+              "minutes": 33,
+              "count": 2,
+              "photo_filename": "szazhalombattai-kse-seregely-balazs.jpg"
+            },
+            {
+              "name": "Santiago Jordan Ismael",
+              "jersey": 7,
+              "minutes": 24,
+              "count": 1,
+              "photo_filename": "szazhalombattai-kse-santiago-jordan-ismael.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "gamecode": "hun2b_136199",
       "comp_code": "hun2b",

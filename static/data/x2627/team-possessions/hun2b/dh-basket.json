@@ -1,7 +1,7 @@
 {
   "team": "DH BASKET",
   "season": "x2627",
-  "match_count": 7,
+  "match_count": 8,
   "matches": [
     {
       "gamecode": "hun2b_136115",
@@ -197,6 +197,34 @@
         "fta": 29,
         "oreb": 18,
         "tov_total": 10
+      }
+    },
+    {
+      "gamecode": "hun2b_136223",
+      "comp_code": "hun2b",
+      "phase": "alapszakasz",
+      "date": "2026-11-22",
+      "opponent": "Békéscsabai KK",
+      "home": true,
+      "result": "W",
+      "our_score": 130,
+      "their_score": 56,
+      "has_pbp": true,
+      "counts": {
+        "close_m": 29,
+        "mid_m": 1,
+        "three_m": 15,
+        "dunk_m": 1,
+        "ft": 20,
+        "close_x": 6,
+        "mid_x": 0,
+        "three_x": 8,
+        "dunk_x": 0,
+        "tov": 9,
+        "fga": 69,
+        "fta": 27,
+        "oreb": 9,
+        "tov_total": 9
       }
     }
   ]

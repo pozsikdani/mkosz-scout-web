@@ -243,10 +243,27 @@
       "time": "15:00",
       "home": true,
       "opponent": "Békéscsabai KK",
-      "our_score": null,
-      "their_score": null,
-      "result": null,
-      "quarter_scores": null,
+      "our_score": 130,
+      "their_score": 56,
+      "result": "W",
+      "quarter_scores": [
+        {
+          "our": 37,
+          "their": 13
+        },
+        {
+          "our": 34,
+          "their": 11
+        },
+        {
+          "our": 30,
+          "their": 18
+        },
+        {
+          "our": 29,
+          "their": 14
+        }
+      ],
       "has_scoresheet": false,
       "has_pbp": true
     },

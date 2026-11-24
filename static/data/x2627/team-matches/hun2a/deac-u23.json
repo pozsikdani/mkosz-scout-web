@@ -250,7 +250,24 @@
       "our_score": 69,
       "their_score": 83,
       "result": "L",
-      "quarter_scores": null,
+      "quarter_scores": [
+        {
+          "our": 12,
+          "their": 25
+        },
+        {
+          "our": 20,
+          "their": 18
+        },
+        {
+          "our": 19,
+          "their": 21
+        },
+        {
+          "our": 18,
+          "their": 19
+        }
+      ],
       "has_scoresheet": true,
       "has_pbp": true
     },

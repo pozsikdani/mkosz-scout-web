@@ -18,57 +18,160 @@
         {
           "name": "Bazsó Brúnó Tamás",
           "jersey": 11,
-          "minutes": 0,
+          "minutes": 27,
           "points": 7,
-          "reb": 0,
-          "ast": 0,
+          "reb": 7,
+          "ast": 2,
           "photo_filename": "hubner-nyiregyhaza-bs-bazso-bruno-tamas.jpg",
           "position": "3-4",
-          "subs": []
+          "subs": [
+            {
+              "name": "Kopácsi Ákos",
+              "jersey": 8,
+              "minutes": 28,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg"
+            },
+            {
+              "name": "Hibján Máté",
+              "jersey": 17,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg"
+            },
+            {
+              "name": "Verebélyi Áron",
+              "jersey": 2,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg"
+            }
+          ]
         },
         {
           "name": "Kopácsi Ákos",
           "jersey": 8,
-          "minutes": 0,
+          "minutes": 28,
           "points": 8,
-          "reb": 0,
-          "ast": 0,
+          "reb": 1,
+          "ast": 4,
           "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg",
           "position": "1-2",
-          "subs": []
+          "subs": [
+            {
+              "name": "Végső Bálint",
+              "jersey": 9,
+              "minutes": 32,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg"
+            },
+            {
+              "name": "Goór Dániel",
+              "jersey": 10,
+              "minutes": 14,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-goor-daniel.jpg"
+            },
+            {
+              "name": "Hibján Máté",
+              "jersey": 17,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg"
+            }
+          ]
         },
         {
           "name": "Tóth Patrik Kristóf",
           "jersey": 6,
-          "minutes": 0,
+          "minutes": 26,
           "points": 5,
-          "reb": 0,
+          "reb": 8,
           "ast": 0,
           "photo_filename": "hubner-nyiregyhaza-bs-toth-patrik-kristof.jpg",
           "position": "4-5",
-          "subs": []
+          "subs": [
+            {
+              "name": "Orosi Bálint Gábor",
+              "jersey": 7,
+              "minutes": 13,
+              "count": 3,
+              "photo_filename": "hubner-nyiregyhaza-bs-orosi-balint-gabor.jpg"
+            },
+            {
+              "name": "Verebélyi Áron",
+              "jersey": 2,
+              "minutes": 20,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg"
+            },
+            {
+              "name": "Vascsák Noel",
+              "jersey": 35,
+              "minutes": 0,
+              "count": 1,
+              "photo_filename": null
+            }
+          ]
         },
         {
           "name": "Verebélyi Áron",
           "jersey": 2,
-          "minutes": 0,
+          "minutes": 20,
           "points": 2,
-          "reb": 0,
+          "reb": 4,
           "ast": 0,
           "photo_filename": "hubner-nyiregyhaza-bs-verebelyi-aron.jpg",
           "position": "1-2-3",
-          "subs": []
+          "subs": [
+            {
+              "name": "Richter Dániel",
+              "jersey": 45,
+              "minutes": 7,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-richter-daniel.jpg"
+            },
+            {
+              "name": "Goór Dániel",
+              "jersey": 10,
+              "minutes": 14,
+              "count": 2,
+              "photo_filename": "hubner-nyiregyhaza-bs-goor-daniel.jpg"
+            }
+          ]
         },
         {
           "name": "Végső Bálint",
           "jersey": 9,
-          "minutes": 0,
+          "minutes": 32,
           "points": 19,
-          "reb": 0,
-          "ast": 0,
+          "reb": 4,
+          "ast": 2,
           "photo_filename": "hubner-nyiregyhaza-bs-vegso-balint.jpg",
           "position": "1-2",
-          "subs": []
+          "subs": [
+            {
+              "name": "Bazsó Brúnó Tamás",
+              "jersey": 11,
+              "minutes": 27,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-bazso-bruno-tamas.jpg"
+            },
+            {
+              "name": "Hibján Máté",
+              "jersey": 17,
+              "minutes": 23,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-hibjan-mate.jpg"
+            },
+            {
+              "name": "Kristóf Péter Kristóf",
+              "jersey": 5,
+              "minutes": 9,
+              "count": 1,
+              "photo_filename": "hubner-nyiregyhaza-bs-kristof-peter-kristof.jpg"
+            }
+          ]
         }
       ]
     },
@@ -779,7 +882,7 @@
           "name": "Kopácsi Ákos",
           "jersey": 8,
           "minutes": 29,
-          "points": 14,
+          "points": 12,
           "reb": 1,
           "ast": 2,
           "photo_filename": "hubner-nyiregyhaza-bs-kopacsi-akos.jpg",
