@@ -1,7 +1,7 @@
 {
   "season": "x2627",
   "comp": "hun2b",
-  "scraped_at": "2026-11-26T17:51:48+00:00",
+  "scraped_at": "2026-11-27T17:36:54+00:00",
   "team_count": 13,
   "player_count": 211,
   "photo_count": 201,
@@ -761,15 +761,6 @@
       "team_url": "https://mkosz.hu/csapat/x2627/hun2b/40011/gykc-uni-gyor",
       "players": [
         {
-          "name": "Köcse Bálint",
-          "jersey": null,
-          "position": "4-5",
-          "height_cm": 194,
-          "birth_year": 2003,
-          "photo_url": "https://15th.webpont.com/art/player/photo/A820226.png",
-          "photo_filename": "gykc-uni-gyor-kocse-balint.jpg"
-        },
-        {
           "name": "Dani Balázs Dominik",
           "jersey": 1,
           "position": "1",
@@ -885,6 +876,15 @@
           "birth_year": 2007,
           "photo_url": "https://15th.webpont.com/art/player/photo/A842453.png",
           "photo_filename": "gykc-uni-gyor-csicsely-marton.jpg"
+        },
+        {
+          "name": "Köcse Bálint",
+          "jersey": 26,
+          "position": "4-5",
+          "height_cm": 194,
+          "birth_year": 2003,
+          "photo_url": "https://15th.webpont.com/art/player/photo/A820226.png",
+          "photo_filename": "gykc-uni-gyor-kocse-balint.jpg"
         },
         {
           "name": "Gombos Bálint Zalán",
